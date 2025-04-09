@@ -1,0 +1,22 @@
+[
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/06.jpg-1539.4840000000002_990.0_3199.5299999999997_1733.9999999999998.jpg",
+        "gt": "\\hat{A}=\\left(\\begin{array}{cccccc}0      & a_{12} & a_{13} & \\ldots & a_{1n}  & a_{1\\,n+1} 0      &  0     & a_{23} & \\ldots & a_{2n}  & a_{2\\,n+1} \\ldots & \\ldots & \\ldots & \\ldots & \\ldots  &  \\ldots    a_{k1} &   0    &  0     & \\ldots & a_{kn}  & a_{k\\,n+1} \\ldots & \\ldots & \\ldots & \\ldots & \\ldots  &  \\ldots    0      &   0    &  0     & \\ldots &    0    &  a_{n\\,n+1}0      &   0    &  0     & \\ldots &    0    &      0     \\end{array}\\right).",
+        "pred": "\\hat{A}=\\left(\\begin{array}{ccccccc}0 & a_{12} & a_{13} & \\ldots & a_{1n} & a_{1\\,n+1}0 & 0 & a_{23} & \\ldots & a_{2n} & a_{2\\,n+1}\\ldots & \\ldots & \\ldots & \\ldots & \\ldots & \\ldotsa_{k1} & 0 & 0 & \\ldots & a_{kn} & a_{k\\,n+1}\\ldots & \\ldots & \\ldots &\\ldots & \\ldots & \\ldots0 & 0 & 0 & \\ldots & 0 & a_{n\\,n+1}0 & 0 & 0 & \\ldots & 0 & 0\\end{array}\\right)\\,."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/19.jpg-996.4_2184.0_3252.08_2484.0.jpg",
+        "gt": "\\begin{align*}\\texttt{Fp[m]}&= F^{(m)}(p)+\\Turing(\\widetilde{\\varepsilon_5}(m)),\\qquad 0\\le m\\le 3L-3,\\texttt{d[k,j]}&=d^{(k)}_j+\\Turing(\\gamma_{k,j}), \\qquad 0\\le k\\leL-1,\\quad 0\\le j\\le 3k/2,\\end{align*}",
+        "pred": "\\begin{align*}\\begin{split}\\mathrm{Fp}\\left[\\mathrm{m}\\right] &= F^{(m)}(p)+\\mathcal{O}^*(\\tilde{\\varepsilon}_5(m)), \\qquad 0\\leq m\\leq 3L-3,\\mathrm{d}\\left[\\mathfrak{k},\\mathrm{j}\\right] &= d_j^{(k)}+\\mathcal{O}^*(\\gamma_{k,j}), \\qquad 0\\leq k\\leq L-1, \\quad 0\\leq j\\leq 3k/2,\\end{split}\\end{align*}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/31.jpg-835.2800000000001_2766.0_3553.12_3528.0.jpg",
+        "gt": "\\begin{align*}&d^{(0)}_0=1, \\quad d^{(0)}_k =0 \\quad \\text{for } k\\ne0&d^{(n)}_k=0 \\quad \\text{for }\\quad k<0 \\quad\\text{and for }\\quad k>3n/2&2(3n-2k) d^{(n)}_k=\\tfrac12 d^{(n-1)}_k+(1-2\\sigma)d^{(n-1)}_{k-1}-2(3n-2k)(3n-2k+1)d^{(n-1)}_{k-2}&d^{(n)}_{3n/2} =-\\sum_{k=0}^{3n/2 -1} (-1)^{3n/2-k} d^{(n)}_k\\frac{(3n-2k)!}{(3n/2-k)!},\\qquad  3n \\equiv 0\\pmod2.\\end{align*}",
+        "pred": "\\begin{align*}\\begin{array}{cccccccc}d_0^{(0)}=1, & d_k^{(0)}=0 & \\text{for } & k\\neq 0d_k^{(n)}=0 & \\text{for } & k<0 & \\text{and for } & k>3n/22(3n-2k)d_k^{(n)}=\\frac{1}{2}d_k^{(n-1)}+(1-2\\sigma)d_k^{(n-1)}-2(3n-2k)(3n-2k+1)d_{k-2}^{(n-1)}d_{n/2}^{(n)}=-\\sum_{k=0}^{n/2-1}(-1)^{3n/2-k}d_k^{(n)}\\frac{(3n-2k)!}{(3n/2-k)!}, &  & 3n\\equiv 0 & (\\mathrm{mod}\\;2).\\end{array}\\end{align*}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00493/debug/4.jpg-915.84_2760.0_3332.6400000000003_2880.0.jpg",
+        "gt": "D\\cdot H>\\max\\{ 4r^2+1, 2r(v^2 H^2-D^2 H^2+(D\\cdot H)^2)\\},  ~s>2d,  \\hbox{~if r>0}",
+        "pred": "D\\cdot H>\\max\\{4r^2+1,2r(v^2H^2-D^2H^2+(D\\cdot H)^2)\\},\\ s>2d,\\ \\mbox{if}\\ r>0"
+    }
+]

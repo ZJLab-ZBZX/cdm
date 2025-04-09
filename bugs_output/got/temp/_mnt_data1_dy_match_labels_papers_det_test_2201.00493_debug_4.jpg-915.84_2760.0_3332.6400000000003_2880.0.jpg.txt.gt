@@ -1,0 +1,23 @@
+group: {
+  type: 'hbox',
+  mode: 'math',
+  body: [
+    {
+      type: 'spacing',
+      mode: 'text',
+      loc: [SourceLocation],
+      text: '\\nobreakspace'
+    },
+    { type: 'textord', mode: 'text', loc: [SourceLocation], text: 'i' },
+    { type: 'textord', mode: 'text', loc: [SourceLocation], text: 'f' },
+    { type: 'spacing', mode: 'text', loc: [SourceLocation], text: ' ' },
+    { type: 'textord', mode: 'text', loc: [SourceLocation], text: 'r' },
+    { type: 'textord', mode: 'text', loc: [SourceLocation], text: '>' },
+    { type: 'textord', mode: 'text', loc: [SourceLocation], text: '0' }
+  ]
+}
+line:
+ D\cdot H>\max\{ 4r^2+1, 2r(v^2 H^2-D^2 H^2+(D\cdot H)^2)\},  ~s>2d,  \hbox{~if r>0} 
+
+norm_str:
+ D \cdot H > \operatorname { m a x } \{ 4 r ^ { 2 } + 1 , 2 r ( v ^ { 2 } H ^ { 2 } - D ^ { 2 } H ^ { 2 } + ( D \cdot H ) ^ { 2 } ) \} , \nobreakspace s > 2 d , 

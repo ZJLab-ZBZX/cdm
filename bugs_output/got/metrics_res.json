@@ -1,0 +1,26 @@
+{
+  "mean_score": 0.195,
+  "exp_rate": 0.0,
+  "details": {
+    "_mnt_data1_dy_match_labels_papers_det_test_2201.00332_debug_06.jpg-1539.4840000000002_990.0_3199.5299999999997_1733.9999999999998.jpg": {
+      "recall": 0.379,
+      "precision": 0.389,
+      "F1_score": 0.384
+    },
+    "_mnt_data1_dy_match_labels_papers_det_test_2201.00342_debug_19.jpg-996.4_2184.0_3252.08_2484.0.jpg": {
+      "recall": 0,
+      "precision": 0,
+      "F1_score": 0
+    },
+    "_mnt_data1_dy_match_labels_papers_det_test_2201.00342_debug_31.jpg-835.2800000000001_2766.0_3553.12_3528.0.jpg": {
+      "recall": 0.491,
+      "precision": 0.333,
+      "F1_score": 0.397
+    },
+    "_mnt_data1_dy_match_labels_papers_det_test_2201.00493_debug_4.jpg-915.84_2760.0_3332.6400000000003_2880.0.jpg": {
+      "recall": 0.0,
+      "precision": 0.0,
+      "F1_score": 0.0
+    }
+  }
+}
