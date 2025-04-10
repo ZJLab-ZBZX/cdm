@@ -8,3 +8,6 @@ modules/__pycache__/latex_processor.cpython-310.pyc
 modules/__pycache__/latex2bbox_color.cpython-310.pyc
 modules/__pycache__/visual_matcher.cpython-310.pyc
 modules/tokenize_latex/__pycache__/tokenize_latex.cpython-310.pyc
+output
+bugs_output
+debug
