@@ -1,4 +1,0 @@
-{"bbox": [7, 7, 1644, 82], "token": "a_{11}\\psi_1+a_{22}\\psi_2+a_{33}\\psi_3+a_{44}\\psi_4&+\\sum_{1\\leq"}
-{"bbox": [464, 16, 576, 47], "token": "j<k\\leq"}
-{"bbox": [588, 16, 604, 40], "token": "4}\\psi_j\\psi_k[A]_{j,k}\\\\+\\psi_1\\psi_2\\psi_3[A]_{1,2,3}+\\psi_1\\psi_2\\psi_4[A]_{1,2,4}+\\psi_1\\psi_3\\psi_4[A]_{1,3,4}+\\psi_2\\psi_3\\psi_4[A]_{2,3,4}\\\\&+\\psi_1\\psi_2\\psi_3\\psi_4\\det"}
-{"bbox": [], "token": "A=0"}

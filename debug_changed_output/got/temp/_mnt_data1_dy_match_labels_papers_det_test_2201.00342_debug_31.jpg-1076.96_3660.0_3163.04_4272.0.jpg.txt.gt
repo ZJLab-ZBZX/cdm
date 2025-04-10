@@ -1,5 +1,0 @@
-line:
- \begin{align*}d^{(1)}_0&=\frac{1}{12},\quad d^{(1)}_1=-(\sigma-\tfrac12 ),d^{(2)}_0&=\frac{1}{288},\text{欃亹quadd}^{(2)}_1=-\frac{1}{12}(\sigma-\tfrac12 ),\quad d^{(2)}_2=\frac12(\sigma-\tfrac12 )^2-\frac14,\notag&d^{(2)}_3=(\sigma-\tfrac12 )^2+(\sigma-\tfrac12 )-\frac{1}{12}. 
-
-norm_str:
- 

@@ -1,1 +1,0 @@
-\sigma _ { \lambda - 1 } ( v _ { b } ^ { 1 , 2 } ) \mathrel { { \in } \mathllap { / \mkern 1mu } } \sigma _ { s } ( V ( X ^ { 1 } ) ) . 

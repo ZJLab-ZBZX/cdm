@@ -1,5 +1,0 @@
-line:
- S_{k\ell}[a]:=\begin{pmatrix}a_1&a_2&\ldots&a_\ell\ldots&\ldots&\ldots&\ldotsa_1&a_2&\ldots&a_\ell\end{pmatrix}. 
-
-norm_str:
- 

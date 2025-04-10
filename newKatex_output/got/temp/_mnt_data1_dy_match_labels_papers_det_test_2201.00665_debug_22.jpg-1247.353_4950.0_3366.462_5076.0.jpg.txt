@@ -1,1 +1,0 @@
-\{ \sigma _ { i } ^ { - 1 } ( \mu ) , \sigma _ { i } ^ { - 1 } ( \sigma _ { i + 1 } ( v _ { a } ^ { \ell } ) ) \} \subset \sigma _ { i } ^ { - 1 } ( V ( \mathcal { K } ^ { \ell } ) ) \setminus ( V ( \mathcal { P } _ { a } ^ { \ell } ) \cup V ( \mathcal { P } _ { b } ^ { \ell } ) ) , 

@@ -1,1 +1,0 @@
-- u ^ { \prime \prime } ( x ) = f ( x ) \mkern 18mu x \in ( 0 , 0 . 5 ) 

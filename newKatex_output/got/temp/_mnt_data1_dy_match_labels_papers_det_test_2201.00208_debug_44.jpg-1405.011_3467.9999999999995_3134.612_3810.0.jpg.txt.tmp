@@ -1,1 +1,0 @@
-i(e,e'):=\begin{cases}0 & \text{if }e=e' \text{ or }e\cap e'= \varnothing;1 & \text{if }e' \text{ is lying on the left side in }e;-1 & \text{if }e' \text{ is lying on the right side of }e.\end{cases}

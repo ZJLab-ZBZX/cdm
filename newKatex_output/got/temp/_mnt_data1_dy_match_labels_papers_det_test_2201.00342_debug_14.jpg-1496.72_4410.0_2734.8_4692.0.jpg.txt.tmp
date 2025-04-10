@@ -1,1 +1,0 @@
-\mathsf{rssum} = \sum_{k=1}^L \frac{C_{L-k}(p)}{a^{L-k}} + \mathcal{O}^*(\varepsilon_2/2).

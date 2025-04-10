@@ -1,1 +1,0 @@
-\hat{f}_{k+1}(\mathbf{x}_{k+1}) - \hat{f}_{k+1}^* &\leq \sum_{k=0}^2 \left(1 - \alpha \mu_f^* \right)^k \hat{f}_{k}^*     &\quad + \frac{\alpha}{c} \hat{f}_{k}^* + \eta^* + \eta_0,

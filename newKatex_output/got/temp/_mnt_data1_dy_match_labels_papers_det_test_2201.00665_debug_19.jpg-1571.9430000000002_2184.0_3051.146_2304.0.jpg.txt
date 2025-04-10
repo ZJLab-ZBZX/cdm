@@ -1,1 +1,0 @@
-\{ \sigma ^ { - 1 } ( \kappa _ { a } ^ { \ell } ) , \sigma ^ { - 1 } ( \kappa _ { b } ^ { \ell } ) \} \subset V ( X ^ { \ell - 1 } ) \cup V ( X ^ { \ell } ) . 

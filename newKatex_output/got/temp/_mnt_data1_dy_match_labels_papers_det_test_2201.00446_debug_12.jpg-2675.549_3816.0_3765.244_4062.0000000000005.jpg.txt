@@ -1,1 +1,0 @@
-\begin{array} { r l r } \displaystyle & \displaystyle { { } \left( v ^ { ( i j ) } ) ^ { T } \nabla f ( x ^ { ( i ) } ) \leq s ^ { ( i j ) } + a ^ { ( i j ) } \right. } & \displaystyle { \left. ( - v ^ { ( i j ) } ) ^ { T } \nabla f ( x ^ { ( i ) } ) \leq a ^ { ( i j ) } - s ^ { ( i j ) } . \right. . } \\ \end{array} 

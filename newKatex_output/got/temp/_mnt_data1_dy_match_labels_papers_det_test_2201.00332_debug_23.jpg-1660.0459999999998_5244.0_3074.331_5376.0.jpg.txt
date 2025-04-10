@@ -1,1 +1,0 @@
-f : x \mapsto x + ( ( U ( p , \Pi ) \odot H _ { n , d } ( s ) ) \mkern 3mu x ) ^ { d } 

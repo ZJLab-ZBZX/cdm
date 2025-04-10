@@ -1,1 +1,0 @@
-\Phi _ { k } ( q ) = \sum _ { n = 0 } ^ { \infty } \phi _ { k } ( n ) q ^ { n } 

@@ -1,1 +1,0 @@
-Z_{k\ell}[a]:=\left(\begin{array}{cccc}a_1&a_2&\ldots&a_{\ell-1}&-a_1-a_2-\ldots-a_{\ell-1}\ldots&\ldots&\ldots&\ldots&\text{欃亹ldotsa}_1&a_2&\ldots&a_{\ell-1}&-a_{1}-a_2-a_2-\ldots-a_{\ell-1}\end{array}\right),\quad\text{if }\ell\geq 2,

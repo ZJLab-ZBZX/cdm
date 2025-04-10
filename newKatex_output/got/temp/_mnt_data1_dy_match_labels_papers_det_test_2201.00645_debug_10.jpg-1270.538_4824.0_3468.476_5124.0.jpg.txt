@@ -1,1 +1,0 @@
-S ( k , n ) = \sum _ { i = 0 } ^ { n - k } ( - 1 ) ^ { i } \cdot \binom { n - k } { i } ^ { 2 } \cdot ( n - 1 ) ! ^ { 2 i } \cdot n ! ^ { 2 n - 2 k - 2 i } . 

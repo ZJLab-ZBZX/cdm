@@ -1,1 +1,0 @@
-V(v):=\left(\begin{array}{ccccc}v_1&v_2^2&\ldots&v_n^2v_2&v_2^2&\ldots&v_n^2\ldots&\ldots&\ldots&\ldotsv_n&v_n^2&\ldots&v_n^n\end{array}\right).

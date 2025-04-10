@@ -1,1 +1,0 @@
-\sigma _ { \lambda - 1 } ^ { - 1 } ( \kappa _ { a } ^ { \ell } ) = \sigma _ { \lambda - 1 } ^ { - 1 } ( \mu ) \in N _ { X _ { L } } ( \sigma _ { \lambda - 1 } ^ { - 1 } ( \mu ) ) \setminus V ( \mathcal { C } _ { a } ^ { \ell } ) . 

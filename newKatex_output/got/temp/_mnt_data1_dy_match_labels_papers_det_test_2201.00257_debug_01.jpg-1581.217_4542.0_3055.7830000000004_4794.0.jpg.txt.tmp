@@ -1,1 +1,0 @@
-\lim_{N\to\infty}E(tr(Z_N^k))=\frac{1}{2\pi}\int_{-2}^2t^k\sqrt{4-t^2}dt

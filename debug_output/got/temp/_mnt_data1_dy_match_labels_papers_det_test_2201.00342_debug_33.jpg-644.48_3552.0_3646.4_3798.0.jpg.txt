@@ -1,1 +1,0 @@
-| R _ { k } ^ { \prime } | \leq A \frac { 2 ^ { k } } { B _ { 1 } ^ { n - 1 } } ( \frac { \Gamma ( n - \frac { 1 } { 2 } ) } { m ! } ) ^ { 1 / 2 } \{ \frac { \sqrt { m + 1 } } { 4 } \vert \eta _ { 5 } \vert + \frac { \sqrt { ( m - 1 ) ( m - 2 ) } } { 4 \sqrt { m } } \vert \eta _ { 5 } \vert + \frac { \vert 1 - 2 \sigma \vert } { 4 \sqrt { m } } \vert \eta _ { 6 } \vert \} . 

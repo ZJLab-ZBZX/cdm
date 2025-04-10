@@ -1,4 +1,0 @@
-{"bbox": [7, 7, 486, 44], "token": "\\texttt{sum}&=v'_1(1+\\eta_N)+v'_2(1+\\eta_{N-1})+\\cdots"}
-{"bbox": [488, 7, 1070, 44], "token": "+v'_n(1+\\eta_1)\\\\&=v_1(1+\\eta_{N+1})+v_2(1+\\eta_{N})+\\cdots"}
-{"bbox": [1072, 9, 1643, 44], "token": "+v_N(1+\\eta_2)\\\\&=(a_1+\\alpha_1)(1+\\eta_{N+1})+(a_2+\\alpha_2)(1+\\eta_{N})+\\cdots"}
-{"bbox": [], "token": "+(a_N+\\alpha_N)(1+\\eta_2)"}

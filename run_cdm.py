@@ -27,10 +27,10 @@ def gen_color_list(num=10, gap=15):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument('--input', '-i', type=str, default="bugs.json")
-    parser.add_argument('--output', '-o', type=str, default=os.path.join("bugs_output", "got"))
-    # parser.add_argument('--input', '-i', type=str, default="new_katex_bugs.json")
-    # parser.add_argument('--output', '-o', type=str, default=os.path.join("debug_changed_output", "got"))
+    # parser.add_argument('--input', '-i', type=str, default="bugs.json")
+    # parser.add_argument('--output', '-o', type=str, default=os.path.join("bugs_output", "got"))
+    parser.add_argument('--input', '-i', type=str, default="test_cdm.json")
+    parser.add_argument('--output', '-o', type=str, default=os.path.join("debug", "got"))
     parser.add_argument('--num_pools', '-n', type=str, default=1)
     args = parser.parse_args()
 

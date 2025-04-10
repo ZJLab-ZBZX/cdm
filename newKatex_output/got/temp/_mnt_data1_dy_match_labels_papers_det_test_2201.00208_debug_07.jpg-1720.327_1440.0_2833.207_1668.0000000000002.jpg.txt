@@ -1,1 +1,0 @@
-\begin{array} { r l r } \displaystyle { R _ { \theta _ { 0 } } | _ { J ^ { 1 } S ^ { 1 } } ( \theta , p _ { \theta } , z ) } & \displaystyle { { } = ( \theta + \theta _ { 0 } , p _ { \theta } , z ) ; \eta | _ { J ^ { 1 } S ^ { 1 } } ( \theta , p _ { \theta } , z ) } & \displaystyle { = ( \theta , - p _ { \theta } , - z ) . } \\ \end{array} 

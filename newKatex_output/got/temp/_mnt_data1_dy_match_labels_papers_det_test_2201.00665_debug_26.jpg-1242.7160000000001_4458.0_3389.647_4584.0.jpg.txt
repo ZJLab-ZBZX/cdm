@@ -1,5 +1,0 @@
-line:
- \sigma_{\lambda-1}(\sigma_{\lambda}^{-1}(\kappa_a^\ell)) \in V(\mathcal{S}_a^\ell) \setminus \{\kappa_a^\ell \} \text{ and } \sigma_{\lambda-1}(\sigma_{\lambda}^{-1}(\kappa^{\ell}_a)) \in V(\K^\ell) 
-
-norm_str:
- 

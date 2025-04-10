@@ -1,6 +1,0 @@
-{"bbox": [7, 10, 72, 45], "token": "S(\\beta)"}
-{"bbox": [84, 11, 194, 44], "token": "&=\\Delta_{N+1}"}
-{"bbox": [198, 10, 285, 45], "token": "S_0(\\beta_0)"}
-{"bbox": [288, 11, 400, 44], "token": "\\Delta_{N+1}\\mathrel{\\dot{=}}"}
-{"bbox": [411, 11, 430, 43], "token": "\\beta"}
-{"bbox": [433, 7, 730, 45], "token": "(\\sigma_N\\dots\\sigma_2\\sigma_1^3\\sigma_2\\dots\\sigma_N)"}

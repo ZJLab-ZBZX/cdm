@@ -1,5 +1,0 @@
-line:
- \nu_0=\Id, \quad \nu_j=\nu_j[A,\varphi](f):=f-\varphi(A\nu_{j-1}(f)),\,j=1,2,3,\dots 
-
-norm_str:
- 

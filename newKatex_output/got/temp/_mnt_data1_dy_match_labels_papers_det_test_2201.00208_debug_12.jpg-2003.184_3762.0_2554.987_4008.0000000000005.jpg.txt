@@ -1,1 +1,0 @@
-\hat { y } _ { i ; t } = \prod _ { j \in [ m ] } x _ { i ; t } ^ { ( i ) } . 

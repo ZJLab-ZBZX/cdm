@@ -1,1 +1,0 @@
-\nu^{\boldsymbol{\sigma}}(d\boldsymbol{\sigma})\propto\prod_{k=1}^{N_d}\sigma_k^{-\alpha_k^0-\frac{3}{2}}\exp\left(-\frac{\beta_k^0+\frac{1}{2}\mathbb{E}^{\nu^u}[(d_k-(Hu)_k)^2]}{\sigma_k}\right)d\boldsymbol{\sigma},

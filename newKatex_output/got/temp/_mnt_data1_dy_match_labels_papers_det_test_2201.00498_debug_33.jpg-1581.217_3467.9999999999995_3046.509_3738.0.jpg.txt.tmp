@@ -1,1 +1,0 @@
-\begin{aligned}\Delta w + \kappa^2 w &= u \quad \text{in } \R^2, \partial_r w - i\kappa w &= o(r^{-1/2}) \quad \text{as } r = |x| \to \infty,\end{aligned}

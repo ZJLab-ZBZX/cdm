@@ -1,5 +1,0 @@
-line:
- \frac{(2\pi)^J}{J!} \leq \frac{\varepsilon_4}{632\,A(\sigma)},\qquad \frac{(2\pi)^J}{J!} \leq \frac{\vare\epsilon_4}{632\,A(\sigma)}\frac{1}{M}\Big(\frac{\pi^2 B_{1}a\sqrt{3}\e^2}{M^2}\Big)^{(M-1)/3}. 
-
-norm_str:
- 

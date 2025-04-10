@@ -1,1 +1,0 @@
-g _ { k } ^ { ( i ) } : = ( ( A _ { k } ^ { ( i ) } ) ^ { T } A _ { k } ^ { ( i ) } ) ( A _ { k } ^ { ( i ) } ) T _ { \mathord { \boldsymbol { s } } } ^ { ( i ) } . 

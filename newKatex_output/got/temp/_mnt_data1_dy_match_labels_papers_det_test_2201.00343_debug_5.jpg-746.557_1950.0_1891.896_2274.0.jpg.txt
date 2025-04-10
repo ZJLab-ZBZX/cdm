@@ -1,1 +1,0 @@
-\bar { K } = k \left[ \begin{array} { c c } \textstyle { I _ { s } } & \textstyle { \mathbf { 0 } _ { s \times ( N - s ) } \mathbf { 0 } _ { ( N - s ) \times S } } & \textstyle { \mathbf { 0 } _ { ( N - s ) \times ( N - s ) } \bar { P } _ { s } } & \textstyle { \bar { P } _ { s } ^ { \prime } } \\ \end{array} \right] 

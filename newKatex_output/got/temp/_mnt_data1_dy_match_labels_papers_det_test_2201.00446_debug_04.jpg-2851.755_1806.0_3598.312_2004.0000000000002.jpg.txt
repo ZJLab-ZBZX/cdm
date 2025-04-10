@@ -1,1 +1,0 @@
-F _ { k } ( \mathbf { x } _ { k } ) : = \sum _ { i \in \mathcal { V } } f _ { k } ( x _ { k } ^ { ( i ) } ) , 

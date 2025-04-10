@@ -1,1 +1,0 @@
-\texttt {wptcoef[k]} : = \operatorname { m a x } \{ \texttt {mag} ( 6 8 \frac { ( L + 2 ) A ( \sigma ) } { \varepsilon _ { 4 } } \frac { \Gamma ( k + 1 / 2 ) ^ { 1 / 2 } } { ( B _ { 1 } a \sqrt { \pi } ) ^ { k } } ) , \texttt {mag} ( 4 0 ( L + 2 ) ) \} .

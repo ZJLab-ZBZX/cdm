@@ -1,1 +1,0 @@
-a \otimes b = a b ( 1 + \eta _ { 3 } ) . 

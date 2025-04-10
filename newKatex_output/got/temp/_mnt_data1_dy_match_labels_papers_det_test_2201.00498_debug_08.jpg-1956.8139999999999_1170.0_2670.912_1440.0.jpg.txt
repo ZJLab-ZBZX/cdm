@@ -1,1 +1,0 @@
-\mathcal { C } _ { 0 } = \sum _ { k = 1 } ^ { \infty } \alpha _ { k } e _ { k } \otimes e _ { k } . 

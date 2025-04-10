@@ -1,1 +1,0 @@
-= \lim_{j \to \infty} \nu_j(f) + \lim_{j \to \infty} (f - f + \varphi(A \nu_j(f))) = \lim_{j \to \infty} \nu_j(f) + f - \lim_{j \to \infty} \nu_{j+1}(f) = f.

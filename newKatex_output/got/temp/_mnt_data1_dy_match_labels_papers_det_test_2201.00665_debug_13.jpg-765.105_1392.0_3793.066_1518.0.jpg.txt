@@ -1,1 +1,0 @@
-d ( \sigma , \tau ) \leq d ( \sigma , \tau _ { * } ) + d ( \tau _ { * } , \tau ) \leq 4 n ^ { 3 } ( 1 + f ( n ) ) + 8 n ^ { 3 } ( 1 + 2 f ( n ) ) ( n + 1 ) = 8 n ^ { 4 } ( 1 + o ( 1 ) ) . 

@@ -1,1 +1,0 @@
-F ( k , n ) = \binom { n } { k } ^ { 2 } \cdot k ! \cdot ( n - 1 ) ! ^ { 2 k } \cdot S ( k , n ) , 

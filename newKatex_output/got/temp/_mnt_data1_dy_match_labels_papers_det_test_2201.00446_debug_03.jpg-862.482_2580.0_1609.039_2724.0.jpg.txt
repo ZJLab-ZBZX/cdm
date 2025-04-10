@@ -1,1 +1,0 @@
-d ( x , \mathcal { S } ) = \operatorname* { i n f } _ { y \in \mathcal { S } } | | y - x | | , 

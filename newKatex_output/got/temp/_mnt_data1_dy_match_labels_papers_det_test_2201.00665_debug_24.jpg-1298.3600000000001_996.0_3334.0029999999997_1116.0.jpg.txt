@@ -1,1 +1,0 @@
-\sigma _ { \lambda } ( v _ { a } ^ { 1 , 2 } ) \in V ( \mathcal { S } _ { a } ^ { 1 } ) \setminus \{ \kappa _ { a } ^ { 1 } \} \text { and } \sigma _ { \lambda } ( v _ { a } ^ { 1 , 2 } ) \in V ( \mathcal { K } ^ { 1 } ) \setminus \{ \kappa _ { a } ^ { 2 } , \kappa _ { b } ^ { 2 } \} 

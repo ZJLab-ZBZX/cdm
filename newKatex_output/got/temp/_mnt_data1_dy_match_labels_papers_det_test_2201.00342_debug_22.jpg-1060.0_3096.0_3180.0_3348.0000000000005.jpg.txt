@@ -1,1 +1,0 @@
-\frac { ( 2 \pi ) ^ { J } } { J ! } \leq \frac { ( \pi ^ { 2 } B _ { 1 } a ) ^ { m / 3 } \varepsilon _ { 4 } } { 6 3 2 A ( \sigma ) } \frac { 1 } { \sqrt { m ! \mkern 3mu \Gamma ( m / 3 + 2 ) } } , \mkern 36mu 0 \leq m < M . 

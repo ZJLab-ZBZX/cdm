@@ -1,1 +1,0 @@
-b _ { i , j } > 0 \mkern 5mu \Longleftrightarrow \mkern 5mu \varepsilon ( i ) = + \text {and } \varepsilon ( j ) = - . 

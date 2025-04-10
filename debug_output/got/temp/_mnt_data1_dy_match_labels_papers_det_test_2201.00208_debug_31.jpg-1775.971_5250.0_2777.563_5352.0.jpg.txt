@@ -1,1 +1,0 @@
-( J ^ { 1 } \Sigma ^ { 1 } \times \mathbb { R } _ { s } , d ( e ^ { s } ( d z - p _ { \theta } d \theta ) ) ) , 

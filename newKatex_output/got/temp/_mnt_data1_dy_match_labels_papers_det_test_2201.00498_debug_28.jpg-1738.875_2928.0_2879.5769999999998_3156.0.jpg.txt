@@ -1,5 +1,0 @@
-line:
- \text{relative error} = \frac{\|\Tilde{u} - u_{\text{truth}}\|_{L^2}}{\|u_{\text{truth}}\|_{L^2}}, 
-
-norm_str:
- 

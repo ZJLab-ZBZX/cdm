@@ -1,5 +1,0 @@
-line:
- -\Omega_s \succ 0 \iff \mathcal{D} \eqdef 2kS_p - 2\alpha I_N - gL - 2\frac{k^2}{\pi^2}P_s \succ 0 
-
-norm_str:
- 

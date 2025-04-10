@@ -1,1 +1,0 @@
-x _ { j } + \operatorname* { l o g } \left( \sum _ { k = 1 } ^ { n } a _ { j k } x _ { k } \right) , \mkern 18mu j = 1 , \ldots , n . 

@@ -1,1 +1,0 @@
-c _ { i , j } = \left\{ \begin{array} { l l } \textstyle { 2 } & \textstyle { \text { if } i = j , - | b _ { i , j } | } & \textstyle { \text { otherwise.} } \\ \end{array} \right. 

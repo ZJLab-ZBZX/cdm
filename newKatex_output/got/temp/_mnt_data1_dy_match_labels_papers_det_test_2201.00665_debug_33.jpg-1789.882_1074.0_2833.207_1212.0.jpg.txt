@@ -1,1 +1,0 @@
-\sigma _ { \xi } ^ { - 1 } ( \kappa _ { a } ^ { \ell + 1 } ) \in V ( \mathcal { P } _ { a } ^ { \ell } ) \cup V ( \mathcal { P } _ { b } ^ { \ell } ) , 

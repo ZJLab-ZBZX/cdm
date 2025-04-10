@@ -1,1 +1,0 @@
-D_k(\sigma)=\{(s,x)\mid \mathrm{rank}(\sigma(s,x))\leq k\}.

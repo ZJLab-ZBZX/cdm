@@ -1,5 +1,0 @@
-line:
- L_{g,r,d}=\int_{\Gr(r+1,d+1)}\sigma_{1^r}^g\cdot\left[\sum_{\alpha_0+\cdots+\alpha_r=(r+1)(d-r)-rg}\left(\prod_{i=0}^r\sigma_{\alpha_i}\right)\right] 
-
-norm_str:
- 

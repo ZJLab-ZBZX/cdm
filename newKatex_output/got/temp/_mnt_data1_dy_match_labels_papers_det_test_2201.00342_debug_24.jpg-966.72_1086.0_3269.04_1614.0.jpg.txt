@@ -1,5 +1,0 @@
-line:
- m&=1\qquad\mathrm{c}\left[\mathbb{K}\right]=(k+1)\mathrm{c}\left[\mathbb{K}\mathbf{+}1\right](1+\eta_{2})m&=2\qquad\mathrm{c}\left[\mathbb{K}\right]=(k+ 1)(k+2)\mathrm{c}\left[\mathbb{K}\mathbf{+}2\right](1+\eta_{3})&\qquad\cdotsm&\qquad\mathrm{c}\left[\mathbb{K}\right]=(k+2)\cdots(k+m)\mathrm{c}\left[\mathbb{K}\mathbf{+}\mathbf{m}\right](1+\eta_{m+1}) 
-
-norm_str:
- 

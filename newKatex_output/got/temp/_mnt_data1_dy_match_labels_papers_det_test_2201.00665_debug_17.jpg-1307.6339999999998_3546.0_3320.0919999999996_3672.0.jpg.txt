@@ -1,1 +1,0 @@
-V ( \mathcal { S } _ { a } ^ { \ell } ) \setminus \{ \kappa _ { a } ^ { \ell } \} \subset \sigma ( V ( \mathcal { C } _ { a } ^ { \ell } ) ) \text { and } V ( \mathcal { S } _ { b } ^ { \ell } ) \setminus \{ \kappa _ { b } ^ { \ell } \} \subset \sigma ( V ( \mathcal { C } _ { b } ^ { \ell } ) ) . 

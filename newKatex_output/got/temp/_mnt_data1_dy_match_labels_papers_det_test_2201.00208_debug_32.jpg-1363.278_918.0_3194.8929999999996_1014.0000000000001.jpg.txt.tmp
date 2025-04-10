@@ -1,1 +1,0 @@
-(\theta,p_\theta,z,s,t) \mapsto (\vartheta,r,p_\theta,p_r,w)=(\theta,e^s,e^s p_\theta,z,t+e^s z).

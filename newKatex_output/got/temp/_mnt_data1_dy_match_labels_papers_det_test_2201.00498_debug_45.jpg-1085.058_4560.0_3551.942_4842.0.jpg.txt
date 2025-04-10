@@ -1,5 +1,0 @@
-line:
- \langle H^* \boldsymbol{f}, g \rangle_{L^2} = \langle \boldsymbol{f}, H g \rangle_{\ell^2} = \sum_{k=1}^{\infty} \lambda_k g_k \langle \boldsymbol{f}, S e_k \rangle_{\ell^2} = \sum_{k=1}^{\incal} \lambda_k g_k \sum_{i=1}^{N_d} f_i e_k(x_i), 
-
-norm_str:
- 

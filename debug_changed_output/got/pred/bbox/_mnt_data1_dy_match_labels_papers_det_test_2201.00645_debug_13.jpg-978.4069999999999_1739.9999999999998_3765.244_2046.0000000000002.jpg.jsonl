@@ -1,8 +1,0 @@
-{"bbox": [7, 18, 97, 106], "token": "\\binom{n}{0}^2\\cdot"}
-{"bbox": [107, 49, 146, 75], "token": "0!\\cdot"}
-{"bbox": [158, 44, 288, 83], "token": "(n-1)!\\!^0\\cdot"}
-{"bbox": [304, 14, 463, 116], "token": "\\left(\\sum_{i=0}^{n-0}(-1)^i\\cdot"}
-{"bbox": [479, 7, 652, 116], "token": "\\binom{n-0}{i}\\right)^2\\cdot"}
-{"bbox": [664, 44, 808, 83], "token": "(n-1)!^{2i}\\cdot"}
-{"bbox": [817, 49, 852, 75], "token": "i!\\cdot"}
-{"bbox": [861, 44, 962, 75], "token": "n!^{2n-2i}\\right)."}

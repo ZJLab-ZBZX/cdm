@@ -1,1 +1,0 @@
-\sigma _ { \xi + 1 } ( \sigma _ { \lambda - 1 } ^ { - 1 } ( \kappa _ { a } ^ { \ell } ) ) = \kappa _ { a } ^ { \ell } , 

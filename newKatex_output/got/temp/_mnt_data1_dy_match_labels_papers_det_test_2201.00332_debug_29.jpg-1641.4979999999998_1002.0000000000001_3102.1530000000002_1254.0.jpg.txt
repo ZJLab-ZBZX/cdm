@@ -1,1 +1,0 @@
-H _ { 4 , 3 } ( s ) \odot \left( \left( \begin{array} { c c c } \textstyle { a } & \textstyle { b c } & \textstyle { d } \\ \end{array} \right) \otimes \left( \begin{array} { c c c } \textstyle { 1 } & \textstyle { - 1 1 } & \textstyle { - 1 } \\ \end{array} \right) \right) 

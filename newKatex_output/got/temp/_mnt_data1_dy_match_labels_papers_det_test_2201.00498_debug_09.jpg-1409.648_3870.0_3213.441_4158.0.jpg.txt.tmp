@@ -1,1 +1,0 @@
-\exp\left(-\sum_{k=1}^{N_d}\log\sigma_k\right)=\prod_{k=1}^{N_d}\sigma_k^{-1}\in L_{\mu_0}^1(\mathcal{H}_u\times\mathbb{R}^+;\mathbb{R})

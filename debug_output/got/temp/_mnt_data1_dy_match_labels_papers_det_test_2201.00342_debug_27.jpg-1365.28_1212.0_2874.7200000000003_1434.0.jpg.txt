@@ -1,1 +1,0 @@
-V _ { n } = ( - 1 ) ^ { n } E _ { 2 n } \frac { \pi ^ { 2 n } } { ( 2 n ) ! } , \mkern 36mu W _ { n } = \frac { 1 } { n ! } \left( \frac { \pi } { 2 } \right) ^ { n } . 

@@ -1,1 +1,0 @@
-\tilde{\beta}_0(\tilde{\D}_n) = \begin{cases}\sigma_3 \sigma_3^2 \sigma_3 \sigma_2^{n-4} \sigma_1 \sigma_2^3 \sigma_1 & n \text{ is odd}; \sigma_3 \sigma_2^3 \sigma_3 \sigma_2^{n-3} \sigma_1 \sigma_2^3 \sigma_1 & n \text { is even}.\end{cases}

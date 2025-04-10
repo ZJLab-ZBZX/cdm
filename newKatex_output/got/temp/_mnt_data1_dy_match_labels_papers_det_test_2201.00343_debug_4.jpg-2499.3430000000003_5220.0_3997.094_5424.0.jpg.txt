@@ -1,1 +1,0 @@
-D ( \mathfrak { Q } ) = \left\{ z \in \mathbf { H } ^ { 2 } ( 0 , 1 ) \nobreak \mkern 2mu \mathpunct { } \mkern -3mu { : } \mkern 6mu \frac { d z } { d x } ( 0 ) = \frac { d z } { d x } ( 1 ) = 0 \right\} 

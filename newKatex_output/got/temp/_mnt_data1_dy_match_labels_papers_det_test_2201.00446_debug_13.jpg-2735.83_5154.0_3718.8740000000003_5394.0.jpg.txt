@@ -1,1 +1,0 @@
-\frac { | | \mathbf { a } ^ { ( i ) } | | } { \sigma _ { \operatorname* { m a x } } ( A _ { k } ^ { ( i ) } ) } \leq r \leq \frac { | | \mathbf { a } ^ { ( i ) } | | } { \sigma _ { \operatorname* { m i n } } ( A _ { k } ^ { ( i ) } ) } . 

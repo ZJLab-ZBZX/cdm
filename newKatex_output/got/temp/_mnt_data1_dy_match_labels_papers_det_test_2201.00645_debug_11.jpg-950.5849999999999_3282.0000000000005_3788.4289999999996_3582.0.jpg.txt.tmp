@@ -1,1 +1,0 @@
-\binom{n}{k}^2\cdot k!\cdot (n-1)!^{2k}\cdot \binom{n-k}{i}(-1)^i\cdot \binom{n-k}{i}^2\cdot (n-1)!^{2i}\cdot i!\cdot n!^{2n-2k-2i}\bigg).

@@ -1,1 +1,0 @@
-(v^{(ij)})^T y \leq s^{(ij)} - (g^{(i)})^T v^{(ij)} + a^{(ij)}     (-v^{(ij)})^T y \leq a^{(ij)} - (s^{(ij)} - (g^{(i)})^T v^{(ij)}).

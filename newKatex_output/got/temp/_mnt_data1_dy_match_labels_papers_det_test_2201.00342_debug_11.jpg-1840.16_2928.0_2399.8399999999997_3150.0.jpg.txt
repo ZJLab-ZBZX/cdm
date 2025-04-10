@@ -1,1 +1,0 @@
-3 c \frac { \Gamma ( L / 2 ) } { ( b a ) ^ { L } } < \varepsilon _ { 2 } 

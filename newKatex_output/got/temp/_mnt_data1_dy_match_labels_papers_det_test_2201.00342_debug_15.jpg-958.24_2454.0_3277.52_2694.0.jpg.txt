@@ -1,1 +1,0 @@
-\frac { t _ { j } ^ { ( k ) } } { a ^ { k } } + \mathcal { O } ^ { * } ( \varepsilon _ { 4 } ) \mkern 18mu \text {where} \mkern 18mu t _ { j } ^ { ( k ) } : = \left( \frac { \pi } { 2 ^ { i } } \right) ^ { j } \frac { d _ { j } ^ { ( k ) } } { \pi ^ { 2 k } } F ^ { ( 3 k - 2 j ) } ( p ) , \mkern 18mu \varepsilon _ { 4 } = \frac { \varepsilon _ { 3 } } { 3 L } 

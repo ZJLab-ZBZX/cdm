@@ -1,6 +1,0 @@
-{"bbox": [310, 13, 454, 47], "token": "line:\n\\mu_j\\in"}
-{"bbox": [465, 7, 632, 47], "token": "V(\\mathcal{K}^{el}_{a})\\implies"}
-{"bbox": [652, 7, 900, 50], "token": "\\sigma_{i_{j+1}}(v^{\\ell+1})=\\kappa_{b}^{\\ell+1}\\text{"}
-{"bbox": [903, 13, 957, 38], "token": "and"}
-{"bbox": [1029, 7, 1217, 47], "token": "V(\\mathcal{K}^{\\ell+1}_{a})\\implies"}
-{"bbox": [], "token": "\\sigma_{i_{j+1}}(v^{\\ep+1})=\\kappa_{a}^{\\ell+1},\n\nnorm_str:"}

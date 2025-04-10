@@ -1,1 +1,0 @@
-| \sigma _ { s } ( V ( \mathcal { C } _ { a } ^ { \ell } ) ) \setminus ( V ( \mathcal { S } _ { a } ^ { \ell } ) \setminus \{ \kappa _ { a } ^ { \ell } \} ) | = | \sigma _ { s } ( V ( \mathcal { C } _ { b } ^ { \ell } ) ) \setminus ( V ( \mathcal { S } _ { b } ^ { \ell } ) \setminus \{ \kappa _ { b } ^ { \ell } \} ) | = 2 . 

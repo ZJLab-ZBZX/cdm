@@ -1,1 +1,0 @@
-\begin{array}{cccccccc}d_0^{(0)}=1, & d_k^{(0)}=0 & \text{for } & k\neq 0d_k^{(n)}=0 & \text{for } & k<0 & \text{and for } & k>3n/22(3n-2k)d_k^{(n)}=\frac{1}{2}d_k^{(n-1)}+(1-2\sigma)d_k^{(n-1)}-2(3n-2k)(3n-2k+1)d_{k-2}^{(n-1)}d_{n/2}^{(n)}=-\sum_{k=0}^{n/2-1}(-1)^{3n/2-k}d_k^{(n)}\frac{(3n-2k)!}{(3n/2-k)!}, &  & 3n\equiv 0 & (\mathrm{mod}\;2).\end{array}

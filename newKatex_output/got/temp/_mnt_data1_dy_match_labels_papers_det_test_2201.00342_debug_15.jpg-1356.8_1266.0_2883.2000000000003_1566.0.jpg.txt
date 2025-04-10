@@ -1,1 +1,0 @@
-\frac { C _ { k } ( p ) } { a ^ { k } } = \frac { 1 } { ( \pi ^ { 2 } a ) ^ { k } } \sum _ { j = 0 } ^ { \lfloor 3 k / 2 \rfloor } \left( \frac { \pi } { 2 i } \right) ^ { j } d _ { j } ^ { ( k ) } F ^ { ( 3 k - 2 j ) } ( p ) 

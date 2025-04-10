@@ -1,1 +1,0 @@
-( \theta , p _ { \theta } , z , s ) \mapsto ( x _ { 1 } , x _ { 2 } , y _ { 1 } , y _ { 2 } ) = ( e ^ { s } \operatorname* { c o s } \theta , e ^ { s } \operatorname* { s i n } \theta , p _ { \theta } \operatorname* { s i n } \theta , z \operatorname* { s i n } \theta + p _ { \theta } \operatorname* { c o s } \theta ) . 

@@ -1,1 +1,0 @@
-( \mathbb { R } ^ { 3 } , d z ^ { \prime } + x ^ { \prime } d y ^ { \prime } - y ^ { \prime } d x ^ { \prime } ) \to ( J ^ { 1 } \mathbb { R } , d z - y d x ) ; ( x ^ { \prime } , y ^ { \prime } , z ^ { \prime } ) \mapsto ( x , y , z ) = ( x ^ { \prime } , 2 y ^ { \prime } , z ^ { \prime } + x ^ { \prime } y ^ { \prime } ) , 

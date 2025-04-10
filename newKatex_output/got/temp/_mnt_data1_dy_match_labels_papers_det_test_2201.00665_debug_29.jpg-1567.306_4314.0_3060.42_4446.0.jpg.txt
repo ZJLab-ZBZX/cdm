@@ -1,1 +1,0 @@
-( V ( \mathcal { S } _ { a } ^ { \ell - 1 } ) \setminus \{ \kappa _ { a } ^ { \ell - 1 } \} ) \cup ( V ( \mathcal { S } _ { b } ^ { \ell - 1 } ) \setminus \{ \kappa _ { b } ^ { \ell - 1 } \} ) . 

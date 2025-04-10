@@ -1,1 +1,0 @@
--\int_0^1 \frac{d}{dx} c^T P \frac{d}{dx} e = -\int_0^1 \frac{d}{dx} \tilde{e}^T P \frac{d}{dx} \tilde{e}

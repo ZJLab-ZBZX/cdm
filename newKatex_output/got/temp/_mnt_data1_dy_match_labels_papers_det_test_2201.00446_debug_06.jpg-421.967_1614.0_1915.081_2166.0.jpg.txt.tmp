@@ -1,1 +1,0 @@
-m_k^{(i)} &:= \left\langle \sqrt{\sum_{j \in \mathcal{N}^{(i)}} \left( |s_k^{(i)} - (g_k^{(i)})^T v_k^{(ij)} | + a_k^{(ij)})^2 \right.} \quad \text{ (13)} \right.     \mathcal{E}_k^{(i)} &:= \left\{x \in \R^d \left\| \left\| \frac{A_k^{(i)} (x - g_k^{(i)})}{m_k^{(i)}} \right\|^2 \leq 1 \right\},

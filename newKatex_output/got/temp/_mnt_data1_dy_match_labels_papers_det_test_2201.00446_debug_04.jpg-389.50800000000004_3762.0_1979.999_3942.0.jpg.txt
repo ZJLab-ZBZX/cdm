@@ -1,5 +1,0 @@
-line:
- \frac{\mu_f}{2} \, d(x^i_k), \mathcal{X}^f_{k^i_k})^2 \leq f_k(x) - f_k^* \leq \frac{L_f}{2} d(x^i_k), \mathcal{X}^f_{k^i_k}^2)^2, \quad (6) 
-
-norm_str:
- 

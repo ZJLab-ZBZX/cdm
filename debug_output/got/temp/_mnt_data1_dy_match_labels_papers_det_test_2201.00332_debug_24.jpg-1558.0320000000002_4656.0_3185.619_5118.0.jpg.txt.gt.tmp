@@ -1,1 +1,0 @@
-M=\left(\begin{array}{cccc}c_1 v_1 & c_1 v_2 & \ldots & c_1 v_n c_2 v_1 & c_2 v_2 & \ldots & c_2 v_n  \ldots & \ldots  & \ldots & \ldots  c_n v_1 & c_n v_2 & \ldots & c_n v_n \end{array}\right) = c\otimes v,

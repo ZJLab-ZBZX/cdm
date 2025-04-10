@@ -1,1 +1,0 @@
-\begin{aligned}B^1_{k,\ell} &\leq C\|(a+\delta A^{\alpha/2})^{-1}e_k\|_{\mathcal{H}}\|(a+\delta A^{\alpha/2})^{-1}e_\ell\|_{\mathcal{H}}&\leq C\|(\underline{a}+\delta A^{\alpha/2})^{-1}e_k\|_{\mathscr{H}}\|(a+\delta A^{\alpha/2})^{-1}e_{\ell}\|_{\mathcal{H}}&=C\frac{1}{a+\delta\lambda_k^{\alpha/2}}\frac{1}{a+\delta\lambda_\ell^{\alpha/2}}.\end{aligned}

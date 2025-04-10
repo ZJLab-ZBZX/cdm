@@ -1,1 +1,0 @@
-| \tau ( V ( \mathcal { C } _ { b } ^ { 1 } ) ) \setminus ( V ( \mathcal { S } _ { b } ^ { 1 } ) \setminus \{ \kappa _ { b } ^ { 1 } \} ) | \geq 3 , 

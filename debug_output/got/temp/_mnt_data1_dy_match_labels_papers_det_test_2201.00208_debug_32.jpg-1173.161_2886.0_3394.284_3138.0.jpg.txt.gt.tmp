@@ -1,1 +1,0 @@
-\varphi \colon (\sphere^3\times \R_u,d(e^u\alpha_{\sphere^3}))&\to (T^*\R^2\setminus\{({\bf 0},{\bf 0})\},dx_1\wedge dy_1+dx_2\wedge dy_2);(z_1,z_2,u)&\mapsto e^{u/2}(r_1\cos\theta_1,r_2\cos\theta_2, r_1\sin\theta_1,r_2\sin\theta_2)

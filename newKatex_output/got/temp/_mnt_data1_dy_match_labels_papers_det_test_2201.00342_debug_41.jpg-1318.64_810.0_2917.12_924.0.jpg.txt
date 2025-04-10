@@ -1,1 +1,0 @@
-| \vartheta ( t ) | \leq 2 | t | \operatorname* { l o g } | t | , \mkern 36mu | t | > 4 , \mkern 18mu | \Re t | \geq 1 . 

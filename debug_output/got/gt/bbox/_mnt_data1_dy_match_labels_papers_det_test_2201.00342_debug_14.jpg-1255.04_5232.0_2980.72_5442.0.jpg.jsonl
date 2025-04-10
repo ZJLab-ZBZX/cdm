@@ -1,4 +1,0 @@
-{"bbox": [477, 31, 673, 58], "token": "line:\n\\texttt{term[k]}"}
-{"bbox": [691, 39, 722, 55], "token": ":="}
-{"bbox": [735, 7, 1028, 79], "token": "\\frac{C_k(p)}{a^k}+\\Turing(\\varepsilon_3)\\quad\\text{where}\\quad"}
-{"bbox": [], "token": "\\varepsilon_3=\\frac{\\varepsilon_2}{4L}.\n\nnorm_str:"}

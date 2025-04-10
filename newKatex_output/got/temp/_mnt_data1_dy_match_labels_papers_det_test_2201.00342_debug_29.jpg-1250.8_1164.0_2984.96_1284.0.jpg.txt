@@ -1,1 +1,0 @@
-2 ^ { d } > 1 0 ( n + 4 ) , \mkern 36mu 2 ^ { d } > ( 2 . 3 8 5 M _ { n } + 2 . 5 \mkern 3mu N _ { n } ) / \varepsilon 

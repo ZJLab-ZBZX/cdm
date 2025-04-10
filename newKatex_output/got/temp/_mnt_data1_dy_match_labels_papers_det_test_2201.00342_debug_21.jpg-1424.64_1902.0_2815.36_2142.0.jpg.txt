@@ -1,1 +1,0 @@
-\frac { 5 ^ { x } } { ( 2 \pi ) ^ { \frac { x - 1 } { 2 } } \Gamma ( x / 2 + 1 / 2 ) } ( \frac { \Gamma ( x + 1 ) } { \Gamma ( x / 3 + 2 ) } ) ^ { 1 / 2 } 

@@ -1,1 +1,0 @@
-\texttt{d[n,k]}=d^{(n)}_k+\Turing\Bigl(f_{3n/2-k}\frac{\sqrt{2\pi}}{128}\frac{(\pia^2/8)^{n/2}\, 2^{2k}\,\epsilon_4} {\Gamma((3n-2k+1)/2)}\Bigr).

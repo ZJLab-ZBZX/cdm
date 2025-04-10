@@ -1,1 +1,0 @@
-\bar{\mathcal{E}}^{(i)}_k := \left\{x \in \mathbb{R}^d \mid \left\|B_k^{(i)}(x - g_k^{(i)})\right\|^2 \leq 1\right\}.

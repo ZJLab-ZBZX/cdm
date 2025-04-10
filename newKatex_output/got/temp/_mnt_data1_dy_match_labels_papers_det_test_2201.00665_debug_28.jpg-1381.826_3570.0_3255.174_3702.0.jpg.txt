@@ -1,1 +1,0 @@
-( V ( \mathcal { S } _ { a } ^ { \ell + 2 } ) \setminus \{ \kappa _ { a } ^ { \ell + 2 } \} ) \cup ( V ( \mathcal { S } _ { a } ^ { \ell + 2 } ) \setminus \{ \sigma _ { a } ^ { \ell + 2 } \} ) \cup V ( \mathcal { K } _ { a } ^ { \ell + 2 } ) 

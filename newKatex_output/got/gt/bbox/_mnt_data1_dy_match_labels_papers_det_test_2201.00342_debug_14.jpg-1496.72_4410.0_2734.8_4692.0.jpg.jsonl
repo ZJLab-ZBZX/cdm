@@ -1,3 +1,0 @@
-{"bbox": [667, 7, 836, 32], "token": "line:\n\\texttt{rssum}"}
-{"bbox": [845, 18, 869, 27], "token": "="}
-{"bbox": [], "token": "\\sum_{k=1}^{L}\\frac{C_{L-k}(p)}{a^{L-k}}+\\Turing(\\varepsilon_2/2).\n\nnorm_str:"}

@@ -1,1 +1,0 @@
-\operatorname* { l i m } _ { N \to \infty } E ( t r ( Z _ { N } ^ { k } ) ) = \frac { 1 } { 2 \pi } \int _ { - 2 } ^ { 2 } t ^ { k } \sqrt { 4 - t ^ { 2 } } d t 

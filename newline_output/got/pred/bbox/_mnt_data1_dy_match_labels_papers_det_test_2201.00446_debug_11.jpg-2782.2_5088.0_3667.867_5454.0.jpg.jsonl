@@ -1,4 +1,0 @@
-{"bbox": [7, 27, 99, 66], "token": "F_k(x^*_\\phi)"}
-{"bbox": [111, 30, 133, 58], "token": "&\\leq"}
-{"bbox": [147, 7, 368, 76], "token": "\\frac{L_f}{2}||x^*_{F_k}-x^*_\\phi||^2,\\\\"}
-{"bbox": [385, 7, 635, 76], "token": "&=\\frac{L_f}{2}d(\\mathcal{X}^*_\\phi,\\mathcal{X}^*_{F_k})^2."}

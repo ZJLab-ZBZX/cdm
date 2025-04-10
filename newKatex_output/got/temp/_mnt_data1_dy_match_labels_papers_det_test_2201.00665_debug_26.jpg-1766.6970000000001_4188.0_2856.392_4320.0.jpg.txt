@@ -1,1 +1,0 @@
-\sigma _ { \lambda - 1 } ( \sigma _ { \lambda } ^ { - 1 } ( \kappa _ { a } ^ { \ell } ) ) \in \{ \kappa _ { \lambda } ^ { \ell - 1 } , \kappa _ { \beta } ^ { \ell - 1 } \} , 

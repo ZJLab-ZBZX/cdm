@@ -1,1 +1,0 @@
-s _ { 1 ^ { r } } ^ { g } \cdot \left[ \sum _ { c _ { 0 } + \cdots + c _ { \mu } r = ( r + 1 ) ( d - r ) - r g } \left( \prod _ { i = 0 } ^ { r } s _ { \alpha _ { i } } \right) \right] 

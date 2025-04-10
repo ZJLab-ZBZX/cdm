@@ -1,5 +1,0 @@
-{"bbox": [426, 23, 791, 63], "token": "line:\n\\texttt{v[k]}=V(k)+\\Turing(2^{-d}"}
-{"bbox": [794, 7, 816, 78], "token": "\\frac{4}{\\pi}"}
-{"bbox": [819, 23, 859, 54], "token": "2^{2k}"}
-{"bbox": [861, 28, 1108, 63], "token": "),\\quad\\texttt{w[k]}=W(k)"}
-{"bbox": [], "token": "+\\Turing\\Bigl(2^{-d}\\frac{1}{k!}\\left(\\frac{\\pi}{2}\\right)^k\\Bigr),\n\nnorm_str:"}

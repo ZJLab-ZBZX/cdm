@@ -1,1 +1,0 @@
-s _ { \lambda } \cdot s _ { \mu } = \sum c _ { \lambda \mu } ^ { \nu } s _ { \nu } 

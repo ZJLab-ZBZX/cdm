@@ -1,1 +1,0 @@
-\frac{||\mathbf{a}_k^{(i)}||}{\sigma_{max}(A_k^{(i)})} \leq r \leq \frac{||\mathbf{a}_k^{(i)}||}{\sigma_\text{min}(A_k^{(i)})}

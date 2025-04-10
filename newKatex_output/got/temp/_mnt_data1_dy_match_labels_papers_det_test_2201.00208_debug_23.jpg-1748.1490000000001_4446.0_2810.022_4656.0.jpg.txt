@@ -1,1 +1,0 @@
-\mu _ { \varepsilon } = \prod _ { i \in I _ { \varepsilon } } \mu _ { i } \mkern 36mu \text {for } \varepsilon \in \{ + , - \} , 

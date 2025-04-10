@@ -1,1 +1,0 @@
-\sigma _ { \lambda - 1 } ( \mathcal { P } _ { b } ^ { 1 } ) \setminus \{ \kappa _ { b } ^ { 1 } \} \subset ( V ( \mathcal { S } _ { b } ^ { 1 } ) \setminus \{ \kappa _ { b } ^ { 1 } \} ) \cup V ( \mathcal { K } ^ { 1 } ) = N _ { Y _ { L } } ( \kappa _ { b } ^ { 1 } ) , 

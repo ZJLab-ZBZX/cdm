@@ -1,1 +1,0 @@
-{"bbox": [], "token": "line:\ne_{l}^{T}x&=\\sum_{j\\in\\mathcal{N}^{(i)}}(e_{l}^{(j)}v^{(i)})^{T}x&\\leq\\sum_{j\\in\\mathcal{N}^{(i)}}c_{l}^{(j)}(s^{(ij)}+a^{(ij)})\n\nnorm_str:"}

@@ -1,1 +1,0 @@
-\nu ^ { i } ( d x _ { i } ) \propto \operatorname* { e x p } ( - \Phi _ { i } ^ { r } ( x _ { i } ) ) \mu _ { i } ^ { r } ( d x _ { i } ) . 

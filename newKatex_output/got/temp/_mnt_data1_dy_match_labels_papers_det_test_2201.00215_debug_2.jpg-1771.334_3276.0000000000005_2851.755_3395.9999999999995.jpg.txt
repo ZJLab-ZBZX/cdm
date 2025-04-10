@@ -1,1 +1,0 @@
-c \phi _ { p } ( m + r ) \equiv 0 \allowbreak \mkern 18mu ( { \mathrm { m o d } } \mkern 6mu p ^ { 2 } ) . 

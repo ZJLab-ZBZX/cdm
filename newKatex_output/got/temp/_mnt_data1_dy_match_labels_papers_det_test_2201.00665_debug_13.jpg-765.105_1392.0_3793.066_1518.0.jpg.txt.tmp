@@ -1,1 +1,0 @@
-d(\sigma,\tau)\leq d(\sigma,\tau_*)+d(\tau_*,\tau)\leq 4n^3(1+f(n))+8n^3(1+2f(n))(n+1)=8n^4(1+o(1)).

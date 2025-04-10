@@ -1,7 +1,0 @@
-{"bbox": [557, 7, 774, 47], "token": "line:\n\\Tilde{\\sigma}^{-1}(\\kappa_a^{\\ell+1})"}
-{"bbox": [787, 11, 806, 46], "token": "\\notin"}
-{"bbox": [817, 11, 854, 46], "token": "V(\\mathcal"}
-{"bbox": [856, 7, 902, 47], "token": "P_a^\\ell)"}
-{"bbox": [912, 16, 933, 38], "token": "\\cup"}
-{"bbox": [942, 11, 979, 46], "token": "V(\\mathcal"}
-{"bbox": [], "token": "P_b^\\ell),\n\nnorm_str:"}

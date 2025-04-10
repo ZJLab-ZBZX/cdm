@@ -1,1 +1,0 @@
-\sigma _ { \lambda - 1 } ( \{ v _ { a } ^ { 1 , 2 } , v _ { b } ^ { 1 , 2 } \} ) \subset \sigma _ { s } ( V ( X ^ { 1 } ) ) \mkern 5mu \Longrightarrow \mkern 5mu \sigma _ { \lambda - 1 } ( V ( X ^ { 1 } ) \setminus \{ \omega _ { a } ^ { 1 , 2 } , v _ { b } ^ { 1 , 2 } \} ) \mathrel { \mathrlap { \not } } \subsetneq \sigma _ { s } ( V ( X ^ { 1 } ) ) , 

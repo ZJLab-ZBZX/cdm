@@ -1,1 +1,0 @@
-| R _ { k } ^ { \prime \prime } | < \frac { f _ { m / 2 } } { 2 } \cdot \frac { \sqrt { 2 \pi } } { 1 2 8 } \frac { ( \pi a ^ { 2 } / 8 ) ^ { n / 2 } 2 ^ { 2 k } } { \Gamma ( ( m + 1 ) / 2 ) } 

@@ -1,1 +1,0 @@
-Z _ { u } = \mathbb { E } ^ { \mu _ { 0 } ^ { u } } \left[ \operatorname* { e x p } ( - \Phi _ { u } ( u ) ) \right] , \mkern 18mu Z _ { \mathord { \boldsymbol { \sigma } } } = \mathbb { E } ^ { \mu _ { 0 } ^ { \sigma } } \left[ \operatorname* { e x p } ( - \Phi _ { \mathord { \boldsymbol { \sigma } } } ( \mathord { \boldsymbol { \sigma } } ) ) \right] . 

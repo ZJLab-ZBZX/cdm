@@ -1,1 +1,0 @@
-\begin{array} { r l r } \displaystyle & \displaystyle { { } x _ { 1 } ( f _ { 1 } , f _ { 2 } ) = f _ { 1 } - \varphi ( a f _ { 1 } - a f _ { 2 } ) , } & \displaystyle { x _ { 2 } ( f _ { 1 } , f _ { 2 } ) = f _ { 2 } - \varphi ( a f _ { 1 } - a f _ { 2 } ) } \\ \end{array} 

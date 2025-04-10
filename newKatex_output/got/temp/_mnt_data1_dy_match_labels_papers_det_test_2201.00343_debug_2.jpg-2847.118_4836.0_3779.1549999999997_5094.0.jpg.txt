@@ -1,1 +1,0 @@
-\mathcal { C } \nobreak \mkern 2mu \mathpunct { } \mkern -3mu { : } \mkern 6mu D ( \mathcal { C } ) \subset \bigoplus _ { i = 1 } ^ { N } \mathcal { X } \longrightarrow \bigoplus _ { i = 1 } ^ { N } \mathcal { U } 

@@ -1,1 +1,0 @@
-\sigma ( V ( \mathcal { P } _ { a } ^ { \ell } ) \cup V ( \mathcal { P } _ { b } ^ { \ell } ) \setminus \{ v _ { a } ^ { \ell } , v _ { b } ^ { \ell } \} ) \subseteq V ( \mathcal { K } ^ { \ell } ) \cup \{ \kappa _ { a } ^ { \ell } , \kappa _ { b } ^ { \ell } \} . 

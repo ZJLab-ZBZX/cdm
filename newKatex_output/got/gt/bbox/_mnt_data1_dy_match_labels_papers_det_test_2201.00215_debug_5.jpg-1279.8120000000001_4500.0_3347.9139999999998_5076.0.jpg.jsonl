@@ -1,6 +1,0 @@
-{"bbox": [200, 33, 400, 68], "token": "line:\nCG_{2k}(z)"}
-{"bbox": [412, 46, 436, 55], "token": "&="}
-{"bbox": [446, 7, 861, 99], "token": "\\prod_{n=0}^\\infty(1+zq^{n+1})^{2k}(1+z^{-1}q^n)^{2k}"}
-{"bbox": [872, 42, 896, 58], "token": "\\equiv"}
-{"bbox": [907, 7, 1335, 99], "token": "\\prod_{n=0}^\\infty(1+z^2q^{2n+2})^{k}(1+z^{-2}q^{2n})^{k}"}
-{"bbox": [], "token": "\\pmod{2}.\n\nnorm_str:"}

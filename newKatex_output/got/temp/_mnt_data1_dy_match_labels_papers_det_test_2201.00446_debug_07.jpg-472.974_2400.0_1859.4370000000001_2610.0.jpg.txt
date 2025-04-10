@@ -1,1 +1,0 @@
-\bar { \mathcal { E } } _ { k } ^ { ( i ) } : = \left\{ x \in \mathbb { R } ^ { d } \mid \left\| B _ { k } ^ { ( i ) } ( x - g _ { k } ^ { ( i ) } ) \right\| ^ { 2 } \leq 1 \right\} . 

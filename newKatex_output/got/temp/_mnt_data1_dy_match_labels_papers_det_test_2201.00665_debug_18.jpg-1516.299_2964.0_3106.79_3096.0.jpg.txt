@@ -1,1 +1,0 @@
-\sigma _ { \lambda - 2 } ^ { - 1 } ( \mu ) \neq \sigma _ { \lambda - 1 } ^ { - 1 } ( \mu ) \text { or } \sigma _ { \lambda - 2 } ^ { - 1 } ( \kappa _ { a } ^ { \ell } ) \neq \sigma _ { \lambda - 1 } ^ { - 1 } ( \kappa _ { a } ^ { \ell } ) ; 

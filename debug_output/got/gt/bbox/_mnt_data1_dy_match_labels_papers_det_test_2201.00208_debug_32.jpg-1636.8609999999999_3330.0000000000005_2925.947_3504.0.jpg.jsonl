@@ -1,5 +1,0 @@
-{"bbox": [551, 7, 761, 76], "token": "line:\n\\alpha_{\\sphere^3}=\\frac{1}{2}r_1^2"}
-{"bbox": [763, 28, 805, 58], "token": "d\\theta_1"}
-{"bbox": [816, 7, 869, 76], "token": "+\\frac{1}{2}"}
-{"bbox": [871, 23, 952, 61], "token": "r_2^2d\\theta_2,\\quad"}
-{"bbox": [], "token": "r_1^2+r_2^2=1.\n\nnorm_str:"}

@@ -1,1 +1,0 @@
-\mathcal { X } _ { F _ { k } } ^ { s } = \mathcal { X } _ { f _ { k } } ^ { s } \times \mathcal { X } _ { f _ { k } } ^ { s } \cdots \times \mathcal { X } _ { f _ { k } } ^ { s } . 

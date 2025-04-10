@@ -1,1 +1,0 @@
-2 ^ { d } > 1 0 ( n + 4 ) \mkern 18mu \text {and} \mkern 18mu 2 ^ { d } \geq 1 4 7 . 3 \cdot 2 ^ { 4 n } / \varepsilon _ { 6 } 

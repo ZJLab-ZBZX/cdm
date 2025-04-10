@@ -1,1 +1,0 @@
-\sigma _ { \lambda - 1 } ( v _ { b } ^ { 1 , 2 } ) \in ( V ( \mathcal { S } _ { b } ^ { 2 } ) \setminus \{ \kappa _ { b } ^ { 2 } \} ) \cup V ( \mathcal { K } ^ { 2 } ) . 

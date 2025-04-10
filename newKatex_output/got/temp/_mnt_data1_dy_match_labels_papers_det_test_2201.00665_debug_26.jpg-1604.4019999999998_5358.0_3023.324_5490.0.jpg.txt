@@ -1,1 +1,0 @@
-\sigma _ { \lambda - 2 } ^ { - 1 } ( \kappa _ { a } ^ { \ell } ) \in N _ { X _ { L } } ( \sigma _ { \lambda - 1 } ^ { - 1 } ( \kappa _ { a } ^ { \ell } ) ) \cap V ( X ^ { \ell - 1 } ) , 

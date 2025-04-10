@@ -1,5 +1,0 @@
-line:
- \mu_j\in V(\mathcal{K}^{el}_{a})\implies \sigma_{i_{j+1}}(v^{\ell+1})=\kappa_{b}^{\ell+1}\text{ and }\mu_j\in V(\mathcal{K}^{\ell+1}_{a})\implies \sigma_{i_{j+1}}(v^{\ep+1})=\kappa_{a}^{\ell+1}, 
-
-norm_str:
- 

@@ -1,1 +1,0 @@
-S ( 0 , n ) = F ( 0 , n ) \mkern 18mu \text { and } \mkern 18mu S ( n , n ) = 1 . 

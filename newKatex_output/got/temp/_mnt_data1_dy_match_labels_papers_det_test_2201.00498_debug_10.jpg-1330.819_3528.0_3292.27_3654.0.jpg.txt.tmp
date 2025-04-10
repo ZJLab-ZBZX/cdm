@@ -1,1 +1,0 @@
-Z_u = \mathbb{E}^{\mu_0^u}\left[\exp(-\Phi_u(u))\right], \quad Z_{\bm{\sigma}} = \mathbb{E}^{\mu_0^{\sigma}}\left[\exp(-\Phi_{\bm{\sigma}}(\bm{\sigma}))\right].

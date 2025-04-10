@@ -1,1 +1,0 @@
-\sigma _ { \xi } ( v _ { b } ^ { 1 , 2 } ) \in ( V ( \mathcal { S } _ { a } ^ { 3 } ) \setminus \{ \kappa _ { a } ^ { 3 } \} ) \cup ( V ( \mathcal { S } _ { b } ^ { 3 } ) \setminus \{ \kappa _ { b } ^ { 3 } \} ) \text { and } \sigma _ { \xi } ( v _ { b } ^ { 1 , 2 } ) \in V ( \mathcal { K } ^ { 3 } ) 

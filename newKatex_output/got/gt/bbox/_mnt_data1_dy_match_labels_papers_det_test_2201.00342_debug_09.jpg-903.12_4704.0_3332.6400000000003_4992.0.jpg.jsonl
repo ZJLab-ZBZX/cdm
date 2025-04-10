@@ -1,2 +1,0 @@
-{"bbox": [522, 7, 1014, 106], "token": "line:\nS_1:=\\sum_{n=1}^N\\frac{1}{n^s}+\\Turing(\\varepsilon/6),\\qquadS_2:=\\sum_{k=0}^K"}
-{"bbox": [], "token": "\\frac{C_k(q)}{a^k}+RS_K+\\Turing(A_1\\varepsilon/3).\n\nnorm_str:"}

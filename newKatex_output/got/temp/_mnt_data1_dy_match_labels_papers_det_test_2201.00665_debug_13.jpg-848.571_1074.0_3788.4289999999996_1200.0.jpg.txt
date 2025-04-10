@@ -1,1 +1,0 @@
-d ( v _ { i } , v _ { j } ) \leq d ( v _ { i } , \sigma ^ { \prime } ) + d ( \sigma ^ { \prime } , v _ { j } ) \leq 4 n ^ { 3 } ( 1 + f ( n ) ) + 4 n ^ { 3 } ( 1 + f ( n ) ) \leq 8 n ^ { 3 } ( 1 + 2 f ( n ) ) 

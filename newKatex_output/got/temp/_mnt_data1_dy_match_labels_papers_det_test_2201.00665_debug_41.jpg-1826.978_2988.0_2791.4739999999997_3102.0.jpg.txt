@@ -1,1 +1,0 @@
-\lambda _ { ( L , n ) } ( \ell + 1 ) \geq 2 5 \lambda _ { ( L , n ) } ( \ell ) . 

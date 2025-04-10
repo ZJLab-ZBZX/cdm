@@ -1,1 +1,0 @@
-b _ { i , j } ^ { \prime } = \left\{ \begin{array} { l l } \textstyle { - b _ { i , j } b _ { i , j } + \frac { | b _ { i , k } | b _ { k , j } + b _ { i , k } | b _ { k , j } | } { 2 } } \\ \end{array} \right. \mkern 36mu \text {if } i = k \text { or } j = k , 

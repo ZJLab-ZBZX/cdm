@@ -1,5 +1,0 @@
-{"bbox": [292, 7, 677, 116], "token": "line:\n\\sum_{j=1}^{\\infty}\\left(\\frac{1}{\\epsilon_0^{-1}+\\delta\\lambda_j^{\\alpha/2}}\\right)^2\\langle"}
-{"bbox": [679, 47, 806, 83], "token": "e_j,(a+\\delta"}
-{"bbox": [806, 41, 995, 82], "token": "A^{\\alpha/2})(\\epsilon_0^{-1}+\\delta"}
-{"bbox": [996, 41, 1243, 82], "token": "A^{\\alpha/2})^{-2}(ae_k)\\rangle_{\\mathcal{H}}^2\\leq"}
-{"bbox": [], "token": "C\\|ae_k\\|_{\\mathcal{H}}^2\\sum_{j=1}^{\\infty}\\left(\\frac{1}{\\eps_0^{-1}+\\delta\\lambda_j^{\\alpha/2}}\\right)^{2}<\\infty,\n\nnorm_str:"}

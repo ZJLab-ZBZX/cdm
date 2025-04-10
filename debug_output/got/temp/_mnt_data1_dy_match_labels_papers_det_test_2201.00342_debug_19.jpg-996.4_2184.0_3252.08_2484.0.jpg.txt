@@ -1,5 +1,0 @@
-line:
- \begin{aligned}\begin{split}\mathrm{Fp}\left[\mathrm{m}\right] &= F^{(m)}(p)+\mathcal{O}^*(\tilde{\varepsilon}_5(m)), \qquad 0\leq m\leq 3L-3,\mathrm{d}\left[\mathfrak{k},\mathrm{j}\right] &= d_j^{(k)}+\mathcal{O}^*(\gamma_{k,j}), \qquad 0\leq k\leq L-1, \quad 0\leq j\leq 3k/2,\end{split}\end{aligned} 
-
-norm_str:
- 

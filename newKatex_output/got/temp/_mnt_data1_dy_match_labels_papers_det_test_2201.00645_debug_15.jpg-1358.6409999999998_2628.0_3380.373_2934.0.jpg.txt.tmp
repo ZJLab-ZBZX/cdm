@@ -1,1 +1,0 @@
-\frac{L_n^2}{n!}\cdot \binom{n}{k}\cdot D_{n-k} = \frac{L_n^2}{n!}\cdot \binom{n}{k}\cdot \binom{n-k}{i=0}(-1)^i \frac{(n-k)!}{i!}

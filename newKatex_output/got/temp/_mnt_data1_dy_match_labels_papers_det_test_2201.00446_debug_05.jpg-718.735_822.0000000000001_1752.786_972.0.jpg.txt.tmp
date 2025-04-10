@@ -1,1 +1,0 @@
-x_{k+1}^{(i)} := x_k^{(i)} - \alpha(\nabla_{x_k^{(i)}} \hat{f}_k + \varepsilon_k).

@@ -1,6 +1,0 @@
-{"bbox": [375, 30, 700, 68], "token": "line:\nP_1(n):&=(-1)^{n+1}"}
-{"bbox": [703, 36, 713, 60], "token": "i"}
-{"bbox": [720, 7, 766, 99], "token": "\\sum_{k=0}^n"}
-{"bbox": [769, 29, 847, 68], "token": "(-1)^k"}
-{"bbox": [849, 7, 1161, 99], "token": "V_kW_{2n-2k}P_2(n):&=\\sum_{k=0}^n"}
-{"bbox": [], "token": "i^{n-k}V_kW_{n-k}.\n\nnorm_str:"}

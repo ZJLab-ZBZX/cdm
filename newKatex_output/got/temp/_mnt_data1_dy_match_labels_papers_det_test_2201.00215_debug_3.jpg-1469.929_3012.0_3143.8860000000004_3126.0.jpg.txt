@@ -1,1 +1,0 @@
-( A ; q ) _ { \infty } = ( 1 - A ) ( 1 - A q ) \cdots ( 1 - A q ^ { n } ) \cdots 

@@ -1,1 +1,0 @@
-L _ { g , d , k } ^ { \prime } = | L _ { + } ^ { \prime } | - | L _ { - } ^ { \prime } | , 

@@ -1,1 +1,0 @@
-\sigma _ { i + 1 } ^ { - 1 } ( \sigma _ { i } ( v _ { b } ^ { \ell } ) ) \in N _ { X _ { L } } ( v _ { b } ^ { \ell } ) \cap V ( \mathcal { P } _ { b } ^ { \ell } ) , 

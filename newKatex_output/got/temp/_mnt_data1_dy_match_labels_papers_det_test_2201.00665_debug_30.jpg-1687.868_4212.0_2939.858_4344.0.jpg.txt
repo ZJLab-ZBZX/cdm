@@ -1,1 +1,0 @@
-\sigma _ { \lambda - 1 } ( v _ { a } ^ { \ell } ) = \mu ^ { \prime } , \  \sigma _ { \lambda } ( \sigma _ { \lambda - 1 } ^ { - 1 } ( \mu ^ { \prime } ) ) = \kappa _ { a } ^ { \ell } . 

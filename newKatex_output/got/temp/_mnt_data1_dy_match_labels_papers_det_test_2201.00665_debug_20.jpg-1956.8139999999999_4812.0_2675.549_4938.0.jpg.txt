@@ -1,1 +1,0 @@
-\sigma _ { i + 1 } ( v _ { a } ^ { \ell } ) \in \{ \kappa _ { a } ^ { \ell } , \kappa _ { b } ^ { \ell } \} . 

@@ -1,1 +1,0 @@
-\bar{K} = k \left[ \begin{array}{cc}I_s & \mathbf{0}_{s \times (N-s)} \mathbf{0}_{(N-s) \times S} & \mathbf{0}_{(N-s) \times (N-s)} \bar{P}_s & \bar{P}_s'\end{array} \right]

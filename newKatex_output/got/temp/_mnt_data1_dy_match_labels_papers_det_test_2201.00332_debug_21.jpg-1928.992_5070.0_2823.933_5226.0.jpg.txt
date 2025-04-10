@@ -1,1 +1,0 @@
-\left( A ^ { T } \right) ^ { \odot ( d - 1 ) } \mkern 3mu \mathrm { d i a g } \mkern 3mu A = 0 . 

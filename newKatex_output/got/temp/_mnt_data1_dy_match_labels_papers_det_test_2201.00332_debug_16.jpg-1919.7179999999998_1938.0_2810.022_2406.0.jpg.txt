@@ -1,1 +1,0 @@
-\tau _ { 4 } = \left( \begin{array} { c c c c } \textstyle { 0 } & \textstyle { 0 } & \textstyle { 0 } & \textstyle { 0 1 } & \textstyle { 0 } & \textstyle { 0 } & \textstyle { 0 1 } & \textstyle { 1 } & \textstyle { 0 } & \textstyle { 0 1 } & \textstyle { 1 } & \textstyle { 1 } & \textstyle { 0 } \\ \end{array} \right) . 

@@ -1,5 +1,0 @@
-{"bbox": [352, 7, 744, 45], "token": "line:\n(\\R^3,dz'+x'dy'-y'dx')"}
-{"bbox": [756, 18, 788, 37], "token": "&\\to"}
-{"bbox": [800, 7, 1140, 45], "token": "(J^1\\R,dz-ydx);(x',y',z')"}
-{"bbox": [1152, 18, 1184, 37], "token": "&\\mapsto"}
-{"bbox": [], "token": "(x,y,z)=(x',2y',z'+x'y'),\n\nnorm_str:"}

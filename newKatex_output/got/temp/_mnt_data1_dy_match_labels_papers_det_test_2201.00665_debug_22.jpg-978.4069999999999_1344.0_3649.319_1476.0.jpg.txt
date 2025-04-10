@@ -1,1 +1,0 @@
-( V ( \mathcal { P } _ { a } ^ { \ell } ) \cup V ( \mathcal { P } _ { b } ^ { \ell } ) ) \setminus \sigma _ { i } ^ { - 1 } ( V ( \mathcal { K } ^ { \ell } ) ) = \{ v _ { b } ^ { \ell } \} \cup ( \sigma _ { i } ^ { - 1 } ( \{ \kappa _ { a } ^ { \ell } , \kappa _ { b } ^ { \ell } \} ) \cap ( V ( \mathcal { P } _ { a } ^ { \ell } ) \setminus \{ v _ { a } ^ { \ell } \} ) ) . 

@@ -1,1 +1,0 @@
-F_k(\mathbf{x}_k) := \sum_{i \in \mathcal{V}} f_k(x_k^{(i)}),

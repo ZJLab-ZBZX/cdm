@@ -1,9 +1,0 @@
-{"bbox": [394, 24, 583, 55], "token": "line:\n2^d>44"}
-{"bbox": [590, 30, 613, 61], "token": "\\,J,\\qquad"}
-{"bbox": [686, 30, 701, 54], "token": "2"}
-{"bbox": [726, 35, 748, 55], "token": ">"}
-{"bbox": [760, 30, 823, 55], "token": "6812\\,"}
-{"bbox": [831, 30, 851, 55], "token": "J"}
-{"bbox": [853, 7, 1068, 86], "token": "\\frac{m!}{\\varepsilon_5(m)},\\qquad0\\le"}
-{"bbox": [1080, 31, 1141, 59], "token": "m\\le"}
-{"bbox": [], "token": "\\min(M,21).\\qedhere\n\nnorm_str:"}

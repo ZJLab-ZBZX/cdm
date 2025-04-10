@@ -1,1 +1,0 @@
-\sigma _ { \lambda - 2 } ( \sigma _ { \lambda - 1 } ^ { - 1 } ( \mu ) ) \in \{ \kappa _ { a } ^ { \ell } , \kappa _ { b } ^ { \ell } \} 

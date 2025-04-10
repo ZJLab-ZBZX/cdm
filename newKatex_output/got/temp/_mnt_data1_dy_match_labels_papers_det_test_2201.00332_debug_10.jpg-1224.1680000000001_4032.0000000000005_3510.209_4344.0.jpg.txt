@@ -1,1 +1,0 @@
-\mathcal { S } _ { j k } ( A ) : = \sum _ { \ell = p _ { 1 } + p _ { 2 } + \ldots + p _ { k - 1 } + 1 } ^ { p _ { 1 } + p _ { 2 } + \ldots + p _ { k } } a _ { p _ { 1 } + p _ { 2 } + \ldots + p _ { j } , \ell } \mkern 3mu , \mkern 18mu j , k = 1 , \ldots , m . 

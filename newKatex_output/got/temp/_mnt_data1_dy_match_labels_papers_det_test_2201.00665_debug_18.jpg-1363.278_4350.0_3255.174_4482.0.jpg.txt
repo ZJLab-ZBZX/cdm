@@ -1,1 +1,0 @@
-\sigma _ { \xi - 2 } ^ { - 1 } ( \{ \kappa _ { a } ^ { \ell } , \mu \} ) \subset V ( \mathcal { C } _ { b } ^ { \ell } ) \text { and } \sigma _ { \xi - 2 } ( \sigma _ { \xi - 1 } ^ { - 1 } ( \kappa _ { a } ^ { \ell } ) ) \in V ( \mathcal { C } _ { b } ^ { \ell } ) . 

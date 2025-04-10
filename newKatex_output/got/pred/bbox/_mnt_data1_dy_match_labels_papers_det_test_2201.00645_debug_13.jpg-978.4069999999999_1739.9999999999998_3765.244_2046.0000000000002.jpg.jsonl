@@ -1,8 +1,0 @@
-{"bbox": [304, 18, 484, 106], "token": "line:\n\\binom{n}{0}^2\\cdot"}
-{"bbox": [493, 49, 533, 75], "token": "0!\\cdot"}
-{"bbox": [544, 44, 675, 83], "token": "(n-1)!\\!^0\\cdot"}
-{"bbox": [691, 14, 850, 116], "token": "\\left(\\sum_{i=0}^{n-0}(-1)^i\\cdot"}
-{"bbox": [866, 7, 1039, 116], "token": "\\binom{n-0}{i}\\right)^2\\cdot"}
-{"bbox": [1050, 44, 1194, 83], "token": "(n-1)!^{2i}\\cdot"}
-{"bbox": [1204, 49, 1231, 75], "token": "i!\\cdot"}
-{"bbox": [], "token": "n!^{2n-2i}\\right).\n\nnorm_str:"}

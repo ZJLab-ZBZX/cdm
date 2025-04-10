@@ -1,1 +1,0 @@
-\begin{aligned}R_{\theta_0}(z_1,z_2,u) &= (z_1\cos\theta_0-z_2\sin\theta_0,z_1\sin\theta_0+z_2\cos\theta_0,u);\eta(z_1,z_2,u) &= (\bar{z}_1,\bar{z}_2,u).\end{aligned}

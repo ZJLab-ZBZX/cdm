@@ -1,8 +1,0 @@
-{"bbox": [71, 25, 300, 104], "token": "\\Bigl|\\texttt{sum}-\\sum_{n=1}a_n\\Bigr|&\\le"}
-{"bbox": [312, 7, 358, 104], "token": "\\sum_{n=1}^N"}
-{"bbox": [369, 7, 775, 104], "token": "|a_n\\eta_{N-n+2}|+\\delta\\sum_{n=2}^{N+1}|1+\\eta_n|\\le\\\\"}
-{"bbox": [797, 42, 819, 70], "token": "&\\le"}
-{"bbox": [833, 39, 1040, 74], "token": "(A+\\delta)*1.06\\cdot"}
-{"bbox": [7, 17, 1463, 181], "token": "\\frac{N(3+N)}{2}2^{-d}+N\\delta<\\\\&<\\frac{2.2"}
-{"bbox": [], "token": "A(N+3)^2"}
-{"bbox": [323, 141, 370, 170], "token": "2^{-d}}{2}+\\frac{\\varepsilon}{2}<\\varepsilon.\\qedhere"}

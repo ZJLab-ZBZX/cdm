@@ -1,1 +1,0 @@
-||g_k^{(i)} - \nabla f_k(x_k^{(i)})|| \leq \frac{m_k^{(i)}}{\sigma_{\min}(A_k^{(i)})},

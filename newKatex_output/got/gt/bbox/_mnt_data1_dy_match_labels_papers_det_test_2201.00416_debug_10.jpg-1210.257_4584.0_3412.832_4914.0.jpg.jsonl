@@ -1,5 +1,0 @@
-{"bbox": [373, 31, 696, 113], "token": "line:\nL_{g,r,d}=\\int_{\\Gr(r+1,d+1)}"}
-{"bbox": [705, 50, 763, 85], "token": "\\sigma_{1^r}^g\\cdot"}
-{"bbox": [781, 7, 794, 129], "token": "\\left["}
-{"bbox": [794, 17, 1156, 123], "token": "\\sum_{\\alpha_0+\\cdots+\\alpha_r=(r+1)(d-r)-rg}\\left(\\prod_{i=0}^r"}
-{"bbox": [], "token": "\\sigma_{\\alpha_i}\\right)\\right]\n\nnorm_str:"}

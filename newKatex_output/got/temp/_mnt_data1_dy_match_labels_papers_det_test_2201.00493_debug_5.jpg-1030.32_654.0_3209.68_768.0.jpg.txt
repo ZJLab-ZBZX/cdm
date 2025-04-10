@@ -1,1 +1,0 @@
-R \subset \{ ( E , \xi ) \mid c _ { 2 } ( E ) = [ \text {supp} ( \xi ) ] + c \cdot o _ { X } \in \mathrm { C H } _ { 0 } ( X ) \} \subset M \times S ^ { [ d ] } 

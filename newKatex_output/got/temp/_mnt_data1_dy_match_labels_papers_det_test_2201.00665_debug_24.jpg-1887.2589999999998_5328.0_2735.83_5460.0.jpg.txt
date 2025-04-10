@@ -1,1 +1,0 @@
-\sigma _ { \lambda } ^ { - 1 } ( \sigma _ { \xi } ( v _ { b } ^ { 1 , 2 } ) ) \in V ( X ^ { 1 } ) ; 

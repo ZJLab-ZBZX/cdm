@@ -1,1 +1,0 @@
-\frac { L _ { n } ^ { 2 } } { n ! } \cdot \binom { n } { k } \cdot \left( \sum _ { i = 0 } ^ { n - k } ( - 1 ) ^ { i } \frac { ( n - k ) ! } { i ! } \right) . 

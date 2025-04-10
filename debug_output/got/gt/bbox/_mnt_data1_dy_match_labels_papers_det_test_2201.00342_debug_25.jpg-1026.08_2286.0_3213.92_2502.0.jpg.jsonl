@@ -1,4 +1,0 @@
-{"bbox": [527, 7, 812, 46], "token": "line:\nc_{2k}+\\Turing(2^{-2k}\\varepsilon_6),\\qquad"}
-{"bbox": [886, 11, 945, 46], "token": "(0\\le"}
-{"bbox": [957, 13, 1008, 42], "token": "k\\le"}
-{"bbox": [], "token": "J)\\quad\\text{where}\\quad\\varepsilon_6:=\\frac{1}{3J}\\frac{(2\\pi)^J}{J!}.\n\nnorm_str:"}

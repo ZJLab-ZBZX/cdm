@@ -1,1 +1,0 @@
-J(f;x)=J(f_1,\ldots,f_n;x_1,\ldots,x_n):=\begin{vmatrix}\frac{\partial f_1}{\partial x_1} & \cdots & \frac{\partial f_n}{\partial x_n} \frac{\partial f_1}{\partial x_n} & \cdots & \frac{\partial f_n}{\partial x_n}\end{vmatrix}\in\mathbb{C}^*=\mathbb{C}\setminus\{0\}.

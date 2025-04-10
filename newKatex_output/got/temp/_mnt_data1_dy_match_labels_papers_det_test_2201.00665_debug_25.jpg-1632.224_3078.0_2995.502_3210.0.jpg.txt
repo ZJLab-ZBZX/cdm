@@ -1,1 +1,0 @@
-| \sigma _ { \zeta } ^ { - 1 } ( V ( \mathcal { K } ^ { 1 } ) ) \setminus ( V ( \mathcal { P } _ { a } ^ { 1 } ) \cup V ( \mathcal { P } _ { b } ^ { 1 } ) ) | \geq 2 . 

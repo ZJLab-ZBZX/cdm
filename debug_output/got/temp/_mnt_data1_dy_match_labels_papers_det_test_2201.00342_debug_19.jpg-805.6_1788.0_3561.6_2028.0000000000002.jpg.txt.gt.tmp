@@ -1,1 +1,0 @@
-\texttt{wptcoef[k]}:=\max\Bigl\{\texttt{mag}\Bigl(68\frac{(L +2) A(\sigma)}{\varepsilon_4}\frac{\Gamma(k+1/2)^{1/2}}{(B_1 a \sqrt{\pi})^k}\Bigr), \texttt{mag}(40(L+2))\Bigr\}.

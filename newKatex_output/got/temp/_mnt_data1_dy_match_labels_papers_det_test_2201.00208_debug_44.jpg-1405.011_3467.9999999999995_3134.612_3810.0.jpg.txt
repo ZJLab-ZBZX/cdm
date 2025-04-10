@@ -1,1 +1,0 @@
-i ( e , e ^ { \prime } ) : = \left\{ \begin{array} { l l } \textstyle { 0 } & \textstyle { \text {if } e = e ^ { \prime } \text { or } e \cap e ^ { \prime } = \varnothing ; 1 } & \textstyle { \text {if } e ^ { \prime } \text { is lying on the left side in } e ; - 1 } & \textstyle { \text {if } e ^ { \prime } \text { is lying on the right side of } e . } \\ \end{array} \right. 

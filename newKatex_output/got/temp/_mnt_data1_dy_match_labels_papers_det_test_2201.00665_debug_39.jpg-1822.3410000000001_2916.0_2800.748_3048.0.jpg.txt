@@ -1,1 +1,0 @@
-\sigma _ { i _ { j } + 1 } ( v ^ { \ell + 1 } ) \in \{ \kappa _ { a } ^ { \ell + 1 } , \kappa _ { a } ^ { \ell + 1 } \} , 

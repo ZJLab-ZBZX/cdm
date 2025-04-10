@@ -1,5 +1,0 @@
-line:
- f = (f_1, \ldots, f_n) : \C^n \to \C^n, \quad f[A, \varphi](x) := x + \varphi(Ax) 
-
-norm_str:
- 

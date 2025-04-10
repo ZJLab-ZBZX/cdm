@@ -1,1 +1,0 @@
-\sigma _ { i + 1 } ^ { - 1 } ( \sigma _ { i } ( v _ { a } ^ { \ell } ) ) \mathrel { { \in } \mathllap { / \mkern 1mu } } V ( \mathcal { P } _ { a } ^ { \ell } ) , 

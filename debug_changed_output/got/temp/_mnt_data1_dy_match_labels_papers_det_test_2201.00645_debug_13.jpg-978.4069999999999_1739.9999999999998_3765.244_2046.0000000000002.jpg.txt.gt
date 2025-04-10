@@ -1,1 +1,0 @@
-\binom { n } { 0 } ^ { 2 } \cdot 0 ! \cdot ( n - 1 ) ! ^ { 0 } \cdot \left( \sum _ { i = 0 } ^ { n - 0 } ( - 1 ) ^ { i } \cdot \binom { n - 0 } { i } ^ { 2 } \cdot ( n - 1 ) ! ^ { 2 i } \cdot i ! \cdot n ! ^ { 2 n - 2 0 - 2 i } \right) .

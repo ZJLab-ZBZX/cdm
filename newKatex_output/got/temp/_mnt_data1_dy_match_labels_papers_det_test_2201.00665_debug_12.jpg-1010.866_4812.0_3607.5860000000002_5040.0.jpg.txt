@@ -1,1 +1,0 @@
-d ( \sigma ^ { \prime } , \tau ^ { \prime } ) \leq 4 ( n + 1 ) ^ { 3 } + | E ( Y ^ { \prime } ) | \leq 4 ( n + 1 ) ^ { 3 } + { \binom { n + 1 } { 2 } } = 4 n ^ { 3 } ( 1 + f ( n ) ) , 
