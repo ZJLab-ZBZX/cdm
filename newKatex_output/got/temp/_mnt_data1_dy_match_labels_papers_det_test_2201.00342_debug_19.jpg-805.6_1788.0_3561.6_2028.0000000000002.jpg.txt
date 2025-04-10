@@ -1,0 +1,5 @@
+line:
+ \text{wptocf[k] := max\Bigl\{\mbox{mag}\Bigl(68\frac{(L+2)A(\sigma)\,\Gamma(k+1/2)^{1/2}}{(B_1a\sqrt{\pi})^k}\Bigr),\mbox{mag}(40(L+2))\Bigr\}. 
+
+norm_str:
+ 

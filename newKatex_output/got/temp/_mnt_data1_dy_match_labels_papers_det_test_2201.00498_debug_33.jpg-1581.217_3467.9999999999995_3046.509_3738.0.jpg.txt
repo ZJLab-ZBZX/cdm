@@ -1,0 +1,1 @@
+\begin{array} { r l r } \displaystyle { \Delta w + \kappa ^ { 2 } w } & \displaystyle { { } = u \mkern 18mu \text {in } \mathbb { R } ^ { 2 } , \partial _ { r } w - i \kappa w } & \displaystyle { = o ( r ^ { - 1 / 2 } ) \mkern 18mu \text {as } r = | x | \to \infty , } \\ \end{array} 

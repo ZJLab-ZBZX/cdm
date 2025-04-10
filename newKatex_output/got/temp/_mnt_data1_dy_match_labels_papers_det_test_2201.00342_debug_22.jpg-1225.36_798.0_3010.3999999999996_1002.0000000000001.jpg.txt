@@ -1,0 +1,1 @@
+\left| F ^ { ( m ) } ( p ) - P ^ { ( m ) } ( p ) \right| \leq \frac { \varepsilon _ { 5 } ( m ) } { 2 } , \mkern 36mu ( 0 \leq m < M ) 

@@ -1,0 +1,1 @@
+\varphi\colon (\mathbb{S}^3\times \mathbb{R}_u, d(e^*\alpha_{\mathbb{S}^3}))\to (T^*\mathbb{R}^2\setminus \{\boldsymbol{0},\boldsymbol{0}\}), dx_1\wedge dy_1+dx_2\wedge dy_2);(z_1,z_2,u)\mapsto e^{u/2}(r_1\cos\theta_1,r_2\cos\theta_2,r_1\sin\theta_1,r_2\sin\theta_2)

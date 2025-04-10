@@ -1,0 +1,1 @@
+S _ { 1 } : = \sum _ { n = 1 } ^ { N } \frac { 1 } { n ^ { s } } + \mathfrak { O } ^ { * } ( \varepsilon / 6 ) , \mkern 36mu S _ { 2 } : = \sum _ { k = 0 } ^ { K } \frac { C _ { k } ( q ) } { a ^ { k } } + R S _ { K } + \mathfrak { O } ^ { * } ( A _ { 1 } \varepsilon / 3 ) . 

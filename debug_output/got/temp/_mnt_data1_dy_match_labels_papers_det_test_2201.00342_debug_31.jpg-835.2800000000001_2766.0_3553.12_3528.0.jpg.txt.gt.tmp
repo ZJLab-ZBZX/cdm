@@ -1,0 +1,1 @@
+\begin{aligned}&d^{(0)}_0=1, \quad d^{(0)}_k =0 \quad \text{for } k\ne0&d^{(n)}_k=0 \quad \text{for }\quad k<0 \quad\text{and for }\quad k>3n/2&2(3n-2k) d^{(n)}_k=\tfrac12 d^{(n-1)}_k+(1-2\sigma)d^{(n-1)}_{k-1}-2(3n-2k)(3n-2k+1)d^{(n-1)}_{k-2}&d^{(n)}_{3n/2} =-\sum_{k=0}^{3n/2 -1} (-1)^{3n/2-k} d^{(n)}_k\frac{(3n-2k)!}{(3n/2-k)!},\qquad  3n \equiv 0\pmod2.\end{aligned}

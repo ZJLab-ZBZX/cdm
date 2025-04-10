@@ -1,0 +1,25 @@
+
+\documentclass[12pt]{article}
+\usepackage[landscape]{geometry}
+\usepackage{geometry}
+\geometry{a5paper,scale=0.98}
+\pagestyle{empty}
+\usepackage{booktabs}
+\usepackage{amsmath}
+\usepackage{upgreek}
+\usepackage{amssymb}
+\usepackage{xcolor}
+\begin{document}
+\makeatletter
+\renewcommand*{\@textcolor}[3]{%
+  \protect\leavevmode
+  \begingroup
+    \color#1{#2}#3%
+  \endgroup
+}
+\makeatother
+\begin{displaymath}
+\mathcal { \mathcolor[RGB]{0,0,15}{S} } \mathcolor[RGB]{0,0,30}{(} \mathcolor[RGB]{0,0,45}{M} \mathcolor[RGB]{0,0,60}{)} \mathcolor[RGB]{0,0,75}{=} \mathcolor[RGB]{0,0,90}{\left(} \begin{array} {ccc} { \mathcolor[RGB]{0,0,105}{0} } & { \mathcolor[RGB]{0,0,120}{0} } & { \mathcolor[RGB]{0,0,135}{0} } \\ { \mathcolor[RGB]{0,0,150}{1} \mathcolor[RGB]{0,0,165}{2} } & { \mathcolor[RGB]{0,0,180}{0} } & { \mathcolor[RGB]{0,0,195}{0} } \\ { \mathcolor[RGB]{0,0,210}{6} } & { \mathcolor[RGB]{0,0,225}{9} } & { \mathcolor[RGB]{0,0,240}{0} } \end{array} \mathcolor[RGB]{0,0,255}{\right)} \mathcolor[RGB]{0,15,0}{.}
+\end{displaymath}
+\end{document}
+

@@ -1,0 +1,1 @@
+S_1:=\sum_{n=1}^N\frac{1}{n^s}+\Turing(\varepsilon/6),\qquadS_2:=\sum_{k=0}^K \frac{C_k(q)}{a^k}+RS_K+\Turing(A_1\varepsilon/3).

@@ -1,0 +1,1 @@
+V ( \mathcal { K } _ { b } ^ { \ell } ) \subset \sigma _ { k } ( V ( \mathcal { P } _ { a } ^ { \ell } ) ) \text { for } k > \xi , 

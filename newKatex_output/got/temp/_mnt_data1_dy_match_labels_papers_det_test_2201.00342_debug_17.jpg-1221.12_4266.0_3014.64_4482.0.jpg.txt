@@ -1,0 +1,1 @@
+\delta _ { k } = \frac { \varepsilon _ { 4 } a ^ { k } } { 4 } \mkern 18mu \text {and} \mkern 18mu \frac { T _ { k } } { a ^ { k } } \cdot 1 . 0 6 \cdot ( 2 k + 3 ) \cdot 2 ^ { - d _ { k } } < \frac { \varepsilon _ { 4 } } { 2 } . 

@@ -1,0 +1,28 @@
+
+\documentclass[12pt]{article}
+\usepackage[landscape]{geometry}
+\usepackage{geometry}
+\geometry{a5paper,scale=0.98}
+\pagestyle{empty}
+\usepackage{booktabs}
+\usepackage{amsmath}
+\usepackage{upgreek}
+\usepackage{amssymb}
+\usepackage{xcolor}
+\begin{document}
+\makeatletter
+\renewcommand*{\@textcolor}[3]{%
+  \protect\leavevmode
+  \begingroup
+    \color#1{#2}#3%
+  \endgroup
+}
+\makeatother
+\begin{displaymath}
+\mathcolor[RGB]{0,0,15}{line:
+z_1} \mathcolor[RGB]{0,0,30}{&=} \mathcolor[RGB]{0,0,45}{\frac{e^s\cos\theta+} \mathcolor[RGB]{0,0,60}{i} \mathcolor[RGB]{0,0,75}{(z\cos\theta-p_\theta\sin\theta)}{\sqrt{e^{2s}+z^2+p_\theta^2}},z_2} \mathcolor[RGB]{0,0,90}{&=} \mathcolor[RGB]{0,0,105}{\frac{e^s\sin\theta+} \mathcolor[RGB]{0,0,120}{i} \mathcolor[RGB]{0,0,135}{(z\sin\theta+p_\theta\cos\theta)}{\sqrt{e^{2s}+z^2+p_\theta^2}},e^u} \mathcolor[RGB]{0,0,150}{&=} \mathcolor[RGB]{0,0,165}{e^{2s}+z^2+p_\theta^2.
+
+norm_str:}
+\end{displaymath}
+\end{document}
+

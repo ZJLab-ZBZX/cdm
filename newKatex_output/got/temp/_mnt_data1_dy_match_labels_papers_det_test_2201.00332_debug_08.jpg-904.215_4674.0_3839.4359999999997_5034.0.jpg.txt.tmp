@@ -1,0 +1,1 @@
+\left(\begin{array}{ccc}0 & a & b 0 & 0 & c 0 & 0 & 0\end{array}\right), \quad \left(\begin{array}{ccc}a & b & -a-b a & b & -a-b a & b & -a-b\end{array}\right), \quad \left(\begin{array}{cc}0 & a & b 0 & c & -c 0 & c & -c\end{array}\right), \quad \left(\begin{array}{ll}0 & a & -a b & c & -c b & c & -c\end{array}\right).

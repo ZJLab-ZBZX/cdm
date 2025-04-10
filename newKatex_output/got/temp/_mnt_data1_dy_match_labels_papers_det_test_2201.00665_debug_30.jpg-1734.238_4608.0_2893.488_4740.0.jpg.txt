@@ -1,0 +1,1 @@
+\sigma _ { \lambda - 1 } ^ { - 1 } ( \{ \kappa _ { a } ^ { 1 } , \kappa _ { b } ^ { 1 } \} ) \subset V ( X _ { a } ^ { 1 } ) \setminus \{ v ^ { 1 } \} ; 

@@ -1,0 +1,9 @@
+[
+  {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/31.jpg-835.2800000000001_2766.0_3553.12_3528.0.jpg",
+        "gt": "\\begin{align*}&d^{(0)}_0=1, \\quad d^{(0)}_k =0 \\quad \\text{for } k\\ne0&d^{(n)}_k=0 \\quad \\text{for }\\quad k<0 \\quad\\text{and for }\\quad k>3n/2&2(3n-2k) d^{(n)}_k=\\tfrac12 d^{(n-1)}_k+(1-2\\sigma)d^{(n-1)}_{k-1}-2(3n-2k)(3n-2k+1)d^{(n-1)}_{k-2}&d^{(n)}_{3n/2} =-\\sum_{k=0}^{3n/2 -1} (-1)^{3n/2-k} d^{(n)}_k\\frac{(3n-2k)!}{(3n/2-k)!},\\qquad  3n \\equiv 0\\pmod2.\\end{align*}",
+        "pred": "\\begin{align*}\\begin{array}{cccccccc}d_0^{(0)}=1, & d_k^{(0)}=0 & \\text{for } & k\\neq 0d_k^{(n)}=0 & \\text{for } & k<0 & \\text{and for } & k>3n/22(3n-2k)d_k^{(n)}=\\frac{1}{2}d_k^{(n-1)}+(1-2\\sigma)d_k^{(n-1)}-2(3n-2k)(3n-2k+1)d_{k-2}^{(n-1)}d_{n/2}^{(n)}=-\\sum_{k=0}^{n/2-1}(-1)^{3n/2-k}d_k^{(n)}\\frac{(3n-2k)!}{(3n/2-k)!}, &  & 3n\\equiv 0 & (\\mathrm{mod}\\;2).\\end{array}\\end{align*}"
+    }
+]
+
+

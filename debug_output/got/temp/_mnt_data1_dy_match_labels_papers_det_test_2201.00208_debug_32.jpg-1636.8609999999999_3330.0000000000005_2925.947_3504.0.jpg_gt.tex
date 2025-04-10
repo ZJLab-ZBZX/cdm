@@ -1,0 +1,28 @@
+
+\documentclass[12pt]{article}
+\usepackage[landscape]{geometry}
+\usepackage{geometry}
+\geometry{a5paper,scale=0.98}
+\pagestyle{empty}
+\usepackage{booktabs}
+\usepackage{amsmath}
+\usepackage{upgreek}
+\usepackage{amssymb}
+\usepackage{xcolor}
+\begin{document}
+\makeatletter
+\renewcommand*{\@textcolor}[3]{%
+  \protect\leavevmode
+  \begingroup
+    \color#1{#2}#3%
+  \endgroup
+}
+\makeatother
+\begin{displaymath}
+\mathcolor[RGB]{0,0,15}{line:
+\alpha_{\sphere^3}=\frac{1}{2}r_1^2} \mathcolor[RGB]{0,0,30}{d\theta_1} \mathcolor[RGB]{0,0,45}{+\frac{1}{2}} \mathcolor[RGB]{0,0,60}{r_2^2d\theta_2,\quad} \mathcolor[RGB]{0,0,75}{r_1^2+r_2^2=1.
+
+norm_str:}
+\end{displaymath}
+\end{document}
+

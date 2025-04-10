@@ -1,0 +1,5 @@
+line:
+ -e_l^T x &= \sum_{j \in \mathcal{N}^{(i)}} (e_l^{(j)}(-v^{(ij)}))^T x     &\leq \sum_{j \in \mathcal{N}^{(i)}} e_l^{(j)}(a^{(j)}-s^{(j)}). 
+
+norm_str:
+ 

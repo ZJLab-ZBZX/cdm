@@ -1,0 +1,5 @@
+line:
+ r &\geq \max_{V_k} ||(A^{(i)})^{-1} V_k \mathbf{a}^{(i)}||,     &\geq \sigma_{\min}(((A^{(i)})^{-1})||V_k \mathbf{a}^{(i)}||),     &= \frac{||\mathbf{a}^{(i)}||}{\sigma_{\max}(A^{(i)})}. 
+
+norm_str:
+ 

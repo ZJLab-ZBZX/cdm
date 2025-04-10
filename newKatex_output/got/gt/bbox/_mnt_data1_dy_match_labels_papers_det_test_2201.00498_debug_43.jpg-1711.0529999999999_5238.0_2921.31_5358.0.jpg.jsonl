@@ -1,0 +1,5 @@
+{"bbox": [556, 8, 734, 46], "token": "line:\n\\nu^{i}(dx_{i})"}
+{"bbox": [746, 21, 770, 38], "token": "\\propto"}
+{"bbox": [781, 7, 851, 49], "token": "\\exp\\big("}
+{"bbox": [860, 11, 979, 47], "token": "-\\Phi_{i}^{r}(x_{i})"}
+{"bbox": [], "token": "\\big)\\mu_{r}^{i}(dx_{i}).\n\nnorm_str:"}

@@ -1,0 +1,1 @@
+b'_{i,j}=\begin{cases}-b_{i,j}b_{i,j}+\frac{|b_{i,k}|b_{k,j}+b_{i,k}|b_{k,j}|}{2}\end{cases}\qquad \text{if } i=k\text{ or }j=k,

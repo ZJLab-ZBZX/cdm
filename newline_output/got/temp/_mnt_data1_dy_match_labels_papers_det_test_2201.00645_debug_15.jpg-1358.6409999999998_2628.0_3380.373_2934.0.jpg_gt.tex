@@ -1,0 +1,25 @@
+
+\documentclass[12pt]{article}
+\usepackage[landscape]{geometry}
+\usepackage{geometry}
+\geometry{a5paper,scale=0.98}
+\pagestyle{empty}
+\usepackage{booktabs}
+\usepackage{amsmath}
+\usepackage{upgreek}
+\usepackage{amssymb}
+\usepackage{xcolor}
+\begin{document}
+\makeatletter
+\renewcommand*{\@textcolor}[3]{%
+  \protect\leavevmode
+  \begingroup
+    \color#1{#2}#3%
+  \endgroup
+}
+\makeatother
+\begin{displaymath}
+\mathcolor[RGB]{0,0,15}{\frac { \mathcolor[RGB]{0,0,30}{L} _ { \mathcolor[RGB]{0,0,45}{n} } ^ { \mathcolor[RGB]{0,0,60}{2} } } { \mathcolor[RGB]{0,0,75}{n} \mathcolor[RGB]{0,0,90}{!} } } \mathcolor[RGB]{0,0,105}{\cdot} \mathcolor[RGB]{0,0,120}{\binom { \mathcolor[RGB]{0,0,135}{n} } { \mathcolor[RGB]{0,0,150}{k} } } \mathcolor[RGB]{0,0,165}{\cdot} \mathcolor[RGB]{0,0,180}{D} _ { \mathcolor[RGB]{0,0,195}{n} \mathcolor[RGB]{0,0,210}{-} \mathcolor[RGB]{0,0,225}{k} } \mathcolor[RGB]{0,0,240}{=} \mathcolor[RGB]{0,0,255}{\frac { \mathcolor[RGB]{0,15,0}{L} _ { \mathcolor[RGB]{0,15,15}{n} } ^ { \mathcolor[RGB]{0,15,30}{2} } } { \mathcolor[RGB]{0,15,45}{n} \mathcolor[RGB]{0,15,60}{!} } } \mathcolor[RGB]{0,15,75}{\cdot} \mathcolor[RGB]{0,15,90}{\binom { \mathcolor[RGB]{0,15,105}{n} } { \mathcolor[RGB]{0,15,120}{k} } } \mathcolor[RGB]{0,15,135}{\cdot} \mathcolor[RGB]{0,15,150}{\left(} \mathcolor[RGB]{0,15,165}{\sum} _ { \mathcolor[RGB]{0,15,180}{i} \mathcolor[RGB]{0,15,195}{=} \mathcolor[RGB]{0,15,210}{0} } ^ { \mathcolor[RGB]{0,15,225}{n} \mathcolor[RGB]{0,15,240}{-} \mathcolor[RGB]{0,15,255}{k} } \mathcolor[RGB]{0,30,0}{(} \mathcolor[RGB]{0,30,15}{-} \mathcolor[RGB]{0,30,30}{1} \mathcolor[RGB]{0,30,45}{)} ^ { \mathcolor[RGB]{0,30,60}{i} } \mathcolor[RGB]{0,30,75}{\frac { \mathcolor[RGB]{0,30,90}{(} \mathcolor[RGB]{0,30,105}{n} \mathcolor[RGB]{0,30,120}{-} \mathcolor[RGB]{0,30,135}{k} \mathcolor[RGB]{0,30,150}{)} \mathcolor[RGB]{0,30,165}{!} } { \mathcolor[RGB]{0,30,180}{i} \mathcolor[RGB]{0,30,195}{!} } } \mathcolor[RGB]{0,30,210}{\right)}
+\end{displaymath}
+\end{document}
+

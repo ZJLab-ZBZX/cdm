@@ -1,0 +1,1 @@
+\mathcal{L}(u,\boldsymbol{\sigma};\boldsymbol{d}) = \int \log \frac{d\mu_0}{d\nu} - \frac{1}{2} \log(\det(\Sigma)) - \frac{1}{2} \|\Sigma^{-1/2}(\boldsymbol{d}-H u)\|^2 \nu(du,d\boldsymbol{\sigma}).

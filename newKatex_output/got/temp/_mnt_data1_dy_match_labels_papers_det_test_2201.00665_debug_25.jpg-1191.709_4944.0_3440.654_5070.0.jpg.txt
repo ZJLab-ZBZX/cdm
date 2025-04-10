@@ -1,0 +1,5 @@
+line:
+ \{\kappa_a^{\ell},\sigma_{\lambda-1}(\sigma_a^{\ell-1}(\kappa_a^{\ell}))\}\subset \sigma_{\lambda-1}^{-1}(V(\K^{\ell-1}))\setminus (V(\mathcal{P}_a^{\ell-1})\cup V(\mathcal{P}_a^{\ell-1})) 
+
+norm_str:
+ 

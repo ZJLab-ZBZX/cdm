@@ -1,0 +1,1 @@
+= \operatorname* { l i m } _ { j \to \infty } \nu _ { j } ( f ) + \operatorname* { l i m } _ { j \to \infty } ( f - f + \varphi ( A \nu _ { j } ( f ) ) ) = \operatorname* { l i m } _ { j \to \infty } \nu _ { j } ( f ) + f - \operatorname* { l i m } _ { j \to \infty } \nu _ { j + 1 } ( f ) = f . 

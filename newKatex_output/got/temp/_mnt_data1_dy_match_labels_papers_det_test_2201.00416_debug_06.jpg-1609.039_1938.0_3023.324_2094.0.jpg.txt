@@ -1,0 +1,1 @@
+s _ { \mu ^ { ( 1 ) } } \cdot s _ { \mu ^ { ( 2 ) } } \cdots s _ { \mu ^ { ( k ) } } = \sum c _ { \mu ^ { ( 1 ) } \cdots \mu ^ { ( k ) } } ^ { \nu } s _ { \nu } 

@@ -1,0 +1,1 @@
+2 . 2 \frac { T _ { k } } { a ^ { k } } ( 3 k / 2 + 4 ) ^ { 2 } \frac { 1 } { \varepsilon _ { 3 } } < 2 . 2 \frac { 9 } { 4 } \frac { ( L + 2 ) ^ { 2 } A \mkern 3mu \Gamma ( k + \frac { 1 } { 2 } ) ^ { 1 / 2 } } { \varepsilon _ { 3 } } < 6 8 \frac { ( L + 2 ) ^ { 2 } A \mkern 3mu \Gamma ( k + \frac { 1 } { 2 } ) ^ { 1 / 2 } } { ( B _ { 1 } a \sqrt { \pi } ) ^ { k } } 

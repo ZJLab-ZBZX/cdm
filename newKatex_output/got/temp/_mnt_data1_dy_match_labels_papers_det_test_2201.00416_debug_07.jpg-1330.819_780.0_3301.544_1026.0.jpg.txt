@@ -1,0 +1,1 @@
+L _ { g , r , d } = \sum _ { \alpha _ { 0 } + \cdots + \alpha _ { r } + r g = ( r + 1 ) ( d - r ) } c _ { ( 1 r ) , ( 1 r ) , \ldots , ( 1 r ) , ( \alpha _ { 0 } ) , \ldots , ( \alpha _ { r } ) } ^ { ( d - r ) r + 1 } 

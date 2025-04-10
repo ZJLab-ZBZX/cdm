@@ -1,0 +1,5 @@
+line:
+ z_1 &= \frac{e^s \cos \theta + i (z \cos \theta - p_\theta \sin \theta)}{\sqrt{e^{2s} + z^2 + p_\theta^2}}, z_2 &= \frac{e^s \sin \theta + i (z \sin \theta + p_\theta \cos \theta)}{\sqrt{e^{2s} + z^2 + p_\theta^{2}}},e^u &= e^{2s} + z^2 + p_\theta^2. 
+
+norm_str:
+ 

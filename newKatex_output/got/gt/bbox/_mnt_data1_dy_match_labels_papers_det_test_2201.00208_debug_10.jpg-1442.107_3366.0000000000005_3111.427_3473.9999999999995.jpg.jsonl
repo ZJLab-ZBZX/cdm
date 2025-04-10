@@ -1,0 +1,8 @@
+{"bbox": [429, 8, 536, 45], "token": "line:\ny_i'"}
+{"bbox": [547, 22, 571, 31], "token": "="}
+{"bbox": [582, 7, 749, 49], "token": "y_{\\sigma(i)}\\quad\\text{and}\\quadb_{i,j}'"}
+{"bbox": [760, 22, 784, 31], "token": "="}
+{"bbox": [795, 10, 971, 46], "token": "b_{\\sigma(i),\\sigma(j)}\\quad\\text{for"}
+{"bbox": [1032, 12, 1071, 42], "token": "i,j"}
+{"bbox": [1084, 12, 1106, 40], "token": "\\le"}
+{"bbox": [], "token": "n.\n\nnorm_str:"}

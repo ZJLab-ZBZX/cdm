@@ -1,0 +1,1 @@
+H _ { n , d } ( s ) = ( s ^ { \mathcal { I } - e _ { j } + d e _ { k } } ) , \mkern 18mu j , k = 1 , \ldots , n , 

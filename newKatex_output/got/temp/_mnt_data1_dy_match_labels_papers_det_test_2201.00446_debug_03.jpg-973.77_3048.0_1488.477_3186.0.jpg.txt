@@ -1,0 +1,1 @@
+h ^ { * } : = \operatorname* { i n f } _ { x \in \mathcal { D } } h ( x ) , 

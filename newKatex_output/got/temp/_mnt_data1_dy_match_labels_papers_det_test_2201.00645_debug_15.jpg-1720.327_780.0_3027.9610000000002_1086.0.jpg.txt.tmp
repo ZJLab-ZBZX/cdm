@@ -1,0 +1,1 @@
+\frac{L_n^2}{n!}\cdot \binom{n}{k}\cdot \left(\sum_{i=0}^{n-k}(-1)^i\frac{(n-k)!}{i!}\right).

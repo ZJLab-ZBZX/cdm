@@ -1,0 +1,1 @@
+\mathcal { C } _ { p } ( \mathord { \boldsymbol { d } } ; W _ { I } ) = ( a ( \mathord { \boldsymbol { d } } ; W _ { I } ) \mathrm { I d } + \delta A ^ { \alpha / 2 } ) ^ { - 2 } , 

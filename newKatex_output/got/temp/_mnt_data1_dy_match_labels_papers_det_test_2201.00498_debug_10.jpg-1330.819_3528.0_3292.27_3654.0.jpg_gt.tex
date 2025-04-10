@@ -1,0 +1,28 @@
+
+\documentclass[12pt]{article}
+\usepackage[landscape]{geometry}
+\usepackage{geometry}
+\geometry{a5paper,scale=0.98}
+\pagestyle{empty}
+\usepackage{booktabs}
+\usepackage{amsmath}
+\usepackage{upgreek}
+\usepackage{amssymb}
+\usepackage{xcolor}
+\begin{document}
+\makeatletter
+\renewcommand*{\@textcolor}[3]{%
+  \protect\leavevmode
+  \begingroup
+    \color#1{#2}#3%
+  \endgroup
+}
+\makeatother
+\begin{displaymath}
+\mathcolor[RGB]{0,0,15}{line:
+Z_{u}} \mathcolor[RGB]{0,0,30}{=} \mathcolor[RGB]{0,0,45}{\mathbb{E}^{\mu_0^u}\left[} \mathcolor[RGB]{0,0,60}{\exp(-\Phi_{u}(u))} \mathcolor[RGB]{0,0,75}{\right],} \mathcolor[RGB]{0,0,90}{\quadZ_{\bm{\sigma}}} \mathcolor[RGB]{0,0,105}{=} \mathcolor[RGB]{0,0,120}{\mathbb{E}^{\mu_0^{\bm{\sigma}}}\left[} \mathcolor[RGB]{0,0,135}{\exp(-\Phi_{\bm{\sigma}}(\bm{\sigma}))} \mathcolor[RGB]{0,0,150}{\right].
+
+norm_str:}
+\end{displaymath}
+\end{document}
+

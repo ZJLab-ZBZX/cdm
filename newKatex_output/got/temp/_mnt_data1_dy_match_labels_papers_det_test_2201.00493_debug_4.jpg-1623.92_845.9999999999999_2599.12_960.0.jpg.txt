@@ -1,0 +1,1 @@
+\operatorname* { d i m } \phi ( p ^ { - 1 } ( Y ) ) = \operatorname* { d i m } Y + g . 

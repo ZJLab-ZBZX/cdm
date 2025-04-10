@@ -1,0 +1,1 @@
+\begin{array} { r l r } \displaystyle { \texttt {Fp[m]} } & \displaystyle { { } = F ^ { ( m ) } ( p ) + \Turing ( \widetilde { \varepsilon _ { 5 } } ( m ) ) , \mkern 36mu 0 \le m \le 3 L - 3 , \texttt {d[k,j]} } & \displaystyle { = d _ { j } ^ { ( k ) } + \Turing ( \gamma _ { k , j } ) , \mkern 36mu 0 \le k \leL - 1 , \mkern 18mu 0 \le j \le 3 k / 2 , } \\ \end{array}

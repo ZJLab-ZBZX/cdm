@@ -1,0 +1,28 @@
+
+\documentclass[12pt]{article}
+\usepackage[landscape]{geometry}
+\usepackage{geometry}
+\geometry{a5paper,scale=0.98}
+\pagestyle{empty}
+\usepackage{booktabs}
+\usepackage{amsmath}
+\usepackage{upgreek}
+\usepackage{amssymb}
+\usepackage{xcolor}
+\begin{document}
+\makeatletter
+\renewcommand*{\@textcolor}[3]{%
+  \protect\leavevmode
+  \begingroup
+    \color#1{#2}#3%
+  \endgroup
+}
+\makeatother
+\begin{displaymath}
+\mathcolor[RGB]{0,0,15}{line:
+r} \mathcolor[RGB]{0,0,30}{&\geq} \mathcolor[RGB]{0,0,45}{\max_{V_k}} \mathcolor[RGB]{0,0,60}{||(A^{(i)})^{-1}V_k{\bf} \mathcolor[RGB]{0,0,75}{a}^{(i)}||,} \mathcolor[RGB]{0,0,90}{&\geq} \mathcolor[RGB]{0,0,105}{\sigma_{\textrm{min}}((A^{(i)})^{-1})||V_k{\bf} \mathcolor[RGB]{0,0,120}{a}^{(i)}||,} \mathcolor[RGB]{0,0,135}{&=} \mathcolor[RGB]{0,0,150}{\frac{||{\bf} \mathcolor[RGB]{0,0,165}{a}^{(i)}||}{\sigma_{\textrm{max}}(A^{(i)})}.
+
+norm_str:}
+\end{displaymath}
+\end{document}
+

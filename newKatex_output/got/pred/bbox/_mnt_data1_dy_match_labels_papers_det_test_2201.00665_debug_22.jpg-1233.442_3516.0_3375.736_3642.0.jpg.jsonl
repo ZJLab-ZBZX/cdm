@@ -1,0 +1,6 @@
+{"bbox": [389, 7, 650, 49], "token": "line:\n\\sigma_{i+1}^{-1}(V(\\K^\\ell))\\subset"}
+{"bbox": [662, 7, 779, 47], "token": "V(\\mathcal{P}_a^\\ell)\\cup"}
+{"bbox": [787, 7, 873, 47], "token": "V(\\mathcal{P}_b^\\ell)\\text{"}
+{"bbox": [876, 13, 929, 38], "token": "and"}
+{"bbox": [1060, 7, 1149, 47], "token": "v_b^\\ell\\})\\not\\in"}
+{"bbox": [], "token": "V(\\K^\\ell),\n\nnorm_str:"}

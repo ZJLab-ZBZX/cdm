@@ -1,0 +1,1 @@
+J(f;x)=J(f_1,\ldots,f_n; x_1,\ldots,x_n):=\left|\begin{array}{ccc}\frac{\partial f_1}{\partial x_1} & \ldots & \frac{\partial f_n}{\partial x_1} \ldots & \ldots & \ldots \frac{\partial f_1}{\partial x_n} & \ldots & \frac{\partial f_n}{\partial x_n} \end{array}\right| \in\C^{*} = \C\setminus \{0\}.

@@ -1,0 +1,1 @@
+\sum _ { j = 1 } ^ { m } ( n - j ) = m \left( n - \frac { m + 1 } { 2 } \right) . 

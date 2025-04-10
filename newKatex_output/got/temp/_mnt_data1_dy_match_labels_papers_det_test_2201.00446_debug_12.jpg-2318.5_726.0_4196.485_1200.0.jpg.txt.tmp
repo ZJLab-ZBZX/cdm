@@ -1,0 +1,1 @@
+\begin{aligned}&\frac{1}{2}d(x_{k+1},\mathcal{X}_{\hat{f}_{k+1}}^*)^2\leq \frac{(1-\alpha\mu')^k}{\mu f}\frac{\left(L_f\right)d(x_0,\mathcal{X}_{f_0}^*)^2-\eta^*-\eta_0}{\mu f}&\quad+\frac{\alpha}{c\mu_f}\sum_{t=0}^k(1-\alpha\mu')^{k-t}\hat{f}_k^*+\frac{\eta^*+\eta_0}{\mu f\mu'\alpha}.\end{aligned}

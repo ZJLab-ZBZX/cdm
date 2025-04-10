@@ -1,0 +1,1 @@
+\{ \kappa _ { \lambda } ^ { 1 } , \sigma _ { \lambda - 1 } ( \sigma _ { \lambda } ^ { - 1 } ( \kappa _ { \lambda } ^ { 1 } ) ) \} = \sigma _ { \lambda - 1 } ( V ( \mathcal { C } _ { b } ^ { 1 } ) ) \setminus ( V ( \mathcal { S } _ { b } ^ { 1 } ) \setminus \{ \kappa _ { b } ^ { 1 } \} ) . 

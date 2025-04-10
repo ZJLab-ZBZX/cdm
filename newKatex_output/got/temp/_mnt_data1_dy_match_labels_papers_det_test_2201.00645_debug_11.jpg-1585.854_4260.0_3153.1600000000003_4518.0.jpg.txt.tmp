@@ -1,0 +1,1 @@
+F(k,n) = \binom{n}{k}^2 \cdot k!\cdot (n-1)!^{2k} \cdot S(k,n),

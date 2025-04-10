@@ -1,0 +1,1 @@
+\begin{aligned}&\left(v^{(ij)})^T\nabla f(x^{(i)})\leq s^{(ij)}+a^{(ij)}\right.&\left.(-v^{(ij)})^T\nabla f(x^{(i)})\leq a^{(ij)}-s^{(ij)}.\right. .\end{aligned}

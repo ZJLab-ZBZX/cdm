@@ -1,0 +1,1 @@
+\left( \begin{array} { c c } \textstyle { a } & \textstyle { - a b } & \textstyle { - b } \\ \end{array} \right) , 

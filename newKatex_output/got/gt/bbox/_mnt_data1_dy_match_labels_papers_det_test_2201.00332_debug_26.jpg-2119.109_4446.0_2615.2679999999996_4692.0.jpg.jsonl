@@ -1,0 +1,12 @@
+{"bbox": [7, 7, 25, 89], "token": "\\left("}
+{"bbox": [], "token": "\\textstyle"}
+{"bbox": [51, 20, 67, 37], "token": "a"}
+{"bbox": [], "token": "\\textstyle"}
+{"bbox": [108, 26, 130, 29], "token": "-"}
+{"bbox": [133, 20, 149, 37], "token": "a"}
+{"bbox": [150, 12, 164, 37], "token": "b"}
+{"bbox": [], "token": "\\textstyle"}
+{"bbox": [40, 66, 62, 69], "token": "-"}
+{"bbox": [65, 52, 79, 77], "token": "b"}
+{"bbox": [177, 7, 195, 89], "token": "\\right)"}
+{"bbox": [209, 51, 214, 63], "token": ","}

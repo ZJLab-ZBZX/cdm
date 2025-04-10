@@ -1,0 +1,4 @@
+{"bbox": [571, 33, 707, 63], "token": "line:\nL_n\\cdot"}
+{"bbox": [722, 7, 799, 89], "token": "\\binom{n}{k}\\cdot"}
+{"bbox": [811, 26, 964, 66], "token": "(n-1)^{n-k}\\cdot"}
+{"bbox": [], "token": "(n-1)^!^n.\n\nnorm_str:"}

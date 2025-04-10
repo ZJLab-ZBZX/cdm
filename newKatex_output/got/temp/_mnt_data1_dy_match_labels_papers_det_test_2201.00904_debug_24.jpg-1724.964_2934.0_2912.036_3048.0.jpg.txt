@@ -1,0 +1,1 @@
+A N N _ { i } ( n ) = c _ { i } \sigma \left( a _ { i } n + b _ { i } \right) + d _ { i } 

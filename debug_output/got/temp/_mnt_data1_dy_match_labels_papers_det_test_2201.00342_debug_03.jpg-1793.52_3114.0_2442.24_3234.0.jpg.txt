@@ -1,0 +1,1 @@
+m < 2 ^ { \mathrm { b c } ( x ) } \leq 2 m . 

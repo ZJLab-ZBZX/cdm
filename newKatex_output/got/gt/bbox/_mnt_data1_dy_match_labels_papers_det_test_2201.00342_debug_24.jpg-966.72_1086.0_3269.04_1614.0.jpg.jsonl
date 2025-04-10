@@ -1,0 +1,11 @@
+{"bbox": [7, 9, 176, 34], "token": "line:\nm=1\\qquad"}
+{"bbox": [244, 9, 305, 36], "token": "&\\texttt{c[k]}"}
+{"bbox": [321, 20, 345, 29], "token": "="}
+{"bbox": [358, 7, 726, 42], "token": "(k+1)\\texttt{c[k+1]}(1+\\eta_2)m=2\\qquad"}
+{"bbox": [793, 9, 854, 36], "token": "&\\texttt{c[k]}"}
+{"bbox": [870, 20, 894, 29], "token": "="}
+{"bbox": [907, 7, 1315, 42], "token": "(k+1)(k+2)\\texttt{c[k+2]}(1+\\eta_3)\\dotsm\\qquad"}
+{"bbox": [1389, 9, 1449, 36], "token": "\\texttt{c[k]}"}
+{"bbox": [1465, 20, 1489, 29], "token": "="}
+{"bbox": [1502, 7, 1644, 42], "token": "(k+1)(k+2)\\cdots"}
+{"bbox": [], "token": "(k+m)\\texttt{c[k+m]}(1+\\eta_{m+1})\n\nnorm_str:"}

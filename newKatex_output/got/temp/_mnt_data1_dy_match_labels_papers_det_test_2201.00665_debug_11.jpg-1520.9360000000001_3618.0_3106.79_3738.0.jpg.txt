@@ -1,0 +1,1 @@
+d ( \sigma , \tau ) \leq 2 n ^ { 2 } \cdot 2 n + | E ( Y ) | = 4 n ^ { 3 } + | E ( Y ) | , 

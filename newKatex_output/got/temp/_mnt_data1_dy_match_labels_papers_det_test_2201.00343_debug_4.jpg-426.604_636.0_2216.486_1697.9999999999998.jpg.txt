@@ -1,0 +1,5 @@
+line:
+ 2\langle \mathcal{P}(\mathcal{A}+\mathcal{L}_{\mathcal{G}}) e, e\rangle &= 2\beta \int_0^1 e^T P \frac{d^2}{dx} e + 2\alpha \int_0^1 e^T P e     + 2\int_0^1 e^T PGL e &= 2\beta e^T P \frac{d}{dx} \binom{1}{0} - 2\beta \int_0^1 \frac{d}{dx} e^T P \frac{d}{dx} e     + 2\alpha \int_0^1 e^T P e + 2\int_0^1 e^T PGL e     &= -2\beta e^T(0) P \widehat{K} \int_0^1 e - 2\beta \int_0^1 \frac{d}{dx} e^{T} P \frac{d}{dx} e     + 2\alpha \int_1^0 e^T P e + 2\int_1^0 e^T PGL e \\ 
+
+norm_str:
+ 

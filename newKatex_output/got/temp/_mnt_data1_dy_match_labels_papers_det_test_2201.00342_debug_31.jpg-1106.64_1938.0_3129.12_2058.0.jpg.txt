@@ -1,0 +1,1 @@
+2 ^ { d } > 1 0 ( J + 3 ) \mkern 18mu \text {and} \mkern 18mu 2 ^ { d } \geq 2 ^ { 4 J + 4 } / \varepsilon _ { 6 } > 1 4 7 . 3 \cdot 2 ^ { 4 J - 4 } / \varepsilon _ { 6 } 

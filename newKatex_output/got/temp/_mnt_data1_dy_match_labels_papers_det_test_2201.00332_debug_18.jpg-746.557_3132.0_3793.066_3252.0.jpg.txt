@@ -1,0 +1,1 @@
+f _ { j } = x _ { j } + \varphi ( a _ { 1 } x _ { 1 } + a _ { 2 } x _ { 2 } + \ldots + a _ { n - 1 } x _ { n - 1 } - ( a _ { 1 } + a _ { 2 } + \ldots + a _ { n - 1 } ) x _ { n } ) , \mkern 18mu j = 1 , \ldots , n 

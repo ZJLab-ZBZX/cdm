@@ -1,0 +1,1 @@
+\sigma _ { i } ( v ) = \sigma _ { s } ( v ) \text { for all } v \in V ( X _ { L + 1 } ) \setminus V ( X _ { L } ) , \mkern 5mu i = 0 , \ldots , \lambda . 

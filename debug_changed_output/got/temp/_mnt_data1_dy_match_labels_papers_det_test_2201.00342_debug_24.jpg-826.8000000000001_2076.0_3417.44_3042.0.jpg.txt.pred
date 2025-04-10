@@ -1,0 +1,5 @@
+line:
+ \begin{align*}k&=J-m-1\quad\quad\text{sumP}=\text{c}\left[\mathrm{J-m-1}\right]k&=J-m-2\quad\quad\text{sumP}=\text{c}\left[\mathrm{JJ-m-1}\right]\text{p}(1+\eta_2)+c[J-m-2](1+\eta_1)k&=J-m-3\quad\quad\text{sumP}=\text{c}\left[\mathrm{I-j-m-1}\right]\text{p}^2(1+\eta_4)+\text{c}\left[\mathrm{I-j-m-2}\right]\text{p}(1+\eta_3)+&\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\qquad\quad\quad\quad\quad\quad\quad\quad\quad\quad+\text{c}\left[\mathrm{J-m-3}\right](1+\eta_1)k&=0\quad\quad\quad\quad\quad\quad\quad\quad\quad\text{sumP}=\text{c}\left[\mathrm{V-m-1}\right]\text{p}^{J-m-1}(1+\eta_{2J-2m-2})+\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad&\quad\quad\quad\quad\quad\quad\quad\quad+\sum_{k=0}^{J-m-2}\text{c}\left[\mathbf{k}\right]\text{p}^k(1+\eta_{2k+1}).\begin{align*} 
+
+norm_str:
+ 

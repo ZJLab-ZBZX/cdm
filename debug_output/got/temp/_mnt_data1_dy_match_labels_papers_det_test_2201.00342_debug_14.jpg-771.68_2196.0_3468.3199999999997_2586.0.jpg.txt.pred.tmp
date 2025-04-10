@@ -1,0 +1,1 @@
+\begin{aligned}\begin{align*}\begin{aligned}\mathop{\text{sum}} = & v'_1(1+\eta_N) + v'_2(1+\eta_{N-1}) + \cdots + v'_n(1+\eta_1) & = v_1(1+\eta_{N+1}) + v_2(1+\eta_N) + \cdots + v_N(1+\eta_2) & = (a_1+\alpha_1)(1+\eta_{N+1}) + (a_2+\alpha_2)(1+\eta_N) + \cdots + (a_N+\alpha_N)(1+\eta_2)\end{aligned}\end{aligned}\end{align*}

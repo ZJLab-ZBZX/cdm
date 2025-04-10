@@ -1,0 +1,1 @@
+( r + 1 ) \cdot \frac { r g } { r + 1 } = r g 

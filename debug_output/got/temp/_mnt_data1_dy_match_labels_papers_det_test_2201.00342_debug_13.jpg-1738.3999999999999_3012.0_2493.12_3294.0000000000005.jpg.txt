@@ -1,0 +1,1 @@
+S : = \sum _ { n = 1 } ^ { N } a _ { n } + \mathcal { O } ^ { * } ( \varepsilon ) . 

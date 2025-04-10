@@ -1,0 +1,1 @@
+\begin{aligned}m=1\qquad &\texttt{c[k]} = (k+1)\texttt{c[k+1]}(1+\eta_2)m=2\qquad &\texttt{c[k]} = (k+1)(k+2)\texttt{c[k+2]}(1+\eta_3)\dotsm\qquad & \texttt{c[k]} = (k+1)(k+2)\cdots (k+m)\texttt{c[k+m]}(1+\eta_{m+1})\end{aligned}

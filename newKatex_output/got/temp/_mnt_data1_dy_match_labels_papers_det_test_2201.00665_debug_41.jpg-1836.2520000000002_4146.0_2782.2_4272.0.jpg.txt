@@ -1,0 +1,1 @@
+d ( \sigma _ { s } , \sigma _ { f } ) \geq 2 5 ^ { L - 1 } = e ^ { \Omega ( n ) } . 

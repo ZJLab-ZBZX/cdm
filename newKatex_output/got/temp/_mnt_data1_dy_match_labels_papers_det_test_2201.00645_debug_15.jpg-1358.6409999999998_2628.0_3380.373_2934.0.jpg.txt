@@ -1,0 +1,1 @@
+\frac { L _ { n } ^ { 2 } } { n ! } \cdot \binom { n } { k } \cdot D _ { n - k } = \frac { L _ { n } ^ { 2 } } { n ! } \cdot \binom { n } { k } \cdot \binom { n - k } { i = 0 } ( - 1 ) ^ { i } \frac { ( n - k ) ! } { i ! } 

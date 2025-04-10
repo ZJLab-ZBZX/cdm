@@ -1,0 +1,1 @@
+\nu_0 = {\rm Id}, \quad \nu_{j} = \nu_{j}[A,\varphi](f) := f - \varphi(A \nu_{j-1}(f)), \, j=1,2,3,\ldots

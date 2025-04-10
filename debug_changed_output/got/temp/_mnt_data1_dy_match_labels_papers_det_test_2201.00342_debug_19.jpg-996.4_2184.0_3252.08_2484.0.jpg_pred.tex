@@ -1,0 +1,25 @@
+
+\documentclass[12pt]{article}
+\usepackage[landscape]{geometry}
+\usepackage{geometry}
+\geometry{a5paper,scale=0.98}
+\pagestyle{empty}
+\usepackage{booktabs}
+\usepackage{amsmath}
+\usepackage{upgreek}
+\usepackage{amssymb}
+\usepackage{xcolor}
+\begin{document}
+\makeatletter
+\renewcommand*{\@textcolor}[3]{%
+  \protect\leavevmode
+  \begingroup
+    \color#1{#2}#3%
+  \endgroup
+}
+\makeatother
+\begin{displaymath}
+\begin{align*}\begin{split}\mathrm{Fp}\left[\mathrm{m}\right] \mathcolor[RGB]{0,0,15}{&=} \mathcolor[RGB]{0,0,30}{F^{(m)}(p)+\mathcal{O}^*(\tilde{\varepsilon}_5(m)),} \qquad \mathcolor[RGB]{0,0,45}{0\leq} \mathcolor[RGB]{0,0,60}{m\leq} \mathcolor[RGB]{0,0,75}{3L-3,\mathrm{d}\left[\mathfrak{k},\mathrm{j}\right]} \mathcolor[RGB]{0,0,90}{&=} \mathcolor[RGB]{0,0,105}{d_j^{(k)}+\mathcal{O}^*(\gamma_{k,j}),} \qquad \mathcolor[RGB]{0,0,120}{0\leq} \mathcolor[RGB]{0,0,135}{k\leq} \mathcolor[RGB]{0,0,150}{L-1,} \quad \mathcolor[RGB]{0,0,165}{0\leq} \mathcolor[RGB]{0,0,180}{j\leq} \mathcolor[RGB]{0,0,195}{3k/2,\end{split}\end{align*}}
+\end{displaymath}
+\end{document}
+

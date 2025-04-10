@@ -1,0 +1,1 @@
+\sigma _ { i + 1 } ^ { - 1 } ( V ( \mathcal { K } ^ { \ell } ) ) \mathrel { \mathrlap { \not } } \subset V ( \mathcal { P } _ { a } ^ { \ell } ) \cup V ( \mathcal { P } _ { b } ^ { \ell } ) . 

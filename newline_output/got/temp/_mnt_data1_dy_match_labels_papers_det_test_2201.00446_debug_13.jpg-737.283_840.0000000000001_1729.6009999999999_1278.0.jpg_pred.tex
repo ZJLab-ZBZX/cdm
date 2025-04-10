@@ -1,0 +1,25 @@
+
+\documentclass[12pt]{article}
+\usepackage[landscape]{geometry}
+\usepackage{geometry}
+\geometry{a5paper,scale=0.98}
+\pagestyle{empty}
+\usepackage{booktabs}
+\usepackage{amsmath}
+\usepackage{upgreek}
+\usepackage{amssymb}
+\usepackage{xcolor}
+\begin{document}
+\makeatletter
+\renewcommand*{\@textcolor}[3]{%
+  \protect\leavevmode
+  \begingroup
+    \color#1{#2}#3%
+  \endgroup
+}
+\makeatother
+\begin{displaymath}
+\mathcolor[RGB]{0,0,15}{e_{l}^{T}x&=\sum_{j\in\mathcal{N}^{(i)}}(e_{l}^{(j)}v^{(i)})^{T}x\\&\leq\sum_{j\in\mathcal{N}^{(i)}}c_{l}^{(j)}(s^{(ij)}+a^{(ij)})}
+\end{displaymath}
+\end{document}
+

@@ -1,0 +1,28 @@
+
+\documentclass[12pt]{article}
+\usepackage[landscape]{geometry}
+\usepackage{geometry}
+\geometry{a5paper,scale=0.98}
+\pagestyle{empty}
+\usepackage{booktabs}
+\usepackage{amsmath}
+\usepackage{upgreek}
+\usepackage{amssymb}
+\usepackage{xcolor}
+\begin{document}
+\makeatletter
+\renewcommand*{\@textcolor}[3]{%
+  \protect\leavevmode
+  \begingroup
+    \color#1{#2}#3%
+  \endgroup
+}
+\makeatother
+\begin{displaymath}
+\mathcolor[RGB]{0,0,15}{line:
+\langle} \mathcolor[RGB]{0,0,30}{H^*} \mathcolor[RGB]{0,0,45}{\boldsymbol{f},} \mathcolor[RGB]{0,0,60}{g} \mathcolor[RGB]{0,0,75}{\rangle_{L^2}} \mathcolor[RGB]{0,0,90}{=} \mathcolor[RGB]{0,0,105}{\langle} \mathcolor[RGB]{0,0,120}{\boldsymbol{f},} \mathcolor[RGB]{0,0,135}{H} \mathcolor[RGB]{0,0,150}{g} \mathcolor[RGB]{0,0,165}{\rangle_{\ell^2}} \mathcolor[RGB]{0,0,180}{=} \mathcolor[RGB]{0,0,195}{\sum_{k=1}^{\infty}} \mathcolor[RGB]{0,0,210}{\lambda_k} \mathcolor[RGB]{0,0,225}{g_k} \mathcolor[RGB]{0,0,240}{\langle} \mathcolor[RGB]{0,0,255}{\boldsymbol{f},} \mathcolor[RGB]{0,15,0}{S} \mathcolor[RGB]{0,15,15}{e_k} \mathcolor[RGB]{0,15,30}{\rangle_{\ell^2}} \mathcolor[RGB]{0,15,45}{=} \mathcolor[RGB]{0,15,60}{\sum_{k=1}^{\incal}} \mathcolor[RGB]{0,15,75}{\lambda_k} \mathcolor[RGB]{0,15,90}{g_k} \mathcolor[RGB]{0,15,105}{\sum_{i=1}^{N_d}} \mathcolor[RGB]{0,15,120}{f_i} \mathcolor[RGB]{0,15,135}{e_k(x_i),
+
+norm_str:}
+\end{displaymath}
+\end{document}
+

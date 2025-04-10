@@ -1,0 +1,1 @@
+s > \operatorname* { m a x } \{ 2 d , \frac { ( D \cdot H ) ^ { 2 } } { 2 H ^ { 2 } } + 1 \} , \text { if } r = 0 . 

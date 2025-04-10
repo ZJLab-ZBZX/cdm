@@ -1,0 +1,28 @@
+
+\documentclass[12pt]{article}
+\usepackage[landscape]{geometry}
+\usepackage{geometry}
+\geometry{a5paper,scale=0.98}
+\pagestyle{empty}
+\usepackage{booktabs}
+\usepackage{amsmath}
+\usepackage{upgreek}
+\usepackage{amssymb}
+\usepackage{xcolor}
+\begin{document}
+\makeatletter
+\renewcommand*{\@textcolor}[3]{%
+  \protect\leavevmode
+  \begingroup
+    \color#1{#2}#3%
+  \endgroup
+}
+\makeatother
+\begin{displaymath}
+\mathcolor[RGB]{0,0,15}{line:
+-e_l^T} \mathcolor[RGB]{0,0,30}{x} \mathcolor[RGB]{0,0,45}{&=} \mathcolor[RGB]{0,0,60}{\sum_{j} \mathcolor[RGB]{0,0,75}{\in} \mathcolor[RGB]{0,0,90}{\mathcal{N}^{(i)}}} \mathcolor[RGB]{0,0,105}{(e_l^{(j)}(-v^{(ij)}))^T} \mathcolor[RGB]{0,0,120}{x} \mathcolor[RGB]{0,0,135}{&\leq} \mathcolor[RGB]{0,0,150}{\sum_{j} \mathcolor[RGB]{0,0,165}{\in} \mathcolor[RGB]{0,0,180}{\mathcal{N}^{(i)}}} \mathcolor[RGB]{0,0,195}{e_l^{(j)}(a^{(j)}-s^{(j)}).
+
+norm_str:}
+\end{displaymath}
+\end{document}
+

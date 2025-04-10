@@ -1,0 +1,1 @@
+A = \left( \begin{array} { c c } \textstyle { \lambda } & \textstyle { - \lambda ^ { d + 1 } 1 } & \textstyle { - \lambda ^ { d } } \\ \end{array} \right) . 

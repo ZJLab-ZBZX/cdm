@@ -1,0 +1,1 @@
+[ V _ { E } ] \cdot \overline { \Delta } _ { 0 , 1 } \cdot \overline { \Delta } _ { 0 , 2 } \ldots \overline { \Delta } _ { 0 , d } \neq 0 

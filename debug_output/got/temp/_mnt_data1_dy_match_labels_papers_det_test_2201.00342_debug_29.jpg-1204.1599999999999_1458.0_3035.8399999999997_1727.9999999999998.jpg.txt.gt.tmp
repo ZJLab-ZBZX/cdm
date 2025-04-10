@@ -1,0 +1,1 @@
+M_n=\sum_{k=0}^n (n-k+4)A_kB_{n-k},\quadN_n=\sum_{k=0}^n A_kB_{n-k}

@@ -1,0 +1,1 @@
+c _ { 2 k } + \mathcal { O } ^ { * } ( 2 ^ { - 2 k } \varepsilon _ { 6 } ) , \mkern 36mu ( 0 \leq k \leq J ) \mkern 18mu \text {where} \mkern 18mu \varepsilon _ { 6 } : = \frac { 1 } { 3 J } \frac { ( 2 \pi ) ^ { J } } { J ! } . 

@@ -1,0 +1,1 @@
+\frac{C_k(p)}{a^k}=\frac{1}{(\pi^2a)^k}\sum_{j=0}^{\lfloor 3k/2 \rfloor}\left(\frac{\pi}{2i}\right)^j d_j^{(k)}F^{(3k-2j)}(p)

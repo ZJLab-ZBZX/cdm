@@ -1,0 +1,1 @@
+\begin{array} { r l r } \displaystyle { f _ { 1 } } & \displaystyle { { } = x _ { 1 } + ( a _ { 1 1 } x _ { 1 } + a _ { 1 2 } x _ { 2 } ) ^ { 2 } , f _ { 2 } } & \displaystyle { = x _ { 2 } + ( a _ { 2 1 } x _ { 1 } + a _ { 2 2 } x _ { 2 } ) ^ { 2 } . } \\ \end{array} 

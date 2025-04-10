@@ -1,0 +1,16 @@
+group: {
+  type: 'hbox',
+  mode: 'math',
+  body: [
+    { type: 'spacing', mode: 'text', loc: [SourceLocation], text: ' ' },
+    { type: 'textord', mode: 'text', loc: [SourceLocation], text: 'f' },
+    { type: 'textord', mode: 'text', loc: [SourceLocation], text: 'o' },
+    { type: 'textord', mode: 'text', loc: [SourceLocation], text: 'r' },
+    { type: 'spacing', mode: 'text', loc: [SourceLocation], text: ' ' }
+  ]
+}
+line:
+ \{\kappa^{ \ell + 1}_a\}=\sigma^{-k}_1(V(\mathcal{K}^\ell_a))\setminus (V(\mathcal{P}^\ell_a)\cup V(\mathcal{P}^\ell_b))\hbox{ for }k>\xi. 
+
+norm_str:
+ \{ \kappa _ { a } ^ { \ell + 1 } \} = \sigma _ { 1 } ^ { - k } ( V ( \mathcal { K } _ { a } ^ { \ell } ) ) \setminus ( V ( \mathcal { P } _ { a } ^ { \ell } ) \cup V ( \mathcal { P } _ { b } ^ { \ell } ) ) 

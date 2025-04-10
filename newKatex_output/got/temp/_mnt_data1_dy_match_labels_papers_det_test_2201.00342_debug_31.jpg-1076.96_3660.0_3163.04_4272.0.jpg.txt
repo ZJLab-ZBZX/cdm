@@ -1,0 +1,5 @@
+line:
+ \begin{aligned}(d_0^1) &= \frac{1}{12}, \quad d_1^{(1)} = -(\sigma-\tfrac{1}{2}), d_0^2 &= \frac{1}{288}, \quad d_1^{(2)} = -\frac{1}{12}(\sigma-\tfrac{1}{2}), \quad d_2^{(2)} = \frac{1}{2}(\sigma-\tfrac{1}{2})^2-\tfrac{1}{4}, &\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\qquad\quad\quad\quad\quad\quad\quad\quad\quad\quadd_2^{(3)} = (\sigma-\tfrac{1}{2})^2+(\sigma-\tfrac{1}{2})-\tfrac{1}{12}.\end{aligned} 
+
+norm_str:
+ 

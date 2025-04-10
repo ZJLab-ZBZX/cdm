@@ -1,0 +1,1 @@
+\mathbf { v } \left[ \mathbf { k } \right] = V ( k ) + \mathbf { \sigma } ^ { * } ( 2 ^ { - d } \frac { 4 } { \pi } 2 ^ { 2 k } ) , \mkern 18mu \mathbf { w } \left[ \mathbf { k } \right] = W ( k ) + \mathbf { \sigma } ^ { * } \left( 2 ^ { - d } \frac { 1 } { k ! } \left( \frac { \pi } { 2 } \right) ^ { k } \right) , 

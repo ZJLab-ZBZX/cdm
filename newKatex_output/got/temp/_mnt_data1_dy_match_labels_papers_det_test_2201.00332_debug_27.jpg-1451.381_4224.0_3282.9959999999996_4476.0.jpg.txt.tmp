@@ -1,0 +1,1 @@
+g_1=\begin{pmatrix}        y_2\\y_3    \end{pmatrix}^{y_1},\quad g_2=\begin{pmatrix}        y_3\\y_1    \end{pmatrix}^{y_2},\quad g_3=\begin{pmatrix}        y_1\\y_2    \end{pmatrix}^{y_3}.

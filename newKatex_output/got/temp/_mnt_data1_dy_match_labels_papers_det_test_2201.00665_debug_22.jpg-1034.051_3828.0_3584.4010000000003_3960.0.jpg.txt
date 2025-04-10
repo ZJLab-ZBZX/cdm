@@ -1,0 +1,1 @@
+\sigma _ { i + 1 } ^ { - 1 } ( V ( \mathcal { K } ^ { \ell } ) ) \mathrel { \mathrlap { \not } } \in V ( \mathcal { P } _ { a } ^ { \ell } ) \cup V ( \mathcal { P } _ { b } ^ { \ell } ) \text { and } \vert \{ \sigma _ { i + 1 } ( v _ { a } ^ { \ell } ) , \sigma _ { i + 1 } ( v _ { b } ^ { \ell } ) \} \cap V ( \mathcal { K } ^ { \ell } ) \} \leq 1 . 

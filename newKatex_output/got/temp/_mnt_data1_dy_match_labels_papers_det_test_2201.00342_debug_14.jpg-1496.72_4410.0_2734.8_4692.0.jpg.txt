@@ -1,0 +1,1 @@
+\mathsf { r s s u m } = \sum _ { k = 1 } ^ { L } \frac { C _ { L - k } ( p ) } { a ^ { L - k } } + \mathcal { O } ^ { * } ( \varepsilon _ { 2 } / 2 ) . 

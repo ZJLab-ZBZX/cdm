@@ -1,0 +1,11 @@
+{"bbox": [354, 14, 452, 39], "token": "line:\nr"}
+{"bbox": [463, 15, 485, 43], "token": "&\\geq"}
+{"bbox": [497, 22, 557, 64], "token": "\\max_{V_k}"}
+{"bbox": [566, 7, 794, 47], "token": "||(A^{(i)})^{-1}V_k{\\bf"}
+{"bbox": [723, 22, 739, 39], "token": "a}^{(i)}||,"}
+{"bbox": [802, 15, 824, 43], "token": "&\\geq"}
+{"bbox": [836, 7, 1151, 47], "token": "\\sigma_{\\textrm{min}}((A^{(i)})^{-1})||V_k{\\bf"}
+{"bbox": [1081, 22, 1097, 39], "token": "a}^{(i)}||,"}
+{"bbox": [1159, 25, 1183, 34], "token": "&="}
+{"bbox": [], "token": "\\frac{||{\\bf"}
+{"bbox": [], "token": "a}^{(i)}||}{\\sigma_{\\textrm{max}}(A^{(i)})}.\n\nnorm_str:"}

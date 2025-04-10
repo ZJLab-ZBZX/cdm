@@ -1,0 +1,1 @@
+\sigma _ { \lambda } ^ { - 1 } ( \mu ) \in ( N _ { X _ { L } } ( v _ { \lambda } ^ { \ell , \ell + 1 } ) \cup N _ { X _ { L } } ( v _ { \lambda } ^ { \ell , \ell + 1 } ) ) \cap V ( X ^ { \ell + 1 } ) , 

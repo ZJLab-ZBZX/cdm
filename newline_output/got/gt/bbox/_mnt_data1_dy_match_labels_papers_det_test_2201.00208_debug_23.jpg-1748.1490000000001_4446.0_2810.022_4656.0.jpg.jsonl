@@ -1,0 +1,21 @@
+{"bbox": [], "token": "\\mutation"}
+{"bbox": [7, 33, 18, 45], "token": "\\varepsilon"}
+{"bbox": [29, 26, 53, 35], "token": "="}
+{"bbox": [65, 7, 106, 55], "token": "\\prod"}
+{"bbox": [63, 62, 71, 79], "token": "i"}
+{"bbox": [73, 64, 86, 80], "token": "\\in"}
+{"bbox": [88, 61, 100, 78], "token": "I"}
+{"bbox": [98, 72, 107, 82], "token": "\\varepsilon"}
+{"bbox": [], "token": "\\mutation"}
+{"bbox": [114, 28, 122, 45], "token": "i"}
+{"bbox": [200, 14, 212, 39], "token": "f"}
+{"bbox": [212, 23, 228, 40], "token": "o"}
+{"bbox": [228, 23, 240, 39], "token": "r"}
+{"bbox": [251, 23, 266, 40], "token": "\\varepsilon"}
+{"bbox": [277, 20, 296, 41], "token": "\\in"}
+{"bbox": [309, 13, 323, 48], "token": "\\{"}
+{"bbox": [324, 18, 348, 42], "token": "+"}
+{"bbox": [352, 34, 357, 46], "token": ","}
+{"bbox": [365, 29, 387, 32], "token": "-"}
+{"bbox": [391, 13, 405, 48], "token": "\\}"}
+{"bbox": [409, 34, 414, 46], "token": ","}

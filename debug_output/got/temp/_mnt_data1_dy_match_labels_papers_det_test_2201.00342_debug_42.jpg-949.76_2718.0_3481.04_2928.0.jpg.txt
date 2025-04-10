@@ -1,0 +1,1 @@
+Z ( t - i ( \sigma - \frac { 1 } { 2 } ) ) = e ^ { i \vartheta ( t - i ( \sigma - \frac { 1 } { 2 } ) ) } \mkern 3mu \mathcal { R } ( \sigma + i t ) + e ^ { - i \vartheta ( t - i ( \sigma - \frac { 1 } { 2 } ) ) } \overline { \mathcal { R } } ( 1 - \sigma + i t ) 

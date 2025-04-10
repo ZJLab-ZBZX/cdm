@@ -1,0 +1,1 @@
+\sigma _ { \lambda - 1 } ^ { - 1 } ( \kappa _ { a } ^ { \ell } ) \in \{ v _ { a } ^ { \ell - 2 , \ell - 1 } , v _ { b } ^ { e - 2 , \ell - 1 } , v _ { b } ^ { \ell , \ell + 1 } \} 

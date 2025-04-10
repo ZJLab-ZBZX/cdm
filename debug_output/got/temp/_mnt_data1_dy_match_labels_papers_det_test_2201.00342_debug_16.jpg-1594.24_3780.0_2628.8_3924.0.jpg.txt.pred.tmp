@@ -1,0 +1,1 @@
+\texttt{tcoef}[\texttt{k},\texttt{j}] = t_j^{(k)} + \mathcal{O}^*(\delta_k).

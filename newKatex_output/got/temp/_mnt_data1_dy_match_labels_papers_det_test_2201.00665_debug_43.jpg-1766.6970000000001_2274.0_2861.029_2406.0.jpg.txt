@@ -1,0 +1,1 @@
+e ^ { \Omega ( n ) } = \mathcal { D } ( n ) \leq e ^ { ( 1 - o ( 1 ) ) n \operatorname* { l o g } n } . 

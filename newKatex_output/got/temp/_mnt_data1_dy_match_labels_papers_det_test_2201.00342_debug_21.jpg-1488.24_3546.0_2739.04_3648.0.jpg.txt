@@ -1,0 +1,1 @@
+\mathrm { F p } \mathbf { \left[ \mathbf { m } \right] } = 0 , \mkern 36mu M \leq m \leq 3 L - 3 , 

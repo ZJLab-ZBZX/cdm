@@ -1,0 +1,1 @@
+S_1:=\sum_{n=1}^N\frac{1}{n^s}+\mathfrak{O}^*(\varepsilon/6),\qquad S_2:=\sum_{k=0}^K\frac{C_k(q)}{a^k}+RS_K+\mathfrak{O}^*(A_1\varepsilon/3).

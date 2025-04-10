@@ -1,0 +1,1 @@
+x_1 \oplus x_2 \oplus \cdots \oplus x_n = x_1(1+\eta_n) + x_2(1+\eta_{n-1}) + \cdots + x_n(1+\eta_1).

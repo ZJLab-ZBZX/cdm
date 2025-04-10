@@ -1,0 +1,1 @@
+\sum _ { k = 0 } ^ { K } \frac { C _ { k } ( p ) } { a ^ { k } } + R S _ { K } + \mathfrak { O } ^ { * } ( \varepsilon _ { 2 } ) . 

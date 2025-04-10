@@ -1,0 +1,1 @@
+T ( n , 2 n ) = T ^ { \prime } ( n , 2 n ) \mkern 18mu \text { and } \mkern 18mu T ( n , 2 n + 1 ) = T ^ { \prime } ( n , 2 n + 1 ) . 

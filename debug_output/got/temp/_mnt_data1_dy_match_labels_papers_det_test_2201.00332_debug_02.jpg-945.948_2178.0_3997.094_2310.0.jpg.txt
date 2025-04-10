@@ -1,0 +1,5 @@
+line:
+ \{(f_1,\ldots,f_n):\C^n\to \C^n,\ f_j(x)=x_j+(a_{j1}x_1+\ldots+a_{jn}x_n)^3\,,\,j=1,\ldots,n,\,a_{jk}\in\C\}. 
+
+norm_str:
+ 

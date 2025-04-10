@@ -1,0 +1,1 @@
+V ( \mathcal { K } _ { a } ^ { \ell } ) \cup \{ \eta _ { 1 } \} = \sigma _ { i j } ( V ( \mathcal { P } _ { a } ^ { \ell } ) ) , 

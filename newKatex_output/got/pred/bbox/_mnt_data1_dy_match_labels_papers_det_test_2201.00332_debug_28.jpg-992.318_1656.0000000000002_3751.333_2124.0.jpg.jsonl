@@ -1,0 +1,17 @@
+{"bbox": [416, 7, 732, 288], "token": "line:\n\\left(\\begin{array}{cccc}0"}
+{"bbox": [986, 20, 1002, 37], "token": "a"}
+{"bbox": [637, 52, 733, 77], "token": "-a-b"}
+{"bbox": [957, 52, 971, 77], "token": "b"}
+{"bbox": [971, 60, 1002, 77], "token": "as"}
+{"bbox": [717, 92, 732, 117], "token": "0"}
+{"bbox": [791, 90, 1001, 125], "token": "(-a-b)(s+t)"}
+{"bbox": [554, 132, 717, 159], "token": "bs+at+bt"}
+{"bbox": [718, 140, 732, 157], "token": "s"}
+{"bbox": [911, 134, 1003, 157], "token": "-s-t"}
+{"bbox": [717, 173, 732, 198], "token": "0"}
+{"bbox": [962, 175, 974, 198], "token": "t"}
+{"bbox": [974, 173, 1002, 198], "token": "bs"}
+{"bbox": [544, 213, 732, 238], "token": "-bs-at-bt"}
+{"bbox": [7, 211, 1003, 336], "token": "(a+b)t"}
+{"bbox": [630, 7, 1087, 288], "token": "0\\end{array}\\right),"}
+{"bbox": [], "token": "a,b,s,t\\in\\CC.\n\nnorm_str:"}

@@ -1,0 +1,28 @@
+
+\documentclass[12pt]{article}
+\usepackage[landscape]{geometry}
+\usepackage{geometry}
+\geometry{a5paper,scale=0.98}
+\pagestyle{empty}
+\usepackage{booktabs}
+\usepackage{amsmath}
+\usepackage{upgreek}
+\usepackage{amssymb}
+\usepackage{xcolor}
+\begin{document}
+\makeatletter
+\renewcommand*{\@textcolor}[3]{%
+  \protect\leavevmode
+  \begingroup
+    \color#1{#2}#3%
+  \endgroup
+}
+\makeatother
+\begin{displaymath}
+\mathcolor[RGB]{0,0,15}{line:
+B_{k\ell}^{\sigma}[a]:=\left\{\begin{array}[c]{ccc}Z_{k\ell}[a],} & \mathcolor[RGB]{0,0,30}{\text{if} }\sigma=0,S_{k\ell}[a], & \mathcolor[RGB]{0,0,45}{\text{if} }\sigma=1.\end{array}\right.
+
+norm_str:
+\end{displaymath}
+\end{document}
+

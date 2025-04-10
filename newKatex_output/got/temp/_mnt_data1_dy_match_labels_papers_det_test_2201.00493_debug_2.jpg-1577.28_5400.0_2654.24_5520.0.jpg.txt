@@ -1,0 +1,1 @@
+0 \to \mathcal { O } _ { X } ^ { r - 1 } \to F \to I _ { Z } \otimes D \to 0 , 

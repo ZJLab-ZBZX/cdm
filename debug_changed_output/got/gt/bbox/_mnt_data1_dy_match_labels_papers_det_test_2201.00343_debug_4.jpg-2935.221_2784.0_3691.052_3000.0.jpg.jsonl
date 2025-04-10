@@ -1,0 +1,21 @@
+{"bbox": [12, 7, 25, 11], "token": "\\Tilde"}
+{"bbox": [7, 13, 29, 38], "token": "\\Omega"}
+{"bbox": [40, 25, 64, 34], "token": "="}
+{"bbox": [79, 8, 87, 50], "token": "\\left["}
+{"bbox": [], "token": "\\textstyle"}
+{"bbox": [103, 30, 125, 33], "token": "-"}
+{"bbox": [130, 29, 157, 33], "token": "\\frac"}
+{"bbox": [130, 16, 145, 28], "token": "\\pi"}
+{"bbox": [145, 7, 154, 19], "token": "2"}
+{"bbox": [138, 35, 149, 51], "token": "2"}
+{"bbox": [], "token": "\\textstyle"}
+{"bbox": [188, 16, 205, 41], "token": "k"}
+{"bbox": [206, 16, 223, 41], "token": "k"}
+{"bbox": [], "token": "\\textstyle"}
+{"bbox": [252, 16, 267, 40], "token": "2"}
+{"bbox": [270, 14, 279, 49], "token": "("}
+{"bbox": [281, 24, 301, 41], "token": "\\alpha"}
+{"bbox": [310, 30, 332, 33], "token": "-"}
+{"bbox": [342, 16, 359, 41], "token": "k"}
+{"bbox": [360, 14, 370, 49], "token": ")"}
+{"bbox": [386, 8, 395, 50], "token": "\\right]"}

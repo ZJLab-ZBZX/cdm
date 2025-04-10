@@ -1,0 +1,1 @@
+\sigma _ { \xi } ^ { - 1 } ( \mu ) = \sigma _ { \xi + 1 } ^ { - 1 } ( \mu ) \in V ( \mathcal { C } _ { a } ^ { \ell } ) \setminus \{ v _ { a } ^ { \ell } \} ; 

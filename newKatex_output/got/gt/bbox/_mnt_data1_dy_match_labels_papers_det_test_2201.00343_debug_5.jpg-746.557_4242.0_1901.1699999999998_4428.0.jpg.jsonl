@@ -1,0 +1,6 @@
+{"bbox": [562, 7, 683, 45], "token": "line:\n\\mathds{1}_N^T"}
+{"bbox": [683, 12, 710, 36], "token": "\\mathcal{D}"}
+{"bbox": [713, 13, 782, 41], "token": "\\mathds{1}_N="}
+{"bbox": [793, 12, 919, 37], "token": "2ks-2\\alpha"}
+{"bbox": [920, 12, 973, 36], "token": "N-"}
+{"bbox": [], "token": "2\\frac{k^2}{\\pi^2}s>0\n\nnorm_str:"}

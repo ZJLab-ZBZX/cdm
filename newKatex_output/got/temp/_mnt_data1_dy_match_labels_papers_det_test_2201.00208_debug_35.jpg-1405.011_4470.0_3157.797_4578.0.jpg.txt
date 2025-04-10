@@ -1,0 +1,1 @@
+S ( \beta ) = \Delta _ { N + 1 } S _ { 0 } ( \beta _ { 0 } ) \Delta _ { N + 1 } \doteq \beta ( \sigma _ { N } \ldots \sigma _ { 2 } \sigma _ { 1 } ^ { 3 } \sigma _ { 2 } \ldots \sigma _ { N } ) 

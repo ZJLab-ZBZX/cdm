@@ -1,0 +1,1 @@
+f_j=x_j+\varphi(a_1x_1+a_2x_2+\ldots+a_{n-1}x_{n-1}-(a_1+a_2+\ldots+a_{n-1})x_n),\quad j=1,\ldots,n

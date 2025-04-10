@@ -1,0 +1,3 @@
+{"bbox": [606, 7, 931, 42], "token": "line:\n\\{(f_1,\\ldots,f_n):\\C^n\\to"}
+{"bbox": [], "token": "\\C^n,\\"}
+{"bbox": [], "token": "f_j(x)=x_j+(a_{j1}x_1+\\ldots+a_{jn}x_n)^3\\,,\\,j=1,\\ldots,n,\\,a_{jk}\\in\\C\\}.\n\nnorm_str:"}

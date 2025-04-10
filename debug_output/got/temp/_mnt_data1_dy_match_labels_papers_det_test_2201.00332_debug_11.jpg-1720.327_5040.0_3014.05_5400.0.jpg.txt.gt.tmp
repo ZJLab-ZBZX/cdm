@@ -1,0 +1,1 @@
+S_{k\ell}[a]:=\left(\begin{array}{cccc}a_1    & a_2    & \ldots & a_{\ell}    \ldots & \ldots & \ldots & \ldots a_1    & a_2    & \ldots & a_{\ell}    \end{array}\right).

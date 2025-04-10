@@ -1,0 +1,1 @@
+\sigma _ { \zeta } ^ { - 1 } ( \kappa _ { b } ^ { 2 } ) \in V ( \mathcal { C } _ { a } ^ { 2 } ) \setminus N _ { X _ { L } } [ \mathrm { b d } ( \mathcal { C } _ { a } ^ { 2 } ) ] ; 

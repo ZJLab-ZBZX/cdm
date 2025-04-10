@@ -1,0 +1,1 @@
+\sigma ^ { - 1 } ( V ( \mathcal { K } ^ { \ell } ) \setminus \{ \kappa _ { a } ^ { \ell + 1 } , \kappa _ { b } ^ { \ell + 1 } \} ) \subset V ( X ^ { \ell } ) , 

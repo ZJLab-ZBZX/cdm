@@ -1,0 +1,1 @@
+J \left( x + \left( \left( H _ { n , d } ( s ) \odot A \right) x \right) ^ { d } , x \right) \equiv J \left( \xi + \left( A \xi \right) ^ { d } ; \xi \right) \left\vert _ { \xi _ { j } = x _ { j } s _ { j } ^ { d } } \binom { \Pi } { 1 } s _ { k } \right\vert ^ { d - 1 } , \mkern 3mu  _ { j = 1 , . . . , n } 

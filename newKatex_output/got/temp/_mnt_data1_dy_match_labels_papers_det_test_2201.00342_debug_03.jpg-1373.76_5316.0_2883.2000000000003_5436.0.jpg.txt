@@ -1,0 +1,1 @@
+\circ \left( x , d \right) = x ( 1 + \eta _ { 1 } ) \mkern 36mu \text {with} \mkern 18mu | \eta _ { 1 } | \leq 2 ^ { - d } . 

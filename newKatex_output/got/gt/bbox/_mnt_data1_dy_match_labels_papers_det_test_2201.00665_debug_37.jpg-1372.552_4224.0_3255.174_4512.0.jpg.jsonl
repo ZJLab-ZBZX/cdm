@@ -1,0 +1,21 @@
+{"bbox": [48, 14, 121, 39], "token": "line:\n&"}
+{"bbox": [132, 10, 223, 47], "token": "\\sigma'_{\\lambda'}(V(\\mathcal"}
+{"bbox": [224, 7, 320, 48], "token": "P_b^{L+1}))"}
+{"bbox": [332, 25, 356, 34], "token": "="}
+{"bbox": [366, 12, 447, 47], "token": "\\sigma_s(V(\\mathcal"}
+{"bbox": [448, 7, 531, 47], "token": "P_a^{L+1})"}
+{"bbox": [541, 12, 556, 47], "token": "\\setminus"}
+{"bbox": [566, 7, 673, 47], "token": "\\{v_a^{L+1}\\})"}
+{"bbox": [685, 25, 709, 34], "token": "="}
+{"bbox": [719, 12, 757, 47], "token": "V(\\mathcal"}
+{"bbox": [758, 7, 855, 47], "token": "K_a^{L+1}),"}
+{"bbox": [863, 10, 954, 47], "token": "\\sigma'_{\\lambda'}(V(\\mathcal"}
+{"bbox": [955, 7, 1038, 47], "token": "P_a^{L+1})"}
+{"bbox": [1048, 12, 1063, 47], "token": "\\setminus"}
+{"bbox": [1073, 7, 1180, 47], "token": "\\{v_a^{L+1}\\})"}
+{"bbox": [1192, 25, 1216, 34], "token": "="}
+{"bbox": [1226, 12, 1307, 47], "token": "\\sigma_s(V(\\mathcal"}
+{"bbox": [1308, 7, 1404, 48], "token": "P_b^{L+1}))"}
+{"bbox": [1416, 25, 1440, 34], "token": "="}
+{"bbox": [1450, 12, 1488, 47], "token": "V(\\mathcal"}
+{"bbox": [], "token": "K_b^{L+1}).\n\nnorm_str:"}

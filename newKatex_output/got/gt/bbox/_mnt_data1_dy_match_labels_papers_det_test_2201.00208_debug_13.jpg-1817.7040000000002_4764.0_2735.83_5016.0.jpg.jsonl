@@ -1,0 +1,25 @@
+{"bbox": [7, 40, 21, 57], "token": "c"}
+{"bbox": [20, 45, 28, 62], "token": "i"}
+{"bbox": [30, 57, 34, 66], "token": ","}
+{"bbox": [34, 45, 46, 66], "token": "j"}
+{"bbox": [57, 43, 81, 52], "token": "="}
+{"bbox": [95, 7, 113, 89], "token": "\\left\\{"}
+{"bbox": [], "token": "\\textstyle"}
+{"bbox": [130, 12, 145, 36], "token": "2"}
+{"bbox": [], "token": "\\textstyle"}
+{"bbox": [323, 11, 344, 36], "token": "if"}
+{"bbox": [342, 13, 352, 37], "token": "i"}
+{"bbox": [362, 23, 386, 32], "token": "="}
+{"bbox": [394, 13, 409, 43], "token": "j"}
+{"bbox": [414, 31, 419, 43], "token": ","}
+{"bbox": [427, 26, 449, 29], "token": "-"}
+{"bbox": [455, 10, 458, 45], "token": "|"}
+{"bbox": [461, 12, 475, 37], "token": "b"}
+{"bbox": [474, 25, 482, 42], "token": "i"}
+{"bbox": [484, 37, 488, 46], "token": ","}
+{"bbox": [488, 25, 500, 46], "token": "j"}
+{"bbox": [505, 10, 508, 45], "token": "|"}
+{"bbox": [], "token": "\\textstyle"}
+{"bbox": [141, 52, 275, 77], "token": "otherwise}"}
+{"bbox": [277, 71, 282, 76], "token": "."}
+{"bbox": [], "token": "\\right."}

@@ -1,0 +1,1 @@
+y _ { i } ^ { \prime } = y _ { \sigma ( i ) } \mkern 18mu \text {and} \mkern 18mu b _ { i , j } ^ { \prime } = b _ { \sigma ( i ) , \sigma ( j ) } \mkern 18mu \text {for } 1 \leq i , j \leq n . 

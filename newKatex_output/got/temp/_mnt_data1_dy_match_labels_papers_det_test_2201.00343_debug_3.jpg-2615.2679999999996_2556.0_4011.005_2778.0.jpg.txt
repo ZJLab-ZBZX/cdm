@@ -1,0 +1,1 @@
+D ( \mathcal { C } ) = \mathbf { L } ^ { 2 } ( 0 , 1 ; \mathbb { R } ^ { N } ) \mkern 18mu \mathcal { C } h = \left( K \otimes \int _ { 0 } ^ { 1 } \right) h 

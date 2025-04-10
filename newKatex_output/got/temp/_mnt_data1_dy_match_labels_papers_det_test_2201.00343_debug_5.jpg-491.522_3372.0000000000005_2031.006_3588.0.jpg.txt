@@ -1,0 +1,1 @@
+\Omega = \Omega _ { s } : = \left[ - \frac { \pi _ { s } ^ { 2 } } { k P _ { s } } \right] _ { 2 \alpha I _ { N } - 2 k P _ { s } + g L } \prec 0 

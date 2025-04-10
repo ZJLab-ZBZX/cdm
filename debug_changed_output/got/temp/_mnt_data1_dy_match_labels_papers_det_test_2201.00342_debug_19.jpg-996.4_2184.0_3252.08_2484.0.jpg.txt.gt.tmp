@@ -1,0 +1,1 @@
+\begin{aligned}\texttt{Fp[m]}&= F^{(m)}(p)+\text{欃亹Turing}(\widetilde{\varepsilon_5}(m)),\qquad 0\le m\le 3L-3,\texttt{d[k,j]}&=d^{(k)}_j+\text{欃亹Turing}(\gamma_{k,j}), \qquad 0\le k\text{欃亹leL}-1,\quad 0\le j\le 3k/2,\end{aligned}

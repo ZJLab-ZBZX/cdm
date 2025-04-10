@@ -1,0 +1,1 @@
+\frac { d \nu ^ { u } } { d \mu _ { 0 } ^ { u } } ( u ) \propto \operatorname* { e x p } \left( - \frac { 1 } { 2 } \| \mathord { \boldsymbol { d } } - H u \| _ { \Sigma _ { \mathrm { i n v } } } ^ { 2 } \right) , 

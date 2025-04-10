@@ -1,0 +1,1 @@
+| | g _ { k } ^ { ( i ) } - \nabla f _ { k } ( x _ { k } ^ { ( i ) } ) | | \leq \frac { m _ { k } ^ { ( i ) } } { \sigma _ { \operatorname* { m i n } } ( A _ { k } ^ { ( i ) } ) } , 

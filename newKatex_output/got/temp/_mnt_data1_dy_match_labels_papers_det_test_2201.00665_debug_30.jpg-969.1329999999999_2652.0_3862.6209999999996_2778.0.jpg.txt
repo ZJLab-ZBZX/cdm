@@ -1,0 +1,1 @@
+| \sigma _ { \lambda - 1 } ^ { - 1 } ( V ( \mathcal { K } ^ { \ell } ) ) \setminus ( V ( \mathcal { P } _ { a } ^ { \ell } ) \cup V ( \mathcal { P } _ { b } ^ { \ell } ) ) | = 1 \text { and } | \sigma _ { \lambda } ^ { - 1 } ( V ( \mathcal { K } ^ { \ell } ) ) \setminus ( V ( \mathcal { P } _ { a } ^ { \ell } ) \cup V ( \mathcal { P } _ { b } ^ { \epsilon } ) ) = 2 , 

@@ -1,0 +1,1 @@
+s _ { \lambda } \cdot s _ { ( \alpha ) } = \sum _ { \nu / \lambda \in \text {Horz} ( \alpha ) } s _ { \nu } \mkern 36mu s _ { \lambda } \cdot s _ { ( 1 ^ { r } ) } = \sum _ { \nu / \lambda \in \text {Vert} ( r ) } s _ { \nu } 

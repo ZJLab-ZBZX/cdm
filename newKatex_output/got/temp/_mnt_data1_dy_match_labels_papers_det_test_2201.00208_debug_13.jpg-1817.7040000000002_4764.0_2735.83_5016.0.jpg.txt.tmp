@@ -1,0 +1,1 @@
+c_{i,j}=\begin{cases}2 & \text{ if } i=j,-|b_{i,j}| & \text{ otherwise.}\end{cases}

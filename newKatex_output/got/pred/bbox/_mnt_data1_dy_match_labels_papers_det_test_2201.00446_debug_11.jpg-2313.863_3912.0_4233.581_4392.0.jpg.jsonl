@@ -1,0 +1,22 @@
+{"bbox": [541, 10, 747, 78], "token": "line:\n\\frac{1}{2}d(x_{k+1},"}
+{"bbox": [754, 26, 853, 70], "token": "\\mathcal{X}^*_{f_{k+1}})^2"}
+{"bbox": [865, 32, 887, 60], "token": "&\\leq"}
+{"bbox": [9, 7, 993, 141], "token": "\\frac{(1-\\alpha"}
+{"bbox": [], "token": "\\mu_f)^k}{\\mu_f}"}
+{"bbox": [280, 97, 396, 144], "token": "\\big(\\frac{L_f}{2}d(x_0,"}
+{"bbox": [403, 103, 475, 145], "token": "\\mathcal{X}^*_{f_0})^2"}
+{"bbox": [485, 121, 507, 124], "token": "-"}
+{"bbox": [517, 107, 546, 139], "token": "\\eta^*"}
+{"bbox": [556, 121, 578, 124], "token": "-"}
+{"bbox": [588, 102, 629, 144], "token": "\\eta_0\\big)&\\quad"}
+{"bbox": [673, 110, 697, 134], "token": "+"}
+{"bbox": [707, 107, 748, 151], "token": "\\frac{\\alpha}{2\\mu_f}"}
+{"bbox": [757, 98, 830, 142], "token": "\\sum_{t=0}^k"}
+{"bbox": [834, 105, 921, 140], "token": "(1-\\alpha"}
+{"bbox": [922, 102, 1009, 141], "token": "\\mu_f)^{k-t}"}
+{"bbox": [1013, 103, 1080, 140], "token": "\\|\\varepsilon_t\\|^2"}
+{"bbox": [1082, 110, 1106, 134], "token": "+"}
+{"bbox": [], "token": "\\frac{\\eta^*"}
+{"bbox": [], "token": "+"}
+{"bbox": [], "token": "\\eta_0}{\\mu_f^2"}
+{"bbox": [], "token": "\\alpha}.\n\nnorm_str:"}

@@ -1,0 +1,1 @@
+x _ { 1 } \oplus x _ { 2 } \oplus \cdots \oplus x _ { n } = x _ { 1 } ( 1 + \eta _ { n } ) + x _ { 2 } ( 1 + \eta _ { n - 1 } ) + \cdots + x _ { n } ( 1 + \eta _ { 1 } ) . 

@@ -1,0 +1,1 @@
+v _ { k } = ( A ^ { ( i ) } ) ^ { - 1 } V _ { k } \mathbf { a } ^ { ( i ) } \mkern 5mu \forall k \in [ 1 , 2 , 3 , . . . , 2 ^ { n } ) . 

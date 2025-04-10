@@ -1,0 +1,6 @@
+{"bbox": [7, 7, 804, 95], "token": "line:\n\\begin{align*}S(\\beta)"}
+{"bbox": [], "token": "&=\\Delta_{N+1}"}
+{"bbox": [], "token": "S_0(\\beta_0)"}
+{"bbox": [], "token": "\\Delta_{N+1}\\mathrel{\\dot{=}}"}
+{"bbox": [], "token": "\\beta"}
+{"bbox": [], "token": "(\\sigma_N\\dots\\sigma_2\\sigma_1^3\\sigma_2\\dots\\sigma_N)\\begin{align*}\n\nnorm_str:"}

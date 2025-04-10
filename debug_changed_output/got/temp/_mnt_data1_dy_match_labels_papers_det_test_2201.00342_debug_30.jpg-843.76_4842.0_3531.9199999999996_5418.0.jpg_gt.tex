@@ -1,0 +1,25 @@
+
+\documentclass[12pt]{article}
+\usepackage[landscape]{geometry}
+\usepackage{geometry}
+\geometry{a5paper,scale=0.98}
+\pagestyle{empty}
+\usepackage{booktabs}
+\usepackage{amsmath}
+\usepackage{upgreek}
+\usepackage{amssymb}
+\usepackage{xcolor}
+\begin{document}
+\makeatletter
+\renewcommand*{\@textcolor}[3]{%
+  \protect\leavevmode
+  \begingroup
+    \color#1{#2}#3%
+  \endgroup
+}
+\makeatother
+\begin{displaymath}
+\begin{align*}M_n&=\sum_{j=0}^n \mathcolor[RGB]{0,0,15}{(n-j+4)} \mathcolor[RGB]{0,0,30}{\frac{4}{\pi}} \mathcolor[RGB]{0,0,45}{2^{2j}\frac{1}{(n-j)!}\left(\frac{\pi}{2}\right)^{n-j}<\Bigl(\frac{16}{\pi}+\frac12\Bigr)e^{\pi/8}} \mathcolor[RGB]{0,0,60}{2^{2n}<8.3\cdot} \mathcolor[RGB]{0,0,75}{2^{2n},N_n&=\sum_{j=0}^n}  \mathcolor[RGB]{0,0,90}{\frac{4}{\pi}} \mathcolor[RGB]{0,0,105}{2^{2j}\frac{1}{(n-j)!}\left(\frac{\pi}{2}\right)^{n-j}<\frac{4}{\pi}} \mathcolor[RGB]{0,0,120}{e^{\pi/8}2^{2n}<1.9\cdot} \mathcolor[RGB]{0,0,135}{2^{2n}.\begin{align*}}
+\end{displaymath}
+\end{document}
+

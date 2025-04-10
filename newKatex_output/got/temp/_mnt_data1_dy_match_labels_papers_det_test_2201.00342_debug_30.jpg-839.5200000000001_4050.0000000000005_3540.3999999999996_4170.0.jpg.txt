@@ -1,0 +1,1 @@
+2 ^ { d } > 1 0 ( n + 4 ) \mkern 18mu \text {and} \mkern 18mu 2 ^ { d } \geq 1 2 8 . 6 \cdot 2 ^ { 4 n } / \varepsilon _ { 6 } > 6 ( 2 . 3 8 5 M _ { n } + 2 . 5 N _ { n } ) / ( \varepsilon _ { 6 } 2 ^ { - 2 n } ) 

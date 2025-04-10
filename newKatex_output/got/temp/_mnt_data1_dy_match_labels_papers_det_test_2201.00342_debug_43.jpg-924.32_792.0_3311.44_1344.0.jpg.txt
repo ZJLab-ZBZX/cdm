@@ -1,0 +1,5 @@
+line:
+ \text{wpsmabasic} &= \max\{6, 3 + \mbox{mag}(T), &\mbox{mag}(X^{1/2}(M_1 + M_2)(26 + 2T)) - \mbox{mag}(\varepsilon) + 3\}, \text{wpthefta} &= \max\{4, \mbox{mag}(2.04\,X^{1/2}(M_1 + M_2)) - \mbox{mag}(\varepsilon) + 3\}, &\text{wprR} = \mbox{mag}(4X^{1/2}) - \mbox{mag}(\varepsilon) + 3 
+
+norm_str:
+ 

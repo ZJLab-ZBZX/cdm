@@ -1,0 +1,1 @@
+u _ { | p | , | \bar { p } | + 1 } x _ { | \bar { p } | + 1 } + \cdots + u _ { | p | , | p | } x _ { | p | } = u _ { | p | , | \bar { p } | + 1 } f _ { | \bar { p } | + 1 } + \cdots + u _ { | p | , | p | } f _ { | p | } . 

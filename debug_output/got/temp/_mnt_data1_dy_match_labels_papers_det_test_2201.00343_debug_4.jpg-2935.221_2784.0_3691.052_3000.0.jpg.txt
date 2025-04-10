@@ -1,0 +1,1 @@
+\tilde { \Omega } = \left[ \begin{array} { c c } \textstyle { - \frac { \pi ^ { 2 } } { k } } & \textstyle { k k ^ { 2 } } & \textstyle { 2 ( \alpha - k ) } \\ \end{array} \right] 

@@ -1,0 +1,1 @@
+\sigma ^ { - 1 } ( \kappa _ { a } ^ { \ell } ) \in V ( X _ { a } ^ { 1 } ) \text { and } \sigma ^ { - 1 } ( \kappa _ { b } ^ { 1 } ) \in V ( X _ { b } ^ { 1 } ) . 

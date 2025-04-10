@@ -1,0 +1,74 @@
+{"bbox": [7, 34, 117, 69], "token": "line:\n2\\langle"}
+{"bbox": [118, 34, 259, 69], "token": "\\mathcal{P}(\\mathcal{A}+\\mathcal{L}_{\\mathcal{G}})"}
+{"bbox": [262, 44, 284, 67], "token": "e,"}
+{"bbox": [291, 34, 316, 69], "token": "e\\rangle"}
+{"bbox": [328, 47, 352, 56], "token": "&="}
+{"bbox": [363, 35, 398, 67], "token": "2\\beta"}
+{"bbox": [405, 7, 448, 91], "token": "\\int_0^1"}
+{"bbox": [457, 30, 489, 61], "token": "e^T"}
+{"bbox": [490, 36, 515, 60], "token": "P"}
+{"bbox": [518, 9, 555, 84], "token": "\\frac{d^2}{dx}"}
+{"bbox": [558, 44, 572, 61], "token": "e"}
+{"bbox": [573, 39, 597, 63], "token": "+"}
+{"bbox": [598, 36, 634, 61], "token": "2\\alpha"}
+{"bbox": [641, 7, 684, 91], "token": "\\int_0^1"}
+{"bbox": [693, 30, 725, 61], "token": "e^T"}
+{"bbox": [726, 36, 751, 60], "token": "P"}
+{"bbox": [752, 44, 766, 61], "token": "e"}
+{"bbox": [767, 39, 791, 63], "token": "+"}
+{"bbox": [792, 7, 857, 91], "token": "2\\int_0^1"}
+{"bbox": [866, 30, 898, 61], "token": "e^T"}
+{"bbox": [899, 35, 971, 61], "token": "PGL"}
+{"bbox": [972, 44, 986, 61], "token": "e"}
+{"bbox": [997, 47, 1021, 56], "token": "&="}
+{"bbox": [1031, 35, 1066, 67], "token": "2\\beta"}
+{"bbox": [1068, 30, 1100, 61], "token": "e^T"}
+{"bbox": [1101, 36, 1126, 60], "token": "P"}
+{"bbox": [1128, 13, 1166, 84], "token": "\\frac{d}{dx}"}
+{"bbox": [1175, 10, 1227, 92], "token": "\\binom{1}{0}"}
+{"bbox": [1235, 50, 1257, 53], "token": "-"}
+{"bbox": [1259, 35, 1295, 67], "token": "2\\beta"}
+{"bbox": [1301, 7, 1345, 91], "token": "\\int_0^1"}
+{"bbox": [1355, 13, 1393, 84], "token": "\\frac{d}{dx}"}
+{"bbox": [1395, 30, 1427, 61], "token": "e^T"}
+{"bbox": [1429, 36, 1454, 60], "token": "P"}
+{"bbox": [1456, 13, 1493, 84], "token": "\\frac{d}{dx}"}
+{"bbox": [1496, 44, 1510, 61], "token": "e"}
+{"bbox": [1511, 39, 1535, 63], "token": "+"}
+{"bbox": [1537, 36, 1573, 61], "token": "2\\alpha"}
+{"bbox": [1579, 7, 1623, 91], "token": "\\int_0^1"}
+{"bbox": [1631, 44, 1644, 61], "token": "e^T"}
+{"bbox": [], "token": "P"}
+{"bbox": [], "token": "e"}
+{"bbox": [], "token": "+"}
+{"bbox": [], "token": "2\\int_0^1"}
+{"bbox": [], "token": "e^T"}
+{"bbox": [], "token": "PGL"}
+{"bbox": [], "token": "e"}
+{"bbox": [], "token": "&="}
+{"bbox": [], "token": "-2\\beta"}
+{"bbox": [], "token": "e^T(0)"}
+{"bbox": [], "token": "P"}
+{"bbox": [], "token": "\\widehat{K}"}
+{"bbox": [], "token": "\\int_0^1"}
+{"bbox": [], "token": "e"}
+{"bbox": [], "token": "-"}
+{"bbox": [], "token": "2\\beta"}
+{"bbox": [], "token": "\\int_0^1"}
+{"bbox": [], "token": "\\frac{d}{dx}"}
+{"bbox": [], "token": "e^{T}"}
+{"bbox": [], "token": "P"}
+{"bbox": [], "token": "\\frac{d}{dx}"}
+{"bbox": [], "token": "e"}
+{"bbox": [], "token": "+"}
+{"bbox": [], "token": "2\\alpha"}
+{"bbox": [], "token": "\\int_1^0"}
+{"bbox": [], "token": "e^T"}
+{"bbox": [], "token": "P"}
+{"bbox": [], "token": "e"}
+{"bbox": [], "token": "+"}
+{"bbox": [], "token": "2\\int_1^0"}
+{"bbox": [], "token": "e^T"}
+{"bbox": [], "token": "PGL"}
+{"bbox": [], "token": "e"}
+{"bbox": [], "token": "\\\\\n\nnorm_str:"}

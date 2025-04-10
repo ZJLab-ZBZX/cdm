@@ -1,0 +1,18 @@
+{"bbox": [7, 31, 31, 56], "token": "A"}
+{"bbox": [40, 43, 64, 52], "token": "="}
+{"bbox": [81, 7, 99, 89], "token": "\\left("}
+{"bbox": [], "token": "\\textstyle"}
+{"bbox": [133, 12, 151, 37], "token": "\\lambda"}
+{"bbox": [], "token": "\\textstyle"}
+{"bbox": [200, 26, 222, 29], "token": "-"}
+{"bbox": [225, 12, 243, 37], "token": "\\lambda"}
+{"bbox": [244, 7, 256, 25], "token": "d"}
+{"bbox": [256, 9, 273, 27], "token": "+"}
+{"bbox": [275, 8, 284, 24], "token": "1"}
+{"bbox": [290, 13, 302, 36], "token": "1"}
+{"bbox": [], "token": "\\textstyle"}
+{"bbox": [114, 66, 136, 69], "token": "-"}
+{"bbox": [139, 52, 157, 77], "token": "\\lambda"}
+{"bbox": [158, 47, 170, 65], "token": "d"}
+{"bbox": [318, 7, 336, 89], "token": "\\right)"}
+{"bbox": [350, 51, 355, 56], "token": "."}

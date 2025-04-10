@@ -1,0 +1,1 @@
+2 ^ { d _ { k , j } } = \frac { 4 } { \varepsilon _ { 4 } a ^ { k } } 2 ^ { - j } \pi ^ { j - 2 k } D _ { j } ^ { ( k ) } F _ { 3 k - 2 j } \leq \frac { 4 A ( \sigma ) \  \Gamma ( k + 1 / 2 ) ^ { 1 / 2 } } { ( B _ { 1 } a \sqrt { \pi } ) ^ { k } } , \mkern 36mu 0 \leq j \leq 3 k / 2 . 

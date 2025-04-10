@@ -1,0 +1,1 @@
+Z_{k\ell}[a]:=\left(\begin{array}{ccccc}a_1    & a_2    & \ldots & a_{\ell-1} & -a_1 - a_2 - \ldots - a_{\ell-1} \ldots & \ldots & \ldots & \ldots  & \ldots                        a_1    & a_2    & \ldots & a_{\ell-1} & -a_1 - a_2 - \ldots - a_{\ell-1} \end{array}\right), \quad {\rm if\ } \ell\geq 2,

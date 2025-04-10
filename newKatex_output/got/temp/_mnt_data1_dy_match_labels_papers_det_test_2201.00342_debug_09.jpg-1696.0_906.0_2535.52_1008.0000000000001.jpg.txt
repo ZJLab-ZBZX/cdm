@@ -1,0 +1,1 @@
+\text {a} \  = \  \text {A} \  + \  \text {Turing} ( \text {eps} ) 

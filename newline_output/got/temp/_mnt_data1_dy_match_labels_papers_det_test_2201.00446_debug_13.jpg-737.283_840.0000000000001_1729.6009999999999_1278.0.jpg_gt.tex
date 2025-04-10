@@ -1,0 +1,25 @@
+
+\documentclass[12pt]{article}
+\usepackage[landscape]{geometry}
+\usepackage{geometry}
+\geometry{a5paper,scale=0.98}
+\pagestyle{empty}
+\usepackage{booktabs}
+\usepackage{amsmath}
+\usepackage{upgreek}
+\usepackage{amssymb}
+\usepackage{xcolor}
+\begin{document}
+\makeatletter
+\renewcommand*{\@textcolor}[3]{%
+  \protect\leavevmode
+  \begingroup
+    \color#1{#2}#3%
+  \endgroup
+}
+\makeatother
+\begin{displaymath}
+\mathcolor[RGB]{0,0,15}{e_l^Tx} \mathcolor[RGB]{0,0,30}{&=} \mathcolor[RGB]{0,0,45}{\sum_{j\in\mathcal{N}^{(i)}}} \mathcolor[RGB]{0,0,60}{(c^{(j)}_lv^{(ij)})^Tx} \mathcolor[RGB]{0,0,75}{\\&\leq} \mathcolor[RGB]{0,0,90}{\sum_{j\in\mathcal{N}^{(i)}}} \mathcolor[RGB]{0,0,105}{c^{(j)}_l(s^{(ij)}} \mathcolor[RGB]{0,0,120}{+} \mathcolor[RGB]{0,0,135}{a^{(ij)})}
+\end{displaymath}
+\end{document}
+

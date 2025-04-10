@@ -1,0 +1,12 @@
+{"bbox": [371, 15, 493, 76], "token": "line:\n\\frac{\\mu_f}{2}"}
+{"bbox": [501, 23, 583, 62], "token": "d(x^i_k),"}
+{"bbox": [591, 20, 665, 74], "token": "\\mathcal{X}^f_{k^i_k})^2"}
+{"bbox": [677, 30, 699, 58], "token": "\\leq"}
+{"bbox": [711, 27, 782, 62], "token": "f_k(x)"}
+{"bbox": [793, 43, 815, 46], "token": "-"}
+{"bbox": [826, 27, 856, 62], "token": "f_k^*"}
+{"bbox": [869, 30, 891, 58], "token": "\\leq"}
+{"bbox": [904, 7, 944, 76], "token": "\\frac{L_f}{2}"}
+{"bbox": [946, 23, 1028, 62], "token": "d(x^i_k),"}
+{"bbox": [1036, 20, 1132, 74], "token": "\\mathcal{X}^f_{k^i_k}^2)^2,"}
+{"bbox": [], "token": "(6)\n\nnorm_str:"}

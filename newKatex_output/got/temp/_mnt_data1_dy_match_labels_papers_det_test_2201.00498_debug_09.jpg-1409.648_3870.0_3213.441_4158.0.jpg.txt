@@ -1,0 +1,1 @@
+\operatorname* { e x p } \left( - \sum _ { k = 1 } ^ { N _ { d } } \operatorname* { l o g } \sigma _ { k } \right) = \prod _ { k = 1 } ^ { N _ { d } } \sigma _ { k } ^ { - 1 } \in L _ { \mu _ { 0 } } ^ { 1 } ( \mathcal { H } _ { u } \times \mathbb { R } ^ { + } ; \mathbb { R } ) 

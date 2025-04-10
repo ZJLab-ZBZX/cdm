@@ -1,0 +1,1 @@
+\begin{array} { r l r } \displaystyle { x _ { k + 1 } ^ { ( i ) } } & \displaystyle { { } : = x _ { k } ^ { ( i ) } + \alpha ( - O ( f _ { k } , \mathbf { x } _ { k } , \mathcal { N } ^ { ( i ) } ) ) } & \displaystyle { = x _ { k } ^ { ( i ) } - \alpha ( \nabla f _ { k } ( x _ { k } ^ { ( i ) } ) + \varepsilon _ { k } ) ) , } \\ \end{array} 

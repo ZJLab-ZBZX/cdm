@@ -1,0 +1,25 @@
+
+\documentclass[12pt]{article}
+\usepackage[landscape]{geometry}
+\usepackage{geometry}
+\geometry{a5paper,scale=0.98}
+\pagestyle{empty}
+\usepackage{booktabs}
+\usepackage{amsmath}
+\usepackage{upgreek}
+\usepackage{amssymb}
+\usepackage{xcolor}
+\begin{document}
+\makeatletter
+\renewcommand*{\@textcolor}[3]{%
+  \protect\leavevmode
+  \begingroup
+    \color#1{#2}#3%
+  \endgroup
+}
+\makeatother
+\begin{displaymath}
+\mathcolor[RGB]{0,0,15}{m_k^{(i)}} \mathcolor[RGB]{0,0,30}{&:=} \mathcolor[RGB]{0,0,45}{\left\langle} \mathcolor[RGB]{0,0,60}{\sqrt{\sum_{j} \mathcolor[RGB]{0,0,75}{\in} \mathcolor[RGB]{0,0,90}{\mathcal{N}^{(i)}}} \mathcolor[RGB]{0,0,105}{\left(} \mathcolor[RGB]{0,0,120}{|s_k^{(i)}} \mathcolor[RGB]{0,0,135}{-} \mathcolor[RGB]{0,0,150}{(g_k^{(i)})^T} \mathcolor[RGB]{0,0,165}{v_k^{(ij)}} \mathcolor[RGB]{0,0,180}{|} \mathcolor[RGB]{0,0,195}{+} \mathcolor[RGB]{0,0,210}{a_k^{(ij)})^2} \mathcolor[RGB]{0,0,225}{\right.}} \quad \mathcolor[RGB]{0,0,240}{\text{} \mathcolor[RGB]{0,0,255}{(13)}} \mathcolor[RGB]{0,15,0}{\right.} \\    \mathcolor[RGB]{0,15,15}{\mathcal{E}_k^{(i)}} \mathcolor[RGB]{0,15,30}{&:=} \mathcolor[RGB]{0,15,45}{\left\{x} \mathcolor[RGB]{0,15,60}{\in} \mathcolor[RGB]{0,15,75}{\R^d} \mathcolor[RGB]{0,15,90}{\left\|} \mathcolor[RGB]{0,15,105}{\left\|} \mathcolor[RGB]{0,15,120}{\frac{A_k^{(i)}} \mathcolor[RGB]{0,15,135}{(x} \mathcolor[RGB]{0,15,150}{-} \mathcolor[RGB]{0,15,165}{g_k^{(i)})}{m_k^{(i)}}} \mathcolor[RGB]{0,15,180}{\right\|^2} \mathcolor[RGB]{0,15,195}{\leq} \mathcolor[RGB]{0,15,210}{1} \mathcolor[RGB]{0,15,225}{\right\},}
+\end{displaymath}
+\end{document}
+

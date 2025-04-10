@@ -1,0 +1,12 @@
+{"bbox": [547, 7, 705, 128], "token": "line:\n\\left(\\begin{array}{cc}0"}
+{"bbox": [673, 60, 689, 77], "token": "a"}
+{"bbox": [690, 52, 705, 77], "token": "0"}
+{"bbox": [682, 7, 789, 128], "token": "0\\end{array}\\right),"}
+{"bbox": [838, 7, 904, 128], "token": "\\quad\\left(\\begin{array}{cc}0"}
+{"bbox": [872, 52, 887, 77], "token": "0"}
+{"bbox": [889, 60, 905, 77], "token": "a"}
+{"bbox": [881, 7, 989, 128], "token": "0\\end{array}\\right),"}
+{"bbox": [], "token": "\\quad\\left(\\mymatrix{a"}
+{"bbox": [], "token": "-a"}
+{"bbox": [], "token": "a"}
+{"bbox": [], "token": "-a\\end{array}\\right)\n\nnorm_str:"}

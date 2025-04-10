@@ -1,0 +1,1 @@
+\alpha _ { \mathbb { S } ^ { 3 } } = \frac { 1 } { 2 } r _ { 1 } ^ { 2 } d \theta _ { 1 } + \frac { 1 } { 2 } r _ { 2 } ^ { 2 } d \theta _ { 2 } , \mkern 18mu r _ { 1 } ^ { 2 } + r _ { 2 } ^ { 2 } = 1 . 

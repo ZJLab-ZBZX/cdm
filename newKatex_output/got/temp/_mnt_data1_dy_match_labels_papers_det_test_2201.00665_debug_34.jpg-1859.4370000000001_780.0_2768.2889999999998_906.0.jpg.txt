@@ -1,0 +1,1 @@
+| V ( \mathcal { K } _ { b } ^ { \ell } ) \setminus \sigma _ { \xi } ( V ( \mathcal { P } _ { a } ^ { \ell } ) ) | = 1 . 

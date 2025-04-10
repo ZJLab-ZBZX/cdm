@@ -1,0 +1,1 @@
+|R_k'|\leq A\frac{2^k}{B_1^{n-1}}\Big(\frac{\Gamma(n-\frac{1}{2})}{m!}\Big)^{1/2}\Big\{\frac{\sqrt{m+1}}{4}\vert\eta_5\vert+\frac{\sqrt{(m-1)(m-2)}}{4\sqrt{m}}\vert\eta_5\vert+\frac{\vert1-2\sigma\vert}{4\sqrt{m}}\vert\eta_6\vert\Big\}.

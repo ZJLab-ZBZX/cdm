@@ -1,0 +1,8 @@
+{"bbox": [7, 7, 229, 75], "token": "line:\nd^{(1)}_0&=\\frac{1}{12},\\quad"}
+{"bbox": [269, 17, 475, 63], "token": "d^{(1)}_1=-(\\sigma-\\tfrac12"}
+{"bbox": [478, 7, 887, 76], "token": "),d^{(2)}_0&=\\frac{1}{288},\\quadd^{(2)}_1=-\\frac{1}{12}(\\sigma-\\tfrac12"}
+{"bbox": [890, 26, 909, 61], "token": "),\\quad"}
+{"bbox": [950, 7, 1153, 75], "token": "d^{(2)}_2=\\frac12(\\sigma-\\tfrac12"}
+{"bbox": [1156, 7, 1440, 75], "token": ")^2-\\frac14,\\notag&d^{(2)}_3=(\\sigma-\\tfrac12"}
+{"bbox": [1443, 22, 1597, 63], "token": ")^2+(\\sigma-\\tfrac12"}
+{"bbox": [], "token": ")-\\frac{1}{12}.\n\nnorm_str:"}

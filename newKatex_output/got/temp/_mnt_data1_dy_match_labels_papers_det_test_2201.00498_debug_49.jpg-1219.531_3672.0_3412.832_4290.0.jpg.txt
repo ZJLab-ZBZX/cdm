@@ -1,0 +1,5 @@
+line:
+ \sum_{j=1}^{\infty}\left(\frac{1}{\epsilon_0^{-1}+\delta\lambda_j^{\alpha/2}}\right)^2\langle e_j,(a+\delta A^{\alpha/2})(\epsilon_0^{-1}+\delta A^{\alpha/2})^{-2}(ae_k)\rangle_{\mathcal{H}}^2\leq C\|ae_k\|_{\mathcal{H}}^2\sum_{j=1}^{\infty}\left(\frac{1}{\eps_0^{-1}+\delta\lambda_j^{\alpha/2}}\right)^{2}<\infty, 
+
+norm_str:
+ 

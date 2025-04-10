@@ -1,0 +1,56 @@
+{"bbox": [7, 33, 17, 57], "token": "i"}
+{"bbox": [20, 30, 29, 65], "token": "("}
+{"bbox": [31, 40, 45, 57], "token": "e"}
+{"bbox": [48, 51, 53, 63], "token": ","}
+{"bbox": [61, 40, 75, 57], "token": "e"}
+{"bbox": [75, 29, 82, 42], "token": "\\prime"}
+{"bbox": [83, 30, 93, 65], "token": ")"}
+{"bbox": [107, 40, 112, 56], "token": ":"}
+{"bbox": [114, 43, 138, 52], "token": "="}
+{"bbox": [152, 7, 170, 89], "token": "\\left\\{"}
+{"bbox": [], "token": "\\textstyle"}
+{"bbox": [187, 12, 202, 37], "token": "0"}
+{"bbox": [], "token": "\\textstyle"}
+{"bbox": [670, 11, 692, 36], "token": "{if"}
+{"bbox": [700, 20, 714, 37], "token": "e"}
+{"bbox": [725, 23, 749, 32], "token": "="}
+{"bbox": [759, 20, 773, 37], "token": "e"}
+{"bbox": [773, 10, 780, 23], "token": "\\prime"}
+{"bbox": [793, 20, 821, 37], "token": "or"}
+{"bbox": [822, 20, 836, 37], "token": "e"}
+{"bbox": [844, 15, 865, 37], "token": "\\cap"}
+{"bbox": [874, 20, 888, 37], "token": "e"}
+{"bbox": [888, 10, 895, 23], "token": "\\prime"}
+{"bbox": [906, 23, 930, 32], "token": "="}
+{"bbox": [940, 15, 964, 36], "token": "\\varnothing"}
+{"bbox": [968, 20, 973, 43], "token": ";"}
+{"bbox": [983, 13, 995, 36], "token": "1"}
+{"bbox": [], "token": "\\textstyle"}
+{"bbox": [198, 51, 219, 76], "token": "{if"}
+{"bbox": [228, 60, 242, 77], "token": "e"}
+{"bbox": [242, 50, 249, 63], "token": "\\prime"}
+{"bbox": [262, 52, 283, 77], "token": "is"}
+{"bbox": [284, 52, 353, 83], "token": "lying"}
+{"bbox": [353, 60, 387, 77], "token": "on"}
+{"bbox": [387, 52, 432, 77], "token": "the"}
+{"bbox": [433, 51, 477, 77], "token": "left"}
+{"bbox": [479, 52, 533, 77], "token": "side"}
+{"bbox": [533, 52, 560, 76], "token": "in"}
+{"bbox": [560, 60, 574, 77], "token": "e"}
+{"bbox": [577, 60, 582, 83], "token": ";"}
+{"bbox": [591, 66, 613, 69], "token": "-"}
+{"bbox": [618, 53, 630, 76], "token": "1"}
+{"bbox": [], "token": "\\textstyle"}
+{"bbox": [670, 51, 692, 76], "token": "{if"}
+{"bbox": [700, 60, 714, 77], "token": "e"}
+{"bbox": [714, 50, 721, 63], "token": "\\prime"}
+{"bbox": [734, 52, 755, 77], "token": "is"}
+{"bbox": [756, 52, 825, 83], "token": "lying"}
+{"bbox": [825, 60, 860, 77], "token": "on"}
+{"bbox": [859, 52, 904, 77], "token": "the"}
+{"bbox": [905, 52, 971, 83], "token": "right"}
+{"bbox": [973, 52, 1026, 77], "token": "side"}
+{"bbox": [1027, 51, 1055, 77], "token": "of"}
+{"bbox": [1053, 60, 1067, 77], "token": "e"}
+{"bbox": [1070, 71, 1075, 76], "token": "."}
+{"bbox": [], "token": "\\right."}

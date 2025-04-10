@@ -1,0 +1,1 @@
+\text {term} [ \mathbf { k } ] \mkern 3mu : = \mkern 3mu \frac { C _ { k } ( p ) } { a ^ { k } } + \mathbf { \mathcal { O } } ^ { * } ( \varepsilon _ { 3 } ) \mkern 18mu \text {where} \mkern 18mu \varepsilon _ { 3 } = \frac { \varepsilon _ { 2 } } { 4 L } . 

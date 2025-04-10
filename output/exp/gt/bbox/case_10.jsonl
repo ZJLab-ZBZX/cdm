@@ -1,0 +1,5 @@
+{"bbox": [126, 22, 158, 41], "token": "\\rightarrow"}
+{"bbox": [168, 7, 241, 51], "token": "\\bigoplus_{i=1}^{h}"}
+{"bbox": [250, 10, 298, 50], "token": "V_{i}^{\\Gamma_{i}}"}
+{"bbox": [59, 56, 77, 88], "token": "\\\\\nf"}
+{"bbox": [88, 55, 246, 90], "token": "\\mapsto\\left(f\\left(x_{i}\\right)\\right),\n\\end{array}"}

@@ -1,0 +1,1 @@
+R _ { \theta _ { 0 } } ( z _ { 1 } , z _ { 2 } , u ) = ( z _ { 1 } \operatorname* { c o s } \theta _ { 0 } - z _ { 2 } \operatorname* { s i n } \theta _ { 0 } , z _ { 1 } \operatorname* { s i n } \theta _ { 0 } + z _ { 2 } \operatorname* { c o s } \theta _ { 0 } , u ) . 

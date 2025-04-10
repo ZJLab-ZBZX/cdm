@@ -1,0 +1,25 @@
+
+\documentclass[12pt]{article}
+\usepackage[landscape]{geometry}
+\usepackage{geometry}
+\geometry{a5paper,scale=0.98}
+\pagestyle{empty}
+\usepackage{booktabs}
+\usepackage{amsmath}
+\usepackage{upgreek}
+\usepackage{amssymb}
+\usepackage{xcolor}
+\begin{document}
+\makeatletter
+\renewcommand*{\@textcolor}[3]{%
+  \protect\leavevmode
+  \begingroup
+    \color#1{#2}#3%
+  \endgroup
+}
+\makeatother
+\begin{displaymath}
+\displaystyle \mathcal { \mathcolor[RGB]{0,0,15}{C} } \mathcolor[RGB]{0,0,30}{\nobreak} \mathcolor[RGB]{0,0,45}{\mkern} \mathcolor[RGB]{0,0,60}{2mu} \mathcolor[RGB]{0,0,75}{\mathpunct} { } \mathcolor[RGB]{0,0,90}{\mkern} \mathcolor[RGB]{0,0,105}{-3mu} { \mathcolor[RGB]{0,0,120}{:} } \mathcolor[RGB]{0,0,135}{\mkern} \mathcolor[RGB]{0,0,150}{6mu} \mathcolor[RGB]{0,0,165}{D} \mathcolor[RGB]{0,0,180}{(} \mathcal { \mathcolor[RGB]{0,0,195}{C} } \mathcolor[RGB]{0,0,210}{)} \mathcolor[RGB]{0,0,225}{\subset} \mathcolor[RGB]{0,0,240}{\bigoplus} _ { \mathcolor[RGB]{0,0,255}{i} \mathcolor[RGB]{0,15,0}{=} \mathcolor[RGB]{0,15,15}{1} } ^ { \mathcolor[RGB]{0,15,30}{N} } \mathcal { \mathcolor[RGB]{0,15,45}{X} } \mathcolor[RGB]{0,15,60}{\longrightarrow} \mathcolor[RGB]{0,15,75}{\bigoplus} _ { \mathcolor[RGB]{0,15,90}{i} \mathcolor[RGB]{0,15,105}{=} \mathcolor[RGB]{0,15,120}{1} } ^ { \mathcolor[RGB]{0,15,135}{N} } \mathcal { \mathcolor[RGB]{0,15,150}{U} }
+\end{displaymath}
+\end{document}
+

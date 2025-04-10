@@ -1,0 +1,25 @@
+
+\documentclass[12pt]{article}
+\usepackage[landscape]{geometry}
+\usepackage{geometry}
+\geometry{a5paper,scale=0.98}
+\pagestyle{empty}
+\usepackage{booktabs}
+\usepackage{amsmath}
+\usepackage{upgreek}
+\usepackage{amssymb}
+\usepackage{xcolor}
+\begin{document}
+\makeatletter
+\renewcommand*{\@textcolor}[3]{%
+  \protect\leavevmode
+  \begingroup
+    \color#1{#2}#3%
+  \endgroup
+}
+\makeatother
+\begin{displaymath}
+\begin{align*}\begin{split}(d_0^1) \mathcolor[RGB]{0,0,15}{&=} \mathcolor[RGB]{0,0,30}{\frac{1}{12},} \quad \mathcolor[RGB]{0,0,45}{d_1^{(1)}} \mathcolor[RGB]{0,0,60}{=} \mathcolor[RGB]{0,0,75}{-(\sigma-\tfrac{1}{2}),} \mathcolor[RGB]{0,0,90}{d_0^2} \mathcolor[RGB]{0,0,105}{&=} \mathcolor[RGB]{0,0,120}{\frac{1}{288},} \quad \mathcolor[RGB]{0,0,135}{d_1^{(2)}} \mathcolor[RGB]{0,0,150}{=} \mathcolor[RGB]{0,0,165}{-\frac{1}{12}(\sigma-\tfrac{1}{2}),} \quad \mathcolor[RGB]{0,0,180}{d_2^{(2)}} \mathcolor[RGB]{0,0,195}{=} \mathcolor[RGB]{0,0,210}{\frac{1}{2}(\sigma-\tfrac{1}{2})^2-\tfrac{1}{4},} \mathcolor[RGB]{0,0,225}{&\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\qquad\quad\quad\quad\quad\quad\quad\quad\quad\quadd_2^{(3)}} \mathcolor[RGB]{0,0,240}{=} \mathcolor[RGB]{0,0,255}{(\sigma-\tfrac{1}{2})^2+(\sigma-\tfrac{1}{2})-\tfrac{1}{12}.\end{split}}
+\end{displaymath}
+\end{document}
+

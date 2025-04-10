@@ -1,0 +1,12 @@
+[
+  {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00639/debug/19.jpg-732.646_3126.0_3621.4970000000003_4080.0000000000005.jpg",
+        "gt": "f(x^{\\ell(k)})  \\le f(x^{k-m-1})+\\sum_{i=0}^{\\ell(k)-(k-m)}\\Big[  \\langle\\nabla_xH(\\widetilde{x}^{\\ell(k)-i-1},y^{\\ell(k)-i-1}),x^{\\ell(k)-i-1}-x^{\\ell(k)-i}\\rangle \\\\  \\quad\\ -\\frac{1}{2\\tau_{1,\\ell(k)-i-1}}\\|x^{\\ell(k)-i}\\!-\\!\\widetilde{x}^{\\ell(k)-i-1}\\|^2  +\\frac{1}{2\\tau_{1,\\ell(k)-i-1}}\\|x^{\\ell(k)-i-1}\\!-\\!\\widetilde{x}^{\\ell(k)-i-1}\\|^2\\Big],\\\\   g(y^{\\ell(k)})  \\le g(y^{k-m-1})+\\sum_{i=0}^{\\ell(k)-(k-m)}\\Big[  \\langle\\nabla_yH(x^{\\ell(k)-i},\\widetilde{y}^{\\ell(k)-i-1}),y^{\\ell(k)-i-1}-y^{\\ell(k)-i}\\rangle \\\\  \\quad\\ -\\frac{1}{2\\tau_{2,\\ell(k)-i-1}}\\|y^{\\ell(k)-i}\\!-\\!\\widetilde{y}^{\\ell(k)-i-1}\\|^2  +\\frac{1}{2\\tau_{2,\\ell(k)-i-1}}\\|y^{\\ell(k)-i-1}\\!-\\!\\widetilde{y}^{\\ell(k)-i-1}\\|^2\\Big].",
+        "pred": "f(x^{\\ell(k)})\\leq f(x^{k-m-1})+\\sum_{i=0}^{\\ell(k)-(k-m)}\\left[\\langle \\nabla_{x}H(\\bar{x}^{\\ell(k)-i-1},y^{\\ell(k)-i-1},x^{\\ell(k)-i-1}-x^{\\ell(k)-i})\\right.\\nonumber\\\\    \\quad-\\frac{1}{2\\tau_{1,\\ell(k)-i-1}}\\|x^{\\ell(k)-i}-\\bar{x}^{\\ell(k)-i-1}\\|^{2}\\right+\\frac{1}{2\\tau_{1,\\ell(k)-i-1}}\\| x^{\\ell(k)-i-1}-\\bar{x}^{\\ell(k)-i-1}\\|^{2}\\right],\\\\    g(y^{\\ell(k)})\\leq g(y^{k-m-1})+\\sum_{i=0}^{\\ell(k)-(k^{-m})}\\left[\\langle \\nabla_{y}H(x^{\\ell(k)-i},\\tilde{y}^{\\ell(k)-i-1}),y^{\\ell(k)-i-1}-y^{\\ell(k-i)}\\right.\\nonumber\\\\    \\quad-\\frac{1}{2\\tau_2,\\ell(k)-i-1}\\|y^{\\ell(k)-i}-\\tilde{y}^{\\ell(k)-i-1}\\|^{2}+\\frac{1}{ 2\\tau_2,\\ell(k)-i-1}\\|y^{\\ell(k-i-1}-\\tilde{y}^{\\ell(k)-i-1}\\|^{2}\\right]."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00645/debug/13.jpg-978.4069999999999_1739.9999999999998_3765.244_2046.0000000000002.jpg",
+        "gt": "\\binom{n}{0}^2\\cdot 0! \\cdot (n-1)!^{0} \\cdot \\left(\\sum_{i=0}^{n-0} (-1)^{i}\\cdot \\binom{n-0}{i}^2\\cdot (n-1)!^{2i}\\cdot i!\\cdot n!^{2n-20-2i}\\right).",
+        "pred": "\\binom{n}{0}^2\\cdot 0!\\cdot (n-1)!\\!^0\\cdot \\left(\\sum_{i=0}^{n-0}(-1)^i\\cdot \\binom{n-0}{i}\\right)^2\\cdot (n-1)!^{2i}\\cdot i!\\cdot n!^{2n-2i}\\right)."
+    }
+]

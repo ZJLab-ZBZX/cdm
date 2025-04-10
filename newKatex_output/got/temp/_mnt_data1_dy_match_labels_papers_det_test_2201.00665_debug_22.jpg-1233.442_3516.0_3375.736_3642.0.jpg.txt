@@ -1,0 +1,5 @@
+line:
+ \sigma_{i+1}^{-1}(V(\K^\ell))\subset V(\mathcal{P}_a^\ell)\cup V(\mathcal{P}_b^\ell)\text{ and }\sigma_{i+1}(\{v_a^\ell, v_b^\ell\})\not\in V(\K^\ell), 
+
+norm_str:
+ 

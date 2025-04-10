@@ -1,0 +1,104 @@
+{"bbox": [], "token": "\\textstyle"}
+{"bbox": [7, 22, 32, 48], "token": "C"}
+{"bbox": [44, 7, 58, 69], "token": "\\left("}
+{"bbox": [58, 23, 73, 48], "token": "0"}
+{"bbox": [77, 42, 82, 54], "token": ","}
+{"bbox": [], "token": "\\mkern"}
+{"bbox": [89, 23, 152, 48], "token": "3mu"}
+{"bbox": [162, 17, 172, 59], "token": "\\left("}
+{"bbox": [174, 16, 218, 51], "token": "\\sqrt"}
+{"bbox": [201, 24, 216, 48], "token": "5"}
+{"bbox": [224, 26, 248, 50], "token": "+"}
+{"bbox": [259, 24, 271, 47], "token": "1"}
+{"bbox": [273, 17, 284, 59], "token": "\\right)"}
+{"bbox": [296, 11, 461, 53], "token": "\\sqrt"}
+{"bbox": [329, 24, 341, 47], "token": "1"}
+{"bbox": [344, 23, 359, 48], "token": "0"}
+{"bbox": [368, 37, 390, 40], "token": "-"}
+{"bbox": [400, 23, 415, 47], "token": "2"}
+{"bbox": [418, 16, 461, 51], "token": "\\sqrt"}
+{"bbox": [444, 24, 459, 48], "token": "5"}
+{"bbox": [469, 37, 491, 40], "token": "-"}
+{"bbox": [501, 23, 516, 47], "token": "2"}
+{"bbox": [519, 17, 588, 52], "token": "\\sqrt"}
+{"bbox": [546, 37, 568, 40], "token": "-"}
+{"bbox": [573, 24, 585, 47], "token": "1"}
+{"bbox": [597, 17, 607, 59], "token": "\\left("}
+{"bbox": [609, 16, 652, 51], "token": "\\sqrt"}
+{"bbox": [636, 24, 651, 48], "token": "5"}
+{"bbox": [659, 26, 683, 50], "token": "+"}
+{"bbox": [692, 23, 707, 48], "token": "3"}
+{"bbox": [708, 17, 719, 59], "token": "\\right)"}
+{"bbox": [731, 42, 736, 54], "token": ","}
+{"bbox": [], "token": "\\mkern"}
+{"bbox": [744, 23, 806, 48], "token": "3mu"}
+{"bbox": [816, 17, 826, 59], "token": "\\left("}
+{"bbox": [829, 16, 872, 51], "token": "\\sqrt"}
+{"bbox": [855, 24, 870, 48], "token": "5"}
+{"bbox": [879, 26, 903, 50], "token": "+"}
+{"bbox": [912, 23, 927, 48], "token": "3"}
+{"bbox": [928, 17, 939, 59], "token": "\\right)"}
+{"bbox": [951, 11, 1116, 53], "token": "\\sqrt"}
+{"bbox": [984, 24, 996, 47], "token": "1"}
+{"bbox": [998, 23, 1013, 48], "token": "0"}
+{"bbox": [1023, 37, 1045, 40], "token": "-"}
+{"bbox": [1055, 23, 1070, 47], "token": "2"}
+{"bbox": [1072, 16, 1116, 51], "token": "\\sqrt"}
+{"bbox": [1099, 24, 1114, 48], "token": "5"}
+{"bbox": [1122, 26, 1146, 50], "token": "+"}
+{"bbox": [1155, 23, 1171, 47], "token": "4"}
+{"bbox": [1172, 17, 1242, 52], "token": "\\sqrt"}
+{"bbox": [1200, 37, 1222, 40], "token": "-"}
+{"bbox": [1227, 24, 1239, 47], "token": "1"}
+{"bbox": [1251, 17, 1261, 59], "token": "\\left("}
+{"bbox": [1263, 16, 1306, 51], "token": "\\sqrt"}
+{"bbox": [1290, 24, 1305, 48], "token": "5"}
+{"bbox": [1313, 26, 1337, 50], "token": "+"}
+{"bbox": [1346, 23, 1361, 47], "token": "2"}
+{"bbox": [1362, 17, 1373, 59], "token": "\\right)"}
+{"bbox": [1385, 42, 1390, 54], "token": ","}
+{"bbox": [], "token": "\\right."}
+{"bbox": [], "token": "\\left."}
+{"bbox": [], "token": "-"}
+{"bbox": [], "token": "2"}
+{"bbox": [], "token": "\\left("}
+{"bbox": [], "token": "\\left("}
+{"bbox": [], "token": "\\sqrt"}
+{"bbox": [], "token": "5"}
+{"bbox": [], "token": "+"}
+{"bbox": [], "token": "2"}
+{"bbox": [], "token": "\\right)"}
+{"bbox": [], "token": "\\sqrt"}
+{"bbox": [], "token": "1"}
+{"bbox": [], "token": "0"}
+{"bbox": [], "token": "-"}
+{"bbox": [], "token": "2"}
+{"bbox": [], "token": "\\sqrt"}
+{"bbox": [], "token": "5"}
+{"bbox": [], "token": "-"}
+{"bbox": [], "token": "\\sqrt"}
+{"bbox": [], "token": "-"}
+{"bbox": [], "token": "1"}
+{"bbox": [], "token": "\\left("}
+{"bbox": [], "token": "\\sqrt"}
+{"bbox": [], "token": "5"}
+{"bbox": [], "token": "+"}
+{"bbox": [], "token": "1"}
+{"bbox": [], "token": "\\right)"}
+{"bbox": [], "token": "\\right)"}
+{"bbox": [], "token": ","}
+{"bbox": [], "token": "\\mkern"}
+{"bbox": [], "token": "3mu"}
+{"bbox": [], "token": "-"}
+{"bbox": [], "token": "4"}
+{"bbox": [], "token": "\\sqrt"}
+{"bbox": [], "token": "-"}
+{"bbox": [], "token": "1"}
+{"bbox": [], "token": "\\left("}
+{"bbox": [], "token": "\\sqrt"}
+{"bbox": [], "token": "5"}
+{"bbox": [], "token": "+"}
+{"bbox": [], "token": "1"}
+{"bbox": [], "token": "\\right)"}
+{"bbox": [], "token": "\\right)"}
+{"bbox": [], "token": ","}

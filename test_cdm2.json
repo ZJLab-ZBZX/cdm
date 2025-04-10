@@ -1,0 +1,267 @@
+[
+    {
+        "img_id": "case_0",
+        "gt": "F",
+        "pred": "F"
+    },
+    {
+        "img_id": "case_1",
+        "gt": "F",
+        "pred": "F"
+    },
+    {
+        "img_id": "case_2",
+        "gt": "F",
+        "pred": "F"
+    },
+    {
+        "img_id": "case_3",
+        "gt": "v_{0}",
+        "pred": "v _ { 0 }"
+    },
+    {
+        "img_id": "case_4",
+        "gt": "v_{1}",
+        "pred": "v _ { 1 }"
+    },
+    {
+        "img_id": "case_5",
+        "gt": "\\mathcal{O}_{F}",
+        "pred": "{ \\mathcal { O } } _ { F }"
+    },
+    {
+        "img_id": "case_6",
+        "gt": "F",
+        "pred": "F"
+    },
+    {
+        "img_id": "case_7",
+        "gt": "\\mathfrak{p}",
+        "pred": "{ \\mathcal { O } } _ { F }"
+    },
+    {
+        "img_id": "case_8",
+        "gt": "\\mathcal{O}_{F}",
+        "pred": "{ \\mathcal { O } } _ { F }"
+    },
+    {
+        "img_id": "case_9",
+        "gt": "\\mathfrak{p}",
+        "pred": "p"
+    },
+    {
+        "img_id": "case_10",
+        "gt": "\\mathcal{O}_{F}",
+        "pred": "p"
+    },
+    {
+        "img_id": "case_11",
+        "gt": "F_{\\mathrm{p}}",
+        "pred": "F _ { \\mathfrak { p } }"
+    },
+    {
+        "img_id": "case_12",
+        "gt": "K / F",
+        "pred": "K / F"
+    },
+    {
+        "img_id": "case_13",
+        "gt": "2 \\times 2",
+        "pred": "2 \\times 2"
+    },
+    {
+        "img_id": "case_14",
+        "gt": "A",
+        "pred": "A"
+    },
+    {
+        "img_id": "case_15",
+        "gt": "F",
+        "pred": "p"
+    },
+    {
+        "img_id": "case_16",
+        "gt": "\\mathfrak{p}",
+        "pred": "p"
+    },
+    {
+        "img_id": "case_17",
+        "gt": "F",
+        "pred": "F"
+    },
+    {
+        "img_id": "case_18",
+        "gt": "B_{\\mathfrak{p}} \\cong \\mathbf{M}_{2}\\left(F_{\\mathfrak{p}}\\right)",
+        "pred": "B _ { \\mathfrak { p } } \\cong \\mathbf { M } _ { 2 } ( F _ { \\mathfrak { p } } )"
+    },
+    {
+        "img_id": "case_19",
+        "gt": "\\mathcal{O}_{B}, \\mathfrak{p}",
+        "pred": "{ \\mathcal { O } } _ { B , \\, \\mathfrak { p } }"
+    },
+    {
+        "img_id": "case_20",
+        "gt": "\\mathcal{O}_{B}, \\mathfrak{p}",
+        "pred": "\\mathbf { M } _ { 2 } ( O _ { F _ { \\mathfrak { p } } } )"
+    },
+    {
+        "img_id": "case_21",
+        "gt": "A",
+        "pred": "A"
+    },
+    {
+        "img_id": "case_22",
+        "gt": "G",
+        "pred": "G"
+    },
+    {
+        "img_id": "case_23",
+        "gt": "A",
+        "pred": "G ( A ) = \\left\\{ \\gamma \\in { \\bf G L } _ { 4 } ( A \\otimes _ { \\mathbb { Q } } F ) \\Big | \\begin{array} { c } { \\gamma J _ { 2 } \\gamma ^ { t } = \\nu _ { G } ( \\gamma ) J _ { 2 } } \\\\ { \\nu _ { G } ( \\gamma ) \\in ( A \\otimes _ { \\mathbb { Q } } F ) ^ { \\times } } \\end{array} \\right\\} ,"
+    },
+    {
+        "img_id": "case_24",
+        "gt": "\nJ_{2}=\\left(\\begin{array}{cc}\n0 & \\mathbf{1}_{2} \\\\\n-\\mathbf{1}_{2} & 0\n\\end{array}\\right)\n",
+        "pred": "G ( A ) = \\left\\{ \\gamma \\in { \\bf G L } _ { 4 } ( A \\otimes _ { \\mathbb { Q } } F ) \\Big | \\begin{array} { c } { \\gamma J _ { 2 } \\gamma ^ { t } = \\nu _ { G } ( \\gamma ) J _ { 2 } } \\\\ { \\nu _ { G } ( \\gamma ) \\in ( A \\otimes _ { \\mathbb { Q } } F ) ^ { \\times } } \\end{array} \\right\\} ,"
+    },
+    {
+        "img_id": "case_25",
+        "gt": "\nG(A)=\\left\\{\\gamma \\in \\mathbf{G L}_{4}\\left(A \\otimes_{\\mathbb{Q}} F\\right) \\mid \\underbrace{\\gamma J_{2} \\gamma^{t}}_{\\nu_{G}(\\gamma)}=\\left(A \\otimes_{\\mathcal{Q}} F\\right)^{\\times} \\right\\}\n",
+        "pred": "G ( A ) = \\left\\{ \\gamma \\in { \\bf G L } _ { 4 } ( A \\otimes _ { \\mathbb { Q } } F ) \\Big | \\begin{array} { c } { \\gamma J _ { 2 } \\gamma ^ { t } = \\nu _ { G } ( \\gamma ) J _ { 2 } } \\\\ { \\nu _ { G } ( \\gamma ) \\in ( A \\otimes _ { \\mathbb { Q } } F ) ^ { \\times } } \\end{array} \\right\\} ,"
+    },
+    {
+        "img_id": "case_26",
+        "gt": "A",
+        "pred": "J _ { 2 } = \\left( \\begin{array} { c c } { { 0 } } & { { { \\bf 1 } _ { 2 } } } \\\\ { { - { \\bf 1 } _ { 2 } } } & { { 0 } } \\end{array} \\right) ."
+    },
+    {
+        "img_id": "case_27",
+        "gt": "\nJ_{2}=\\left(\\begin{array}{cc}\n0 & \\mathbf{1}_{2} \\\\\n-\\mathbf{1}_{2} & 0\n\\end{array}\\right)\n",
+        "pred": "J _ { 2 } = \\left( \\begin{array} { c c } { { 0 } } & { { { \\bf 1 } _ { 2 } } } \\\\ { { - { \\bf 1 } _ { 2 } } } & { { 0 } } \\end{array} \\right) ."
+    },
+    {
+        "img_id": "case_28",
+        "gt": "\nG(A)=\\left\\{\\gamma \\in \\mathbf{G L}_{4}\\left(A \\otimes_{\\mathbb{Q}} F\\right) \\mid \\underbrace{\\gamma J_{2} \\gamma^{t}}_{\\nu_{G}(\\gamma)}=\\left(A \\otimes_{\\mathcal{Q}} F\\right)^{\\times} \\right\\}\n",
+        "pred": "J _ { 2 } = \\left( \\begin{array} { c c } { { 0 } } & { { { \\bf 1 } _ { 2 } } } \\\\ { { - { \\bf 1 } _ { 2 } } } & { { 0 } } \\end{array} \\right) ."
+    },
+    {
+        "img_id": "case_29",
+        "gt": "A",
+        "pred": "A"
+    },
+    {
+        "img_id": "case_30",
+        "gt": "\nJ_{2}=\\left(\\begin{array}{cc}\n0 & \\mathbf{1}_{2} \\\\\n-\\mathbf{1}_{2} & 0\n\\end{array}\\right)\n",
+        "pred": "A"
+    },
+    {
+        "img_id": "case_31",
+        "gt": "\nG(A)=\\left\\{\\gamma \\in \\mathbf{G L}_{4}\\left(A \\otimes_{\\mathbb{Q}} F\\right) \\mid \\underbrace{\\gamma J_{2} \\gamma^{t}}_{\\nu_{G}(\\gamma)}=\\left(A \\otimes_{\\mathcal{Q}} F\\right)^{\\times} \\right\\}\n",
+        "pred": "A"
+    },
+    {
+        "img_id": "case_32",
+        "gt": "\\mathbb{Z}",
+        "pred": "\\mathbb { Z }"
+    },
+    {
+        "img_id": "case_33",
+        "gt": "\nG_{\\mathbb{Z}}(A)=\\left\\{\\gamma \\in \\mathbf{G L}_{4}\\left(A\\otimes_{\\mathbb{Z}} \\mathcal{O}_{F}\\right) \\mid \\underbrace{\\gamma J_{2} \\gamma^{t}}_{V_{G}(\\gamma)}=\\nu_{G}(\\gamma) J_{2}_{\\mathcal{O}_{F}} \\times\\right\\}\n",
+        "pred": "A"
+    },
+    {
+        "img_id": "case_34",
+        "gt": "A",
+        "pred": "A"
+    },
+    {
+        "img_id": "case_35",
+        "gt": "\\mathbb{Q}",
+        "pred": "G _ { \\mathbb { Z } } ( A ) = \\left\\{ \\gamma \\in { \\bf G } { \\bf L } _ { 4 } ( A \\otimes _ { \\mathbb { Z } } \\mathcal O _ { F } ) \\Big | \\begin{array} { c } { \\gamma J _ { 2 } \\gamma ^ { t } = \\nu _ { G } ( \\gamma ) J _ { 2 } } \\\\ { \\nu _ { G } ( \\gamma ) \\in ( A \\otimes _ { \\mathbb { Z } } \\mathcal O _ { F } ) ^ { \\times } } \\end{array} \\right\\} ."
+    },
+    {
+        "img_id": "case_36",
+        "gt": "\nG_{\\mathbb{Z}}(A)=\\left\\{\\gamma \\in \\mathbf{G L}_{4}\\left(A\\otimes_{\\mathbb{Z}} \\mathcal{O}_{F}\\right) \\mid \\underbrace{\\gamma J_{2} \\gamma^{t}}_{V_{G}(\\gamma)}=\\nu_{G}(\\gamma) J_{2}_{\\mathcal{O}_{F}} \\times\\right\\}\n",
+        "pred": "G _ { \\mathbb { Z } } ( A ) = \\left\\{ \\gamma \\in { \\bf G } { \\bf L } _ { 4 } ( A \\otimes _ { \\mathbb { Z } } \\mathcal O _ { F } ) \\Big | \\begin{array} { c } { \\gamma J _ { 2 } \\gamma ^ { t } = \\nu _ { G } ( \\gamma ) J _ { 2 } } \\\\ { \\nu _ { G } ( \\gamma ) \\in ( A \\otimes _ { \\mathbb { Z } } \\mathcal O _ { F } ) ^ { \\times } } \\end{array} \\right\\} ."
+    },
+    {
+        "img_id": "case_37",
+        "gt": "A",
+        "pred": "G _ { \\mathbb { Z } } ( A ) = \\left\\{ \\gamma \\in { \\bf G } { \\bf L } _ { 4 } ( A \\otimes _ { \\mathbb { Z } } \\mathcal O _ { F } ) \\Big | \\begin{array} { c } { \\gamma J _ { 2 } \\gamma ^ { t } = \\nu _ { G } ( \\gamma ) J _ { 2 } } \\\\ { \\nu _ { G } ( \\gamma ) \\in ( A \\otimes _ { \\mathbb { Z } } \\mathcal O _ { F } ) ^ { \\times } } \\end{array} \\right\\} ."
+    },
+    {
+        "img_id": "case_38",
+        "gt": "\\mathbb{Q}",
+        "pred": "\\mathbb { Q }"
+    },
+    {
+        "img_id": "case_39",
+        "gt": "\nG_{\\mathbb{Z}}(A)=\\left\\{\\gamma \\in \\mathbf{G L}_{4}\\left(A\\otimes_{\\mathbb{Z}} \\mathcal{O}_{F}\\right) \\mid \\underbrace{\\gamma J_{2} \\gamma^{t}}_{V_{G}(\\gamma)}=\\nu_{G}(\\gamma) J_{2}_{\\mathcal{O}_{F}} \\times\\right\\}\n",
+        "pred": "\\mathbb { Q }"
+    },
+    {
+        "img_id": "case_40",
+        "gt": "A",
+        "pred": "A"
+    },
+    {
+        "img_id": "case_41",
+        "gt": "B",
+        "pred": "B"
+    },
+    {
+        "img_id": "case_42",
+        "gt": "G^{B} / \\mathcal{Q}",
+        "pred": "\\mathbf { M } _ { 2 } ( B \\otimes _ { \\mathbb { Q } } A )"
+    },
+    {
+        "img_id": "case_43",
+        "gt": "\\mathbf{M}_{2}\\left(B \\otimes_{\\mathcal{Q}} A\\right)",
+        "pred": "\\mathbf { M } _ { 2 } ( B \\otimes _ { \\mathbb { Q } } A )"
+    },
+    {
+        "img_id": "case_44",
+        "gt": "G^{B} / \\mathcal{Q}",
+        "pred": "G ^ { B } / \\mathbb { Q }"
+    },
+    {
+        "img_id": "case_45",
+        "gt": "G^{B}",
+        "pred": "G ^ { B }"
+    },
+    {
+        "img_id": "case_46",
+        "gt": "A",
+        "pred": "A"
+    },
+    {
+        "img_id": "case_47",
+        "gt": "\\mathbb{z}",
+        "pred": "\\mathbb { Z }"
+    },
+    {
+        "img_id": "case_48",
+        "gt": "G^{B} / \\mathbb{Q}",
+        "pred": "G _ { \\mathbb { Z } } ^ { B } ( A ) = \\left\\{ \\gamma \\in { \\bf M } _ { 2 } ( \\mathcal { O } _ { B } \\otimes _ { \\mathbb { Z } } A ) \\Big | \\begin{array} { c } { \\gamma \\bar { \\gamma } ^ { t } = \\nu _ { G ^ { B } } ( \\gamma ) { \\bf 1 } _ { 2 } } \\\\ { \\nu _ { G ^ { B } } ( \\gamma ) \\in ( A \\otimes _ { \\mathbb { Z } } \\mathcal { O } _ { F } ) ^ { \\times } } \\end{array} \\right\\} ."
+    },
+    {
+        "img_id": "case_49",
+        "gt": "\nG_{\\mathbb{Z}}^{B}(A)=\\left\\{\\gamma \\in \\mathbf{M}_{2}(\\mathcal{O}_{B} \\otimes_{\\mathbb{Z}} A) \\mid \\underbrace{\\gamma \\gamma^{t}}_{\\nu_{G^{B}}(\\gamma)}=\\nu_{G^{B}}(\\gamma) \\mathbf{1}_{\\mathbb{Z}}_{2} \\times\\right\\}\n",
+        "pred": "G _ { \\mathbb { Z } } ^ { B } ( A ) = \\left\\{ \\gamma \\in { \\bf M } _ { 2 } ( \\mathcal { O } _ { B } \\otimes _ { \\mathbb { Z } } A ) \\Big | \\begin{array} { c } { \\gamma \\bar { \\gamma } ^ { t } = \\nu _ { G ^ { B } } ( \\gamma ) { \\bf 1 } _ { 2 } } \\\\ { \\nu _ { G ^ { B } } ( \\gamma ) \\in ( A \\otimes _ { \\mathbb { Z } } \\mathcal { O } _ { F } ) ^ { \\times } } \\end{array} \\right\\} ."
+    },
+    {
+        "img_id": "case_50",
+        "gt": "G^{B} / \\mathbb{Q}",
+        "pred": "G ^ { B } / \\mathbb { Q }"
+    },
+    {
+        "img_id": "case_51",
+        "gt": "\nG_{\\mathbb{Z}}^{B}(A)=\\left\\{\\gamma \\in \\mathbf{M}_{2}(\\mathcal{O}_{B} \\otimes_{\\mathbb{Z}} A) \\mid \\underbrace{\\gamma \\gamma^{t}}_{\\nu_{G^{B}}(\\gamma)}=\\nu_{G^{B}}(\\gamma) \\mathbf{1}_{\\mathbb{Z}}_{2} \\times\\right\\}\n",
+        "pred": "G ^ { B } / \\mathbb { Q }"
+    },
+    {
+        "img_id": "case_52",
+        "gt": "G / \\mathbb{Q}",
+        "pred": "G / \\mathbb { Q }"
+    }
+]

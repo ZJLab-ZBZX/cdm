@@ -1,0 +1,9 @@
+{"bbox": [431, 13, 565, 52], "token": "line:\ne_l^Tx"}
+{"bbox": [576, 29, 600, 38], "token": "&="}
+{"bbox": [609, 10, 681, 90], "token": "\\sum_{j\\in\\mathcal{N}^{(i)}}"}
+{"bbox": [686, 7, 845, 53], "token": "(c^{(j)}_lv^{(ij)})^Tx"}
+{"bbox": [857, 19, 879, 47], "token": "&\\leq"}
+{"bbox": [889, 10, 961, 90], "token": "\\sum_{j\\in\\mathcal{N}^{(i)}}"}
+{"bbox": [970, 7, 1077, 53], "token": "c^{(j)}_l(s^{(ij)}"}
+{"bbox": [1081, 21, 1105, 45], "token": "+"}
+{"bbox": [], "token": "a^{(ij)})\n\nnorm_str:"}

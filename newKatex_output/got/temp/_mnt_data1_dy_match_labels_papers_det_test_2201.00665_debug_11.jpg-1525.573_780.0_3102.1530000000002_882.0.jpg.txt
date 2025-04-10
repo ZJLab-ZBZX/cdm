@@ -1,0 +1,1 @@
+d _ { 1 } n _ { 1 } + \cdots + d _ { r - 1 } n _ { r - 1 } \equiv n _ { r } - c \allowbreak \mkern 18mu ( { \mathrm { m o d } } \mkern 6mu n _ { r } ) . 

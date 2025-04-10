@@ -1,0 +1,1 @@
+\mathrm { d } \left[ \eta , \mathsf { k } \right] = d _ { k } ^ { ( n ) } + \mathcal { O } ^ { \ast } \left( f _ { 3 n / 2 - k } \frac { \sqrt { 2 \pi } } { 1 2 8 } \frac { \left( \pi a ^ { 2 } / 8 \right) ^ { n / 2 } \mkern 3mu 2 ^ { 2 k } \mkern 3mu \epsilon _ { 4 } } { \Gamma ( ( 3 n - 2 k + 1 ) / 2 ) } \right) . 

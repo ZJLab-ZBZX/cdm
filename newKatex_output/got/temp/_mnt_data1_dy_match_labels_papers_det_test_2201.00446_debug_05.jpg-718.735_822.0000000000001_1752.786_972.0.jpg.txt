@@ -1,0 +1,1 @@
+x _ { k + 1 } ^ { ( i ) } : = x _ { k } ^ { ( i ) } - \alpha ( \nabla _ { x _ { k } ^ { ( i ) } } \hat { f } _ { k } + \varepsilon _ { k } ) . 

@@ -1,0 +1,1 @@
+\binom{n}{0}^2\cdot 0!\cdot (n-1)!\!^0\cdot \left(\sum_{i=0}^{n-0}(-1)^i\cdot \binom{n-0}{i}\right)^2\cdot (n-1)!^{2i}\cdot i!\cdot n!^{2n-2i}\right).

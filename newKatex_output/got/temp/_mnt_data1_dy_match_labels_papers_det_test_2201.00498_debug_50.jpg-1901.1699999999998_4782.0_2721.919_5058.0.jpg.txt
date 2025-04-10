@@ -1,0 +1,1 @@
+\sum _ { j = 1 } ^ { \infty } \langle T \bar { e } _ { j } , T \bar { e } _ { j } \rangle _ { \mathcal { H } _ { 0 } } < \infty , 

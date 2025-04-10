@@ -1,0 +1,1 @@
+\mathcal{S}_{jk}(A):=\sum_{\ell=p_1+p_2+\ldots+p_{k-1}+1}^{p_1+p_2+\ldots+p_k}a_{p_1+p_2+\ldots+p_j,\ell}\,,\quad j,k=1,\ldots,m.

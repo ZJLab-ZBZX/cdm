@@ -1,0 +1,1 @@
+( \theta , p _ { \theta } , z ) \mapsto ( \theta , - p _ { \theta } , - z ) . 

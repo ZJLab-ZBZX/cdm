@@ -1,0 +1,1 @@
+\begin{aligned}f_j&=x_j+\varphi(a_{11}x_1-a_{11}x_2+a_{13}x_3-a_{13}x_4),\quad j=1,2,f_j&=x_j+\varphi(a_{31}x_1+a_{32}x_2+a_{33}x_3-a_{33}x_4),\quad j=3,4\end{aligned}

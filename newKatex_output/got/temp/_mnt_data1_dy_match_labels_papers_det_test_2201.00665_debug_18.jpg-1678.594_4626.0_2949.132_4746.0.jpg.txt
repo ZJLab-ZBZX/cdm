@@ -1,0 +1,1 @@
+| \sigma _ { \lambda - 2 } ( V ( \mathcal { C } _ { a } ^ { \ell } ) ) \setminus ( V ( \mathcal { S } _ { b } ^ { \ell } ) \setminus \{ \kappa _ { a } ^ { \ell } \} ) | \geq 3 , 

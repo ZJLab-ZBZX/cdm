@@ -1,0 +1,17 @@
+{"bbox": [7, 13, 22, 38], "token": "0"}
+{"bbox": [33, 19, 65, 38], "token": "\\rightarrow"}
+{"bbox": [76, 12, 101, 38], "token": "O"}
+{"bbox": [102, 29, 123, 46], "token": "X"}
+{"bbox": [102, 12, 114, 24], "token": "r"}
+{"bbox": [115, 16, 131, 18], "token": "-"}
+{"bbox": [133, 7, 142, 23], "token": "1"}
+{"bbox": [154, 19, 186, 38], "token": "\\xrightarrow"}
+{"bbox": [164, 7, 174, 19], "token": "s"}
+{"bbox": [197, 13, 222, 37], "token": "E"}
+{"bbox": [232, 19, 264, 38], "token": "\\rightarrow"}
+{"bbox": [275, 13, 291, 37], "token": "I"}
+{"bbox": [289, 25, 306, 42], "token": "Z"}
+{"bbox": [315, 16, 339, 40], "token": "\\otimes"}
+{"bbox": [348, 13, 375, 37], "token": "D"}
+{"bbox": [386, 19, 418, 38], "token": "\\rightarrow"}
+{"bbox": [428, 13, 443, 38], "token": "0"}

@@ -1,0 +1,10 @@
+{"bbox": [7, 7, 804, 95], "token": "line:\n\\begin{align*}M_n&=\\sum_{j=0}^n"}
+{"bbox": [], "token": "(n-j+4)"}
+{"bbox": [], "token": "\\frac{4}{\\pi}"}
+{"bbox": [], "token": "2^{2j}\\frac{1}{(n-j)!}\\left(\\frac{\\pi}{2}\\right)^{n-j}<\\Bigl(\\frac{16}{\\pi}+\\frac12\\Bigr)e^{\\pi/8}"}
+{"bbox": [], "token": "2^{2n}<8.3\\cdot"}
+{"bbox": [], "token": "2^{2n},N_n&=\\sum_{j=0}^n"}
+{"bbox": [], "token": "\\frac{4}{\\pi}"}
+{"bbox": [], "token": "2^{2j}\\frac{1}{(n-j)!}\\left(\\frac{\\pi}{2}\\right)^{n-j}<\\frac{4}{\\pi}"}
+{"bbox": [], "token": "e^{\\pi/8}2^{2n}<1.9\\cdot"}
+{"bbox": [], "token": "2^{2n}.\\begin{align*}\n\nnorm_str:"}

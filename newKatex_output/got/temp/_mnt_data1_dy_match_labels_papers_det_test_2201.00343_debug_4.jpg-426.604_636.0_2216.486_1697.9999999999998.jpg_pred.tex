@@ -1,0 +1,28 @@
+
+\documentclass[12pt]{article}
+\usepackage[landscape]{geometry}
+\usepackage{geometry}
+\geometry{a5paper,scale=0.98}
+\pagestyle{empty}
+\usepackage{booktabs}
+\usepackage{amsmath}
+\usepackage{upgreek}
+\usepackage{amssymb}
+\usepackage{xcolor}
+\begin{document}
+\makeatletter
+\renewcommand*{\@textcolor}[3]{%
+  \protect\leavevmode
+  \begingroup
+    \color#1{#2}#3%
+  \endgroup
+}
+\makeatother
+\begin{displaymath}
+\mathcolor[RGB]{0,0,15}{line:
+2\langle} \mathcolor[RGB]{0,0,30}{\mathcal{P}(\mathcal{A}+\mathcal{L}_{\mathcal{G}})} \mathcolor[RGB]{0,0,45}{e,} \mathcolor[RGB]{0,0,60}{e\rangle} \mathcolor[RGB]{0,0,75}{&=} \mathcolor[RGB]{0,0,90}{2\beta} \mathcolor[RGB]{0,0,105}{\int_0^1} \mathcolor[RGB]{0,0,120}{e^T} \mathcolor[RGB]{0,0,135}{P} \mathcolor[RGB]{0,0,150}{\frac{d^2}{dx}} \mathcolor[RGB]{0,0,165}{e} \mathcolor[RGB]{0,0,180}{+} \mathcolor[RGB]{0,0,195}{2\alpha} \mathcolor[RGB]{0,0,210}{\int_0^1} \mathcolor[RGB]{0,0,225}{e^T} \mathcolor[RGB]{0,0,240}{P} \mathcolor[RGB]{0,0,255}{e} \mathcolor[RGB]{0,15,0}{+} \mathcolor[RGB]{0,15,15}{2\int_0^1} \mathcolor[RGB]{0,15,30}{e^T} \mathcolor[RGB]{0,15,45}{PGL} \mathcolor[RGB]{0,15,60}{e} \mathcolor[RGB]{0,15,75}{&=} \mathcolor[RGB]{0,15,90}{2\beta} \mathcolor[RGB]{0,15,105}{e^T} \mathcolor[RGB]{0,15,120}{P} \mathcolor[RGB]{0,15,135}{\frac{d}{dx}} \mathcolor[RGB]{0,15,150}{\binom{1}{0}} \mathcolor[RGB]{0,15,165}{-} \mathcolor[RGB]{0,15,180}{2\beta} \mathcolor[RGB]{0,15,195}{\int_0^1} \mathcolor[RGB]{0,15,210}{\frac{d}{dx}} \mathcolor[RGB]{0,15,225}{e^T} \mathcolor[RGB]{0,15,240}{P} \mathcolor[RGB]{0,15,255}{\frac{d}{dx}} \mathcolor[RGB]{0,30,0}{e} \mathcolor[RGB]{0,30,15}{+} \mathcolor[RGB]{0,30,30}{2\alpha} \mathcolor[RGB]{0,30,45}{\int_0^1} \mathcolor[RGB]{0,30,60}{e^T} \mathcolor[RGB]{0,30,75}{P} \mathcolor[RGB]{0,30,90}{e} \mathcolor[RGB]{0,30,105}{+} \mathcolor[RGB]{0,30,120}{2\int_0^1} \mathcolor[RGB]{0,30,135}{e^T} \mathcolor[RGB]{0,30,150}{PGL} \mathcolor[RGB]{0,30,165}{e} \mathcolor[RGB]{0,30,180}{&=} \mathcolor[RGB]{0,30,195}{-2\beta} \mathcolor[RGB]{0,30,210}{e^T(0)} \mathcolor[RGB]{0,30,225}{P} \mathcolor[RGB]{0,30,240}{\widehat{K}} \mathcolor[RGB]{0,30,255}{\int_0^1} \mathcolor[RGB]{0,45,0}{e} \mathcolor[RGB]{0,45,15}{-} \mathcolor[RGB]{0,45,30}{2\beta} \mathcolor[RGB]{0,45,45}{\int_0^1} \mathcolor[RGB]{0,45,60}{\frac{d}{dx}} \mathcolor[RGB]{0,45,75}{e^{T}} \mathcolor[RGB]{0,45,90}{P} \mathcolor[RGB]{0,45,105}{\frac{d}{dx}} \mathcolor[RGB]{0,45,120}{e} \mathcolor[RGB]{0,45,135}{+} \mathcolor[RGB]{0,45,150}{2\alpha} \mathcolor[RGB]{0,45,165}{\int_1^0} \mathcolor[RGB]{0,45,180}{e^T} \mathcolor[RGB]{0,45,195}{P} \mathcolor[RGB]{0,45,210}{e} \mathcolor[RGB]{0,45,225}{+} \mathcolor[RGB]{0,45,240}{2\int_1^0} \mathcolor[RGB]{0,45,255}{e^T} \mathcolor[RGB]{0,60,0}{PGL} \mathcolor[RGB]{0,60,15}{e} \mathcolor[RGB]{0,60,30}{\\
+
+norm_str:}
+\end{displaymath}
+\end{document}
+

@@ -1,0 +1,1 @@
+D _ { k } ( \sigma ) = \{ ( s , x ) \mid \mathrm { r a n k } ( \sigma ( s , x ) ) \leq k \} . 

@@ -1,0 +1,1 @@
+M _ { n } = \sum _ { k = 0 } ^ { n } ( n - k + 4 ) A _ { k } B _ { n - k } , \mkern 18mu N _ { n } = \sum _ { k = 0 } ^ { n } A _ { k } B _ { n - k } 

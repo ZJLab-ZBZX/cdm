@@ -1,0 +1,1 @@
+N _ { Y _ { L } } ( \mu _ { j } ) = V ( \mathcal { K } _ { a } ^ { e l } ) \cup \{ \kappa _ { a + 1 } ^ { e l } , \kappa _ { b } ^ { e l + 1 } \} . 

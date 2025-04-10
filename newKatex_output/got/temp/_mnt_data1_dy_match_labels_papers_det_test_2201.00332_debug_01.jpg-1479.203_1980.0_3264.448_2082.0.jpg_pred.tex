@@ -1,0 +1,28 @@
+
+\documentclass[12pt]{article}
+\usepackage[landscape]{geometry}
+\usepackage{geometry}
+\geometry{a5paper,scale=0.98}
+\pagestyle{empty}
+\usepackage{booktabs}
+\usepackage{amsmath}
+\usepackage{upgreek}
+\usepackage{amssymb}
+\usepackage{xcolor}
+\begin{document}
+\makeatletter
+\renewcommand*{\@textcolor}[3]{%
+  \protect\leavevmode
+  \begingroup
+    \color#1{#2}#3%
+  \endgroup
+}
+\makeatother
+\begin{displaymath}
+\mathcolor[RGB]{0,0,15}{line:
+f} \mathcolor[RGB]{0,0,30}{=} \mathcolor[RGB]{0,0,45}{(f_1,} \mathcolor[RGB]{0,0,60}{\ldots,} \mathcolor[RGB]{0,0,75}{f_n)} \mathcolor[RGB]{0,0,90}{:} \mathcolor[RGB]{0,0,105}{\C^n} \mathcolor[RGB]{0,0,120}{\to} \mathcolor[RGB]{0,0,135}{\C^n,} \quad \mathcolor[RGB]{0,0,150}{f[A,} \mathcolor[RGB]{0,0,165}{\varphi](x)} \mathcolor[RGB]{0,0,180}{:=} \mathcolor[RGB]{0,0,195}{x} \mathcolor[RGB]{0,0,210}{+} \mathcolor[RGB]{0,0,225}{\varphi(Ax)
+
+norm_str:}
+\end{displaymath}
+\end{document}
+

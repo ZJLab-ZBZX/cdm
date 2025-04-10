@@ -1,0 +1,5 @@
+line:
+ f_1 &= x_1 + \log(x_2 - x_3), f_2 &= x_2 + \log(x_3 - x_1), f_3 &= x_3 + \log(x_1 - x_2) 
+
+norm_str:
+ 

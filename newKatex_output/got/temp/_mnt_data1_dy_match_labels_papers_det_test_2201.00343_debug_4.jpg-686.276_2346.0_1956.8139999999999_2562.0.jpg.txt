@@ -1,0 +1,1 @@
+- \int _ { 0 } ^ { 1 } \frac { d } { d x } c ^ { T } P \frac { d } { d x } e = - \int _ { 0 } ^ { 1 } \frac { d } { d x } \tilde { e } ^ { T } P \frac { d } { d x } \tilde { e } 

@@ -1,0 +1,1 @@
+\sigma _ { \xi } ^ { - 1 } ( \sigma _ { \lambda - 1 } ( v _ { b } ^ { 1 , 2 } ) ) \in N _ { X _ { L } } ( v _ { b } ^ { 1 , 2 } ) \cap V ( \mathcal { C } _ { b } ^ { 1 } ) , 

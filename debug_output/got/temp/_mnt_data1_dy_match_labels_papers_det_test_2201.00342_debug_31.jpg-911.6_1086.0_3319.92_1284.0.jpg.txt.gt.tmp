@@ -1,0 +1,1 @@
+\texttt{v[k]}=V(k)+\Turing(2^{-d} \frac{4}{\pi} 2^{2k} ),\quad\texttt{w[k]}=W(k) +\Turing\Bigl(2^{-d}\frac{1}{k!}\left(\frac{\pi}{2}\right)^k\Bigr),

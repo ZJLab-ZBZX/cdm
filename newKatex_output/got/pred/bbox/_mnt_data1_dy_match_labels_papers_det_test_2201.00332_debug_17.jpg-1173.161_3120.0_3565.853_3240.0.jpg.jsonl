@@ -1,0 +1,2 @@
+{"bbox": [674, 7, 829, 38], "token": "line:\n\\nu_0=\\Id,"}
+{"bbox": [], "token": "\\nu_j=\\nu_j[A,\\varphi](f):=f-\\varphi(A\\nu_{j-1}(f)),\\,j=1,2,3,\\dots\n\nnorm_str:"}

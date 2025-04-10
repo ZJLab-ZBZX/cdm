@@ -1,0 +1,10 @@
+{"bbox": [44, 13, 61, 31], "token": "\\times"}
+{"bbox": [74, 7, 99, 32], "token": "V"}
+{"bbox": [109, 13, 141, 32], "token": "\\rightarrow"}
+{"bbox": [151, 7, 176, 31], "token": "F"}
+{"bbox": [9, 45, 45, 80], "token": "\\\\\n(u,"}
+{"bbox": [53, 45, 80, 80], "token": "v)"}
+{"bbox": [91, 45, 145, 80], "token": "\\mapsto\\langle"}
+{"bbox": [147, 55, 172, 78], "token": "u,"}
+{"bbox": [180, 45, 207, 80], "token": "v\\rangle"}
+{"bbox": [212, 66, 216, 71], "token": ".\n\\end{array}"}

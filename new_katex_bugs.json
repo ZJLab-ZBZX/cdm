@@ -1,0 +1,77 @@
+[
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/06.jpg-1539.4840000000002_990.0_3199.5299999999997_1733.9999999999998.jpg",
+        "gt": "\\hat{A}=\\left(\\begin{array}{cccccc}0      & a_{12} & a_{13} & \\ldots & a_{1n}  & a_{1\\,n+1} 0      &  0     & a_{23} & \\ldots & a_{2n}  & a_{2\\,n+1} \\ldots & \\ldots & \\ldots & \\ldots & \\ldots  &  \\ldots    a_{k1} &   0    &  0     & \\ldots & a_{kn}  & a_{k\\,n+1} \\ldots & \\ldots & \\ldots & \\ldots & \\ldots  &  \\ldots    0      &   0    &  0     & \\ldots &    0    &  a_{n\\,n+1}0      &   0    &  0     & \\ldots &    0    &      0     \\end{array}\\right).",
+        "pred": "\\hat{A}=\\left(\\begin{array}{ccccccc}0 & a_{12} & a_{13} & \\ldots & a_{1n} & a_{1\\,n+1}0 & 0 & a_{23} & \\ldots & a_{2n} & a_{2\\,n+1}\\ldots & \\ldots & \\ldots & \\ldots & \\ldots & \\ldotsa_{k1} & 0 & 0 & \\ldots & a_{kn} & a_{k\\,n+1}\\ldots & \\ldots & \\ldots &\\ldots & \\ldots & \\ldots0 & 0 & 0 & \\ldots & 0 & a_{n\\,n+1}0 & 0 & 0 & \\ldots & 0 & 0\\end{array}\\right)\\,."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/12.jpg-1024.777_996.0_3718.8740000000003_1356.0.jpg",
+        "gt": "Z_{k\\ell}[a]:=\\left(\\begin{array}{ccccc}a_1    & a_2    & \\ldots & a_{\\ell-1} & -a_1 - a_2 - \\ldots - a_{\\ell-1} \\ldots & \\ldots & \\ldots & \\ldots  & \\ldots                        a_1    & a_2    & \\ldots & a_{\\ell-1} & -a_1 - a_2 - \\ldots - a_{\\ell-1} \\end{array}\\right), \\quad {\\rm if\\ } \\ell\\geq 2,",
+        "pred": "Z_{k\\ell}[a]:=\\left(\\begin{array}{cccc}a_1&a_2&\\ldots&a_{\\ell-1}&-a_1-a_2-\\ldots-a_{\\ell-1}\\ldots&\\ldots&\\ldots&\\ldots&\\ldotsa_1&a_2&\\ldots&a_{\\ell-1}&-a_{1}-a_2-a_2-\\ldots-a_{\\ell-1}\\end{array}\\right),\\quad\\text{if }\\ell\\geq 2,"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/12.jpg-1762.06_2052.0_2935.221_2298.0.jpg",
+        "gt": "B_{k\\ell}^{\\sigma}[a]:=\\left\\{\\begin{array}{r}Z_{k\\ell}[a], \\quad \\text{if\\ } \\sigma = 0, S_{k\\ell}[a], \\quad \\text{if\\ } \\sigma = 1. \\end{array}\\right.",
+        "pred": "B_{k\\ell}^{\\sigma}[a]:=\\left\\{\\begin{array}[c]{ccc}Z_{k\\ell}[a], & \\text{if }\\sigma=0,S_{k\\ell}[a], & \\text{if }\\sigma=1.\\end{array}\\right."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00493/debug/4.jpg-915.84_2760.0_3332.6400000000003_2880.0.jpg",
+        "gt": "D\\cdot H>\\max\\{ 4r^2+1, 2r(v^2 H^2-D^2 H^2+(D\\cdot H)^2)\\},  ~s>2d,  \\hbox{~if r>0}",
+        "pred": "D\\cdot H>\\max\\{4r^2+1,2r(v^2H^2-D^2H^2+(D\\cdot H)^2)\\},\\ s>2d,\\ \\mbox{if}\\ r>0"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00645/debug/13.jpg-978.4069999999999_1739.9999999999998_3765.244_2046.0000000000002.jpg",
+        "gt": "\\binom{n}{0}^2\\cdot 0! \\cdot (n-1)!^{0} \\cdot \\left(\\sum_{i=0}^{n-0} (-1)^{i}\\cdot \\binom{n-0}{i}^2\\cdot (n-1)!^{2i}\\cdot i!\\cdot n!^{2n-20-2i}\\right).",
+        "pred": "\\binom{n}{0}^2\\cdot 0!\\cdot (n-1)!\\!^0\\cdot \\left(\\sum_{i=0}^{n-0}(-1)^i\\cdot \\binom{n-0}{i}\\right)^2\\cdot (n-1)!^{2i}\\cdot i!\\cdot n!^{2n-2i}\\right)."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00645/debug/13.jpg-1729.6009999999999_4158.0_3004.7760000000003_4404.0.jpg",
+        "gt": "L_n \\cdot \\binom{n}{k}\\cdot (n-1)^{n-k} \\cdot (n-1)!^n.",
+        "pred": "L_n\\cdot \\binom{n}{k}\\cdot (n-1)^{n-k}\\cdot (n-1)^!^n."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00343/debug/4.jpg-2935.221_2784.0_3691.052_3000.0.jpg",
+        "gt": "\\Tilde{\\Omega}=\\begin{bmatrix} -\\frac{\\pi^2}{2} & k k  & 2(\\alpha - k)\\end{bmatrix}",
+        "pred": "\\tilde{\\Omega} = \\left[ \\begin{array}{cc}    -\\frac{\\pi^2}{k} & k     k^2 & 2(\\alpha-k)    \\end{array} \\right]"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/14.jpg-771.68_2196.0_3468.3199999999997_2586.0.jpg",
+        "gt": "\\begin{align*}\\texttt{sum}&=v'_1(1+\\eta_N)+v'_2(1+\\eta_{N-1})+\\cdots +v'_n(1+\\eta_1)&=v_1(1+\\eta_{N+1})+v_2(1+\\eta_{N})+\\cdots +v_N(1+\\eta_2)&=(a_1+\\alpha_1)(1+\\eta_{N+1})+(a_2+\\alpha_2)(1+\\eta_{N})+\\cdots +(a_N+\\alpha_N)(1+\\eta_2)\\end{align*}",
+        "pred": "\\begin{align*}\\mathop{\\text{sum}} = & v'_1(1+\\eta_N) + v'_2(1+\\eta_{N-1}) + \\cdots + v'_n(1+\\eta_1) & = v_1(1+\\eta_{N+1}) + v_2(1+\\eta_N) + \\cdots + v_N(1+\\eta_2) & = (a_1+\\alpha_1)(1+\\eta_{N+1}) + (a_2+\\alpha_2)(1+\\eta_N) + \\cdots + (a_N+\\alpha_N)(1+\\eta_2)\\end{align*}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/19.jpg-996.4_2184.0_3252.08_2484.0.jpg",
+        "gt": "\\begin{align*}\\texttt{Fp[m]}&= F^{(m)}(p)+\\Turing(\\widetilde{\\varepsilon_5}(m)),\\qquad 0\\le m\\le 3L-3,\\texttt{d[k,j]}&=d^{(k)}_j+\\Turing(\\gamma_{k,j}), \\qquad 0\\le k\\leL-1,\\quad 0\\le j\\le 3k/2,\\end{align*}",
+        "pred": "\\begin{align*}\\begin{split}\\mathrm{Fp}\\left[\\mathrm{m}\\right] &= F^{(m)}(p)+\\mathcal{O}^*(\\tilde{\\varepsilon}_5(m)), \\qquad 0\\leq m\\leq 3L-3,\\mathrm{d}\\left[\\mathfrak{k},\\mathrm{j}\\right] &= d_j^{(k)}+\\mathcal{O}^*(\\gamma_{k,j}), \\qquad 0\\leq k\\leq L-1, \\quad 0\\leq j\\leq 3k/2,\\end{split}\\end{align*}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/24.jpg-966.72_1086.0_3269.04_1614.0.jpg",
+        "gt": "\\begin{align*}m=1\\qquad &\\texttt{c[k]} = (k+1)\\texttt{c[k+1]}(1+\\eta_2)m=2\\qquad &\\texttt{c[k]} = (k+1)(k+2)\\texttt{c[k+2]}(1+\\eta_3)\\dotsm\\qquad & \\texttt{c[k]} = (k+1)(k+2)\\cdots (k+m)\\texttt{c[k+m]}(1+\\eta_{m+1})\\end{align*}",
+        "pred": "\\begin{align*}m&=1\\qquad\\mathrm{c}\\left[\\mathbb{K}\\right]=(k+1)\\mathrm{c}\\left[\\mathbb{K}\\mathbf{+}1\\right](1+\\eta_{2})m&=2\\qquad\\mathrm{c}\\left[\\mathbb{K}\\right]=(k+ 1)(k+2)\\mathrm{c}\\left[\\mathbb{K}\\mathbf{+}2\\right](1+\\eta_{3})&\\qquad\\cdotsm&\\qquad\\mathrm{c}\\left[\\mathbb{K}\\right]=(k+2)\\cdots(k+m)\\mathrm{c}\\left[\\mathbb{K}\\mathbf{+}\\mathbf{m}\\right](1+\\eta_{m+1})\\end{align*}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/24.jpg-826.8000000000001_2076.0_3417.44_3042.0.jpg",
+        "gt": "\\begin{align*}k=J-m-1\\qquad & \\texttt{sumP} = \\texttt{c[J-m-1]}k=J-m-2\\qquad & \\texttt{sumP} = \\texttt{c[J-m-1]p}(1+\\eta_2)+c[J-m-2](1+\\eta_1)k=J-m-3\\qquad & \\texttt{sumP} = \\texttt{c[J-m-1]p}^2(1+\\eta_4)+\\texttt{c[J-m-2]p}(1+\\eta_3)+&+\\texttt{c[J-m-3]}(1+\\eta_1)k=0\\qquad & \\texttt{sumP} = \\texttt{c[J-m-1]p}^{J-m-1}(1+\\eta_{2J-2m-2})+&+\\sum_{k=0}^{J-m-2}\\texttt{c[k]p}^k(1+\\eta_{2k+1}).\\begin{align*}",
+        "pred": "\\begin{align*}k&=J-m-1\\quad\\quad\\text{sumP}=\\text{c}\\left[\\mathrm{J-m-1}\\right]k&=J-m-2\\quad\\quad\\text{sumP}=\\text{c}\\left[\\mathrm{JJ-m-1}\\right]\\text{p}(1+\\eta_2)+c[J-m-2](1+\\eta_1)k&=J-m-3\\quad\\quad\\text{sumP}=\\text{c}\\left[\\mathrm{I-j-m-1}\\right]\\text{p}^2(1+\\eta_4)+\\text{c}\\left[\\mathrm{I-j-m-2}\\right]\\text{p}(1+\\eta_3)+&\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\qquad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad+\\text{c}\\left[\\mathrm{J-m-3}\\right](1+\\eta_1)k&=0\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\text{sumP}=\\text{c}\\left[\\mathrm{V-m-1}\\right]\\text{p}^{J-m-1}(1+\\eta_{2J-2m-2})+\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad&\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad+\\sum_{k=0}^{J-m-2}\\text{c}\\left[\\mathbf{k}\\right]\\text{p}^k(1+\\eta_{2k+1}).\\begin{align*}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/31.jpg-835.2800000000001_2766.0_3553.12_3528.0.jpg",
+        "gt": "\\begin{align*}&d^{(0)}_0=1, \\quad d^{(0)}_k =0 \\quad \\text{for } k\\ne0&d^{(n)}_k=0 \\quad \\text{for }\\quad k<0 \\quad\\text{and for }\\quad k>3n/2&2(3n-2k) d^{(n)}_k=\\tfrac12 d^{(n-1)}_k+(1-2\\sigma)d^{(n-1)}_{k-1}-2(3n-2k)(3n-2k+1)d^{(n-1)}_{k-2}&d^{(n)}_{3n/2} =-\\sum_{k=0}^{3n/2 -1} (-1)^{3n/2-k} d^{(n)}_k\\frac{(3n-2k)!}{(3n/2-k)!},\\qquad  3n \\equiv 0\\pmod2.\\end{align*}",
+        "pred": "\\begin{align*}\\begin{array}{cccccccc}d_0^{(0)}=1, & d_k^{(0)}=0 & \\text{for } & k\\neq 0d_k^{(n)}=0 & \\text{for } & k<0 & \\text{and for } & k>3n/22(3n-2k)d_k^{(n)}=\\frac{1}{2}d_k^{(n-1)}+(1-2\\sigma)d_k^{(n-1)}-2(3n-2k)(3n-2k+1)d_{k-2}^{(n-1)}d_{n/2}^{(n)}=-\\sum_{k=0}^{n/2-1}(-1)^{3n/2-k}d_k^{(n)}\\frac{(3n-2k)!}{(3n/2-k)!}, &  & 3n\\equiv 0 & (\\mathrm{mod}\\;2).\\end{array}\\end{align*}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/31.jpg-1076.96_3660.0_3163.04_4272.0.jpg",
+        "gt": "\\begin{align*}d^{(1)}_0&=\\frac{1}{12},\\quad d^{(1)}_1=-(\\sigma-\\tfrac12 ),d^{(2)}_0&=\\frac{1}{288},\\quadd^{(2)}_1=-\\frac{1}{12}(\\sigma-\\tfrac12 ),\\quad d^{(2)}_2=\\frac12(\\sigma-\\tfrac12 )^2-\\frac14,\\notag&d^{(2)}_3=(\\sigma-\\tfrac12 )^2+(\\sigma-\\tfrac12 )-\\frac{1}{12}.",
+        "pred": "\\begin{align*}\\begin{split}(d_0^1) &= \\frac{1}{12}, \\quad d_1^{(1)} = -(\\sigma-\\tfrac{1}{2}), d_0^2 &= \\frac{1}{288}, \\quad d_1^{(2)} = -\\frac{1}{12}(\\sigma-\\tfrac{1}{2}), \\quad d_2^{(2)} = \\frac{1}{2}(\\sigma-\\tfrac{1}{2})^2-\\tfrac{1}{4}, &\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\qquad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quadd_2^{(3)} = (\\sigma-\\tfrac{1}{2})^2+(\\sigma-\\tfrac{1}{2})-\\tfrac{1}{12}.\\end{split}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/19.jpg-805.6_1788.0_3561.6_2028.0000000000002.jpg",
+        "gt": "\\texttt{wptcoef[k]}:=\\max\\Bigl\\{\\texttt{mag}\\Bigl(68\\frac{(L +2) A(\\sigma)}{\\varepsilon_4}\\frac{\\Gamma(k+1/2)^{1/2}}{(B_1 a \\sqrt{\\pi})^k}\\Bigr), \\texttt{mag}(40(L+2))\\Bigr\\}.",
+        "pred": "\\text{wptocf[k] := max\\Bigl\\{\\mbox{mag}\\Bigl(68\\frac{(L+2)A(\\sigma)\\,\\Gamma(k+1/2)^{1/2}}{(B_1a\\sqrt{\\pi})^k}\\Bigr),\\mbox{mag}(40(L+2))\\Bigr\\}."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/30.jpg-843.76_4842.0_3531.9199999999996_5418.0.jpg",
+        "gt": "\\begin{align*}M_n&=\\sum_{j=0}^n (n-j+4) \\frac{4}{\\pi} 2^{2j}\\frac{1}{(n-j)!}\\left(\\frac{\\pi}{2}\\right)^{n-j}<\\Bigl(\\frac{16}{\\pi}+\\frac12\\Bigr)e^{\\pi/8} 2^{2n}<8.3\\cdot 2^{2n},N_n&=\\sum_{j=0}^n  \\frac{4}{\\pi} 2^{2j}\\frac{1}{(n-j)!}\\left(\\frac{\\pi}{2}\\right)^{n-j}<\\frac{4}{\\pi} e^{\\pi/8}2^{2n}<1.9\\cdot 2^{2n}.\\begin{align*}",
+        "pred": "\\begin{align*}\\begin{array}{rcl}M_n&=&\\sum_{j=0}^n (n-j+4)\\frac{4}{\\pi}2^{2j}\\frac{1}{(n-j)!}\\left(\\frac{\\pi}{2}\\right)^{n-j}<\\left(\\frac{16}{\\pi}+\\frac{1}{2}\\right)e^{\\pi/8}2^{2n}<8.3\\cdot 2^{2n},N_n&=&\\sum_{j=0}^n \\frac{4}{\\pi}2^{2j}\\frac{1}{(n-j) !}\\left(\\frac{\\pi}{2}\\right)^{n-j}<\\frac{4}{\\pi}e^{\\pi/8}2^{2n}<1.9\\cdot 2^{2n}.\\end{array}\\begin{align*}"
+    }
+]

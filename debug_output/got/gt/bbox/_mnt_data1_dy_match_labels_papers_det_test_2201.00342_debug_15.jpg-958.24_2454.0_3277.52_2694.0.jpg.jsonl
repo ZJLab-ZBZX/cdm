@@ -1,0 +1,4 @@
+{"bbox": [403, 7, 775, 91], "token": "line:\n\\frac{t^{(k)}_j}{a^k}+\\Turing(\\varepsilon_4)\\quad\\text{where}\\quadt^{(k)}_j"}
+{"bbox": [790, 22, 915, 91], "token": ":=\\Bigl(\\frac{\\pi}{2i}\\Bigr)^j"}
+{"bbox": [919, 7, 1133, 91], "token": "\\frac{d^{(k)}_j}{\\pi^{2k}}F^{(3k-2j)}(p),"}
+{"bbox": [], "token": "\\quad\\varepsilon_4=\\frac{\\varepsilon_3}{3L}.\n\nnorm_str:"}

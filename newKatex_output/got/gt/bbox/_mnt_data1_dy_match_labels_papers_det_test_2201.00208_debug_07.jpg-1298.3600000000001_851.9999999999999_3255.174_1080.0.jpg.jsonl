@@ -1,0 +1,7 @@
+{"bbox": [176, 7, 356, 42], "token": "line:\nR_{\\theta_0}(z_1,"}
+{"bbox": [364, 7, 603, 42], "token": "z_2,u)&=(z_1\\cos\\theta_0"}
+{"bbox": [614, 7, 1267, 42], "token": "-z_2\\sin\\theta_0,z_1\\sin\\theta_0+z_2\\cos\\theta_0,u);\\eta(z_1,z_2,u)&="}
+{"bbox": [1280, 7, 1296, 42], "token": "(\\bar"}
+{"bbox": [1290, 12, 1339, 40], "token": "z_1,\\bar"}
+{"bbox": [1333, 17, 1359, 38], "token": "z_2"}
+{"bbox": [], "token": ",u).\n\nnorm_str:"}

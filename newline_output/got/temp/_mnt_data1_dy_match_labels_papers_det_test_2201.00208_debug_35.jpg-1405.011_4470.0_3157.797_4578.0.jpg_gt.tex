@@ -1,0 +1,25 @@
+
+\documentclass[12pt]{article}
+\usepackage[landscape]{geometry}
+\usepackage{geometry}
+\geometry{a5paper,scale=0.98}
+\pagestyle{empty}
+\usepackage{booktabs}
+\usepackage{amsmath}
+\usepackage{upgreek}
+\usepackage{amssymb}
+\usepackage{xcolor}
+\begin{document}
+\makeatletter
+\renewcommand*{\@textcolor}[3]{%
+  \protect\leavevmode
+  \begingroup
+    \color#1{#2}#3%
+  \endgroup
+}
+\makeatother
+\begin{displaymath}
+\mathcolor[RGB]{0,0,15}{S(\beta)} \mathcolor[RGB]{0,0,30}{&=\Delta_{N+1}} \mathcolor[RGB]{0,0,45}{S_0(\beta_0)} \mathcolor[RGB]{0,0,60}{\Delta_{N+1}\mathrel{\dot{=}}} \mathcolor[RGB]{0,0,75}{\beta} \mathcolor[RGB]{0,0,90}{(\sigma_N\dots\sigma_2\sigma_1^3\sigma_2\dots\sigma_N)}
+\end{displaymath}
+\end{document}
+

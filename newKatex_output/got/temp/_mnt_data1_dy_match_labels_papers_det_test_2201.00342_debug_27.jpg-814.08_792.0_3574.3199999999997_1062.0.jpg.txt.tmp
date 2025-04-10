@@ -1,0 +1,1 @@
+c_{2n}=(-1)^{n+1}\frac{i}{\sqrt{2}}\sum_{k=0}^{n}(-1)^k V(k)W(2n-2k)+\frac{e^{3\pi i/8}}{2}\sum_{k=0}^{n}i^{n-k}V(k)W(n-k)

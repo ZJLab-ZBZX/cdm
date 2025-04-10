@@ -1,0 +1,1 @@
+(\mathbb{R}^3, dz' + x'dy' - y'dx') \to (J^1\mathbb{R}, dz - ydx);(x', y', z') \mapsto (x,y,z) = (x', 2y', z' + x'y'),

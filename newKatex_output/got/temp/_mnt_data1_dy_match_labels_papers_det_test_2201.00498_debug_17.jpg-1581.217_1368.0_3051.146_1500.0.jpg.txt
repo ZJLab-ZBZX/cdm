@@ -1,0 +1,1 @@
+\bar { u } _ { 1 } ^ { 1 } = ( H ^ { * } \Sigma _ { \mathrm { i n v } } ^ { * } ) H + \mathcal { C } _ { 0 } ) ^ { - 1 } H ^ { * } \Sigma _ { \mathrm { i n v } } ^ { * } \mathrm { D N e t } ( \mathord { \boldsymbol { d } } ) . 

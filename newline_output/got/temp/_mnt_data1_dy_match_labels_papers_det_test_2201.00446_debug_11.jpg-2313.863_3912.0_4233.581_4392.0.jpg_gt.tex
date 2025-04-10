@@ -1,0 +1,25 @@
+
+\documentclass[12pt]{article}
+\usepackage[landscape]{geometry}
+\usepackage{geometry}
+\geometry{a5paper,scale=0.98}
+\pagestyle{empty}
+\usepackage{booktabs}
+\usepackage{amsmath}
+\usepackage{upgreek}
+\usepackage{amssymb}
+\usepackage{xcolor}
+\begin{document}
+\makeatletter
+\renewcommand*{\@textcolor}[3]{%
+  \protect\leavevmode
+  \begingroup
+    \color#1{#2}#3%
+  \endgroup
+}
+\makeatother
+\begin{displaymath}
+\mathcolor[RGB]{0,0,15}{\frac{1}{2}d(x_{k+1},\mathcal{X}^*_{f_{k+1}})^2} \mathcolor[RGB]{0,0,30}{&\leq} \mathcolor[RGB]{0,0,45}{\frac{(1} \mathcolor[RGB]{0,0,60}{-} \mathcolor[RGB]{0,0,75}{\alpha\mu_{f})^{k}}{\mu_{f}}(\frac{L_{f}}{2}d(x_{0},\mathcal{X}^*_{f_{0}})^2} \mathcolor[RGB]{0,0,90}{-} \mathcolor[RGB]{0,0,105}{\eta^*} \mathcolor[RGB]{0,0,120}{-} \mathcolor[RGB]{0,0,135}{\eta_0)} \mathcolor[RGB]{0,0,150}{\\&+} \mathcolor[RGB]{0,0,165}{\frac{\alpha}{2\mu_{f}}\sum_{t=0}^{k}(1} \mathcolor[RGB]{0,0,180}{-} \mathcolor[RGB]{0,0,195}{\alpha\mu_{f})^{k-t}||\varepsilon_t||^2} \mathcolor[RGB]{0,0,210}{+} \mathcolor[RGB]{0,0,225}{\frac{\eta^*} \mathcolor[RGB]{0,0,240}{+} \mathcolor[RGB]{0,0,255}{\eta_0}{\mu_{f}^2\alpha}.}
+\end{displaymath}
+\end{document}
+

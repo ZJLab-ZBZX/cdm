@@ -1,0 +1,1 @@
+(\theta,p_\theta,z,s)\mapsto (x_1,x_2,y_1,y_2)=(e^s\cos\theta,e^s\sin\theta,p_\theta\sin\theta,z\sin\theta+p_\theta\cos\theta).

@@ -1,0 +1,1 @@
+F_k(x^*_\phi) &\leq \frac{L_f}{2}||x^*_{F_k}-x^*_\phi||^2,    &=\frac{L_f}{2}d(\mathcal{X}^*_\phi,\mathcal{X}^*_{F_k})^2.

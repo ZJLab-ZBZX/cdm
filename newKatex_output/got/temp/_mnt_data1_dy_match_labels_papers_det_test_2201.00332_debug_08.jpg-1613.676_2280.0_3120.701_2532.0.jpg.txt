@@ -1,0 +1,5 @@
+line:
+ \left(\begin{array}{cc}0 & a 0 & 0\end{array}\right), \quad\left(\begin{array}{cc}0 & 0 a & 0\end{array}\right), \quad\left(\matrix{a & -a a & -a\end{array}\right) 
+
+norm_str:
+ 

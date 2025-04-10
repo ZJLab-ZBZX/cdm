@@ -1,0 +1,3 @@
+{"bbox": [647, 7, 851, 105], "token": "line:\nS:=\\sum_{n=1}^N"}
+{"bbox": [858, 50, 889, 72], "token": "a_n"}
+{"bbox": [], "token": "+\\Turing(\\varepsilon).\n\nnorm_str:"}

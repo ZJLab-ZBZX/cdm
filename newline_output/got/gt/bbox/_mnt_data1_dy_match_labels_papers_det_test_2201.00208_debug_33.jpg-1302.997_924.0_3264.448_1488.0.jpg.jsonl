@@ -1,0 +1,11 @@
+{"bbox": [382, 27, 421, 66], "token": "(\\sphere^3\\setminus"}
+{"bbox": [423, 31, 607, 66], "token": "\\{(0,-i)\\},\\alpha_{\\sphere^3})"}
+{"bbox": [618, 39, 650, 58], "token": "&\\to"}
+{"bbox": [663, 27, 1005, 66], "token": "(\\R^3,dz'+x'dy'-y'dx')\\cong"}
+{"bbox": [1020, 39, 1037, 57], "token": "\\bbC\\times"}
+{"bbox": [1044, 31, 1150, 66], "token": "\\R;\\\\(z_1,z_2)&"}
+{"bbox": [1162, 39, 1194, 58], "token": "\\mapsto"}
+{"bbox": [7, 7, 1244, 209], "token": "\\left(\\frac{i"}
+{"bbox": [], "token": "z_1}{i+z_2},\\frac{-{\\rm"}
+{"bbox": [385, 109, 414, 127], "token": "Re}(z_2)}{|i+z_2|^2}\\right);\\\\(\\cos\\theta,\\sin\\theta)&\\mapsto"}
+{"bbox": [228, 160, 591, 222], "token": "\\left(\\frac{\\cos\\theta}{1+\\sin^2\\theta},\\frac{\\cos\\theta\\sin\\theta}{1+\\sin^2\\theta},\\frac{-\\sin\\theta}{1+\\sin^2\\theta}\\right)."}

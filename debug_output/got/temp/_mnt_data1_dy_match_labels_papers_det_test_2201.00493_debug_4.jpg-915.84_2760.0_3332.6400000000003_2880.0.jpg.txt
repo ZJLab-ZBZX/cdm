@@ -1,0 +1,5 @@
+line:
+ D\cdot H>\max\{4r^2+1,2r(v^2H^2-D^2H^2+(D\cdot H)^2)\},\ s>2d,\ \mbox{if}\ r>0 
+
+norm_str:
+ 

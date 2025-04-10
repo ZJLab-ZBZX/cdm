@@ -1,0 +1,3 @@
+{"bbox": [7, 7, 482, 55], "token": "x_{k+1}^{(i)}&:=x_k^{(i)}+\\alpha(-O(f_k,\\mathbf{x}_k,\\mathcal{N}^{(i)}))\\\\"}
+{"bbox": [494, 7, 675, 53], "token": "&=x_k^{(i)}-\\alpha(\\nabla"}
+{"bbox": [677, 7, 880, 53], "token": "f_k(x_k^{(i)})+\\varepsilon_k)),"}

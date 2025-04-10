@@ -1,0 +1,5 @@
+line:
+ f_{k+1}(x_{k+1}) - f_{k+1}^* &\leq (1 - \alpha \mu_f)^k (f_0(x_0) - f_0^*)     &\quad + \frac{\alpha}{2} \sum_{l=0}^k (1 - \alpha \mu_f)^{k - t} |\varepsilon_l|^{2}     &\quad + ( \eta^* + \eta_0) \frac{1 - (1 - \alpha \mu_f)^k}{\mu \tau \alpha}. 
+
+norm_str:
+ 

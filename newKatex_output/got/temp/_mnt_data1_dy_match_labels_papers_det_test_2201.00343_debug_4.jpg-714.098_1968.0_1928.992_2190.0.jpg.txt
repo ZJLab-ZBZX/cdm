@@ -1,0 +1,1 @@
+e ^ { T } ( 0 ) P \tilde { K } \int _ { 0 } ^ { 1 } e = - \int _ { 0 } ^ { 1 } ( \dot { e } ^ { T } + e ) P \tilde { K } e 

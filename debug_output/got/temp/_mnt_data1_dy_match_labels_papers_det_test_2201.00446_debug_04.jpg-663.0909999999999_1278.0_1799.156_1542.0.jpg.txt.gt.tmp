@@ -1,0 +1,1 @@
+\begin{aligned}x^{(i)}_{k+1} :=& x^{(i)}_{k} + \alpha (-O(f_k,{\bf x}_k,\mathcal{N}^{(i)})) =& x^{(i)}_{k} - \alpha (\nabla f_k(x^{(i)}_k) + \varepsilon_k)),\end{aligned}

@@ -1,0 +1,1 @@
+v _ { 1 } \neq v _ { 2 } \neq v _ { 3 } \neq v _ { 4 } \neq v _ { 1 } . 

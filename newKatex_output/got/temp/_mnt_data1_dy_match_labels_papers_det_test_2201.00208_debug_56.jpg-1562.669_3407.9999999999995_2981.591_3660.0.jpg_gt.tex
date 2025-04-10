@@ -1,0 +1,28 @@
+
+\documentclass[12pt]{article}
+\usepackage[landscape]{geometry}
+\usepackage{geometry}
+\geometry{a5paper,scale=0.98}
+\pagestyle{empty}
+\usepackage{booktabs}
+\usepackage{amsmath}
+\usepackage{upgreek}
+\usepackage{amssymb}
+\usepackage{xcolor}
+\begin{document}
+\makeatletter
+\renewcommand*{\@textcolor}[3]{%
+  \protect\leavevmode
+  \begingroup
+    \color#1{#2}#3%
+  \endgroup
+}
+\makeatother
+\begin{displaymath}
+\mathcolor[RGB]{0,0,15}{line:
+\tilde\beta_0(\exdynD_n)} \mathcolor[RGB]{0,0,30}{=\begin{cases}\sigma_3\sigma_2^3\sigma_3} \mathcolor[RGB]{0,0,45}{\sigma_2^{n-4}} \mathcolor[RGB]{0,0,60}{\sigma_1} \mathcolor[RGB]{0,0,75}{\sigma_2^3} \mathcolor[RGB]{0,0,90}{\sigma_1} & \mathcolor[RGB]{0,0,105}{n\text{} \mathcolor[RGB]{0,0,120}{is} \mathcolor[RGB]{0,0,135}{odd};\sigma_3\sigma_2^3\sigma_3} \mathcolor[RGB]{0,0,150}{\sigma_2^{n-3}} \mathcolor[RGB]{0,0,165}{\sigma_1} \mathcolor[RGB]{0,0,180}{\sigma_2^3} \mathcolor[RGB]{0,0,195}{\sigma_1} & \mathcolor[RGB]{0,0,210}{n\text{} \mathcolor[RGB]{0,0,225}{is} \mathcolor[RGB]{0,0,240}{even}.\end{cases}
+
+norm_str:}
+\end{displaymath}
+\end{document}
+

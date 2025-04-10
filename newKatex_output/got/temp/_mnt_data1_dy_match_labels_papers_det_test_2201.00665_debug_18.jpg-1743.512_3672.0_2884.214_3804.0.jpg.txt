@@ -1,0 +1,1 @@
+\sigma _ { \lambda - 2 } ( - \sigma _ { \lambda - 1 } ^ { - 1 } ( \kappa _ { a } ^ { \ell } ) ) \mathrel { { \in } \mathllap { / \mkern 1mu } } V ( \mathcal { S } _ { a } ^ { \ell } ) \setminus \{ \kappa _ { a } ^ { \ell } \} 

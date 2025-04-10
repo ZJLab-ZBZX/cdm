@@ -1,0 +1,1 @@
+(V(\mathcal{P}^\ell_a)\cup V(\mathcal{P}^\ell_b))\setminus \sigma_i^{-1}(V(\mathcal{K}^\ell))=\{v^\ell_b\}\cup (\sigma_i^{-1}(\{\kappa^\ell_a,\kappa^\ell_b\})\cap (V(\mathcal{P}^\ell_a)\setminus \{v^\ell_a\})).

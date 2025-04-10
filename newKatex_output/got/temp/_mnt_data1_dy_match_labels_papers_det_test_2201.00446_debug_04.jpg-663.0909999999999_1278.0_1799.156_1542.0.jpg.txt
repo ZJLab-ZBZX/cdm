@@ -1,0 +1,5 @@
+line:
+ x_{k+1}^{(i)}&:=x_k^{(i)}+\alpha(-O(f_k,\mathbf{x}_k,\mathcal{N}^{(i)}))    &=x_k^{(i)}-\alpha(\nabla f_k(x_k^{(i)})+\varepsilon_k)), 
+
+norm_str:
+ 

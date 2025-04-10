@@ -1,0 +1,1 @@
+T(n,2n)=T'(n,2n)\quad\text{ and }\quad T(n,2n+1)=T'(n,2n+1).

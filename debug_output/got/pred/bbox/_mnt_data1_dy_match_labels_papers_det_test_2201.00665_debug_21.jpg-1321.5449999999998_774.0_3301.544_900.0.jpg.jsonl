@@ -1,0 +1,4 @@
+{"bbox": [435, 7, 737, 47], "token": "line:\n\\sigma_i^{-1}(\\{\\kappa_a^\\ell,\\kappa_b^\\ell\\})\\subset"}
+{"bbox": [749, 7, 941, 47], "token": "\\sigma_i^{-1}(V(\\K^{\\ell-1}))\\setminus"}
+{"bbox": [952, 7, 1102, 47], "token": "(V(\\mathcal{P}_a^{\\ell-1})\\cup"}
+{"bbox": [], "token": "V(\\mathcal{P}_b^{\\ell-1})),\n\nnorm_str:"}

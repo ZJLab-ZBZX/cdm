@@ -1,0 +1,1 @@
+x _ { j } = f _ { j } - ( c _ { j } v _ { 1 } f _ { 1 } + c _ { j } v _ { 2 } f _ { 2 } + \ldots + c _ { j } v _ { n } f _ { n } ) ^ { d } , \mkern 18mu j = 1 , \ldots , n . 

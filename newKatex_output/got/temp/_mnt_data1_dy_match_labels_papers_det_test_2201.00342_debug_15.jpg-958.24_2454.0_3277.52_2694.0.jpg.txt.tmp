@@ -1,0 +1,1 @@
+\frac{t^{(k)}_j}{a^k} + \mathcal{O}^*(\varepsilon_4) \quad \text{where} \quad t^{(k)}_j := \left(\frac{\pi}{2^i}\right)^j \frac{d^{(k)}_j}{\pi^{2k}} F^{(3k-2j)}(p), \quad \varepsilon_4 = \frac{\varepsilon_3}{3L}

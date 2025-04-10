@@ -1,0 +1,32 @@
+{"bbox": [7, 15, 175, 46], "token": "\\text{wpsmabasic}"}
+{"bbox": [185, 26, 209, 35], "token": "&="}
+{"bbox": [220, 13, 320, 48], "token": "\\max\\{6,"}
+{"bbox": [328, 15, 343, 40], "token": "3"}
+{"bbox": [344, 18, 368, 42], "token": "+"}
+{"bbox": [369, 13, 485, 48], "token": "\\mbox{mag}(T),"}
+{"bbox": [492, 7, 685, 48], "token": "\\\\&\\mbox{mag}(X^{1/2}(M_1"}
+{"bbox": [688, 18, 712, 42], "token": "+"}
+{"bbox": [713, 13, 814, 48], "token": "M_2)(26"}
+{"bbox": [816, 18, 840, 42], "token": "+"}
+{"bbox": [841, 13, 903, 48], "token": "2T))"}
+{"bbox": [907, 29, 929, 32], "token": "-"}
+{"bbox": [932, 13, 1029, 48], "token": "\\mbox{mag}(\\varepsilon)"}
+{"bbox": [1032, 18, 1056, 42], "token": "+"}
+{"bbox": [1057, 13, 1097, 48], "token": "3\\},"}
+{"bbox": [1104, 14, 1230, 46], "token": "\\\\\\text{wpthefta}"}
+{"bbox": [1240, 26, 1264, 35], "token": "&="}
+{"bbox": [1274, 13, 1374, 48], "token": "\\max\\{4,"}
+{"bbox": [1382, 7, 1638, 48], "token": "\\mbox{mag}(2.04\\,X^{1/2}(M_1"}
+{"bbox": [1641, 29, 1645, 32], "token": "+"}
+{"bbox": [], "token": "M_2))"}
+{"bbox": [], "token": "-"}
+{"bbox": [], "token": "\\mbox{mag}(\\varepsilon)"}
+{"bbox": [], "token": "+"}
+{"bbox": [], "token": "3\\},"}
+{"bbox": [], "token": "\\\\&\\text{wprR}"}
+{"bbox": [], "token": "="}
+{"bbox": [], "token": "\\mbox{mag}(4X^{1/2})"}
+{"bbox": [], "token": "-"}
+{"bbox": [], "token": "\\mbox{mag}(\\varepsilon)"}
+{"bbox": [], "token": "+"}
+{"bbox": [], "token": "3"}

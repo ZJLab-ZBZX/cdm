@@ -1,0 +1,1 @@
+| \sigma _ { \lambda - 1 } ( V ( X ^ { 1 } ) ) \setminus \sigma _ { s } ( V ( X ^ { 1 } ) ) | = | \sigma _ { s } ( V ( X ^ { 1 } ) ) \setminus \sigma _ { \lambda - 1 } ( V ( X ^ { 1 } ) ) | \leq 1 . 

@@ -1,0 +1,8 @@
+{"bbox": [695, 7, 842, 37], "token": "line:\n&\\bar{K}="}
+{"bbox": [], "token": "k\\underbrace{\\begin{bmatrix}"}
+{"bbox": [], "token": "I_s&"}
+{"bbox": [], "token": "\\mathbf{0}_{s\\times"}
+{"bbox": [], "token": "(N-s)}\\mathbf{0}_{(N-s)\\times"}
+{"bbox": [], "token": "s}"}
+{"bbox": [], "token": "\\mathbf{0}_{(N-s)\\times"}
+{"bbox": [], "token": "(N-s)}\\end{bmatrix}}_{P_s}\n\nnorm_str:"}

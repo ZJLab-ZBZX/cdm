@@ -1,0 +1,12 @@
+[
+    {
+        "img_id": "case_1",
+        "gt": "G_{\\mathbb{Z}}^{B}(A)=\\left\\{\\gamma \\in \\mathbf{M}_{2}(\\mathcal{O}_{B} \\otimes_{\\mathbb{Z}} A) \\mid \\underbrace{\\gamma \\gamma^{t}}_{\\nu_{G^{B}}(\\gamma)}=\\nu_{G^{B}}(\\gamma) \\mathbf{1}_{\\mathbb{Z}}_{2} \\times\\right\\}",
+        "pred": "G _ { \\mathbb { Z } } ^ { B } ( A ) = \\left\\{ \\gamma \\in { \\bf M } _ { 2 } ( \\mathcal { O } _ { B } \\otimes _ { \\mathbb { Z } } A ) \\Big | \\begin{array} { c } { \\gamma \\bar { \\gamma } ^ { t } = \\nu _ { G ^ { B } } ( \\gamma ) { \\bf 1 } _ { 2 } } \\\\ { \\nu _ { G ^ { B } } ( \\gamma ) \\in ( A \\otimes _ { \\mathbb { Z } } \\mathcal { O } _ { F } ) ^ { \\times } } \\end{array} \\right\\} ."
+    },
+    {
+        "img_id": "case_2",
+        "gt": "y = x^2 + 1",
+        "pred": "y = x^2 + 1"
+    }
+]

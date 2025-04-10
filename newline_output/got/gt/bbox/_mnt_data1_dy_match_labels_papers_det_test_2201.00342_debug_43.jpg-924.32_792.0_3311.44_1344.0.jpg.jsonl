@@ -1,0 +1,6 @@
+{"bbox": [7, 13, 428, 48], "token": "\\texttt{wpbasic}&=\\max\\{6,3+\\texttt{mag}(T),"}
+{"bbox": [434, 7, 749, 48], "token": "\\notag\\\\&\\texttt{mag}(X^{1/2}(M_1+M_2)(26"}
+{"bbox": [750, 18, 774, 42], "token": "+"}
+{"bbox": [776, 13, 1023, 48], "token": "2T))-\\texttt{mag}(\\varepsilon)+3\\},"}
+{"bbox": [1030, 7, 1645, 48], "token": "\\\\\\texttt{wptheta}&=\\max\\{4,\\texttt{mag}(2.04\\,X^{1/2}(M_1+M_2))-\\texttt{mag}(\\varepsilon)+3\\},\\\\\\texttt{wpR}&=\\texttt{mag}(4"}
+{"bbox": [], "token": "X^{1/2})-\\texttt{mag}(\\varepsilon)+3"}

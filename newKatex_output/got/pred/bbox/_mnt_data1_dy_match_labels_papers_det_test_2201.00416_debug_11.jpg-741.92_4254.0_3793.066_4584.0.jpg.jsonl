@@ -1,0 +1,19 @@
+{"bbox": [182, 39, 337, 80], "token": "line:\nL'_{g,d,k}"}
+{"bbox": [348, 54, 372, 63], "token": "="}
+{"bbox": [383, 21, 478, 103], "token": "\\int_{\\Gr(2,d+1)}"}
+{"bbox": [487, 42, 518, 80], "token": "\\sigma_g^q"}
+{"bbox": [519, 51, 579, 73], "token": "\\sigma_{k-1}"}
+{"bbox": [594, 7, 614, 109], "token": "\\left("}
+{"bbox": [613, 35, 783, 111], "token": "\\sum_{i+j=2d-g-k-1}"}
+{"bbox": [790, 51, 816, 73], "token": "\\sigma_i"}
+{"bbox": [818, 51, 847, 77], "token": "\\sigma_j"}
+{"bbox": [849, 7, 868, 109], "token": "\\right)"}
+{"bbox": [883, 57, 905, 60], "token": "-"}
+{"bbox": [916, 21, 981, 103], "token": "\\int_{\\Gr(2,d)}"}
+{"bbox": [990, 40, 1020, 75], "token": "\\sigma_1^g"}
+{"bbox": [1023, 51, 1083, 73], "token": "\\sigma_{k-2}"}
+{"bbox": [1097, 7, 1117, 109], "token": "\\left("}
+{"bbox": [1116, 35, 1287, 111], "token": "\\sum_{i+j=2d-g-k-2}"}
+{"bbox": [1294, 51, 1319, 73], "token": "\\sigma_i"}
+{"bbox": [1321, 51, 1350, 77], "token": "\\sigma_j"}
+{"bbox": [], "token": "\\right).\n\nnorm_str:"}

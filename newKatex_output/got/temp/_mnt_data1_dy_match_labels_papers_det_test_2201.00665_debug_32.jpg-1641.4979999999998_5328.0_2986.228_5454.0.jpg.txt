@@ -1,0 +1,1 @@
+| \sigma ^ { - 1 } ( V ( \mathcal { K } ^ { \ell } ) ) \setminus ( V ( \mathcal { P } _ { a } ^ { \ell } ) \cup V ( \mathcal { P } _ { b } ^ { \ell } ) ) | = 1 , 

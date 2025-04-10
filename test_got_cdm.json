@@ -1,0 +1,2142 @@
+[
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00498/debug/50.jpg-1901.1699999999998_4782.0_2721.919_5058.0.jpg",
+        "gt": "\\sum_{j=1}^{\\infty}\\langle T\\tilde{e}_j, T\\tilde{e}_j \\rangle_{\\mathcal{H}_0} < \\infty,",
+        "pred": "\\sum_{j=1}^{\\infty}\\langle T\\bar{e}_{j},T\\bar{e}_{j}\\rangle_{\\mathcal{H}_{0}}<\\infty,"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00498/debug/08.jpg-1956.8139999999999_1170.0_2670.912_1440.0.jpg",
+        "gt": "\\mathcal{C}_0 = \\sum_{k=1}^{\\infty}\\alpha_{k}e_k\\otimes e_k.",
+        "pred": "\\mathcal{C}_0 = \\sum_{k=1}^\\infty \\alpha_k e_k \\otimes e_k."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00498/debug/09.jpg-1409.648_3870.0_3213.441_4158.0.jpg",
+        "gt": "\\exp\\left(-\\sum_{k=1}^{N_d}\\log\\sigma_k \\right) = \\prod_{k=1}^{N_d}\\sigma_k^{-1} \\in L_{\\mu_0}^1(\\mathcal{H}_u\\times\\mathbb{R}^{+};\\mathbb{R})",
+        "pred": "\\exp\\left(-\\sum_{k=1}^{N_d}\\log\\sigma_k\\right)=\\prod_{k=1}^{N_d}\\sigma_k^{-1}\\in L_{\\mu_0}^1(\\mathcal{H}_u\\times\\mathbb{R}^+;\\mathbb{R})"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00498/debug/10.jpg-1330.819_3528.0_3292.27_3654.0.jpg",
+        "gt": "Z_{u} = \\mathbb{E}^{\\mu_0^u}\\left[ \\exp(-\\Phi_{u}(u)) \\right], \\quad\nZ_{\\bm{\\sigma}} = \\mathbb{E}^{\\mu_0^{\\bm{\\sigma}}}\\left[ \\exp(-\\Phi_{\\bm{\\sigma}}(\\bm{\\sigma})) \\right].",
+        "pred": "Z_u = \\mathbb{E}^{\\mu_0^u}\\left[\\exp(-\\Phi_u(u))\\right], \\quad Z_{\\bm{\\sigma}} = \\mathbb{E}^{\\mu_0^{\\sigma}}\\left[\\exp(-\\Phi_{\\bm{\\sigma}}(\\bm{\\sigma}))\\right]."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00498/debug/12.jpg-1669.32_4776.0_2958.406_5004.0.jpg",
+        "gt": "\\frac{d\\nu^{u}}{d\\mu_0^u}(u) \\propto \\exp\\left( -\\frac{1}{2}\\|\\bm{d}-Hu\\|_{\\Sigma_{\\text{inv}}^*}^2 \\right),",
+        "pred": "\\frac{d\\nu^u}{d\\mu^u_0}(u)\\propto \\exp\\left(-\\frac{1}{2}\\|\\boldsymbol{d}-Hu\\|_{\\Sigma_{\\mathrm{inv}}}^2\\right),"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00498/debug/13.jpg-1200.983_3485.9999999999995_3431.38_3768.0.jpg",
+        "gt": "\\nu^{\\bm{\\sigma}}(d\\bm{\\sigma}) \\propto \\prod_{k=1}^{N_d} \\sigma_k^{-\\alpha_k^0 - \\frac{3}{2}}\\exp\\left(\n-\\frac{\\beta_k^0 + \\frac{1}{2}\\mathbb{E}^{\\nu^u}[(d_k - (Hu)_k)^2]}{\\sigma_k} \\right)d\\bm{\\sigma},",
+        "pred": "\\nu^{\\boldsymbol{\\sigma}}(d\\boldsymbol{\\sigma})\\propto\\prod_{k=1}^{N_d}\\sigma_k^{-\\alpha_k^0-\\frac{3}{2}}\\exp\\left(-\\frac{\\beta_k^0+\\frac{1}{2}\\mathbb{E}^{\\nu^u}[(d_k-(Hu)_k)^2]}{\\sigma_k}\\right)d\\boldsymbol{\\sigma},"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00498/debug/17.jpg-1581.217_1368.0_3051.146_1500.0.jpg",
+        "gt": "\\bar{u}_p^1 = (H^*\\Sigma^*_{\\text{inv}}H + \\mathcal{C}_0)^{-1}H^*\\Sigma^*_{\\text{inv}}\\text{DNet}(\\bm{d}).",
+        "pred": "\\bar{u}_1^1 = (H^*\\Sigma_{\\mathrm{inv}}^*)H + \\mathcal{C}_0)^{-1}H^*\\Sigma_{\\mathrm{inv}}^* \\mathrm{DNet}(\\bm{d})."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00498/debug/18.jpg-899.578_4692.0_3519.483_4908.0.jpg",
+        "gt": "\\mathcal{L}(u,\\bm{\\sigma};\\bm{d}) = \\int \\log\\frac{d\\mu_0}{d\\nu} - \\frac{1}{2}\\log(\\det(\\Sigma))\n- \\frac{1}{2}\\|\\Sigma^{-1/2}(\\bm{d}-Hu)\\|^2\\nu(du,d\\bm{\\sigma}).",
+        "pred": "\\mathcal{L}(u,\\boldsymbol{\\sigma};\\boldsymbol{d}) = \\int \\log \\frac{d\\mu_0}{d\\nu} - \\frac{1}{2} \\log(\\det(\\Sigma)) - \\frac{1}{2} \\|\\Sigma^{-1/2}(\\boldsymbol{d}-H u)\\|^2 \\nu(du,d\\boldsymbol{\\sigma})."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00498/debug/22.jpg-1641.4979999999998_3120.0_2986.228_3246.0.jpg",
+        "gt": "\\mathcal{C}_p(\\bm{d}; W_I) = (a(\\bm{d};W_I)\\text{Id} + \\delta A^{\\alpha/2})^{-2},",
+        "pred": "\\mathcal{C}_p(\\bm{d};W_I)=(a(\\bm{d};W_I)\\mathrm{Id}+\\delta A^{\\alpha/2})^{-2},"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00498/debug/28.jpg-1738.875_2928.0_2879.5769999999998_3156.0.jpg",
+        "gt": "\\text{relative error} = \\frac{\\|\\tilde{u} - u_{\\text{truth}}\\|_{L^2}}{\\|u_{\\text{truth}}\\|_{L^2}},",
+        "pred": "\\text{relative error} = \\frac{\\|\\Tilde{u} - u_{\\text{truth}}\\|_{L^2}}{\\|u_{\\text{truth}}\\|_{L^2}},"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00498/debug/33.jpg-1581.217_3467.9999999999995_3046.509_3738.0.jpg",
+        "gt": "\\begin{split}\n\\Delta w + \\kappa^2 w & =u \\quad\\text{in }\\mathbb{R}^2, \\\\\n\\partial_r w - i\\kappa w & = o(r^{-1/2}) \\quad\\text{as }r=|x|\\rightarrow\\infty,\n\\end{split}",
+        "pred": "\\begin{split}\n\\Delta w + \\kappa^2 w &= u \\quad \\text{in } \\R^2, \\\\\n\\partial_r w - i\\kappa w &= o(r^{-1/2}) \\quad \\text{as } r = |x| \\to \\infty,\n\\end{split}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00498/debug/35.jpg-1817.7040000000002_1188.0_2814.659_1308.0.jpg",
+        "gt": "\\begin{split}\nu^{\\dag}(x,y) = u(x,y) + \\tilde{u}(x,y),\n\\end{split}",
+        "pred": "u^\\dag(x,y)=u(x,y)+\\tilde{u}(x,y),"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00498/debug/43.jpg-1711.0529999999999_5238.0_2921.31_5358.0.jpg",
+        "gt": "\\nu^{i}(dx_{i}) & \\propto \\exp\\big( -\\Phi_{i}^{r}(x_{i}) \\big)\\mu_{r}^{i}(dx_{i}).",
+        "pred": "\\nu^i(dx_i) \\propto \\exp\\big(-\\Phi_i^r(x_i)\\big)\\mu_i^r(dx_i)."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00498/debug/45.jpg-1085.058_4560.0_3551.942_4842.0.jpg",
+        "gt": "\\langle H^*\\bm{f}, g\\rangle_{L^2} = \\langle \\bm{f}, Hg\\rangle_{\\ell^2} = \\sum_{k=1}^{\\infty}\\lambda_k g_k \\langle \\bm{f}, Se_k \\rangle_{\\ell^2}\n\t= \\sum_{k=1}^{\\infty}\\lambda_k g_k \\sum_{i=1}^{N_d} f_i e_k(x_i),",
+        "pred": "\\langle H^* \\boldsymbol{f}, g \\rangle_{L^2} = \\langle \\boldsymbol{f}, H g \\rangle_{\\ell^2} = \\sum_{k=1}^{\\infty} \\lambda_k g_k \\langle \\boldsymbol{f}, S e_k \\rangle_{\\ell^2} = \\sum_{k=1}^{\\incal} \\lambda_k g_k \\sum_{i=1}^{N_d} f_i e_k(x_i),"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00498/debug/47.jpg-1437.47_4806.0_3194.8929999999996_5346.0.jpg",
+        "gt": "\\begin{split}\n\tB_{k,\\ell}^{1} \\leq & C \\|(a+\\delta A^{\\alpha/2})^{-1}e_k\\|_{\\mathcal{H}} \\|(a+\\delta A^{\\alpha/2})^{-1}e_{\\ell}\\|_{\\mathcal{H}} \\\\\n\t\\leq & C \\|(\\underline{a}+\\delta A^{\\alpha/2})^{-1}e_k\\|_{\\mathcal{H}} \\|(\\underline{a}+\\delta A^{\\alpha/2})^{-1}e_{\\ell}\\|_{\\mathcal{H}} \\\\\n\t= & C \\frac{1}{\\underline{a} + \\delta\\lambda_{k}^{\\alpha/2}} \\frac{1}{\\underline{a} + \\delta\\lambda_{\\ell}^{\\alpha/2}}.\n\t\\end{split}",
+        "pred": "\\begin{split}\nB^1_{k,\\ell} &\\leq C\\|(a+\\delta A^{\\alpha/2})^{-1}e_k\\|_{\\mathcal{H}}\\|(a+\\delta A^{\\alpha/2})^{-1}e_\\ell\\|_{\\mathcal{H}}\\\\\n&\\leq C\\|(\\underline{a}+\\delta A^{\\alpha/2})^{-1}e_k\\|_{\\mathscr{H}}\\|(a+\\delta A^{\\alpha/2})^{-1}e_{\\ell}\\|_{\\mathcal{H}}\\\\\n&=C\\frac{1}{a+\\delta\\lambda_k^{\\alpha/2}}\\frac{1}{a+\\delta\\lambda_\\ell^{\\alpha/2}}.\n\\end{split}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00498/debug/49.jpg-1219.531_3672.0_3412.832_4290.0.jpg",
+        "gt": "\\begin{split}\n\t& \\sum_{j=1}^{\\infty}\\left(\\frac{1}{\\epsilon_0^{-1} + \\delta\\lambda_j^{\\alpha/2}}\\right)^2\n\t\\langle e_j, (a+\\delta A^{\\alpha/2})(\\epsilon_0^{-1} + \\delta A^{\\alpha/2})^{-2}(ae_k) \\rangle_{\\mathcal{H}}^2 \\\\\n\t& \\qquad\n\t\\leq C \\|ae_k\\|_{\\mathcal{H}}^2\\sum_{j=1}^{\\infty}\\left(\\frac{1}{\\epsilon_0^{-1} + \\delta\\lambda_j^{\\alpha/2}}\\right)^2 < \\infty,\n\t\\end{split}",
+        "pred": "\\sum_{j=1}^{\\infty}\\left(\\frac{1}{\\epsilon_0^{-1}+\\delta\\lambda_j^{\\alpha/2}}\\right)^2\\langle e_j,(a+\\delta A^{\\alpha/2})(\\epsilon_0^{-1}+\\delta A^{\\alpha/2})^{-2}(ae_k)\\rangle_{\\mathcal{H}}^2\\\\\n\\leq C\\|ae_k\\|_{\\mathcal{H}}^2\\sum_{j=1}^{\\infty}\\left(\\frac{1}{\\eps_0^{-1}+\\delta\\lambda_j^{\\alpha/2}}\\right)^{2}<\\infty,"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00416/debug/01.jpg-2003.184_3485.9999999999995_2615.2679999999996_3600.0.jpg",
+        "gt": "L_{g,r,d}=(r+1)^g.",
+        "pred": "L_{g,r,d}=(r+1)^g."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00416/debug/02.jpg-1966.088_2562.0_2652.3639999999996_2652.0.jpg",
+        "gt": "y_1=y_2=\\cdots=y_k.",
+        "pred": "y_1=y_2=\\cdots=y_k."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00416/debug/04.jpg-1191.709_4002.0_3436.017_4332.0.jpg",
+        "gt": "L_{g,r,d}=\\int_{\\Gr(r+1,d+1)} \\sigma_{1^r}^g\\cdot \\left[ \\sum_{\\alpha_0+\\cdots+\\alpha_r=(r+1)(d-r)-rg}\\left(\\prod_{i=0}^r \\sigma_{\\alpha_i}\\right)\\right].",
+        "pred": "L_{g,r,d}=\\int_{\\Gr(r+1,d+1)}\\sigma_{1^r}^q\\cdot\\left[\\sum_{\\alpha_0+\\cdots+\\alpha_r=(r+1)(d-r)-rg}\\left(\\prod_{i=0}^r\\sigma_{\\alpha_i}\\right)\\right]."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00416/debug/04.jpg-1831.615_4758.0_2796.111_4860.0.jpg",
+        "gt": "\\sigma_{(d+1)^r}:=\\sigma_{(d+1,d+1,\\ldots,d+1)},",
+        "pred": "\\sigma_{(d+1)^r}:=\\sigma_{(d+1,d+1,...,d+1)},"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00416/debug/05.jpg-1581.217_2082.0_3037.235_2418.0.jpg",
+        "gt": "s_{1^r}^g\\cdot \\left[ \\sum_{\\alpha_0+\\cdots+\\alpha_r=(r+1)(d-r)-rg}\\left(\\prod_{i=0}^r s_{\\alpha_i}\\right)\\right]",
+        "pred": "s_{1^r}^g\\cdot \\left[\\sum_{c_0+\\cdots+c_\\mu r=(r+1)(d-r)-rg}\\left(\\prod_{i=0}^r s_{\\alpha_i}\\right)\\right]"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00416/debug/05.jpg-1979.999_2724.0_2657.0009999999997_2874.0.jpg",
+        "gt": "s_\\lambda\\cdot s_\\mu=\\sum c^{\\nu}_{\\lambda\\mu} s_\\nu",
+        "pred": "s_{\\lambda}\\cdot s_{\\mu}=\\sum c_{\\lambda\\mu}^{\\nu}s_{\\nu}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00416/debug/05.jpg-1354.004_4980.0_3282.9959999999996_5220.0.jpg",
+        "gt": "s_\\lambda \\cdot s_{(\\alpha)}=\\sum_{\\nu/\\lambda\\in \\mathrm{Horz(\\alpha)}} s_{\\nu} s_{\\lambda}\\cdot s_{(1^r)}=\\sum_{\\nu/\\lambda\\in \\mathrm{Vert(r)}} s_{\\nu}",
+        "pred": "s_\\lambda \\cdot s_{(\\alpha)} = \\sum_{\\nu/\\lambda \\in \\text{Horz}(\\alpha)} s_\\nu \\qquad s_\\lambda \\cdot s_{(1^r)} = \\sum_{\\nu/\\lambda \\in \\text{Vert}(r)} s_\\nu"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00416/debug/06.jpg-1609.039_1938.0_3023.324_2094.0.jpg",
+        "gt": "s_{\\mu^{(1)}}\\cdot s_{\\mu^{(2)}}\\cdot \\cdots \\cdot s_{\\mu^{(k)}}=\\sum c^{\\nu}_{\\mu^{(1)}\\cdots\\mu^{(k)}}s_{\\nu}",
+        "pred": "s_{\\mu^{(1)}}\\cdot s_{\\mu^{(2)}}\\cdots s_{\\mu^{(k)}}=\\sum c_{\\mu^{(1)}\\cdots\\mu^{(k)}}^{\\nu}s_{\\nu}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00416/debug/07.jpg-1330.819_780.0_3301.544_1026.0.jpg",
+        "gt": "L_{g,r,d}=\\sum_{\\alpha_0+\\cdots+\\alpha_r+rg=(r+1)(d-r)} c^{(d-r)^{r+1}}_{(1^r),(1^r),\\ldots,(1^r),(\\alpha_0),\\ldots,(\\alpha_r)}",
+        "pred": "L_{g,r,d}=\\sum_{\\alpha_0+\\dots+\\alpha_r+rg=(r+1)(d-r)}c_{(1r),(1r),\\dots,(1r),(\\alpha_0),\\dots,(\\alpha_r)}^{(d-r)r+1}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00416/debug/10.jpg-1210.257_4584.0_3412.832_4914.0.jpg",
+        "gt": "L_{g,r,d}=\\int_{\\Gr(r+1,d+1)} \\sigma_{1^r}^g\\cdot \\left[ \\sum_{\\alpha_0+\\cdots+\\alpha_r=(r+1)(d-r)-rg}\\left(\\prod_{i=0}^r \\sigma_{\\alpha_i}\\right)\\right]",
+        "pred": "L_{g,r,d}=\\int_{\\Gr(r+1,d+1)}\\sigma_{1^r}^g\\cdot\\left[\\sum_{\\alpha_0+\\cdots+\\alpha_r=(r+1)(d-r)-rg}\\left(\\prod_{i=0}^r\\sigma_{\\alpha_i}\\right)\\right]"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00416/debug/10.jpg-1780.608_5268.0_2851.755_5496.0.jpg",
+        "gt": "g!\\cdot \\frac{1!\\cdot 2!\\cdots r!}{s!\\cdot (s+1)!\\cdot \\cdot \\cdots \\cdot (s+r)!}",
+        "pred": "g!\\cdot \\frac{1!\\cdot 2!\\cdots r!}{s!\\cdot (s+1)!\\cdot \\cdots \\cdots (s+r)!}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00416/debug/11.jpg-1956.8139999999999_1206.0_2675.549_1386.0.jpg",
+        "gt": "(r+1)\\cdot \\frac{rg}{r+1}=rg",
+        "pred": "(r+1)\\cdot \\frac{rg}{r+1}=rg"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00416/debug/11.jpg-1766.6970000000001_2004.0000000000002_2861.029_2226.0.jpg",
+        "gt": "g!\\cdot \\frac{1!\\cdot 2!\\cdots r!}{s!\\cdot (s+1)!\\cdot \\cdot \\cdots \\cdot (s+r)!}.",
+        "pred": "g!\\cdot\\frac{1!\\cdot 2!\\cdots r!}{s!\\cdot (s+1)!\\cdot \\cdots \\cdots (s+r)!}."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00416/debug/11.jpg-741.92_4254.0_3793.066_4584.0.jpg",
+        "gt": "L'_{g,d,k}=\\int_{\\Gr(2,d+1)} \\sigma_1^g \\sigma_{k-1}\\left(\\sum_{i+j=2d-g-k-1}\\sigma_i\\sigma_j\\right)-\\int_{\\Gr(2,d)}\\sigma_1^g \\sigma_{k-2}\\left(\\sum_{i+j=2d-g-k-2} \\sigma_i\\sigma_j\\right).",
+        "pred": "L'_{g,d,k} = \\int_{\\Gr(2,d+1)} \\sigma_g^q \\sigma_{k-1} \\left( \\sum_{i+j=2d-g-k-1} \\sigma_i \\sigma_j \\right) - \\int_{\\Gr(2,d)} \\sigma_1^g \\sigma_{k-2} \\left( \\sum_{i+j=2d-g-k-2} \\sigma_i \\sigma_j \\right)."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00416/debug/12.jpg-1933.629_3413.9999999999995_2689.46_3540.0.jpg",
+        "gt": "L'_{g,d,k}=|L'_+|-|L'_{-}|,",
+        "pred": "L'_{g,d,k} = |L'_+| - |L'_-|,"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00416/debug/12.jpg-1910.444_3768.0_2717.2819999999997_3894.0.jpg",
+        "gt": "L'_{g,d,k}=|L'_{+}\\setminus \\psi(L'_{-})|.",
+        "pred": "L'_{g,d,k}=|L'_{+}|\\setminus \\psi(L'_{-})|."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/01.jpg-1071.1470000000002_4296.0_3848.71_4680.0.jpg",
+        "gt": "J(f;x)=\nJ(f_1,\\ldots,f_n; x_1,\\ldots,x_n):=\n\\left|\n\\begin{array}{ccc}\n\\frac{\\partial f_1}{\\partial x_1} & \\ldots & \\frac{\\partial f_n}{\\partial x_1} \\\\\n\\ldots & \\ldots & \\ldots \\\\\n\\frac{\\partial f_1}{\\partial x_n} & \\ldots & \\frac{\\partial f_n}{\\partial x_n} \\\\\n\\end{array}\n\\right| \\in\\C^{*} = \\C\\setminus \\{0\\}.",
+        "pred": "J(f;x)=J(f_1,\\ldots,f_n;x_1,\\ldots,x_n):=\\begin{vmatrix}\n\\frac{\\partial f_1}{\\partial x_1} & \\cdots & \\frac{\\partial f_n}{\\partial x_n} \\\\\n\\frac{\\partial f_1}{\\partial x_n} & \\cdots & \\frac{\\partial f_n}{\\partial x_n}\n\\end{vmatrix}\\in\\mathbb{C}^*=\\mathbb{C}\\setminus\\{0\\}."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/02.jpg-945.948_2178.0_3997.094_2310.0.jpg",
+        "gt": "\\{\n(f_1,\\ldots,f_n):\\C^n\\rightarrow\\C^n, \\,\nf_j(x) = x_j + \\left( a_{j1}x_1 + \\ldots + a_{jn}x_n \\right)^3, \\, j=1,\\ldots,n, \\, a_{jk}\\in\\C\n\\}.",
+        "pred": "\\{(f_1,\\ldots,f_n):\\C^n\\to \\C^n,\\ f_j(x)=x_j+(a_{j1}x_1+\\ldots+a_{jn}x_n)^3\\,,\\,j=1,\\ldots,n,\\,a_{jk}\\in\\C\\}."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/02.jpg-1511.662_2964.0_3236.6259999999997_3264.0000000000005.jpg",
+        "gt": "f_j : x \\mapsto x_j + \\varphi\\left(\\sum\\limits_{k=1}^n a_{jk}x_k\\right), \\quad j=1,\\ldots,n",
+        "pred": "f_j:x\\mapsto x_j+\\varphi\\left(\\sum_{k=1}^n a_{jk}x_k\\right),\\quad j=1,\\ldots,n"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/03.jpg-1613.676_2718.0_3120.701_3186.0.jpg",
+        "gt": "C(v):=\n\\left(\n\\begin{array}{ccccc}\nv_1   & v_2  & v_3  & \\ldots & v_n     \\\\\nv_n   & v_1  & v_2  & \\ldots & v_{n-1} \\\\\n\\ldots&\\ldots&\\ldots&\\ldots&\\ldots \\\\\nv_2   & v_3  & v_4  & \\ldots & v_1 \\\\\n\\end{array}\n\\right).",
+        "pred": "C(v):=\\left(\n\\begin{array}{ccccc}\nv_1 & v_2 & v_3 & \\ldots & v_n \\\\\nv_n & v_1 & v_2 & \\ldots & v_{n-1} \\\\\n\\ldots & \\ldots & \\ldots & \\ldots & \\ldots \\\\\nv_2 & v_3 & v_4 & \\ldots & v_1 \\\\\n\\end{array}\n\\right)."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/03.jpg-1734.238_3336.0000000000005_2995.502_3804.0.jpg",
+        "gt": "V(v):=\n\\left(\n\\begin{array}{ccccc}\nv_{1}  & v_{1}^2 & \\ldots & v_{1}^{n} \\\\\nv_{2}  & v_{2}^2 & \\ldots & v_{2}^{n} \\\\\n\\ldots & \\ldots  & \\ldots & \\ldots    \\\\\nv_{n}  & v_{n}^2 & \\ldots & v_{n}^{n} \\\\\n\\end{array}\n\\right).",
+        "pred": "V(v):=\\left(\n\\begin{array}{ccccc}\nv_1&v_2^2&\\ldots&v_n^2\\\\\nv_2&v_2^2&\\ldots&v_n^2\\\\\n\\ldots&\\ldots&\\ldots&\\ldots\\\\\nv_n&v_n^2&\\ldots&v_n^n\n\\end{array}\n\\right)."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/04.jpg-1516.299_2850.0_3213.441_3102.0.jpg",
+        "gt": "\\left(\\begin{array}{cc}a&b\\\\ c&d \\end{array}\\right) = \\left(\\begin{array}{cc}0&1\\\\1&0\\end{array}\\right)\n\\left(\\begin{array}{cc}d&c\\\\ b&a \\end{array}\\right) \\left(\\begin{array}{cc}0&1\\\\1&0\\end{array}\\right).",
+        "pred": "\\left(\\begin{array}{cc}\na & b \\\\\nc & d\n\\end{array}\\right)=\\left(\\begin{array}{cc}\n0 & 1 \\\\\n1 & 0\n\\end{array}\\right)\\left(\\begin{array}{cc}\nd & c \\\\\nb & a\n\\end{array}\\right)\\left(\\begin{array}{cc}\n0 & 1 \\\\\n1 & 0\n\\begin{array}{cc}\n\\end{array} \\\\\n\\end{array}\\right)."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/06.jpg-1539.4840000000002_990.0_3199.5299999999997_1733.9999999999998.jpg",
+        "gt": "\\hat{A}=\n\\left(\n\\begin{array}{cccccc}\n0      & a_{12} & a_{13} & \\ldots & a_{1n}  & a_{1\\,n+1} \\\\\n0      &  0     & a_{23} & \\ldots & a_{2n}  & a_{2\\,n+1} \\\\\n\\ldots & \\ldots & \\ldots & \\ldots & \\ldots  &  \\ldots    \\\\\na_{k1} &   0    &  0     & \\ldots & a_{kn}  & a_{k\\,n+1} \\\\\n\\ldots & \\ldots & \\ldots & \\ldots & \\ldots  &  \\ldots    \\\\\n0      &   0    &  0     & \\ldots &    0    &  a_{n\\,n+1}\\\\\n0      &   0    &  0     & \\ldots &    0    &      0     \\\\\n\\end{array}\n\\right).",
+        "pred": "\\hat{A}=\\left(\n\\begin{array}{ccccccc}\n0 & a_{12} & a_{13} & \\ldots & a_{1n} & a_{1\\,n+1}\\\\\n0 & 0 & a_{23} & \\ldots & a_{2n} & a_{2\\,n+1}\\\\\n\\ldots & \\ldots & \\ldots & \\ldots & \\ldots & \\ldots\\\\\na_{k1} & 0 & 0 & \\ldots & a_{kn} & a_{k\\,n+1}\\\\\n\\ldots & \\ldots & \\ldots &\\ldots & \\ldots & \\ldots\\\\\n0 & 0 & 0 & \\ldots & 0 & a_{n\\,n+1}\\\\\n0 & 0 & 0 & \\ldots & 0 & 0\n\\end{array}\n\\right)\\,."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/06.jpg-1678.594_4482.0_3065.0570000000002_4788.0.jpg",
+        "gt": "x_j + \\varphi\\left(\\sum_{k=1}^n a_{jk}x_k\\right), \\quad j=1,\\ldots,n",
+        "pred": "x_j+\\varphi\\left(\\sum_{k=1}^n a_{jk}x_k\\right),\\quad j=1,\\ldots,n"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/07.jpg-992.318_1326.0_3932.176_1848.0.jpg",
+        "gt": "\\begin{array}{c}\nJ(A,\\varphi;x):=\nJ(x+\\varphi(Ax);x) =\n1 + \\sum\\limits_{1 \\leq \\# I \\leq n} [A]_{I} \\prod\\limits_{j\\in I} \\varphi'(\\langle A_{j},x \\rangle) \\equiv \\\\\n1+a_{11}\\varphi'(\\langle A_1,x\\rangle)+\\ldots+a_{nn}\\varphi'(\\langle A_n,x\\rangle) + \\\\\n\\left[A\\right]_{1,2}\\varphi'(\\langle A_1,x\\rangle)\\varphi'(\\langle A_2,x\\rangle) + \\ldots +\n\\left[A\\right]_{n-1,n}\\varphi'(\\langle A_{n-1},x\\rangle)\\varphi'(\\langle A_{n},x\\rangle) + \\ldots + \\\\\n\\det(A)\\varphi'(\\langle A_1,x\\rangle)\\ldots\\varphi'(\\langle A_n,x\\rangle).\n\\end{array}",
+        "pred": "J(A,\\varphi;x):=J(x+\\varphi(Ax);x)=1+\\sum_{1\\leq\\#1\\leq n}[A]_I\\prod_{j\\in I}\\varphi'((\\langle A_j, x\\rangle)\\equiv\\\\\n\\frac{1+a_{11}\\varphi'(\\langle A_1, x\\rangle)+\\ldots + a_{m}\\varphi'(\\langle A_n, x\\rangle)+}{[A]_{1,2}\\varphi'(\\langle A_1, x\\rangle)\\varphi'(\\langle A_2, x\\rangle)+\\ldots + [A]_{n-1,n}\\varphi'(\\langle A_{n-1}, x\\rangle)\\varphi'(\\langle A_n, x\\rangle)+\\ldots+}\\\\\n\\det(A)\\varphi'(\\langle A_1, x\\rangle)\\ldots \\varphi'(\\langle A_n, x\\rangle)."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/08.jpg-1613.676_2280.0_3120.701_2532.0.jpg",
+        "gt": "\\left(\n\\begin{array}{cc}\n0 & a \\\\\n0 & 0\n\\end{array}\n\\right), \\quad\n\\left(\n\\begin{array}{cc}\n0 & 0 \\\\\na & 0\n\\end{array}\n\\right), \\quad\n\\left(\n\\begin{array}{cc}\na & -a \\\\\na & -a\n\\end{array}\n\\right)",
+        "pred": "\\left(\n\\begin{array}{cc}\n0 & a \\\\\n0 & 0\n\\end{array}\n\\right), \\quad\n\\left(\n\\begin{array}{cc}\n0 & 0 \\\\\na & 0\n\\end{array}\n\\right), \\quad\n\\left(\n\\matrix{\na & -a \\\\\na & -a\n\\end{array}\n\\right)"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/08.jpg-1752.786_2814.0_2976.954_3042.0.jpg",
+        "gt": "\\begin{array}{c}\nf_1(x_1,x_2) = x_1 + \\varphi(a x_1 - a x_2), \\\\\nf_2(x_1,x_2) = x_2 + \\varphi(a x_1 - a x_2).\n\\end{array}",
+        "pred": "\\begin{aligned}\nf_1(x_1,x_2) &= x_1 + \\varphi(ax_1 - ax_2), \\\\\nf_2(x_1,x_2) &= x_2 + \\varphi(ax_1 - ax_2).\n\\end{aligned}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/08.jpg-1766.6970000000001_3222.0_2963.043_3449.9999999999995.jpg",
+        "gt": "\\begin{array}{l}\nx_1(f_1,f_2) = f_1 - \\varphi(a f_1 - a f_2), \\\\\nx_2(f_1,f_2) = f_2 - \\varphi(a f_1 - a f_2)\n\\end{array}",
+        "pred": "\\begin{split}\n&x_1(f_1,f_2)=f_1-\\varphi(a f_1-a f_2),\\\\\n&x_2(f_1,f_2)=f_2-\\varphi(a f_1-a f_2)\n\\end{split}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/08.jpg-904.215_4674.0_3839.4359999999997_5034.0.jpg",
+        "gt": "\\left(\n\\begin{array}{ccc}\n 0 & a & b \\\\\n 0 & 0 & c \\\\\n 0 & 0 & 0 \\\\\n\\end{array}\n\\right), \\quad\n\\left(\n\\begin{array}{ccc}\n a & b & -a-b \\\\\n a & b & -a-b \\\\\n a & b & -a-b \\\\\n\\end{array}\n\\right), \\quad\n\\left(\n\\begin{array}{ccr}\n 0 & a &  b \\\\\n 0 & c & -c \\\\\n 0 & c & -c \\\\\n\\end{array}\n\\right), \\quad\n\\left(\n\\begin{array}{ccc}\n 0 & a & -a \\\\\n b & c & -c \\\\\n b & c & -c \\\\\n\\end{array}\n\\right).",
+        "pred": "\\left(\n\\begin{array}{ccc}\n0 & a & b \\\\\n0 & 0 & c \\\\\n0 & 0 & 0\n\\end{array}\n\\right), \\quad \\left(\n\\begin{array}{ccc}\na & b & -a-b \\\\\na & b & -a-b \\\\\na & b & -a-b\n\\end{array}\n\\right), \\quad \\left(\n\\begin{array}{cc}\n0 & a & b \\\\\n0 & c & -c \\\\\n0 & c & -c\n\\end{array}\n\\right), \\quad \\left(\n\\begin{array}{ll}\n0 & a & -a \\\\\nb & c & -c \\\\\nb & c & -c\n\\end{array}\n\\right)."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/10.jpg-1595.128_1830.0_3139.2490000000003_2472.0.jpg",
+        "gt": "M:=\n\\left(\n\\begin{array}{ccrccr}\n 0  & 13 & -13 & 9 & 10& -19 \\\\\n 12 & 11 & -11 & 7 & 8 & -15 \\\\\n 12 & 11 & -11 & 7 & 8 & -15 \\\\\n 6  & 4  &  5  & 1 & 2 & -3  \\\\\n 6  & 4  &  5  & 1 & 2 & -3  \\\\\n 6  & 4  &  5  & 1 & 2 & -3  \\\\\n\\end{array}\n\\right).",
+        "pred": "M:=\\left(\n\\begin{array}{rrrrrr}\n0 & 13 & -13 & 9 & 10 & -19 \\\\\n12 & 11 & -11 & 7 & 8 & -15 \\\\\n12 & 11 & -11 & 7 & 8 & - 15 \\\\\n6 & 4 & 5 & 1 & 2 & -3 \\\\\n6 & 4 & 5 & 1 & 2 & -3 \\\\\n6& 4 & 5 & 1 & 2 & -3\n\\end{array}\n\\right)."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/10.jpg-1224.1680000000001_4032.0000000000005_3510.209_4344.0.jpg",
+        "gt": "\\mathcal{S}_{jk}(A):=\n\\sum\\limits_{\\ell = p_1 + p_2 + \\ldots + p_{k-1} + 1}^{p_1 + p_2 + \\ldots + p_k}\na_{p_1 + p_2 +\\ldots + p_j, \\ell} \\, ,\n\\quad j,k=1,\\ldots,m.",
+        "pred": "\\mathcal{S}_{jk}(A):=\\sum_{\\ell=p_1+p_2+\\ldots+p_{k-1}+1}^{p_1+p_2+\\ldots+p_k}a_{p_1+p_2+\\ldots+p_j,\\ell}\\,,\\quad j,k=1,\\ldots,m."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/10.jpg-1887.2589999999998_4608.0_2851.755_4968.0.jpg",
+        "gt": "\\mathcal{S}(M)=\n\\left(\n\\begin{array}{ccc}\n 0  & 0 & 0 \\\\\n 12 & 0 & 0 \\\\\n 6  & 9 & 0 \\\\\n\\end{array}\n\\right).",
+        "pred": "\\mathcal{S}(M)=\\left(\n\\begin{array}{ccc}\n0 & 0 & 0 \\\\\n12 & 0 & 0 \\\\\n6 & 9 & 0\n\\end{array}\n\\right)."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/11.jpg-1641.4979999999998_3000.0_3088.242_3240.0.jpg",
+        "gt": "\\tilde{\\mathcal{S}}_{jk}(A):=\n\\sum\\limits_{\\ell\\in I_k} a_{i_j, \\ell} \\, ,\n\\quad j,k=1,\\ldots,m.",
+        "pred": "\\mathcal{S}_{jk}(A):=\\sum_{\\ell\\in I_k} a_{i_j,\\ell}\\,,\\quad j,k=1,\\ldots,m."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/11.jpg-1720.327_5040.0_3014.05_5400.0.jpg",
+        "gt": "S_{k\\ell}[a]:=\n\\left(\n\\begin{array}{cccc}\na_1    & a_2    & \\ldots & a_{\\ell}    \\\\\n\\ldots & \\ldots & \\ldots & \\ldots \\\\\na_1    & a_2    & \\ldots & a_{\\ell}    \\\\\n\\end{array}\n\\right).",
+        "pred": "S_{k\\ell}[a]:=\\begin{pmatrix}\na_1&a_2&\\ldots&a_\\ell\\\\\n\\ldots&\\ldots&\\ldots&\\ldots\\\\\na_1&a_2&\\ldots&a_\\ell\n\\end{pmatrix}."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/12.jpg-1024.777_996.0_3718.8740000000003_1356.0.jpg",
+        "gt": "Z_{k\\ell}[a]:=\n\\left(\n\\begin{array}{ccccc}\na_1    & a_2    & \\ldots & a_{\\ell-1} & -a_1 - a_2 - \\ldots - a_{\\ell-1} \\\\\n\\ldots & \\ldots & \\ldots & \\ldots  & \\ldots                        \\\\\na_1    & a_2    & \\ldots & a_{\\ell-1} & -a_1 - a_2 - \\ldots - a_{\\ell-1} \\\\\n\\end{array}\n\\right), \\quad {\\rm if\\ } \\ell\\geq 2,",
+        "pred": "Z_{k\\ell}[a]:=\\left(\\begin{array}{cccc}\na_1&a_2&\\ldots&a_{\\ell-1}&-a_1-a_2-\\ldots-a_{\\ell-1}\\\\\n\\ldots&\\ldots&\\ldots&\\ldots&\\ldots\\\\\na_1&a_2&\\ldots&a_{\\ell-1}&-a_{1}-a_2-a_2-\\ldots-a_{\\ell-1}\n\\end{array}\\right),\\quad\\text{if }\\ell\\geq 2,"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/12.jpg-1692.5049999999999_2520.0_3051.146_3096.0.jpg",
+        "gt": "\\tau_m :=\n\\left(\n\\begin{array}{ccccccc}\n0 & 0 &    \\ldots & 0 & 0 \\\\\n1 & 0 &    \\ldots & 0 & 0 \\\\\n\\ldots  &\\ldots &\\ldots &\\ldots &\\ldots \\\\\n1 & 1 &    \\ldots & 0 & 0 \\\\\n1 & 1 &    \\ldots & 1 & 0 \\\\\n\\end{array}\n\\right).",
+        "pred": "\\tau_m:=\\left(\n\\begin{array}{ccccccc}\n0 & 0 & \\dots & 0 & 0 \\\\\n1 & 0 & \\dots & 0 & 0 \\\\\n\\dots & \\dots & \\dots & \\dots & \\dots \\\\\n1 & 1 & \\dots & 0 & 0 \\\\\n1 & 1 & \\dots & 1 & 0\n\\end{array}\n\\right)."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/13.jpg-1748.1490000000001_1200.0_2976.954_1488.0.jpg",
+        "gt": "\\sum\\limits_{j=1}^{m} (n-j) = m\\left(n-\\frac{m+1}{2}\\right).",
+        "pred": "\\sum_{j=1}^m (n-j) = m\\left( n - \\frac{m+1}{2} \\right)."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/14.jpg-1094.3319999999999_1104.0_3644.6820000000002_1518.0.jpg",
+        "gt": "\\begin{array}{c}\na_{11}\\psi_{1} + a_{22}\\psi_{2} + a_{33}\\psi_{3} + a_{44}\\psi_{4} + \\sum\\limits_{1\\leq j<k\\leq 4} \\psi_{j}\\psi_{k} [A]_{j,k} \\\\\n+ \\psi_{1}\\psi_{2}\\psi_{3} [A]_{1,2,3} + \\psi_{1}\\psi_{2}\\psi_{4} [A]_{1,2,4}\n+ \\psi_{1}\\psi_{3}\\psi_{4} [A]_{1,3,4} + \\psi_{2}\\psi_{3}\\psi_{4} [A]_{2,3,4} \\\\\n+ \\psi_{1}\\psi_{2}\\psi_{3}\\psi_{4} \\det A\n=0\n\\end{array}",
+        "pred": "a_{11}\\psi_1+a_{22}\\psi_2+a_{33}\\psi_3+a_{44}\\psi_4\n&+\\sum_{1\\leq j<k\\leq 4}\\psi_j\\psi_k[A]_{j,k}\\\\\n+\\psi_1\\psi_2\\psi_3[A]_{1,2,3}+\\psi_1\\psi_2\\psi_4[A]_{1,2,4}+\\psi_1\\psi_3\\psi_4[A]_{1,3,4}+\\psi_2\\psi_3\\psi_4[A]_{2,3,4}\\\\\n&+\\psi_1\\psi_2\\psi_3\\psi_4\\det A=0"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/14.jpg-1738.875_2682.0_2990.8650000000002_2802.0.jpg",
+        "gt": "(a_{11}+a_{22}+a_{33}+a_{44})(\\langle A_1,x\\rangle)^k.",
+        "pred": "(a_{11}+a_{22}+a_{33}+a_{44})(\\langle A_1,x\\rangle)^k."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/14.jpg-1877.9850000000001_4392.0_2856.392_4728.0.jpg",
+        "gt": "\\begin{array}{c}\na_{11}=0, \\\\\na_{22} + a_{33} + a_{44}=0, \\\\\n{[}A]_{12} + {[}A]_{13} + {[}A]_{14} = 0.\n\\end{array}",
+        "pred": "a_{11}&=0,\\\\\na_{22}+a_{33}+a_{44}&=0,\\\\\n[A]_{12}+[A]_{13}+[A]_{14}&=0."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/15.jpg-1780.608_1302.0_2912.036_1650.0000000000002.jpg",
+        "gt": "\\left\\{\n\\begin{array}{c}\na_{11} + a_{22}=0, \\\\\na_{33} + a_{44} = 0, \\\\\n(a_{13} + a_{14})(a_{31} + a_{32}) = 0. \\\\\n\\end{array}\n\\right.",
+        "pred": "\\left\\{\n\\begin{array}{rl}\na_{11}+a_{22}=0,\\\\\na_{33}+a_{44}=0,\\\\\n(a_{13}+a_{14})(a_{31}+a_{32})=0.\n\\end{array}\n\\right."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/15.jpg-843.934_1890.0_3895.08_2364.0.jpg",
+        "gt": "U(2+2,\\varepsilon_2)=\n\\left(\n\\begin{array}{cccc}\nZ_{22}[(a_{11},a_{12})] & Z_{22}[(a_{13},a_{14})] \\\\\nS_{22}[(a_{31},a_{32})] & Z_{22}[(a_{33},a_{34})] \\\\\n\\end{array}\n\\right)=\n\\left(\n\\begin{array}{crcc}\na_{11} & -a_{11} & a_{13} & -a_{13} \\\\\na_{11} & -a_{11} & a_{13} & -a_{13} \\\\\na_{31} &  a_{32} & a_{33} & -a_{33} \\\\\na_{31} &  a_{32} & a_{33} & -a_{33} \\\\\n\\end{array}\n\\right).",
+        "pred": "U(2+2,\\varepsilon_2)=\\left(\n\\begin{array}{ccc}\nZ_{22}[(a_{11},a_{12})]&Z_{22}[(a_{13},a_{14})]\\\\\nS_{22}[(a_{31},a_{32})]&Z_{22}[(a_{33},a_{34})]\n\\end{array}\n\\right)=\\left(\n\\begin{array}{ccc}\na_{11}&-a_{11}&a_{13}&-a_{13}\\\\\na_{11}&-a_{11}&a_{13}&-a_{23}\\\\\na_{31}&a_{32}&a_{33}&-a_{33}\\\\\na_{32}&a_{33}&a_{33}&-a_{33}\n\\end{array}\n\\right)."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/15.jpg-1873.3480000000002_3882.0_2828.57_4440.0.jpg",
+        "gt": "\\left\\{\n\\begin{array}{c}\na_{11}=a_{22}=0, \\\\\na_{33} + a_{44} = 0, \\\\\na_{31}(a_{13} + a_{14}) = 0, \\\\\na_{32}(a_{23} + a_{24}) = 0, \\\\\na_{12}a_{31}(a_{23} + a_{24}) = 0. \\\\\n\\end{array}\n\\right.",
+        "pred": "\\left\\{\n\\begin{array}{l}\na_{11}=a_{22}=0,\\\\\na_{33}+a_{44}=0,\\\\\na_{31}(a_{13}+a_{14})=0,\\\\\na_{32}(a_{23}+a_{24})=0,\\\\\na_{12}a_{31}(a_{23}+a_{24})=0.\n\\end{array}\n\\right."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/15.jpg-1465.292_4704.0_3264.448_5178.0.jpg",
+        "gt": "U(1+1+2,\\varepsilon_3):=\n\\left(\n\\begin{array}{cccc}\n   0   & a_{12} & a_{13} & -a_{13} \\\\\n   0   &   0    & a_{23} & -a_{23} \\\\\na_{31} & a_{32} & a_{33} & -a_{33} \\\\\na_{31} & a_{32} & a_{33} & -a_{33} \\\\\n\\end{array}\n\\right).",
+        "pred": "U(1+1+2,\\varepsilon_3):=\\left(\n\\begin{array}{cccc}\n0 & a_{12} & a_{13} & -a_{13} \\\\\n0 & 0 & a_{23} & -a_{23} \\\\\na_{31} & a_{32} & a_{33} & -a_{33} \\\\\na_{31} & a_{32} & a_{33}& -a_{33}\n\\end{array}\n\\right)."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/16.jpg-1919.7179999999998_1938.0_2810.022_2406.0.jpg",
+        "gt": "\\tau_4 =\n\\left(\n\\begin{array}{ccccccc}\n0 & 0 & 0 & 0 \\\\\n1 & 0 & 0 & 0 \\\\\n1 & 1 & 0 & 0 \\\\\n1 & 1 & 1 & 0 \\\\\n\\end{array}\n\\right).",
+        "pred": "\\tau_4=\\left(\n\\begin{array}{cccc}\n0 & 0 & 0 & 0 \\\\\n1 & 0 & 0 & 0 \\\\\n1 & 1 & 0 & 0 \\\\\n1 & 1 & 1 & 0\n\\end{array}\n\\right)."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/16.jpg-1711.0529999999999_2652.0_3027.9610000000002_3114.0.jpg",
+        "gt": "\\Pi(\\alpha) \\tau_{4} \\Pi(\\alpha)^{T}=\n\\left(\n\\begin{array}{cccc}\n 0 & 0 & 0 & 0 \\\\\n 1 & 0 & 0 & 1 \\\\\n 1 & 1 & 0 & 1 \\\\\n 1 & 0 & 0 & 0 \\\\\n\\end{array}\n\\right).",
+        "pred": "\\Pi(\\alpha)\\tau_4\\Pi(\\alpha)^T=\\begin{pmatrix}\n0&0&0&0\\\\1&0&0&0\\\\1&1&0&0\\\\1&0&0&0\n\\end{pmatrix}."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/17.jpg-1173.161_3120.0_3565.853_3240.0.jpg",
+        "gt": "\\nu_0 = {\\rm Id}, \\quad \\nu_{j} = \\nu_{j}[A,\\varphi](f) := f - \\varphi(A \\nu_{j-1}(f)), \\, j=1,2,3,\\ldots",
+        "pred": "\\nu_0=\\Id, \\quad \\nu_j=\\nu_j[A,\\varphi](f):=f-\\varphi(A\\nu_{j-1}(f)),\\,j=1,2,3,\\dots"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/17.jpg-885.667_5328.0_3848.71_5496.0.jpg",
+        "gt": "=\\lim_{j\\rightarrow\\infty} \\nu_{j}(f) + \\lim_{j\\rightarrow\\infty}(f - f + \\varphi(A\\nu_{j}(f))) =\n\\lim_{j\\rightarrow\\infty} \\nu_{j}(f) + f - \\lim_{j\\rightarrow\\infty} \\nu_{j+1}(f) = f.",
+        "pred": "= \\lim_{j \\to \\infty} \\nu_j(f) + \\lim_{j \\to \\infty} (f - f + \\varphi(A \\nu_j(f))) = \\lim_{j \\to \\infty} \\nu_j(f) + f - \\lim_{j \\to \\infty} \\nu_{j+1}(f) = f."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/18.jpg-746.557_3132.0_3793.066_3252.0.jpg",
+        "gt": "f_j = x_j + \\varphi(a_{1}x_{1} + a_{2}x_{2} + \\ldots + a_{n-1}x_{n-1} - (a_{1}+a_{2}+\\ldots + a_{n-1})x_{n}), \\quad j=1,\\ldots,n",
+        "pred": "f_j=x_j+\\varphi(a_1x_1+a_2x_2+\\ldots+a_{n-1}x_{n-1}-(a_1+a_2+\\ldots+a_{n-1})x_n),\\quad j=1,\\ldots,n"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/19.jpg-1145.339_1236.0_3589.038_1350.0.jpg",
+        "gt": "u_{|p|,|\\tilde{p}|+1} x_{|\\tilde{p}|+1} + \\ldots + u_{|p|,|p|} x_{|p|}  = u_{|p|,|\\tilde{p}|+1} f_{|\\tilde{p}|+1} + \\ldots + u_{|p|,|p|} f_{|p|}.",
+        "pred": "u_{|p|,|\\bar{p}|+1}x_{|\\bar{p}|+1}+\\cdots+u_{|p|,|p|}x_{|p|}=u_{|p|,|\\bar{p}|+1}f_{|\\bar{p}|+1}+\\cdots+u_{|p|, |p|}f_{|p|}."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/19.jpg-1715.69_1998.0_3023.324_2568.0.jpg",
+        "gt": "M=\n\\left(\n\\begin{array}{ccccc}\n a & -a & b & c & -b-c \\\\\n a & -a & b & c & -b-c \\\\\n s &  t & u & v & -u-v \\\\\n s &  t & u & v & -u-v \\\\\n s &  t & u & v & -u-v \\\\\n\\end{array}\n\\right)",
+        "pred": "M=\\left(\n\\begin{array}{ccccc}\na & -a & b & c & -b-c \\\\\na & -a & b & c & -b-c \\\\\ns & t & u & v & -u-v \\\\\ns & t & u & v & -u-v \\\\\ns & t & u &  v & -u-v \\\\\n\\end{array}\n\\right)"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/19.jpg-741.92_3048.0_3793.066_3558.0.jpg",
+        "gt": "{\\small\n\\begin{array}{c}\nf_1-\\varphi\\left(a (f_1-f_2) + b(f_3-f_5) + c(f_4-f_5) \\right), \\\\\nf_2-\\varphi\\left(a (f_1-f_2) + b(f_3-f_5) + c(f_4-f_5) \\right),\\\\\nf_3-\\varphi\\left(s f_1 + t f_2 + u(f_3-f_5) + v(f_4-f_5) - (s+t) \\varphi\\left(a (f_1-f_2) + b(f_3-f_5) + c(f_4-f_5)\\right)\\right), \\\\\nf_4-\\varphi\\left(s f_1 + t f_2 + u(f_3-f_5) + v(f_4-f_5) - (s+t) \\varphi\\left(a (f_1-f_2) + b(f_3-f_5) + c(f_4-f_5)\\right)\\right), \\\\\nf_5-\\varphi\\left(s f_1 + t f_2 + u(f_3-f_5) + v(f_4-f_5) - (s+t) \\varphi\\left(a (f_1-f_2) + b(f_3-f_5) + c(f_4-f_5)\\right)\\right). \\\\\n\\end{array}\n}",
+        "pred": "f_1-\\varphi\\left(a(f_1-f_2)+b(f_3-f_5)+c(f_4-f_5)\\right),\\\\\n    f_2-\\varphi\\left(a(f_1-f_2)+b(f_3-f_3)+c(f_4-f_5)\\right),\\\\\n    f_3-\\varphi\\left(s f_1+t f_2+u(f_3-f_5)+v(f_4-f_5)-(s+t)\\varphi\\left(a(f_1-f_2)+b(f_3-f_5)+(c f_4-f_5)\\right)\\right),\\\\\n    f_4-\\varphi\\left(s f_1+t f_2+u(f_3-f_{5})+v(f_4-f_{5})-(s+t)\\varphi\\left(a(f_1-f_2)+b(f_3-F_{5})+c(f_4-f_5)\\right)\\right),\\\\\n    f_5-\\varphi\\left(s f_1+t f_2+u(f_3-f _5)+v(f_4-f_{5})-(s+t)\\varphi\\left(a(f_2-f_2)+b(f_3-f_5)+c(f_4-f_5))\\right)\\right)."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/20.jpg-1683.231_1194.0_3051.146_1518.0.jpg",
+        "gt": "x_j + \\left(\\sum_{k=1}^n a_{jk}x_k\\right)^d, \\quad j=1,\\ldots,n.",
+        "pred": "x_j+\\left(\\sum_{k=1}^n a_{jk}x_k\\right)^d,\\quad j=1,\\ldots,n."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/20.jpg-1836.2520000000002_2994.0_2893.488_3222.0.jpg",
+        "gt": "\\begin{array}{c}\nf_1 = x_1 + (a_{11} x_1 + a_{12} x_2)^2, \\\\\nf_2 = x_2 + (a_{21} x_1 + a_{22} x_2)^2.\n\\end{array}",
+        "pred": "\\begin{aligned}\nf_1 &= x_1 + (a_{11}x_1 + a_{12}x_2)^2, \\\\\nf_2 &= x_2 + (a_{21}x_1 + a_{22}x_2)^2.\n\\end{aligned}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/20.jpg-1558.0320000000002_4416.0_3148.523_4986.0.jpg",
+        "gt": "\\left\\{\n\\begin{array}{l}\na_{11}^2 + a_{21} a_{22} = 0, \\\\\na_{11} a_{12} + a_{22}^2 = 0, \\\\\na_{12} a_{22}(a_{11} a_{22} - a_{12} a_{21}) = 0, \\\\\na_{11} a_{21}(a_{11} a_{22} - a_{12} a_{21}) = 0, \\\\\n(a_{11} a_{22} - a_{12} a_{21}) (a_{11} a_{22} + a_{12} a_{21}) = 0.\\\\\n\\end{array}\n\\right.",
+        "pred": "\\left\\{\n\\begin{array}{l}\na_{11}^2+a_{21}a_{22}=0,\\\\\na_{11}a_{12}+a_{22}^2=0,\\\\\na_{12}a_{22}(a_{11}a_{22}-a_{12}a_{21})=0,\\\\\na_{11}a_{21}(a_{11}a_{22}-a_{12}a_{22})=0,\\\\\n(a_{11}a_{22}-a_{12}a_{21})(a_{11}a_{22}+a_{12}a_{21})=0.\n\\end{array}\n\\right."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/21.jpg-746.557_1152.0_3793.066_3132.0.jpg",
+        "gt": "\\left\\{\n\\begin{array}{l}\na_{11}^2 + a_{21} a_{22} + a_{31} a_{33} = 0, \\\\\na_{11} a_{12} + a_{22}^2 + a_{32} a_{33} = 0, \\\\\na_{11} a_{13} + a_{22} a_{23} + a_{33}^2 = 0, \\\\\na_{21} a_{22} a_{11}^2+a_{31} a_{33} a_{11}^2-a_{13} a_{31}^2 a_{11}-a_{11} a_{12} a_{21}^2+a_{21} a_{22} a_{31} a_{33}-a_{21} a_{23} a_{31} a_{32} = 0, \\\\\na_{21} a_{22} a_{12}^2+a_{22} a_{23} a_{32}^2-a_{11} a_{22}^2 a_{12}-a_{22}^2 a_{32} a_{33}+a_{13} a_{31} a_{32} a_{12}-a_{11} a_{32} a_{33} a_{12} = 0, \\\\\na_{31} a_{33} a_{13}^2+a_{23}^2 a_{32} a_{33}-a_{22} a_{23} a_{33}^2-a_{11} a_{33}^2 a_{13}+a_{12} a_{21} a_{23} a_{13}-a_{11} a_{22} a_{23} a_{13} = 0, \\\\\n\na_{11}^2a_{22}^2 - a_{12}^2a_{21}^2 + a_{11}^2a_{32}a_{33} + a_{22}^2a_{31}a_{33} - a_{12}a_{13}a_{31}^2 - a_{21}a_{23}a_{32}^2 + \\\\\na_{11}a_{12}a_{31}a_{33} + a_{21}a_{22}a_{32}a_{33} - a_{11}a_{13}a_{31}a_{32} - a_{22}a_{23}a_{31}a_{32}  = 0, \\\\\na_{11}^2a_{33}^2 - a_{13}^2a_{31}^2 + a_{11}^2a_{22}a_{23} + a_{21}a_{22}a_{33}^2 - a_{23}^2a_{31}a_{32}  - a_{12}a_{13}a_{21}^2 + \\\\\na_{11}a_{13}a_{21}a_{22} + a_{22}a_{23}a_{31}a_{33} - a_{11}a_{12}a_{21}a_{23} - a_{21}a_{23}a_{32}a_{33} = 0, \\\\\na_{22}^2a_{33}^2 - a_{23}^2a_{32}^2 + a_{11}a_{13}a_{22}^2 + a_{11}a_{33}^2a_{12} - a_{13}^2a_{31}a_{32} - a_{21}a_{23}a_{12}^2 + \\\\\na_{11}a_{22}a_{23}a_{12} + a_{11}a_{13}a_{32}a_{33} - a_{13}a_{21}a_{22}a_{12}  - a_{13}a_{31}a_{33}a_{12} = 0, \\\\\n\na_{11} a_{21} a_{31} \\det A = a_{12} a_{22} a_{32} \\det A = a_{13} a_{23} a_{33} \\det A = 0, \\\\\n\n(a_{11} a_{22} a_{31} + a_{11} a_{21} a_{32} + a_{12} a_{21} a_{31}) \\det A = 0, \\\\\n(a_{11} a_{23} a_{31} + a_{11} a_{21} a_{33} + a_{13} a_{21} a_{31}) \\det A = 0, \\\\\n(a_{11} a_{22} a_{32} + a_{12} a_{22} a_{31} + a_{12} a_{21} a_{32}) \\det A = 0, \\\\\n(a_{11} a_{23} a_{33} + a_{13} a_{23} a_{31} + a_{13} a_{21} a_{33}) \\det A = 0, \\\\\n(a_{12} a_{23} a_{32} + a_{12} a_{22} a_{33} + a_{13} a_{22} a_{32}) \\det A = 0, \\\\\n(a_{12} a_{23} a_{33} + a_{13} a_{23} a_{32} + a_{13} a_{22} a_{33}) \\det A = 0, \\\\\n\n\\det A \\, \\rm{perm}\\, A = 0. \\\\\n\\end{array}\n\\right.",
+        "pred": "\\left\\{\\begin{array}{l}\na_{11}^2+a_{21}a_{22}+a_{31}a_{33}=0,\\\\\na_{11}a_{12}+a_{22}a_{32}+a_{33}a_{33}=0,\\\\\na_{11}a_{13}+a_{22}a_{23}+a_{33}^2=0,\\\\\na_{21}a_{22}a_{11}^2+a_{31}a_{33}a_{11}^2-a_{11}a_{31}a_{21}a_{21}a_{22}a_{31}a_{33}-a_{21}a_{22}a_{33}a_{31}a_{32}=0,\\\\\na_{21}a_{22}a_{12}a_{22}a_{32}a_{33}a_{22}a_{33}a_{22}a_{33}a_{33}-a_{11}a_{32}a_{33}a_{32}a_{33}a_{33}a_{21}a_{22}a_{33}a_{33}=0,\\\\\na_{31}a_{33}a_{13}^2+a_{22}a_{32}a_{33}a_{33}-a_{22}a_{32}a_{33}a_{33}- a_{11}a_{32}a_{33}a_{13}a_{21}a_{22}a_{33}a_{13}=0,\\\\\na_{11}^{12}a_{22}-a_{12}^{12}a_{22}^{12}+a_{11}a_{32}a_{33}+a_{22}a_{31}a_{33}-a_{12}a_{32}a_{33}a_{32}a_{32}+a_{3}\\\\\na_{11}a_{12}a_{33}a_{33}+a_{21}a_{22}a_{32}a_{33}-a_{11}a_{13}a_{31}a_{33}a_{22}a_{33}a_{32}=0,\\\\\na_{12}^{13}a_{33}-a_{12}^{12}a_{31}^2+a_{12}a_{22}a_{33}+a_{22}a_{22}a_{33}a_{32}-a_{22}a_{33}a_{32}a_{33}=0,\\\\\na_{11}a_{31}a_{22}a_{32}+a_{22}a_{33}a_{33}-a_{11}{a_{11}a_{22}a_{31}a_{33}-a_{12}\na_{32}a_{33}a_{32}a_{33}=0, \\\\\na_{22}^2a_{33}-a_{22}^{23}a_{32}a_{32}+a_{11}a_{32}a_{32}a_{33}-a_{12}a_{32}a_{22}a_{33}a_{22}a_{32}a_{32}+a_{3}\\\\\na_{21}a_{22}a_{33}a_{12}+a_{11}a_{32}a_{33}-a_{13}a_{22}a_{22}a_{33}-a_{13}a_{33}a_{33}a_{32}=0,\\\\\na_{11}a_{21}a_{33}a_{21}+a_{12}a_{22}a_{32}a_{33}-a_{12}a_{22}a_{33}a_{33}a_{23}a_{32}a_{32}a_{33}=0,\\\\\n(a_{12}a_{22}a_{33}a_{31}+a_{11}a_{21}a_{33}+a_{13}a_{21}a_{33})\\det A=0,\\\\\n(a_{11}a_{22}a_{33}a_{31}+a_{21}a_{22}a_{33}+a_{13}a_{22}a_{33})\\det A=0,\\\\\n(a_{12}a_{22}a_{33}+a_{12}a_{22}a_{33}a_{31}a_{13}a_{21}a_{33})\\det A= 0,\\\\\n(a_{12}a_{23}a_{33}+a_{13}a_{22}a_{23}a_{33}+a_{13}a_22a_{33})\\det A=0,\\\\\n(a_{12}a_23a_{33}+a_{13}a_{23}a_{33}+a_{13}a_32a_{33})\\det A=0,\\\\\n(a_{12}b_{23}a_{33}+a_{13}a_{23}a_{32}a_{33}+a_{13}a_22a_{32}a_{33})\\det A=0,\\\\\n(a_{12}}a_{23}a_{33}a_{33}+a_{13}a_{23}a_33+a_{13}a_22a_{33})\\det A=0, \\\\\n(a_{12}a_23a_{33}+a_{13}\na_{23}a_{33}+a_{13}a_{23}\na_{33})\\det A=0,\\\\\n(a_{12}a^2a_{33}a_{33}+a_{13}a_{22}a_33+a_{13}a_{22}a_{33})\\det A=0,\n\\end{array}\\right."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/22.jpg-1604.4019999999998_2004.0000000000002_3125.338_2136.0.jpg",
+        "gt": "H_{n,d}(s) = (s^{\\mathcal{I} - e_j + d e_k}), \\quad j,k = 1,\\ldots,n,",
+        "pred": "H_{n,d}(s)=(s^{\\mathcal{I}-e_j+de_k}),\\quad j,k=1,\\ldots,n,"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/22.jpg-973.77_3120.0_3769.881_3437.9999999999995.jpg",
+        "gt": "J\\left(x+((H_{n,d}(s)\\odot A) x)^d; x\\right) \\equiv J\\left(\\xi + (A\\xi)^d; \\xi\\right)\n\\bigg|_{\\xi_j = x_j s_{j}^d\\left(\\prod\\limits_{k=1}^n s_k\\right)^\\frac{d}{d-1}, \\,\\, j=1,\\ldots,n}",
+        "pred": "J\\left(  x+\\left(  \\left(  H_{n,d}(s)\\odot A\\right)  x\\right)  ^{d},x\\right)\n\\equiv J\\left(  \\xi+\\left(  A\\xi\\right)  ^{d};\\xi\\right)  \\left\\vert\n_{\\xi_{j}=x_{j}s_{j}^{d}}\\binom{\\Pi}{1}s_{k}\\right\\vert ^{d-1},\\,_{j=1,...,n}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/23.jpg-1251.99_2244.0_3477.75_2484.0.jpg",
+        "gt": "\\begin{array}{cc}\n1 + d a_{11}( a_{11} x_1 + a_{12}x_2 )^{d-1} + d a_{22}( a_{21} x_1 + a_{22}x_2 )^{d-1} + \\\\\nd^2 (a_{11}a_{22} - a_{12}a_{21}) ( a_{11} x_1 + a_{12}x_2 )^{2d-2} ( a_{21} x_1 + a_{22}x_2 )^{2d-2}.\n\\end{array}",
+        "pred": "\\frac{1+da_{11}(a_{11}x_1+a_{12}x_2)^{d-1}+da_{22}(a_{21}x_1+a_{22}x_2)^{d-1}+}{d^2(a_{11}a_{22}-a_{12}a_{21})(a_{11}x_1+a_{12}x_2)^{2d-2}(a_{21}x_1+a_{22}x_2)^ {2d-2} }."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/23.jpg-1956.8139999999999_3282.0000000000005_2777.563_3534.0.jpg",
+        "gt": "A=\n\\left(\n\\begin{array}{cl}\n\\lambda & -\\lambda^{d+1} \\\\\n  1     & -\\lambda^d     \\\\\n\\end{array}\n\\right).",
+        "pred": "A=\\left(\n\\begin{array}{cc}\n\\lambda & -\\lambda^{d+1} \\\\\n1 & -\\lambda^d\n\\end{array}\n\\right)."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/23.jpg-1085.058_3930.0_3653.956_4326.0.jpg",
+        "gt": "\\begin{array}{c}\nf_1 - (s t^d f_{1} - s^{d+1} f_2)^d = \\\\\nx_1 + \\left(s t^d x_{1} - s^{d+1} x_2\\right)^d - \\\\\n\\left(s t^d (x_1 + (s t^d x_{1} - s^{d+1} x_2)^d) - s^{d+1} (x_{2} + (t^{d+1} x_1 - s^d t x_2)^d)\\right)^d \\equiv x_1 \\\\\n\\end{array}",
+        "pred": "f_1-(st^df_1-s^{d+1}f_2)^d=&\\\\\nx_1+\\left(st^dx_1-s^{d+1}x_2\\right)^d&-\\\\\n\\left(st^d(x_1+(st^dx_1-s^{d+1}x_2)^d)-s^{d+1}(x_2+(t^{d+1}x_1-s^dtx_2)^d)\\right)^d&\\equiv x_1"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/23.jpg-1660.0459999999998_5244.0_3074.331_5376.0.jpg",
+        "gt": "f : x \\mapsto x + \\left((U(p,\\Pi)\\odot H_{n,d}(s))\\,x\\right)^d",
+        "pred": "f:x\\mapsto x+((U(p,\\Pi)\\odot H_{n,d}(s))\\,x)^d"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/24.jpg-1558.0320000000002_4656.0_3185.619_5118.0.jpg",
+        "gt": "M=\n\\left(\n\\begin{array}{cccc}\nc_1 v_1 & c_1 v_2 & \\ldots & c_1 v_n \\\\\nc_2 v_1 & c_2 v_2 & \\ldots & c_2 v_n \\\\\n \\ldots & \\ldots  & \\ldots & \\ldots  \\\\\nc_n v_1 & c_n v_2 & \\ldots & c_n v_n \\\\\n\\end{array}\n\\right) = c\\otimes v,",
+        "pred": "M=\\left(\\begin{array}{cccc}\nc_1v_1&c_1v_2&\\ldots&c_1v_n\\\\\nc_2v_1&c_2v_2&\\ldots&c_2v_n\\\\\n\\ldots&\\ldots&\\ldots&\\ldots\\\\\nc_nv_1&c_nv_2&\\ldots&c_nv_n\n\\end{array}\\right)=c\\otimes v,"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/26.jpg-1636.8609999999999_2646.0_3092.8790000000004_2952.0.jpg",
+        "gt": "x_j + \\log\\left(\\sum_{k=1}^n a_{jk}x_k\\right), \\quad j=1,\\ldots,n.",
+        "pred": "x_j+\\log\\left(\\sum_{k=1}^n a_{jk}x_k\\right),\\quad j=1,\\ldots,n."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/26.jpg-1905.8069999999998_3846.0_2791.4739999999997_4200.0.jpg",
+        "gt": "\\left\\{\n\\begin{array}{l}\na_{11} (a_{21}+a_{22})=0,      \\\\\na_{22} (a_{11}+a_{12})=0,      \\\\\na_{11} a_{22}-a_{12} a_{21}=0. \\\\\n\\end{array}\n\\right.",
+        "pred": "\\left\\{\n\\begin{array}{l}\na_{11}(a_{21}+a_{22})=0,\\\\\na_{22}(a_{11}+a_{12})=0,\\\\\na_{11}a_{22}-a_{12}a_{21}=0.\n\\end{array}\n\\right."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/26.jpg-2119.109_4446.0_2615.2679999999996_4692.0.jpg",
+        "gt": "\\left(\n\\begin{array}{cc}\na & -a \\\\\nb & -b \\\\\n\\end{array}\n\\right),",
+        "pred": "\\left(\n\\begin{array}{cc}\na & -a \\\\\nb & -b\n\\end{array}\n\\right),"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/27.jpg-876.393_1032.0_3834.799_2112.0.jpg",
+        "gt": "\\left\\{\n\\begin{array}{l}\na_{11} \\left(a_{21} a_{31}+a_{22} a_{31}+a_{21} a_{33}\\right) = 0, \\\\\na_{22} \\left(a_{11} a_{32}+a_{12} a_{32}+a_{12} a_{33}\\right) = 0, \\\\\na_{33} \\left(a_{13} a_{22}+a_{11} a_{23}+a_{13} a_{23}\\right) = 0, \\\\\na_{11}a_{22}a_{33} + a_{11}a_{22}a_{31} + a_{12}a_{22}a_{31} + a_{11}a_{21}a_{32} + a_{11}a_{22}a_{32} + a_{12}a_{21}a_{33} = 0, \\\\\na_{13}a_{22}a_{31} + a_{11}a_{23}a_{31} + a_{11}a_{21}a_{33} + a_{13}a_{21}a_{33} + a_{11}a_{22}a_{33} + a_{11}a_{23}a_{33} = 0, \\\\\na_{11}a_{22}a_{33} + a_{11}a_{23}a_{32} + a_{12}a_{22}a_{33} + a_{12}a_{23}a_{33} + a_{13}a_{22}a_{32} + a_{13}a_{22}a_{33} = 0, \\\\\na_{11}a_{22}a_{33} + a_{11}a_{22}a_{31} + a_{11}a_{21}a_{33} - a_{12}a_{21}a_{31} - a_{13}a_{21}a_{31} - a_{11}a_{23}a_{32} = 0, \\\\\na_{11}a_{22}a_{33} + a_{12}a_{23}a_{31} + a_{13}a_{21}a_{32} - a_{13}a_{22}a_{31} - a_{11}a_{23}a_{32} - a_{12}a_{21}a_{33} = 0, \\\\\na_{11}a_{22}a_{33} + a_{11}a_{22}a_{32} + a_{12}a_{22}a_{33} - a_{13}a_{22}a_{31} - a_{12}a_{21}a_{32} - a_{12}a_{23}a_{32} = 0, \\\\\na_{11}a_{22}a_{33} + a_{11}a_{23}a_{33} + a_{13}a_{22}a_{33} - a_{13}a_{23}a_{31} - a_{13}a_{23}a_{32} - a_{12}a_{21}a_{33} = 0. \\\\\n\\end{array}\n\\right.",
+        "pred": "\\left\\{\n\\begin{array}{l}\na_{11}\\left(a_{21}a_{31}+a_{22}a_{31}+a_{21}a_{33}\\right)=0,\\\\\na_{22}\\left(a_{11}a_{32}+a_{12}a_{32}+a_{12}a_{33}\\right)=0,\\\\\na_{33}\\left(a_{13}a_{22}+a_{11}a_{23}+a_{13}a_{23}\\right)=0,\\\\\na_{11}a_{22}a_{33}+a_{11}a_{22}a_{31}+a_{12}a_{22}a_{31}+a_{11}a_{21}a_{32}+a_{11}a_{22}a_{32}+a_{12}a_{21}a_{33}=0,\\\\\na_{13}a_{22}a_{33}+a_{11}a_{32}a_{33}+a_{11}a_{21}a_{33}+a_{13}a_{21}a_{33}+a_{11}a_{22}a_{23}+a_{11}a_{23}a_{33}=0,\\\\\na_{11}a_{22}a_{33}+\\a_{11}a_{23}a_{32}+a_{12}a_{22}a_{33}+a_{12}a_{23}a_{33}+a_{13}a_{22}a_{33}+a_{13}a_{22}a_{23}=0,\\\\\na_{11}a_{22}a_{32}+a_{11}a_{22}a_{23}+a_11a_{23}a_{33}-a_{12}a_{21}a_{33}-a_{13}a_{21}a_{33}-a_{13}a_{23}a_{32}=0,\\\\\na_{11}a_{22}a_{33}-a_{12}a_{23}a_{33}+a_{12}a_{22}a_{33}-a_{13}a_{22}a_{33}-a_{12}a_{21}a_{23}a_{33}=0,\\\\\na_{13}a_{22}-a_{33}a_{23}+a_{12}a_{22}a_{33}-a_13a_{22}a_{33}-a_{12}a_{21a_{33}}a_{33}=0.\\\\\na_{11}a_{22}a_{33}+a_11a_{23}a_{33}+a_{13}a_{23}a_{23}-a_{13}a_{23}a_{33}-a_{12}a_{21a_{33}}\n\\end{array}\n\\right."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/27.jpg-1720.327_2394.0_3009.413_2760.0.jpg",
+        "gt": "C(0,1,-1)=\n\\left(\n\\begin{array}{rrr}\n  0 &  1 & -1 \\\\\n -1 &  0 &  1 \\\\\n  1 & -1 &  0 \\\\\n\\end{array}\n\\right)",
+        "pred": "C(0,1,-1)=\\left(\n\\begin{array}{rrr}\n0 & 1 & -1 \\\\\n-1 & 0 & 1 \\\\\n1 & -1 & 0\n\\end{array}\n\\right)"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/27.jpg-1910.444_3582.0_2819.296_3924.0.jpg",
+        "gt": "\\begin{array}{l}\nf_1 = x_1 + \\log(x_2-x_3),  \\\\\nf_2 = x_2 + \\log(x_3-x_1), \\\\\nf_3 = x_3 + \\log(x_1-x_2)   \\\\\n\\end{array}",
+        "pred": "f_1 &= x_1 + \\log(x_2 - x_3), \\\\\nf_2 &= x_2 + \\log(x_3 - x_1), \\\\\nf_3 &= x_3 + \\log(x_1 - x_2)"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/28.jpg-843.934_984.0_3895.08_1308.0.jpg",
+        "gt": "\\begin{array}{c}\nC\\left(0,\\, \\left(\\sqrt{5}+1\\right) \\sqrt{10-2 \\sqrt{5}}-2 \\sqrt{-1} \\left(\\sqrt{5}+3\\right),\\,\n\\left(\\sqrt{5}+3\\right) \\sqrt{10-2 \\sqrt{5}}+4 \\sqrt{-1} \\left(\\sqrt{5}+2\\right), \\phantom{--} \\right. \\\\\n\\left.\\phantom{------------}\n-2 \\left(\\left(\\sqrt{5}+2\\right) \\sqrt{10-2 \\sqrt{5}}- \\sqrt{-1} \\left(\\sqrt{5}+1\\right)\\right),\\,\n-4 \\sqrt{-1} \\left(\\sqrt{5}+1\\right)\\right),\n\\end{array}",
+        "pred": "C\\left(0,\\left(\\sqrt{5}+1\\right)\\sqrt{10-2\\sqrt{5}}-2\\sqrt{-1}\\left(\\sqrt{5}+3\\right),\\left(\\sqrt{5}+3\\right)\\sqrt{10-2\\sqrt{5}}+4\\sqrt{-1}\\left(\\sqrt{5}+2\\right),\\\\\n\\qquad\\qquad\\qquad-2\\left(\\left(\\sqrt{5}+2\\right)\\sqrt{10-2\\sqrt{5}}-\\sqrt{-1}\\left(\\sqrt{5}+1\\right)\\right),\\, -4\\sqrt{-1}\\left(\\sqrt{5}+1\\right)\\right),"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/28.jpg-992.318_1656.0000000000002_3751.333_2124.0.jpg",
+        "gt": "\\left(\n\\begin{array}{cccc}\n 0 & a & -a-b & b \\\\\n a s & 0 & (-a-b) (s+t) & b s+a t+b t \\\\\n s & -s-t & 0 & t \\\\\n b s & -b s-a t-b t & (a+b) t & 0 \\\\\n\\end{array}\n\\right), \\quad a,b,s,t\\in\\C.",
+        "pred": "\\left(\n\\begin{array}{cccc}\n0 & a & -a-b & b \\\\\nas & 0 & (-a-b)(s+t) & bs+at+bt \\\\\ns & -s-t & 0 & t \\\\\nbs & -bs-at-bt & (a+b)t & 0\n\\end{array}\n\\right), \\quad a,b,s,t\\in\\CC."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/28.jpg-1775.971_3473.9999999999995_2958.406_3606.0.jpg",
+        "gt": "a_1 b_1^d + a_2 b_2^d + \\ldots a_{n-1} b_{n-1}^d = 0.",
+        "pred": "a_1b_1^d+a_2b_2^d+\\ldots a_{n-1}b_{n-1}^d=0."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/28.jpg-1836.2520000000002_3768.0_2893.488_3894.0.jpg",
+        "gt": "x=f-(M(f-(Mf)^d))^d.",
+        "pred": "x=f-(M(f-(Mf)^d))^d."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/28.jpg-843.934_4284.0_3895.08_4404.0.jpg",
+        "gt": "b_1 = b_2 = \\ldots = b_{j_1}, \\,\\,\\, b_{j_1 + 1} = b_{j_1 + 2} = \\ldots = b_{j_2}, \\, \\ldots, \\,\nb_{j_{k-1} + 1} = b_{j_{k-1} + 2} = \\ldots = b_{n-1},",
+        "pred": "b_1=b_2=\\ldots=b_{j_1},\\ \\ b_{j_1+1}=b_{j_1+2}=\\ldots=b_{j_2},\\ldots,b_{j_{k-1}+1}=b_{j_{k-1}+2}=\\ldots=b_{n-1},"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/29.jpg-1641.4979999999998_1002.0000000000001_3102.1530000000002_1254.0.jpg",
+        "gt": "H_{4,3}(s) \\odot\n\\left(\n\\left(\n\\begin{array}{cc}\na & b \\\\\nc & d \\\\\n\\end{array}\n\\right)\n\\otimes\n\\left(\n\\begin{array}{cc}\n1 & -1 \\\\\n1 & -1 \\\\\n\\end{array}\n\\right)\n\\right)",
+        "pred": "H_{4,3}(s)\\odot\\left(\\left(\\begin{matrix}\na & b\\\\\nc & d\n\\end{matrix}\\right)\\otimes\\left(\\begin{matrix}\n1 & -1\\\\\n1 & -1\n\\end{matrix}\\right)\\right)"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/01.jpg-1479.203_1980.0_3264.448_2082.0.jpg",
+        "gt": "f=(f_1,\\ldots,f_n):\\midC^n\\rightarrow\\midC^n, \\quad f[A,\\varphi](x):=x+\\varphi(Ax)",
+        "pred": "f = (f_1, \\ldots, f_n) : \\C^n \\to \\C^n, \\quad f[A, \\varphi](x) := x + \\varphi(Ax)"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/01.jpg-1636.8609999999999_2202.0_3111.427_2454.0.jpg",
+        "gt": "f_j : x \\mapsto x_j + \\varphi\\left(\\sum\\limits_{k=1}^n a_{jk}x_k\\right), \\quad j=1,\\ldots,n",
+        "pred": "f_j:x\\mapsto x_j+\\varphi\\left(\\sum_{k=1}^n a_{jk}x_k\\right),\\quad j=1,\\ldots,n"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/08.jpg-1785.2450000000001_5304.0_2939.858_5640.0.jpg",
+        "gt": "\\begin{array}{l}\nf_1 = x_1 + \\varphi(a x_2 - a x_3), \\\\\nf_2 = x_2 + \\varphi(b x_1 + c x_2 - c x_3), \\\\\nf_3 = x_3 + \\varphi(b x_1 + c x_2 - c x_3) \\\\\n\\end{array}",
+        "pred": "f_1 &= x_1 + \\varphi(ax_2 - ax_3), \\\\\nf_2 &= x_2 + \\varphi(bx_1 + cx_2 - cx_3), \\\\\nf_3 &= x_3 + \\varphi(bx_1 + cx_2 - cx_3)"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/12.jpg-1762.06_2052.0_2935.221_2298.0.jpg",
+        "gt": "B_{k\\ell}^{\\sigma}[a]:=\n\\left\\{\n\\begin{array}{r}\nZ_{k\\ell}[a], \\quad \\text{if\\ } \\sigma = 0, \\\\\nS_{k\\ell}[a], \\quad \\text{if\\ } \\sigma = 1. \\\\\n\\end{array}\n\\right.",
+        "pred": "B_{k\\ell}^{\\sigma}[a]:=\\left\\{\n\\begin{array}\n[c]{ccc}\nZ_{k\\ell}[a], & \\text{if }\\sigma=0,\\\\\nS_{k\\ell}[a], & \\text{if }\\sigma=1.\n\\end{array}\n\\right."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/15.jpg-1307.6339999999998_2646.0_3417.469_2880.0.jpg",
+        "gt": "\\begin{array}{l}\nf_j = x_j + \\varphi(a_{11}x_1 - a_{11}x_2 + a_{13}x_3 - a_{13}x_4), \\quad j=1,2,\\\\\nf_j = x_j + \\varphi(a_{31}x_1 + a_{32}x_2 + a_{33}x_3 - a_{33}x_4), \\quad j=3,4 \\\\\n\\end{array}",
+        "pred": "\\begin{aligned}\nf_j&=x_j+\\varphi(a_{11}x_1-a_{11}x_2+a_{13}x_3-a_{13}x_4),\\quad j=1,2,\\\\\nf_j&=x_j+\\varphi(a_{31}x_1+a_{32}x_2+a_{33}x_3-a_{33}x_4),\\quad j=3,4\n\\end{aligned}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/18.jpg-945.948_3912.0_3997.094_4020.0000000000005.jpg",
+        "gt": "x_j = f_j - \\varphi(a_{1}f_{1} + a_{2}f_{2} + \\ldots + a_{n-1}f_{n-1} - (a_{1}+a_{2}+\\ldots + a_{n-1})f_{n}), \\quad j=1,\\ldots,n,",
+        "pred": "x_j=f_j-\\varphi(a_1f_1+a_2f_2+\\ldots+a_{n-1}f_{n-1}-(a_1+a_2+\\ldots+a_{n-1})f_n),\\quad j=1,\\ldots,n,"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/21.jpg-1928.992_5070.0_2823.933_5226.0.jpg",
+        "gt": "\\left(A^{T}\\right)^{\\odot(d-1)} \\, {\\rm diag}\\, A = 0.",
+        "pred": "\\left(A^T\\right)^{\\odot(d-1)}\\,\\mathrm{diag}\\,A=0."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/25.jpg-1228.805_3491.9999999999995_3496.2980000000002_3624.0.jpg",
+        "gt": "x_{j} = f_{j} - (c_j v_1 f_1 + c_j v_2 f_2 + \\ldots + c_j v_n f_n)^d, \\quad j=1,\\ldots,n.",
+        "pred": "x_j=f_j-(c_jv_1f_1+c_jv_2f_2+\\ldots+c_jv_nf_n)^d, \\quad j=1,\\ldots,n."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00332/debug/27.jpg-1451.381_4224.0_3282.9959999999996_4476.0.jpg",
+        "gt": "g_1 = \\left(\\frac{y_2}{y_3}\\right)^{y_1}, \\quad g_2 = \\left(\\frac{y_3}{y_1}\\right)^{y_2}, \\quad g_3 = \\left(\\frac{y_1}{y_2}\\right)^{y_3}.",
+        "pred": "g_1=\\begin{pmatrix}\n        y_2\\\\y_3\n    \\end{pmatrix}^{y_1},\\quad g_2=\\begin{pmatrix}\n        y_3\\\\y_1\n    \\end{pmatrix}^{y_2},\\quad g_3=\\begin{pmatrix}\n        y_1\\\\y_2\n    \\end{pmatrix}^{y_3}."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00493/debug/2.jpg-1721.44_2796.0_2510.08_2904.0.jpg",
+        "gt": "v^2+2=D^2-2rs+2.",
+        "pred": "v^2+2=D^2-2rs+2."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00493/debug/2.jpg-1590.0_3252.0_2654.24_3366.0000000000005.jpg",
+        "gt": "0 \\rightarrow \\mathcal{O}_X^{r-1} \\xrightarrow{s} E \\rightarrow I_Z \\otimes D \\rightarrow 0",
+        "pred": "0\\to \\mathcal{O}^{r-1}_X\\leq \\mathbb{E}\\to I_Z\\otimes D\\to 0"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00493/debug/2.jpg-1577.28_5400.0_2654.24_5520.0.jpg",
+        "gt": "0 \\rightarrow \\mathcal{O}_X^{r-1} \\rightarrow F \\rightarrow I_Z \\otimes D \\rightarrow 0,",
+        "pred": "0\\to \\mathcal{O}^{r-1}_X\\to F\\to I_Z\\otimes D\\to 0,"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00493/debug/3.jpg-1488.24_2490.0_2739.04_2598.0.jpg",
+        "gt": "D_k(\\sigma)=\\{(s,x)~|~\\mathrm{rank}(\\sigma(s,x))\\leq k\\}.",
+        "pred": "D_k(\\sigma)=\\{(s,x)\\mid \\mathrm{rank}(\\sigma(s,x))\\leq k\\}."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00493/debug/3.jpg-1924.96_4494.0_2315.04_4578.0.jpg",
+        "gt": "\\nu:P\\rightarrow M",
+        "pred": "\\nu:P\\to M"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00493/debug/4.jpg-1623.92_845.9999999999999_2599.12_960.0.jpg",
+        "gt": "\\mathrm{dim}~ \\phi(p^{-1}(Y))=\\dim Y+g.",
+        "pred": "\\dim \\phi(p^{-1}(Y)) = \\dim Y + g."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00493/debug/4.jpg-1776.56_1416.0_2459.2_1518.0.jpg",
+        "gt": "c_2(I_Z\\otimes D)=c_2(E)",
+        "pred": "c_2(I_Z\\otimes D)=c_2(E)"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00493/debug/4.jpg-915.84_2760.0_3332.6400000000003_2880.0.jpg",
+        "gt": "D\\cdot H>\\max\\{ 4r^2+1, 2r(v^2 H^2-D^2 H^2+(D\\cdot H)^2)\\},  ~s>2d,  \\hbox{~if r>0}",
+        "pred": "D\\cdot H>\\max\\{4r^2+1,2r(v^2H^2-D^2H^2+(D\\cdot H)^2)\\},\\ s>2d,\\ \\mbox{if}\\ r>0"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00493/debug/4.jpg-1484.0_2970.0_2756.0_3162.0.jpg",
+        "gt": "s>\\max\\{2d, \\frac{(D\\cdot H)^2}{2H^2}+1\\}, \\hbox{~if r=0}.",
+        "pred": "s>\\max\\{2d, \\frac{(D\\cdot H)^2}{2H^2}+1\\}, \\text{ if } r=0."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00493/debug/4.jpg-1755.36_3389.9999999999995_2484.64_3504.0.jpg",
+        "gt": "\\Phi: M_H(v)\\to M_{\\widehat{H}}(\\widehat{v})",
+        "pred": "\\Phi: M_H(v) \\to M_{\\widetilde{H}}(\\widetilde{v})"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00493/debug/4.jpg-1696.0_3936.0_2548.24_4044.0000000000005.jpg",
+        "gt": "0\\rightarrow E\\rightarrow E^{\\vee\\vee}\\rightarrow Q\\rightarrow 0",
+        "pred": "0\\to E\\to E^{\\vee}\\to Q\\to 0"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00493/debug/5.jpg-1030.32_654.0_3209.68_768.0.jpg",
+        "gt": "R\\subset \\{(E,\\xi)~|~c_2(E)=[\\mathrm{supp}(\\xi)]+c\\cdot o_X\\in \\CH_0(X) \\}\\subset M\\times S^{[d]}",
+        "pred": "R\\subset \\{(E,\\xi)\\mid c_2(E) = [\\text{supp}(\\xi)] + c\\cdot o_X \\in \\mathrm{CH}_0(X)\\} \\subset M\\times S^{[d]}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00493/debug/6.jpg-1632.4_2736.0_2607.6_2850.0.jpg",
+        "gt": "[V_E]\\cdot  \\overline{\\Delta}_{0,1} \\cdot  \\overline{\\Delta}_{0,2}\\ldots \\overline{\\Delta}_{0,d}\\neq 0",
+        "pred": "[V_{E}]\\cdot \\overline{\\Delta}_{0,1}\\cdot \\overline{\\Delta}_{0,2}\\ldots \\overline{\\Delta}_{0,d}\\neq 0"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00645/debug/11.jpg-1585.854_4260.0_3153.1600000000003_4518.0.jpg",
+        "gt": "F(k,n) = \\binom{n}{k}^2\\cdot k! \\cdot (n-1)!^{2k} \\cdot S(k,n),",
+        "pred": "F(k,n) = \\binom{n}{k}^2 \\cdot k!\\cdot (n-1)!^{2k} \\cdot S(k,n),"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00645/debug/12.jpg-1919.7179999999998_2556.0_2819.296_2676.0.jpg",
+        "gt": "F(n,n) = (n-1)!^{2n} n!.",
+        "pred": "F(n,n)=(n-1)^{2n}n!."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00645/debug/12.jpg-1854.8000000000002_4284.0_2879.5769999999998_4410.0.jpg",
+        "gt": "(n-1)!^{2n+1} \\cdot n^2 \\cdot (n^2 - 1).",
+        "pred": "(n-1)!^{2n+1}\\cdot n^2\\cdot (n^2-1)."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00645/debug/13.jpg-978.4069999999999_1739.9999999999998_3765.244_2046.0000000000002.jpg",
+        "gt": "\\binom{n}{0}^2\\cdot 0! \\cdot (n-1)!^{0} \\cdot \\left(\\sum_{i=0}^{n-0} (-1)^{i}\\cdot \\binom{n-0}{i}^2\\cdot (n-1)!^{2i}\\cdot i!\\cdot n!^{2n-20-2i}\\right).",
+        "pred": "\\binom{n}{0}^2\\cdot 0!\\cdot (n-1)!\\!^0\\cdot \\left(\\sum_{i=0}^{n-0}(-1)^i\\cdot \\binom{n-0}{i}\\right)^2\\cdot (n-1)!^{2i}\\cdot i!\\cdot n!^{2n-2i}\\right)."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00645/debug/13.jpg-1599.7649999999999_2208.0_3134.612_2490.0.jpg",
+        "gt": "\\sum_{i=0}^{n} (-1)^{i}\\cdot \\binom{n}{i}^2\\cdot (n-1)!^{2i}\\cdot i!\\cdot n!^{2n-2i}.",
+        "pred": "\\sum_{i=0}^n (-1)^i \\cdot \\binom{n}{i}^2 \\cdot (n-1)!^{2i} \\cdot i! \\cdot n!^{2n-2i}."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00645/debug/13.jpg-1729.6009999999999_4158.0_3004.7760000000003_4404.0.jpg",
+        "gt": "L_n \\cdot \\binom{n}{k}\\cdot (n-1)^{n-k} \\cdot (n-1)!^n.",
+        "pred": "L_n\\cdot \\binom{n}{k}\\cdot (n-1)^{n-k}\\cdot (n-1)^!^n."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00645/debug/14.jpg-848.571_750.0_3885.806_1002.0000000000001.jpg",
+        "gt": "L_n \\cdot \\binom{n}{k}\\cdot (n-1)!^k \\cdot (n-1)^{n-k}(n-1!)^{n-k} = L_n \\cdot \\binom{n}{k}\\cdot (n-1)^{n-k} \\cdot (n-1)!^n",
+        "pred": "L_n\\cdot \\binom{n}{k}\\cdot (n-1)!^k\\cdot (n-1)^{n-k}(n-1!)^{n-k} = L_n\\cdot \\binom{n}{k}\\cdot (n-1)^{n-k}\\cdot (n-1)!^n"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00645/debug/14.jpg-2095.924_3383.9999999999995_2638.453_3498.0.jpg",
+        "gt": "L_n \\cdot (n-1)!^n.",
+        "pred": "L_n\\cdot (n-1)!^n."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00645/debug/14.jpg-1901.1699999999998_4272.0_2833.207_4386.0.jpg",
+        "gt": "L_n \\cdot (n-1)^n \\cdot (n-1)!^n.",
+        "pred": "L_n\\cdot (n-1)^n\\cdot (n-1)^{n}."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00645/debug/15.jpg-1720.327_780.0_3027.9610000000002_1086.0.jpg",
+        "gt": "\\frac{L_n^2}{n!} \\cdot \\binom{n}{k} \\cdot \\left( \\sum_{i=0}^{n-k} (-1)^i \\frac{(n-k)!}{i!} \\right).",
+        "pred": "\\frac{L_n^2}{n!}\\cdot \\binom{n}{k}\\cdot \\left(\\sum_{i=0}^{n-k}(-1)^i\\frac{(n-k)!}{i!}\\right)."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00645/debug/15.jpg-1358.6409999999998_2628.0_3380.373_2934.0.jpg",
+        "gt": "\\frac{L_n^2}{n!} \\cdot \\binom{n}{k} \\cdot  D_{n-k} = \\frac{L_n^2}{n!} \\cdot \\binom{n}{k} \\cdot \\left( \\sum_{i=0}^{n-k} (-1)^i \\frac{(n-k)!}{i!} \\right)",
+        "pred": "\\frac{L_n^2}{n!}\\cdot \\binom{n}{k}\\cdot D_{n-k} = \\frac{L_n^2}{n!}\\cdot \\binom{n}{k}\\cdot \\binom{n-k}{i=0}(-1)^i \\frac{(n-k)!}{i!}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00645/debug/16.jpg-2299.9519999999998_1248.0_2448.3360000000002_1470.0.jpg",
+        "gt": "\\frac{L_n^2}{n!}.",
+        "pred": "\\frac{L_n^2}{n!}."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00645/debug/16.jpg-1961.451_2400.0_2782.2_2706.0.jpg",
+        "gt": "\\frac{L_n^2}{n!} \\cdot \\left( \\sum_{i=0}^n (-1)^i \\frac{n!}{i!} \\right).",
+        "pred": "\\frac{L_n^2}{n!}\\cdot \\left(\\sum_{i=0}^n(-1)^i\\frac{n!}{i!}\\right)."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00645/debug/19.jpg-1636.8609999999999_4302.0_3102.1530000000002_4428.0.jpg",
+        "gt": "n^2 \\cdot n!^2 \\cdot (n-1)!^{2n-2} = n^4 \\cdot (n-1)!^{2n}",
+        "pred": "n^2\\cdot n!^2\\cdot (n-1)!^{2n-2} = n^4\\cdot (n-1)!^{2n}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00645/debug/21.jpg-2091.2870000000003_1830.0_2652.3639999999996_2082.0.jpg",
+        "gt": "\\binom{n!+n-1}{n} .",
+        "pred": "\\binom{n!+n-1}{n}."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00645/debug/22.jpg-1854.8000000000002_1452.0_2893.488_1800.0.jpg",
+        "gt": "\\begin{pmatrix}\n 3  & 1 & 2 \\\\ \n 1  & 2 & 3 \\\\ \n 1  & 2 & 3 \n\\end{pmatrix}\n \\quad \n\\begin{pmatrix}\n 1  & 2 & 3 \\\\ \n 2  & 3 & 1 \\\\ \n 3  & 2 & 1 \n\\end{pmatrix}.",
+        "pred": "\\begin{pmatrix}\n3 & 1 & 2 \\\\\n1 & 2 & 3 \\\\\n1 & 2 & 3\n\\end{pmatrix}\n\\quad\n\\begin{pmatrix}\n1 & 2 & 3 \\\\\n2 & 3 & 1 \\\\\n3 & 2 & 1\n\\end{pmatrix}."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00645/debug/23.jpg-1219.531_1536.0_3519.483_1656.0000000000002.jpg",
+        "gt": "T(n,2n) = T'(n,2n) \\quad \\textrm{ and } \\quad T(n,2n+1) = T'(n,2n+1) .",
+        "pred": "T(n,2n)=T'(n,2n)\\quad\\text{ and }\\quad T(n,2n+1)=T'(n,2n+1)."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00645/debug/04.jpg-2244.308_3192.0_2494.706_3312.0000000000005.jpg",
+        "gt": "(n!)^{2n}.",
+        "pred": "(n!)^{2n}."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00645/debug/05.jpg-2105.198_918.0_2633.816_1032.0.jpg",
+        "gt": "n(n-1)!^nn!^n",
+        "pred": "n(n-1)!^nn!^n"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00645/debug/05.jpg-2156.205_2688.0_2582.809_2796.0.jpg",
+        "gt": "n(n-1)!^n.",
+        "pred": "n(n-1)!!^n."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00645/debug/06.jpg-2281.404_1500.0_2466.884_1727.9999999999998.jpg",
+        "gt": "\\frac{n!^{2n}}{2^n}",
+        "pred": "\\frac{n!^{2n}}{2^n}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00645/debug/06.jpg-2272.13_4200.0_2476.1580000000004_4422.0.jpg",
+        "gt": "\\frac{n!^{2n}}{4^n}.",
+        "pred": "\\frac{n!^{2n}}{4^n}."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00645/debug/07.jpg-2188.6639999999998_2910.0_2554.987_3024.0.jpg",
+        "gt": "n(n+1).",
+        "pred": "n(n+1)."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00645/debug/07.jpg-2091.2870000000003_4062.0000000000005_2652.3639999999996_4182.0.jpg",
+        "gt": "n!^{n+1}(n-1)!^n",
+        "pred": "n!^{n+1}(n-1)!^n"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00645/debug/08.jpg-2142.2940000000003_912.0_2596.7200000000003_1026.0.jpg",
+        "gt": "n!(n-1)!^n.",
+        "pred": "n!(n-1)!^n."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00645/debug/08.jpg-2105.198_1932.0_2629.1789999999996_2058.0.jpg",
+        "gt": "n!^2(n-1)!^{2n},",
+        "pred": "n!^2(n-1)!^{2n},"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00645/debug/10.jpg-1609.039_4500.0_3134.612_4614.0.jpg",
+        "gt": "S(0,n) = F(0,n) \\quad \\textrm{ and } \\quad S(n,n) = 1.",
+        "pred": "S(0,n)=F(0,n)\\quad\\text{ and }\\quad S(n,n)=1."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00645/debug/10.jpg-1270.538_4824.0_3468.476_5124.0.jpg",
+        "gt": "S(k,n) = \\sum_{i=0}^{n-k} (-1)^{i}\\cdot \\binom{n-k}{i}^2\\cdot (n-1)!^{2i}\\cdot i!\\cdot n!^{2n-2k-2i}.",
+        "pred": "S(k,n)=\\sum_{i=0}^{n-k}(-1)^i\\cdot \\binom{n-k}{i}^2\\cdot (n-1)!^{2i}\\cdot n!^{2n-2k-2i}."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00645/debug/11.jpg-1752.786_1302.0_2990.8650000000002_1566.0.jpg",
+        "gt": "{n-k \\choose 1}^2 \\cdot (n-1)!^2 \\cdot n!^{2n-2k-2}.",
+        "pred": "\\binom{n-k}{1}^2\\cdot (n-1)!^2\\cdot n!^{2n-2k-2}."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00645/debug/11.jpg-1270.538_2184.0_3468.476_2484.0.jpg",
+        "gt": "S(k,n) = \\sum_{i=0}^{n-k} (-1)^{i}\\cdot \\binom{n-k}{i}^2\\cdot (n-1)!^{2i}\\cdot i!\\cdot n!^{2n-2k-2i}.",
+        "pred": "S(k,n)=\\sum_{i=0}^{n-k}(-1)^i\\cdot \\binom{n-k}{i}^2\\cdot (n-1)!^{2i}\\cdot i!\\cdot n!^{2n-2k-2i}."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00645/debug/11.jpg-1405.011_2820.0_3324.729_2946.0.jpg",
+        "gt": "S(n-1,n) = n!^2 - (n-1)!^2 = (n-1)!^2(n^2-1).",
+        "pred": "S(n-1,n)=n!^2-(n-1)!^2=(n-1)!^2(n^2-1)."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00645/debug/11.jpg-950.5849999999999_3282.0000000000005_3788.4289999999996_3582.0.jpg",
+        "gt": "\\binom{n}{k}^2\\cdot k! \\cdot (n-1)!^{2k} \\cdot \\left(\\sum_{i=0}^{n-k} (-1)^{i}\\cdot \\binom{n-k}{i}^2\\cdot (n-1)!^{2i}\\cdot i!\\cdot n!^{2n-2k-2i}\\right).",
+        "pred": "\\binom{n}{k}^2\\cdot k!\\cdot (n-1)!^{2k}\\cdot \\binom{n-k}{i}(-1)^i\\cdot \\binom{n-k}{i}^2\\cdot (n-1)!^{2i}\\cdot i!\\cdot n!^{2n-2k-2i}\\bigg)."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00645/debug/11.jpg-955.222_4668.0_3788.4289999999996_4968.0.jpg",
+        "gt": "\\binom{n}{k}^2\\cdot k! \\cdot (n-1)!^{2k} \\cdot \\left(\\sum_{i=0}^{n-k} (-1)^{i}\\cdot \\binom{n-k}{i}^2\\cdot (n-1)!^{2i}\\cdot i!\\cdot n!^{2n-2k-2i}\\right).",
+        "pred": "\\binom{n}{k}^2\\cdot k!\\cdot (n-1)!^{2k}\\cdot \\left(\\sum_{i=0}^{n-k}(-1)^i\\cdot \\binom{n-k}{i}^2\\cdot (n-1)!^{2i}\\cdot i!\\cdot n!^{2n-2k-2i}\\right)."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00645/debug/22.jpg-1595.128_4332.0_3143.8860000000004_4434.0.jpg",
+        "gt": "1 \\cdot 34080 + 2 \\cdot 11484 + 3 \\cdot 1092 = 60324.",
+        "pred": "1\\cdot 34080 + 2\\cdot 11484 + 3\\cdot 1092 = 60324."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00446/debug/11.jpg-2364.87_2916.0_3918.265_3516.0.jpg",
+        "gt": "\\begin{split}\nf_{k+1}(x_{k+1})-f^*_{k+1} &\\leq (1 - \\alpha\\mu_{f})^{k}(f_0(x_0) - f^*_0)\\\\\n& + \\frac{\\alpha}{2}\\sum_{t=0}^{k}(1 - \\alpha\\mu_{f})^{k-t}||\\varepsilon_t||^2\\\\\n& + (\\eta^* + \\eta_0)\\frac{1 - (1-\\alpha\\mu_{f})^k}{\\mu_{f}\\alpha}.\n\\end{split}",
+        "pred": "f_{k+1}(x_{k+1}) - f_{k+1}^* &\\leq (1 - \\alpha \\mu_f)^k (f_0(x_0) - f_0^*) \\\\\n    &\\quad + \\frac{\\alpha}{2} \\sum_{l=0}^k (1 - \\alpha \\mu_f)^{k - t} |\\varepsilon_l|^{2} \\\\\n    &\\quad + ( \\eta^* + \\eta_0) \\frac{1 - (1 - \\alpha \\mu_f)^k}{\\mu \\tau \\alpha}."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00446/debug/11.jpg-2313.863_3912.0_4233.581_4392.0.jpg",
+        "gt": "\\frac{1}{2}d(x_{k+1},\\mathcal{X}^*_{f_{k+1}})^2 &\\leq \\frac{(1 - \\alpha\\mu_{f})^{k}}{\\mu_{f}}(\\frac{L_{f}}{2}d(x_{0},\\mathcal{X}^*_{f_{0}})^2 - \\eta^* - \\eta_0) \\\\\n&+ \\frac{\\alpha}{2\\mu_{f}}\\sum_{t=0}^{k}(1 - \\alpha\\mu_{f})^{k-t}||\\varepsilon_t||^2 + \\frac{\\eta^* + \\eta_0}{\\mu_{f}^2\\alpha}.",
+        "pred": "\\frac{1}{2}d(x_{k+1}, \\mathcal{X}^*_{f_{k+1}})^2 &\\leq \\frac{(1-\\alpha \\mu_f)^k}{\\mu_f} \\big(\\frac{L_f}{2}d(x_0, \\mathcal{X}^*_{f_0})^2 - \\eta^* - \\eta_0\\big)\\\\\n&\\quad + \\frac{\\alpha}{2\\mu_f} \\sum_{t=0}^k (1-\\alpha \\mu_f)^{k-t} \\|\\varepsilon_t\\|^2 + \\frac{\\eta^* + \\eta_0}{\\mu_f^2 \\alpha}."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00446/debug/11.jpg-2782.2_5088.0_3667.867_5454.0.jpg",
+        "gt": "F_k(x^*_{\\phi}) &\\leq \\frac{L_{f}}{2}||x^*_{F_k}-x^*_{\\phi}||^2,\\nonumber\\\\\n& = \\frac{L_{f}}{2} d(\\mathcal{X}^*_{\\phi},\\mathcal{X}^*_{F_k})^2.",
+        "pred": "F_k(x^*_\\phi) &\\leq \\frac{L_f}{2}||x^*_{F_k}-x^*_\\phi||^2,\\\\\n    &=\\frac{L_f}{2}d(\\mathcal{X}^*_\\phi,\\mathcal{X}^*_{F_k})^2."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00446/debug/12.jpg-635.269_1727.9999999999998_1831.615_1914.0.jpg",
+        "gt": "\\hat{f}^*_k \\leq \\phi^* + \\frac{\\min(L_{f},L_{\\phi})}{2} d(\\mathcal{X}^*_{F_k},\\mathcal{X}^*_{\\phi})^2.",
+        "pred": "\\hat{f}_k^*\\leq \\phi^* + \\frac{\\min(L_f,L_\\phi)}{2}d(\\mathcal{X}^f_{\\mathcal{F}_k},\\mathcal{X}^*_\\phi)^2."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00446/debug/12.jpg-380.23400000000004_4944.0_1919.7179999999998_5448.0.jpg",
+        "gt": "\\begin{split}\n\\hat{f}_{k+1}({\\bf x}_{k+1})&-\\hat{f}^*_{k+1} \\leq \\\\\n&(1 - \\alpha\\mu')^{k}(\\hat{f}_0({\\bf x_0}) - \\hat{f}^*_0 - \\eta^* - \\eta_0)\\\\\n&+ \\frac{\\alpha}{c}\\sum_{t=0}^{k}(1 - \\alpha\\mu')^{k-t}\\hat{f}^*_t + \\frac{\\eta^* + \\eta_0}{\\alpha\\mu'}.\n\\end{split}",
+        "pred": "\\hat{f}_{k+1}(\\mathbf{x}_{k+1}) - \\hat{f}_{k+1}^* &\\leq \\sum_{k=0}^2 \\left(1 - \\alpha \\mu_f^* \\right)^k \\hat{f}_{k}^* \\\\\n    &\\quad + \\frac{\\alpha}{c} \\hat{f}_{k}^* + \\eta^* + \\eta_0,"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00446/debug/12.jpg-2318.5_726.0_4196.485_1200.0.jpg",
+        "gt": "\\frac{1}{2}d(x_{k+1},\\mathcal{X}^*_{\\hat{f}_{k+1}})^2 \\leq &\\frac{(1 - \\alpha\\mu')^{k}}{\\mu_{f}}(\\frac{L_{\\hat{f}}}{2}d(x_{0},\\mathcal{X}^*_{\\hat{f}_{0}})^2 - \\eta^* - \\eta_0) \\\\\n&+ \\frac{\\alpha}{c\\mu_{f}}\\sum_{t=0}^{k}(1 - \\alpha\\mu')^{k-t}\\hat{f}^*_t + \\frac{\\eta^* + \\eta_0}{\\mu_{f}\\mu'\\alpha}.",
+        "pred": "\\begin{aligned}\n&\\frac{1}{2}d(x_{k+1},\\mathcal{X}_{\\hat{f}_{k+1}}^*)^2\\leq \\frac{(1-\\alpha\\mu')^k}{\\mu f}\\frac{\\left(L_f\\right)d(x_0,\\mathcal{X}_{f_0}^*)^2-\\eta^*-\\eta_0}{\\mu f}\\\\\n&\\quad+\\frac{\\alpha}{c\\mu_f}\\sum_{t=0}^k(1-\\alpha\\mu')^{k-t}\\hat{f}_k^*+\\frac{\\eta^*+\\eta_0}{\\mu f\\mu'\\alpha}.\n\\end{aligned}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00446/debug/12.jpg-2675.549_3816.0_3765.244_4062.0000000000005.jpg",
+        "gt": "\\begin{split}\n(v^{(ij)})^T \\nabla f(x^{(i)})  &\\leq s^{(ij)} + a^{(ij)}\\\\\n(-v^{(ij)})^T \\nabla f(x^{(i)})  &\\leq  a^{(ij)} - s^{(ij)}.\n\\end{split}",
+        "pred": "\\begin{aligned}\n&\\left(v^{(ij)})^T\\nabla f(x^{(i)})\\leq s^{(ij)}+a^{(ij)}\\right.\\\\\n&\\left.(-v^{(ij)})^T\\nabla f(x^{(i)})\\leq a^{(ij)}-s^{(ij)}.\\right. .\n\\end{aligned}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00446/debug/13.jpg-695.55_1614.0_1766.6970000000001_2046.0000000000002.jpg",
+        "gt": "-e_l^Tx &= \\sum_{j\\in\\mathcal{N}^{(i)}} (c^{(j)}_l (-v^{(ij)}))^Tx \\\\\n&\\leq \\sum_{j\\in\\mathcal{N}^{(i)}} c^{(j)}_l(a^{(ij)} - s^{(ij)}).",
+        "pred": "-e_l^T x &= \\sum_{j \\in \\mathcal{N}^{(i)}} (e_l^{(j)}(-v^{(ij)}))^T x \\\\\n    &\\leq \\sum_{j \\in \\mathcal{N}^{(i)}} e_l^{(j)}(a^{(j)}-s^{(j)})."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00446/debug/13.jpg-477.611_3198.0_1831.615_3443.9999999999995.jpg",
+        "gt": "\\begin{split}\n(v^{(ij)})^T y  &\\leq s^{(ij)}-(g^{(i)})^Tv^{(ij)} + a^{(ij)}\\\\\n(-v^{(ij)})^T y  &\\leq  a^{(ij)} - (s^{(ij)}-(g^{(i)})^Tv^{(ij)}).\n\\end{split}",
+        "pred": "(v^{(ij)})^T y \\leq s^{(ij)} - (g^{(i)})^T v^{(ij)} + a^{(ij)} \\\\\n    (-v^{(ij)})^T y \\leq a^{(ij)} - (s^{(ij)} - (g^{(i)})^T v^{(ij)})."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00446/debug/13.jpg-445.152_4548.0_1850.163_4656.0.jpg",
+        "gt": "(y^Tv^{(ij)})^2 \\leq (|s^{(ij)}-(g^{(i)})^Tv^{(ij)}| + a^{(ij)})^2,",
+        "pred": "(y^T v^{(ij)})^2 \\leq (|s^{(ij)} - (g^{(i)})^T v^{(ij)}| + a^{(ij)})^2, \\qquad (\\text{E.2})"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00446/debug/13.jpg-2578.172_3084.0_3876.5319999999997_3192.0.jpg",
+        "gt": "v_k = (A^{(i)})^{-1}V_k{\\bf a}^{(i)} \\; \\forall k\\in[1,2,3,...,2^{n}].",
+        "pred": "v_k = (A^{(i)})^{-1} V_k \\mathbf{a}^{(i)} \\; \\forall k \\in [1,2,3,...,2^n)."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00446/debug/13.jpg-2754.3779999999997_3491.9999999999995_3691.052_3990.0.jpg",
+        "gt": "r &\\geq \\max_{V_k} ||(A^{(i)})^{-1}V_k{\\bf a}^{(i)}||, \\\\\n&\\geq \\sigma_{\\textrm{min}}((A^{(i)})^{-1})||V_k{\\bf a}^{(i)}||, \\\\\n&= \\frac{||{\\bf a}^{(i)}||}{\\sigma_{\\textrm{max}}(A^{(i)})}.",
+        "pred": "r &\\geq \\max_{V_k} ||(A^{(i)})^{-1} V_k \\mathbf{a}^{(i)}||, \\\\\n    &\\geq \\sigma_{\\min}(((A^{(i)})^{-1})||V_k \\mathbf{a}^{(i)}||), \\\\\n    &= \\frac{||\\mathbf{a}^{(i)}||}{\\sigma_{\\max}(A^{(i)})}."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00446/debug/13.jpg-2963.043_4644.0_3487.024_4860.0.jpg",
+        "gt": "r \\leq \\frac{||{\\bf a}^{(i)}||}{\\sigma_{\\textrm{min}}(A^{(i)})}.",
+        "pred": "r \\leq \\frac{\\|\\mathbf{a}^{(i)}\\|}{\\sigma_{\\min}(A^{(i)})}."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00446/debug/13.jpg-2735.83_5154.0_3718.8740000000003_5394.0.jpg",
+        "gt": "\\frac{||\\bf a^{(i)}||}{\\sigma_{\\textrm{max}}(A^{(i)}_k)} \\leq r \\leq \\frac{||\\bf a^{(i)}||}{\\sigma_{\\textrm{min}}(A^{(i)}_k)}.",
+        "pred": "\\frac{||\\mathbf{a}^{(i)}||}{\\sigma_{\\max}(A_k^{(i)})} \\leq r \\leq \\frac{||\\mathbf{a}^{(i)}||}{\\sigma_{ \\min}(A_k^{(i)})}."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00446/debug/03.jpg-904.215_714.0_1562.669_845.9999999999999.jpg",
+        "gt": "x_{k+1}^{(i)} = x_k^{(i)} + \\alpha p_k^{(i)},",
+        "pred": "x_{k+1}^{(i)} = x_k^{(i)} + \\alpha p_k^{(i)},"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00446/debug/03.jpg-862.482_2580.0_1609.039_2724.0.jpg",
+        "gt": "d(x,\\mathcal{S}) = \\inf_{y\\in\\mathcal{S}} ||y-x||,",
+        "pred": "d(x,\\mathcal{S}) = \\inf_{y\\in \\mathcal{S}} ||y-x||,"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00446/debug/03.jpg-973.77_3048.0_1488.477_3186.0.jpg",
+        "gt": "h^* := \\inf_{x\\in\\mathcal{D}} h(x),",
+        "pred": "h^* := \\inf_{x \\in \\mathcal{D}} h(x),"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00446/debug/04.jpg-663.0909999999999_1278.0_1799.156_1542.0.jpg",
+        "gt": "\\begin{split}\nx^{(i)}_{k+1} :=& x^{(i)}_{k} + \\alpha (-O(f_k,{\\bf x}_k,\\mathcal{N}^{(i)})) \\\\\n=& x^{(i)}_{k} - \\alpha (\\nabla f_k(x^{(i)}_k) + \\varepsilon_k)),\n\\end{split}",
+        "pred": "x_{k+1}^{(i)}&:=x_k^{(i)}+\\alpha(-O(f_k,\\mathbf{x}_k,\\mathcal{N}^{(i)}))\\\\\n    &=x_k^{(i)}-\\alpha(\\nabla f_k(x_k^{(i)})+\\varepsilon_k)),"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00446/debug/04.jpg-389.50800000000004_3762.0_1979.999_3942.0.jpg",
+        "gt": "\\frac{\\mu_{f}}{2}d(x^{(i)}_k,\\mathcal{X}^*_{f_k})^2 \\leq f_k(x) - f^*_k \\leq \\frac{L_{f}}{2}d(x^{(i)}_k,\\mathcal{X}^*_{f_k})^2,",
+        "pred": "\\frac{\\mu_f}{2} \\, d(x^i_k), \\mathcal{X}^f_{k^i_k})^2 \\leq f_k(x) - f_k^* \\leq \\frac{L_f}{2} d(x^i_k), \\mathcal{X}^f_{k^i_k}^2)^2, \\quad (6)"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00446/debug/04.jpg-2851.755_1806.0_3598.312_2004.0000000000002.jpg",
+        "gt": "F_k({\\bf x}_k) := \\sum_{i\\in\\mathcal{V}} f_k(x^{(i)}_k),",
+        "pred": "F_k(\\mathbf{x}_k) := \\sum_{i \\in \\mathcal{V}} f_k(x_k^{(i)}),"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00446/debug/04.jpg-2786.837_2418.0_3672.5040000000004_2628.0.jpg",
+        "gt": "\\mathcal{X}^*_{F_k} = \\overbrace{\\mathcal{X}^*_{f_k}\\times\\mathcal{X}^*_{f_k}...\\times\\mathcal{X}^*_{f_k}}^{n}.",
+        "pred": "\\mathcal{X}_{F_k}^s = \\mathcal{X}_{f_k}^s \\times \\mathcal{X}_{f_k}^s \\cdots \\times \\mathcal{X}_{f_k}^s."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00446/debug/04.jpg-2786.837_5328.0_3663.23_5436.0.jpg",
+        "gt": "\\hat{f}_k({\\bf x}_k) := F_k({\\bf x}_k) + \\phi({\\bf x}_k),",
+        "pred": "\\hat{f}_k(\\mathbf{x}_k) := F_k(\\mathbf{x}_k) + \\phi(\\mathbf{x}_k),"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00446/debug/05.jpg-718.735_822.0000000000001_1752.786_972.0.jpg",
+        "gt": "x^{(i)}_{k+1} := x^{(i)}_k - \\alpha(\\nabla_{x^{(i)}_k} \\hat{f}_k + \\varepsilon_k).",
+        "pred": "x_{k+1}^{(i)} := x_k^{(i)} - \\alpha(\\nabla_{x_k^{(i)}} \\hat{f}_k + \\varepsilon_k)."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00446/debug/05.jpg-2768.2889999999998_3510.0_3677.141_4188.0.jpg",
+        "gt": "\\begin{split}\ns^{(ij)}_k &:= \\frac{f_k(x^{(j)}_k) - f_k(x^{(i)}_k)}{||x^{(j)}_k - x^{(i)}_k||}, \\\\\nv^{(ij)}_{k} &:= \\frac{x^{(j)}_k - x^{(i)}_k}{||x^{(j)}_k - x^{(i)}_k||}, \\\\\na^{(ij)}_k &:= \\frac{L_{f}}{2}||x^{(j)}_k - x^{(i)}_k||.\n\\end{split}",
+        "pred": "s_k^{(ij)} &:= \\frac{f_k(x_k^{(j)}) - f_k(x_k^{(i)})}{||x_k^{(j)} - x_k^{(i)}||}, \\\\\n    v_k^{(ij)} &:= \\frac{x_k^{(j)} - x_k^{(i)}}{|x_k^{(j)} - x_k^{(i)}||}, \\\\\n    a_k^{(ij)} &:= \\frac{L_f}{2}||x_k^{(j)} - x_k^{(i)}||."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00446/debug/06.jpg-421.967_1614.0_1915.081_2166.0.jpg",
+        "gt": "m^{(i)}_{k} &:= \\sqrt{\\sum_{j\\in\\mathcal{N}^{(i)}} (|s^{(ij)}_k-(g^{(i)}_k)^Tv^{(ij)}_k| + a^{(ij)}_k)^2} \\\\\n\\mathcal{E}^{(i)}_k &:= \\left\\{ x\\in\\mathbb{R}^{d} \\mid \\left\\|\\frac{A^{(i)}_k(x-g^{(i)}_k)}{m^{(i)}_k}\\right\\|^2 \\leq 1 \\right\\},",
+        "pred": "m_k^{(i)} &:= \\left\\langle \\sqrt{\\sum_{j \\in \\mathcal{N}^{(i)}} \\left( |s_k^{(i)} - (g_k^{(i)})^T v_k^{(ij)} | + a_k^{(ij)})^2 \\right.} \\quad \\text{ (13)} \\right. \\\\\n    \\mathcal{E}_k^{(i)} &:= \\left\\{x \\in \\R^d \\left\\| \\left\\| \\frac{A_k^{(i)} (x - g_k^{(i)})}{m_k^{(i)}} \\right\\|^2 \\leq 1 \\right\\},"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00446/debug/06.jpg-700.187_2550.0_1762.06_2676.0.jpg",
+        "gt": "g^{(i)}_k := ((A^{(i)}_k)^TA^{(i)}_k)^{\\dagger}(A^{(i)}_k)^T{\\bf s}^{(i)}_k.",
+        "pred": "g_k^{(i)} := ((A_k^{(i)})^T A_k^{(i)}) (A_k^{(i)}) T_{\\bm{s}}^{(i)}."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00446/debug/06.jpg-746.557_4284.0_1724.964_4536.0.jpg",
+        "gt": "\\frac{||{\\bf a}_k^{(i)}||}{\\sigma_{\\textrm{max}}(A^{(i)}_k)} \\leq r \\leq \\frac{||{\\bf a}_k^{(i)}||}{\\sigma_{\\textrm{min}}(A^{(i)}_k)}",
+        "pred": "\\frac{||\\mathbf{a}_k^{(i)}||}{\\sigma_{max}(A_k^{(i)})} \\leq r \\leq \\frac{||\\mathbf{a}_k^{(i)}||}{\\sigma_\\text{min}(A_k^{(i)})}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00446/debug/06.jpg-2680.1859999999997_4728.0_3774.5179999999996_4980.0.jpg",
+        "gt": "||g^{(i)}_k - \\nabla f_k(x^{(i)}_k)|| \\leq \\frac{m^{(i)}_k}{\\sigma_{\\min}(A_k^{(i)})},",
+        "pred": "||g_k^{(i)} - \\nabla f_k(x_k^{(i)})|| \\leq \\frac{m_k^{(i)}}{\\sigma_{\\min}(A_k^{(i)})},"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00446/debug/07.jpg-472.974_2400.0_1859.4370000000001_2610.0.jpg",
+        "gt": "\\bar{\\mathcal{E}}^{(i)}_k := \\left\\{ x\\in\\mathbb{R}^{d} \\mid \\left\\|B^{(i)}_k(x-g^{(i)}_k)\\right\\|^2 \\leq 1 \\right\\}.",
+        "pred": "\\bar{\\mathcal{E}}^{(i)}_k := \\left\\{x \\in \\mathbb{R}^d \\mid \\left\\|B_k^{(i)}(x - g_k^{(i)})\\right\\|^2 \\leq 1\\right\\}."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00446/debug/13.jpg-737.283_840.0000000000001_1729.6009999999999_1278.0.jpg",
+        "gt": "e_l^Tx &= \\sum_{j\\in\\mathcal{N}^{(i)}} (c^{(j)}_lv^{(ij)})^Tx \\\\\n&\\leq \\sum_{j\\in\\mathcal{N}^{(i)}} c^{(j)}_l(s^{(ij)} + a^{(ij)})",
+        "pred": "e_{l}^{T}x&=\\sum_{j\\in\\mathcal{N}^{(i)}}(e_{l}^{(j)}v^{(i)})^{T}x\\\\\n&\\leq\\sum_{j\\in\\mathcal{N}^{(i)}}c_{l}^{(j)}(s^{(ij)}+a^{(ij)})"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/11.jpg-1520.9360000000001_3618.0_3106.79_3738.0.jpg",
+        "gt": "d(\\sigma, \\tau) \\leq 2n^2 \\cdot 2n + |E(Y)| = 4n^3 + |E(Y)|,",
+        "pred": "d(\\sigma,\\tau) \\leq 2n^2 \\cdot 2n + |E(Y)| = 4n^3 + |E(Y)|,"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/12.jpg-1724.964_4320.0_2907.399_4434.0.jpg",
+        "gt": "\\{n, n+1\\}, \\{1, n+1\\}, \\{n, n+1\\}.",
+        "pred": "\\{n, n+1\\}, \\{1, n+1\\}, \\{n, n+1\\}."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/12.jpg-1010.866_4812.0_3607.5860000000002_5040.0.jpg",
+        "gt": "d(\\sigma', \\tau') \\leq 4(n+1)^3 + |E(Y')| \\leq 4(n+1)^3 + \\binom{n+1}{2} = 4n^3(1+f(n)),",
+        "pred": "d(\\sigma',\\tau') \\leq 4(n+1)^3 + |E(Y')| \\leq 4(n+1)^3 + {n+1 \\choose 2} = 4n^3(1+f(n)),"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/13.jpg-848.571_1074.0_3788.4289999999996_1200.0.jpg",
+        "gt": "d(v_i, v_j) \\leq d(v_i, \\sigma') + d(\\sigma', v_j) \\leq 4n^3(1+f(n)) + 4n^3(1+f(n)) \\leq 8n^3(1+2f(n))",
+        "pred": "d(v_i,v_j)\\leq d(v_i,\\sigma')+d(\\sigma',v_j)\\leq 4n^3(1+f(n))+4n^3(1+f(n))\\leq 8n^3(1+2f(n))"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/13.jpg-765.105_1392.0_3793.066_1518.0.jpg",
+        "gt": "d(\\sigma, \\tau) \\leq d(\\sigma, \\tau_*) + d(\\tau_*, \\tau) \\leq 4n^3(1+f(n)) + 8n^3(1+2f(n))(n+1) = 8n^4(1+o(1)).",
+        "pred": "d(\\sigma,\\tau)\\leq d(\\sigma,\\tau_*)+d(\\tau_*,\\tau)\\leq 4n^3(1+f(n))+8n^3(1+2f(n))(n+1)=8n^4(1+o(1))."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/14.jpg-1456.018_2592.0_3176.3450000000003_2718.0.jpg",
+        "gt": "\\{v_a^\\ell, v_a^{\\ell, \\ell+1}\\}, \\{v_a^{\\ell, \\ell+1}, v^\\ell\\}, \\{v^\\ell, v_a^{\\ell-1, \\ell}\\}, \\{v_a^{\\ell-1, \\ell}, v_a^\\ell\\}.",
+        "pred": "\\{v_a^{\\ell},v_a^{\\ell+1}\\},\\{v_a^{\\ell+\\ell-1},v^{\\ell}\\},\\{v_a^{\\ell},v_a^{\\ell-1,\\ell}\\},\\{v_a^{\\ell-1,\\ell},v_a^{\\ell}\\}."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/14.jpg-1766.6970000000001_3750.0_2870.303_3858.0.jpg",
+        "gt": "n = 60 + 58(L-1) = 58L+2",
+        "pred": "n=60+58(L-1)=58L+2"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/17.jpg-1307.6339999999998_3546.0_3320.0919999999996_3672.0.jpg",
+        "gt": "V(\\mathcal S_a^\\ell) \\setminus \\{\\kappa_a^\\ell\\} \\subset \\sigma(V(\\mathcal C_a^\\ell)) \\text{ and } V(\\mathcal S_b^\\ell) \\setminus \\{\\kappa_b^\\ell\\} \\subset \\sigma(V(\\mathcal C_b^\\ell)).",
+        "pred": "V(\\mathcal{S}_a^\\ell)\\setminus\\{\\kappa_a^\\ell\\}\\subset \\sigma(V(\\mathcal{C}_a^\\ell))\\text{ and }V(\\mathcal{S}_b^\\ell)\\setminus\\{\\kappa_b^\\ell\\}\\subset \\sigma(V(\\mathcal{C}_b^\\ell))."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/17.jpg-1187.0720000000001_3858.0_3436.017_3978.0.jpg",
+        "gt": "|\\sigma(V(\\mathcal C_a^\\ell)) \\setminus (V(\\mathcal S_a^\\ell) \\setminus \\{\\kappa_a^\\ell\\})| = |\\sigma(V(\\mathcal C_b^\\ell)) \\setminus (V(\\mathcal S_b^\\ell) \\setminus \\{\\kappa_b^\\ell\\})| = 2,",
+        "pred": "|\\sigma(V(\\mathcal{C}_a^\\ell))\\setminus (V(\\mathcal{S}_a^\\ell)\\setminus \\{\\kappa_a^\\ell\\})| = |\\sigma(V(\\mathcal{C}_b^\\ell))\\setminus (V(\\mathcal{S}_b^\\ell)\\setminus \\{\\kappa_b^\\ell\\})| = 2,"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/18.jpg-1868.711_1176.0_2759.015_1302.0.jpg",
+        "gt": "\\sigma_s^{-1}(\\kappa_a^\\ell) \\notin V(\\mathcal P_a^\\ell) \\setminus \\{v_a^\\ell\\},",
+        "pred": "\\sigma_{\\xi}^{-1}(\\kappa_a^\\ell)\\notin V(\\mathcal{P}_a^\\ell)\\setminus\\{v_a^\\ell\\},"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/18.jpg-1479.203_1482.0_3134.612_1614.0.jpg",
+        "gt": "\\sigma_j^{-1}(\\kappa_a^\\ell) \\in V(\\mathcal P_a^\\ell) \\setminus \\{v_a^\\ell\\} \\text{ for } \\xi + 1 \\leq j \\leq \\lambda-1.",
+        "pred": "\\sigma_{\\xi}^{-1}(\\kappa_a^{\\ell})\\in V(\\mathcal{P}_a^{\\ell})\\setminus\\{v_a^{\\ell}\\}\\text{ for }\\xi+1\\leq j\\leq\\lambda-1."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/18.jpg-1701.779_1794.0_2925.947_1932.0.jpg",
+        "gt": "\\sigma_\\xi^{-1}(\\mu) = \\sigma_{\\xi+1}^{-1}(\\mu) \\in V(\\mathcal C_a^\\ell) \\setminus \\{v_a^\\ell\\};",
+        "pred": "\\sigma_{\\xi}^{-1}(\\mu)=\\sigma_{\\xi+1}^{-1}(\\mu)\\in V(\\mathcal{C}_a^\\ell)\\setminus\\{v_a^\\ell\\};"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/18.jpg-1497.751_2688.0_3125.338_2820.0.jpg",
+        "gt": "\\sigma_{\\lambda-1}^{-1}(\\kappa_a^\\ell) = \\sigma_\\lambda^{-1}(\\mu) \\in N_{X_L}(\\sigma_{\\lambda-1}^{-1}(\\mu)) \\setminus V(\\mathcal C_a^\\ell).",
+        "pred": "\\sigma_{\\lambda-1}^{-1}(\\kappa_a^{\\ell})=\\sigma_{\\lambda-1}^{-1}(\\mu)\\in N_{X_L}(\\sigma_{\\lambda-1}^{-1}(\\mu))\\setminus V(\\mathcal{C}_a^{\\ell})."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/18.jpg-1516.299_2964.0_3106.79_3096.0.jpg",
+        "gt": "\\sigma_{\\lambda-2}^{-1}(\\mu) \\neq \\sigma_{\\lambda-1}^{-1}(\\mu) \\text{ or } \\sigma_{\\lambda-2}^{-1}(\\kappa_a^\\ell) \\neq \\sigma_{\\lambda-1}^{-1}(\\kappa_a^\\ell);",
+        "pred": "\\sigma_{\\lambda-2}^{-1}(\\mu)\\neq\\sigma_{\\lambda-1}^{-1}(\\mu)\\text{ or }\\sigma_{\\lambda-2}^{-1}( \\kappa_a^{\\ell})\\neq\\sigma_{\\lambda-1}^{-1}( \\kappa_a^{\\ell});"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/18.jpg-1743.512_3672.0_2884.214_3804.0.jpg",
+        "gt": "\\sigma_{\\lambda-2}(\\sigma_{\\lambda-1}^{-1}(\\kappa_a^\\ell)) \\notin V(\\mathcal S_a^\\ell) \\setminus \\{\\kappa_a^\\ell\\}",
+        "pred": "\\sigma_{\\lambda-2}(-\\sigma_{\\lambda-1}^{-1}(\\kappa_a^{\\ell}))\\notin V(\\mathcal{S}_a^{\\ell})\\setminus\\{\\kappa_a^{\\ell}\\}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/18.jpg-1864.074_4056.0000000000005_2768.2889999999998_4188.0.jpg",
+        "gt": "\\sigma_{\\lambda-2}^{-1}(\\mu) = \\sigma_{\\lambda-1}^{-1}(\\mu) = v^\\ell;",
+        "pred": "\\sigma_{\\lambda-2}^{-1}(\\mu)=\\sigma_{\\lambda-1}^{-1}(\\mu)=v^{\\ell};"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/18.jpg-1363.278_4350.0_3255.174_4482.0.jpg",
+        "gt": "\\sigma_{\\lambda-2}^{-1}(\\{\\kappa_a^\\ell,\\mu\\}) \\subset V(\\mathcal C_b^\\ell) \\text{ and } \\sigma_{\\lambda-2}(\\sigma_{\\lambda-1}^{-1}(\\kappa_a^\\ell)) \\in V(\\mathcal C_b^\\ell).",
+        "pred": "\\sigma_{\\xi-2}^{-1}(\\{\\kappa_a^{\\ell},\\mu\\})\\subset V(\\mathcal{C}_b^{\\ell})\\text{ and }\\sigma_{\\xi-2}(\\sigma_{\\xi-1}^{-1}(\\kappa_a^{\\ell}))\\in V(\\mathcal{C}_b^{\\ell})."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/18.jpg-1678.594_4626.0_2949.132_4746.0.jpg",
+        "gt": "|\\sigma_{\\lambda-2}(V(\\mathcal C_b^\\ell)) \\setminus (V(\\mathcal S_b^\\ell) \\setminus \\{\\kappa_b^\\ell\\})| \\geq 3,",
+        "pred": "|\\sigma_{\\lambda-2}(V(\\mathcal{C}_a^{\\ell}))\\setminus (V(\\mathcal{S}_b^{\\ell})\\setminus \\{\\kappa^{\\ell}_a\\})|\\geq 3,"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/19.jpg-1567.306_1884.0_3051.146_2010.0000000000002.jpg",
+        "gt": "\\sigma^{-1}(\\kappa_a^1) \\in V(X_a^1) \\text{ and } \\sigma^{-1}(\\kappa_b^1) \\in V(X_b^1).",
+        "pred": "\\sigma^{-1}(\\kappa_a^{\\ell}) \\in V(X_a^1) \\text{ and } \\sigma^{-1}(\\kappa_b^1) \\in V(X_b^1)."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/19.jpg-1571.9430000000002_2184.0_3051.146_2304.0.jpg",
+        "gt": "\\{\\sigma^{-1}(\\kappa_a^\\ell), \\sigma^{-1}(\\kappa_b^\\ell)\\} \\subset V(X^{\\ell-1}) \\cup V(X^\\ell).",
+        "pred": "\\{\\sigma^{-1}(\\kappa_a^\\ell), \\sigma^{-1}(\\kappa_b^\\ell)\\} \\subset V(X^{\\ell-1}) \\cup V(X^\\ell)."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/19.jpg-1650.772_2478.0_2972.317_2604.0.jpg",
+        "gt": "\\sigma^{-1}(V(\\mathcal K^\\ell) \\setminus \\{\\kappa_a^{\\ell+1}, \\kappa_b^{\\ell+1}\\}) \\subset V(X^{\\ell}),",
+        "pred": "\\sigma^{-1}(V(\\mathcal{K}^\\ell)\\setminus\\{\\kappa_a^{\\ell+1},\\kappa_b^{\\ell+1}\\})\\subset V(X^\\ell),"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/20.jpg-1715.69_3360.0000000000005_2912.036_3491.9999999999995.jpg",
+        "gt": "\\sigma_{i+1}^{-1}(\\sigma_i(v_a^\\ell)) \\in N_{X_L}(v_a^\\ell) \\cap V(\\mathcal P_a^\\ell),",
+        "pred": "\\sigma_{i+1}^{-1}(\\sigma_i(v_a^{\\ell}) \\in N_{X_L}(v_a^{\\ell}) \\cap V(\\mathcal{P}_a^{\\ell}),"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/20.jpg-1915.081_3786.0_2717.2819999999997_3918.0.jpg",
+        "gt": "\\sigma_{i+1}^{-1}(\\sigma_i(v_a^\\ell)) \\notin V(\\mathcal P_a^\\ell),",
+        "pred": "\\sigma_{i+1}^{-1}(\\sigma_i(v_a^\\ell)) \\notin V(\\mathcal{P}_a^\\ell),"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/20.jpg-1743.512_4092.0000000000005_2879.5769999999998_4224.0.jpg",
+        "gt": "\\sigma_{i+1}^{-1}(V(\\mathcal K^\\ell)) \\not\\subset V(\\mathcal P_a^\\ell) \\cup V(\\mathcal P_b^\\ell).",
+        "pred": "\\sigma_{i+1}^{-1}(V(\\mathcal{K}^\\ell)) \\not\\subset V(\\mathcal{P}^\\ell_a) \\cup V(\\mathcal{P}^\\ell_b)."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/20.jpg-1956.8139999999999_4812.0_2675.549_4938.0.jpg",
+        "gt": "\\sigma_{i+1}(v_a^\\ell) \\in \\{\\kappa_a^\\ell, \\kappa_b^\\ell\\}.",
+        "pred": "\\sigma_{i+1}(v_a^\\ell) \\in \\{\\kappa_a^\\ell, \\kappa_b^\\ell\\}."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/21.jpg-1321.5449999999998_774.0_3301.544_900.0.jpg",
+        "gt": "\\sigma_i^{-1}(\\{\\kappa_a^\\ell, \\kappa_b^\\ell\\}) \\subset \\sigma_i^{-1}(V(\\mathcal K^{\\ell-1})) \\setminus (V(\\mathcal P_a^{\\ell-1}) \\cup V(\\mathcal P_b^{\\ell-1})),",
+        "pred": "\\sigma_i^{-1}(\\{\\kappa_a^\\ell,\\kappa_b^\\ell\\})\\subset \\sigma_i^{-1}(V(\\K^{\\ell-1}))\\setminus (V(\\mathcal{P}_a^{\\ell-1})\\cup V(\\mathcal{P}_b^{\\ell-1})),"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/21.jpg-1743.512_2526.0_2879.5769999999998_2658.0.jpg",
+        "gt": "\\sigma_{i+1}^{-1}(V(\\mathcal K^\\ell)) \\subset V(\\mathcal P_a^\\ell) \\cup V(\\mathcal P_b^\\ell).",
+        "pred": "\\sigma_{i+1}^{-1}(V(\\mathcal{K}^\\ell))\\subset V(\\mathcal{P}^\\ell_a)\\cup V(\\mathcal{P}^\\ell_b)."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/21.jpg-1483.84_5016.0_3143.8860000000004_5148.0.jpg",
+        "gt": "\\{\\mu, \\sigma_i(v_a^\\ell)\\} \\subset \\sigma_{i+1}^{-1}(V(\\mathcal K^\\ell)) \\setminus (V(\\mathcal P_a^\\ell) \\cup V(\\mathcal P_b^\\ell)).",
+        "pred": "\\{\\mu,\\sigma_i(v_a^\\ell)\\}\\subset \\sigma_{i+1}^{-1}(V(\\mathcal{K}^\\ell))\\setminus (V(\\mathcal{P}_a^\\ell)\\cup V(\\mathcal{P}_b^\\ell))."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/22.jpg-1655.4089999999999_1068.0_2981.591_1188.0.jpg",
+        "gt": "|\\sigma_i^{-1}(\\{\\kappa_a^\\ell, \\kappa_b^\\ell\\}) \\cap (V(\\mathcal P_a^\\ell) \\setminus \\{v_a^\\ell\\})| = 1",
+        "pred": "|\\sigma_i^{-1}(\\{\\kappa_a^\\ell,\\kappa_b^\\ell\\})\\cap (V(\\mathcal{P}_a^\\ell)\\setminus \\{v_a^\\ell\\})|=1"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/22.jpg-978.4069999999999_1344.0_3649.319_1476.0.jpg",
+        "gt": "(V(\\mathcal P_a^\\ell) \\cup V(\\mathcal P_b^\\ell)) \\setminus \\sigma_i^{-1}(V(\\mathcal K^\\ell)) = \\{v_b^\\ell\\} \\cup (\\sigma_i^{-1}(\\{\\kappa_a^\\ell, \\kappa_b^\\ell\\}) \\cap (V(\\mathcal P_a^\\ell) \\setminus \\{v_a^\\ell\\})).",
+        "pred": "(V(\\mathcal{P}^\\ell_a)\\cup V(\\mathcal{P}^\\ell_b))\\setminus \\sigma_i^{-1}(V(\\mathcal{K}^\\ell))=\\{v^\\ell_b\\}\\cup (\\sigma_i^{-1}(\\{\\kappa^\\ell_a,\\kappa^\\ell_b\\})\\cap (V(\\mathcal{P}^\\ell_a)\\setminus \\{v^\\ell_a\\}))."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/22.jpg-1655.4089999999999_1758.0_2963.043_1890.0.jpg",
+        "gt": "\\sigma_i^{-1}(\\mu) = \\sigma_{i+1}^{-1}(\\mu) \\notin V(\\mathcal P_a^\\ell) \\cup V(\\mathcal P_b^\\ell),",
+        "pred": "\\sigma_{i}^{-1}(\\mu)=\\sigma_{i+1}^{-1}(\\mu)\\notin V(\\mathcal{P}^\\ell_a)\\cup V(\\mathcal{P}^\\ell_b),"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/22.jpg-1720.327_2262.0_2902.762_2394.0.jpg",
+        "gt": "\\sigma_{i+1}^{-1}(\\sigma_i(v_b^\\ell)) \\in N_{X_L}(v_b^\\ell) \\cap V(\\mathcal P_b^\\ell),",
+        "pred": "\\sigma_{i+1}^{-1}(\\sigma_i(v^\\ell_b))\\in N_{X_L}(v^\\ell_b)\\cap V(\\mathcal{P}^\\ell_b),"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/22.jpg-1724.964_2556.0_2898.125_2688.0.jpg",
+        "gt": "\\sigma_{i+1}^{-1}(\\sigma_i(v_b^\\ell)) \\in N_{X_L}(v_b^\\ell) \\setminus V(\\mathcal P_b^\\ell),",
+        "pred": "\\sigma_{i+1}^{-1}(\\sigma_i(v^{\\ell}_b))\\in N_{X_L}(v^{\\ell}_b)\\setminus V(\\mathcal{P}^{\\ell}_b),"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/22.jpg-1456.018_3198.0_3180.9820000000004_3324.0000000000005.jpg",
+        "gt": "\\sigma_i^{-1}(V(\\mathcal K^\\ell) \\setminus \\{\\mu\\}) = (V(\\mathcal P_a^\\ell) \\cup V(\\mathcal P_b^\\ell)) \\setminus \\{v_a^\\ell, v_b^\\ell\\}",
+        "pred": "\\sigma_{i}^{-1}(V(\\mathcal{K}^\\ell)\\setminus\\{\\mu\\})=(V(\\mathcal{P}^\\ell_a)\\cup V(\\mathcal{P}^\\ell_b))\\setminus\\{v^\\ell_{a},v^\\ell_\\flat\\}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/22.jpg-1233.442_3516.0_3375.736_3642.0.jpg",
+        "gt": "\\sigma_{i+1}^{-1}(V(\\mathcal K^\\ell)) \\subset V(\\mathcal P_a^\\ell) \\cup V(\\mathcal P_b^\\ell) \\text{ and } \\sigma_{i+1}(\\{v_a^\\ell, v_b^\\ell\\}) \\not\\subset V(\\mathcal K^\\ell),",
+        "pred": "\\sigma_{i+1}^{-1}(V(\\K^\\ell))\\subset V(\\mathcal{P}_a^\\ell)\\cup V(\\mathcal{P}_b^\\ell)\\text{ and }\\sigma_{i+1}(\\{v_a^\\ell, v_b^\\ell\\})\\not\\in V(\\K^\\ell),"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/22.jpg-1706.416_4128.0_2921.31_4248.0.jpg",
+        "gt": "\\{\\sigma_{i+1}(v_a^\\ell), \\sigma_{i+1}(v_b^\\ell)\\} \\cap V(\\mathcal K^\\ell) = \\emptyset.",
+        "pred": "\\{\\sigma_{i+1}(v_a^{\\ell}),\\sigma_{i+1}(v_b^{\\ell})\\}\\cap V(\\mathcal{K}^{\\ell})=\\emptyset."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/22.jpg-1715.69_4632.0_2912.036_4764.0.jpg",
+        "gt": "\\sigma_{i+1}^{-1}(\\sigma_i(v_a^\\ell)) \\in N_{X_L}(v_a^\\ell) \\cap V(\\mathcal P_a^\\ell),",
+        "pred": "\\sigma_{i+1}^{-1}(\\sigma_i(v_a^{\\ell})\\in N_{X_L}(v_a^{\\ell})\\cap V(\\mathcal{P}_a^{\\ell}),"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/22.jpg-1247.353_4950.0_3366.462_5076.0.jpg",
+        "gt": "\\{\\sigma_i^{-1}(\\mu), \\sigma_i^{-1}(\\sigma_{i+1}(v_a^\\ell))\\} \\subset \\sigma_i^{-1}(V(\\mathcal K^\\ell)) \\setminus (V(\\mathcal P_a^\\ell) \\cup V(\\mathcal P_b^\\ell)),",
+        "pred": "\\{\\sigma_i^{-1}(\\mu),\\sigma_i^{-1}(\\sigma_{i+1}(v^\\ell_a))\\}\\subset \\sigma_i^{-1}(V(\\mathcal{K}^\\ell))\\setminus (V(\\mathcal{P}^\\ell_a)\\cup V(\\mathcal{P}^\\ell_b)),"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/23.jpg-1344.73_2424.0_3282.9959999999996_2556.0.jpg",
+        "gt": "\\{\\kappa_a^1, \\sigma_{\\lambda-1}(\\sigma_\\lambda^{-1}(\\kappa_a^1))\\} = \\sigma_{\\lambda-1}(V(\\mathcal C_b^1)) \\setminus (V(\\mathcal S_b^1) \\setminus \\{\\kappa_b^1\\}).",
+        "pred": "\\{\\kappa^1_{\\lambda}, \\sigma_{\\lambda-1}(\\sigma^{-1}_{\\lambda}(\\kappa^1_{\\lambda}))\\} = \\sigma_{\\lambda-1}(V(\\mathcal{C}^1_{b})) \\setminus (V(\\mathcal{S}^1_{b}) \\setminus \\{\\kappa^1_{b}\\})."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/23.jpg-1316.908_3216.0_3310.8179999999998_3342.0000000000005.jpg",
+        "gt": "\\sigma_{\\lambda-1}(\\mathcal P_b^1) \\setminus \\{\\kappa_b^1\\} \\subset (V(\\mathcal S_b^1) \\setminus \\{\\kappa_b^1\\}) \\cup V(\\mathcal K^1) = N_{Y_L}(\\kappa_b^1),",
+        "pred": "\\sigma_{\\lambda-1}(\\mathcal{P}^1_b)\\setminus\\{\\kappa^1_b\\}\\subset (V(\\mathcal{S}^1_b)\\setminus\\{\\kappa^1_b\\})\\cup V(\\mathcal{K}^1)=N_{Y_L}(\\kappa^1_b),"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/23.jpg-1729.6009999999999_3552.0_2898.125_3678.0.jpg",
+        "gt": "|\\tau(V(\\mathcal C_b^1)) \\setminus (V(\\mathcal S_b^1) \\setminus \\{\\kappa_b^1\\})| \\geq 3,",
+        "pred": "|\\tau(V(\\mathcal{C}_b^1))\\setminus (V(\\mathcal{S}_b^1)\\setminus \\{\\kappa_b^1\\})|\\geq 3,"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/24.jpg-1771.334_684.0_2851.755_816.0000000000001.jpg",
+        "gt": "\\sigma_\\lambda^{-1}(\\kappa_a^1) \\in N_{X_L}(v_a^{1,2}) \\cap V(\\mathcal C_a^2),",
+        "pred": "\\sigma_{\\lambda}^{-1}(\\kappa_a^1)\\in N_{X_L}(v_a^{1,2})\\cap V(\\mathcal{C}_a^2),"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/24.jpg-1238.0790000000002_1494.0_3375.736_1620.0.jpg",
+        "gt": "\\sigma_j(V(X^1) \\setminus \\{v_a^{1,2}, v_b^{1,2}\\}) \\subset \\sigma_s(V(X^1)) \\text{ for all } 0 \\leq j \\leq \\lambda-1.",
+        "pred": "\\sigma_j(V(X^1)\\setminus\\{v_{a,2}^{1,2},v_{b,2}^{1,2}\\})\\subset\\sigma_s(V(X^1))\\text{ for all }0\\leq j\\leq \\lambda-1."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/24.jpg-1748.1490000000001_1902.0_2879.5769999999998_2022.0000000000002.jpg",
+        "gt": "\\sigma_{\\lambda-1}(V(X^1)) \\setminus \\sigma_s(V(X^1)) \\neq \\emptyset,",
+        "pred": "\\sigma_{\\lambda-1}(V(X^1))\\setminus\\sigma_s(V(X^1))\\neq\\emptyset,"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/24.jpg-1177.798_2202.0_3449.928_2328.0.jpg",
+        "gt": "|\\sigma_{\\lambda-1}(V(X^1)) \\setminus \\sigma_s(V(X^1))| = |\\sigma_s(V(X^1)) \\setminus \\sigma_{\\lambda-1}(V(X^1))|\\leq 1.",
+        "pred": "|\\sigma_{\\lambda-1}(V(X^1))\\setminus \\sigma_s(V(X^1))| = |\\sigma_s(V(X^1))\\setminus \\sigma_{\\lambda-1}(V(X^1))| \\leq 1."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/24.jpg-908.8520000000001_2514.0_3714.237_2640.0.jpg",
+        "gt": "\\sigma_{\\lambda-1}(\\{v_a^{1,2}, v_b^{1,2}\\}) \\subset \\sigma_s(V(X^1)) \\implies \\sigma_{\\lambda-1}(V(X^1) \\setminus \\{v_a^{1,2}, v_b^{1,2}\\}) \\not\\subset \\sigma_s(V(X^1)),",
+        "pred": "\\sigma_{\\lambda-1}(\\{v^{1,2}_a,v^{1,2}_b\\})\\subset \\sigma_s(V(X^1))\\implies \\sigma_{\\lambda-1}(V(X^1)\\setminus\\{\\omega^{1,2}_a,v^{1,2}_b\\})\\not\\subsetneq \\sigma_s(V(X^1)),"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/24.jpg-1868.711_2796.0_2759.015_2928.0.jpg",
+        "gt": "\\sigma_{\\lambda-1}(v_b^{1,2}) \\notin \\sigma_s(V(X^1)).",
+        "pred": "\\sigma_{\\lambda-1}(v^{1,2}_b) \\notin \\sigma_s(V(X^1))."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/24.jpg-1636.8609999999999_3204.0_2990.8650000000002_3336.0000000000005.jpg",
+        "gt": "\\sigma_{\\lambda-1}(v_b^{1,2}) \\in (V(\\mathcal S_b^2) \\setminus \\{\\kappa_b^2\\}) \\cup V(\\mathcal K^2).",
+        "pred": "\\sigma_{\\lambda-1}(v^{1,2}_b) \\in (V(\\mathcal{S}^2_b) \\setminus \\{\\kappa^2_b\\}) \\cup V(\\mathcal{K}^2)."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/24.jpg-1919.7179999999998_3491.9999999999995_2708.008_3624.0.jpg",
+        "gt": "\\sigma_\\xi(v_b^{1,2}) \\neq \\sigma_{\\lambda-1}(v_b^{1,2});",
+        "pred": "\\sigma_{\\xi}(v^{1,2}_b)\\neq\\sigma_{\\lambda-1}(v^{1,2}_b);"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/24.jpg-1632.224_4212.0_2990.8650000000002_4356.0.jpg",
+        "gt": "\\sigma_\\xi^{-1}(\\sigma_{\\lambda-1}(v_b^{1,2})) \\in N_{X_L}(v_b^{1,2}) \\cap V(\\mathcal C_b^1),",
+        "pred": "\\sigma_\\xi^{-1}(\\sigma_{\\lambda-1}(v_b^{1,2}))\\in N_{X_L}(v_b^{1,2})\\cap V(\\mathcal{C}_b^1),"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/24.jpg-1799.156_4740.0_2823.933_4872.0.jpg",
+        "gt": "\\sigma_\\xi(v_b^{1,2}) \\in \\{\\kappa_a^2, \\kappa_b^2\\} \\cup V(\\mathcal K^2),",
+        "pred": "\\sigma_\\xi(v^{1,2}_b)\\in\\{\\kappa^2_a,\\kappa^2_b\\}\\cup V(\\mathcal{K}^2),"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/24.jpg-1145.339_5016.0_3496.2980000000002_5142.0.jpg",
+        "gt": "\\sigma_\\xi(v_b^{1,2}) \\in (V(\\mathcal S_a^3) \\setminus \\{\\kappa_a^3\\}) \\cup (V(\\mathcal S_b^3) \\setminus \\{\\kappa_b^3\\}) \\text {  and  }\\sigma_\\xi(v_b^{1,2}) \\in V(\\mathcal K^3)",
+        "pred": "\\sigma_{\\xi}(v^{1,2}_b) \\in (V(\\mathcal{S}^{3}_a) \\setminus \\{\\kappa^3_a\\}) \\cup (V(\\mathcal{S}^{3}_b) \\setminus \\{\\kappa^3_b\\}) \\text{ and } \\sigma_{\\xi}(v^{1,2}_b) \\in V(\\mathcal{K}^3)"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/24.jpg-1887.2589999999998_5328.0_2735.83_5460.0.jpg",
+        "gt": "\\sigma_\\lambda^{-1}(\\sigma_\\xi(v_b^{1,2})) \\in V(X^1);",
+        "pred": "\\sigma_{\\lambda}^{-1}(\\sigma_{\\xi}(v_{b}^{1,2}))\\in V(X^{1});"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/25.jpg-1966.088_1536.0_2657.0009999999997_1674.0000000000002.jpg",
+        "gt": "\\sigma_\\zeta(\\sigma_{\\xi+1}^{-1}(\\kappa_a^2)) \\neq \\kappa_a^2;",
+        "pred": "\\sigma_\\zeta(\\sigma_{\\xi+1}^{-1}(\\kappa_a^2))\\neq \\kappa_a^2,"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/25.jpg-1711.0529999999999_2082.0_2916.6730000000002_2208.0.jpg",
+        "gt": "|\\sigma_\\zeta(V(\\mathcal C_b^2)) \\setminus (V(\\mathcal S_b^2) \\setminus \\{\\kappa_b^2\\})| \\geq 3,",
+        "pred": "|\\sigma_\\zeta(V(\\mathcal{C}_b^2))\\setminus (V(\\mathcal{S}_b^2)\\setminus \\{\\kappa_b^2\\})|\\geq 3,"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/25.jpg-1729.6009999999999_2466.0_2898.125_2604.0.jpg",
+        "gt": "\\sigma_\\zeta^{-1}(\\kappa_b^2) \\in V(\\mathcal C_a^2) \\setminus N_{X_L}[\\bd(\\mathcal C_a^2)];",
+        "pred": "\\sigma_{\\zeta}^{-1}(\\kappa_{b}^{2})\\in V(\\mathcal{C}_{a}^{2})\\setminus N_{X_{L}}[\\mathrm{bd}(\\mathcal{C}_{a}^{2})];"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/25.jpg-1520.9360000000001_4248.0_3116.0640000000003_4386.0.jpg",
+        "gt": "\\sigma_{\\lambda-1}^{-1}(\\kappa_a^\\ell) \\in \\{v_a^{\\ell-2, \\ell-1}, v_b^{\\ell-2, \\ell-1}, v_a^{\\ell, \\ell+1}, v_b^{\\ell, \\ell+1}\\}",
+        "pred": "\\sigma_{\\lambda-1}^{-1}(\\kappa_a^{\\ell})\\in\\{v_a^{\\ell-2,\\ell-1},v_b^{e-2,\\ell-1},v_b^{\\ell,\\ell+1}\\}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/25.jpg-1293.7230000000002_4644.0_3334.0029999999997_4770.0.jpg",
+        "gt": "\\sigma_{\\lambda-1}(\\sigma_\\lambda^{-1}(\\kappa_a^\\ell)) \\in \\{\\kappa_a^{\\ell-1}, \\kappa_b^{\\ell-1}\\} \\cup V(\\mathcal K^\\ell) \\cup (V(\\mathcal S_a^\\ell) \\setminus \\{\\kappa_a^\\ell\\}),",
+        "pred": "\\sigma_{\\lambda-1}(\\sigma_{\\lambda}^{-1}(\\kappa_a^\\ell))\\in\\{\\kappa_a^{\\ell-1},\\kappa_b^{\\ell-1}\\}\\cup V(\\mathcal{K}^\\ell)\\cup (V(\\mathcal{S}_a^\\ell)\\setminus\\{\\kappa_a^\\ell\\}),"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/25.jpg-1191.709_4944.0_3440.654_5070.0.jpg",
+        "gt": "\\{\\kappa_a^\\ell, \\sigma_{\\lambda-1}(\\sigma_\\lambda^{-1}(\\kappa_a^\\ell))\\} \\subset \\sigma_{\\lambda-1}^{-1}(V(\\mathcal K^{\\ell-1})) \\setminus (V(\\mathcal P_a^{\\ell-1}) \\cup V(\\mathcal P_b^{\\ell-1}))",
+        "pred": "\\{\\kappa_a^{\\ell},\\sigma_{\\lambda-1}(\\sigma_a^{\\ell-1}(\\kappa_a^{\\ell}))\\}\\subset \\sigma_{\\lambda-1}^{-1}(V(\\K^{\\ell-1}))\\setminus (V(\\mathcal{P}_a^{\\ell-1})\\cup V(\\mathcal{P}_a^{\\ell-1}))"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/26.jpg-1766.6970000000001_4188.0_2856.392_4320.0.jpg",
+        "gt": "\\sigma_{\\lambda-1}(\\sigma_\\lambda^{-1}(\\kappa_a^\\ell)) \\in \\{\\kappa_a^{\\ell-1}, \\kappa_b^{\\ell-1}\\},",
+        "pred": "\\sigma_{\\lambda-1}(\\sigma_{\\lambda}^{-1}(\\kappa_{a}^{\\ell}))\\in\\{\\kappa_{\\lambda}^{\\ell-1},\\kappa_{\\beta}^{\\ell-1}\\},"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/26.jpg-1242.7160000000001_4458.0_3389.647_4584.0.jpg",
+        "gt": "\\sigma_{\\lambda-1}(\\sigma_\\lambda^{-1}(\\kappa_a^\\ell)) \\in V(\\mathcal S_a^\\ell) \\setminus \\{\\kappa_a^\\ell\\} \\text{  and  } \\sigma_{\\lambda-1}(\\sigma_\\lambda^{-1}(\\kappa_a^\\ell)) \\in V(\\mathcal K^\\ell)",
+        "pred": "\\sigma_{\\lambda-1}(\\sigma_{\\lambda}^{-1}(\\kappa_a^\\ell)) \\in V(\\mathcal{S}_a^\\ell) \\setminus \\{\\kappa_a^\\ell \\} \\text{ and } \\sigma_{\\lambda-1}(\\sigma_{\\lambda}^{-1}(\\kappa^{\\ell}_a)) \\in V(\\K^\\ell)"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/26.jpg-1604.4019999999998_5358.0_3023.324_5490.0.jpg",
+        "gt": "\\sigma_{\\lambda-2}^{-1}(\\kappa_a^\\ell) \\in N_{X_L}(\\sigma_{\\lambda-1}^{-1}(\\kappa_a^\\ell)) \\cap V(X^{\\ell-1}),",
+        "pred": "\\sigma_{\\lambda-2}^{-1}(\\kappa_a^\\ell) \\in N_{X_L}(\\sigma_{\\lambda-1}^{-1}(\\kappa_a^\\ell)) \\cap V(X^{\\ell-1}),"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/28.jpg-1474.566_2874.0_3157.797_3006.0.jpg",
+        "gt": "\\sigma_j(\\sigma_{\\lambda-1}^{-1}(\\kappa_a^\\ell)) \\in V(\\mathcal K^{\\ell+1}) \\text{ for } \\xi+1 \\leq j \\leq \\lambda-1",
+        "pred": "\\sigma_j(\\sigma_{\\lambda-1}^{-1}(\\kappa_a^\\ell))\\in V(\\K^{\\ell+1})\\ \\text{for }\\xi+1\\leq j\\leq\\lambda-1"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/28.jpg-1381.826_3570.0_3255.174_3702.0.jpg",
+        "gt": "(V(\\mathcal S_a^{\\ell+2}) \\setminus \\{\\kappa_a^{\\ell+2}\\}) \\cup (V(\\mathcal S_b^{\\ell+2}) \\setminus \\{\\kappa_b^{\\ell+2}\\}) \\cup V(\\mathcal K^{\\ell+2})",
+        "pred": "(V(\\mathcal{S}^{\\ell+2}_a)\\setminus\\{\\kappa_a^{\\ell+2}\\})\\cup(V(\\mathcal{S}^{\\ell+2}_a)\\setminus\\{\\sigma_a^{\\ell+2}\\})\\cup V(\\mathcal{K}^{\\ell+2}_a)"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/28.jpg-1604.4019999999998_4860.0_3018.687_4992.0.jpg",
+        "gt": "\\sigma_{\\lambda-1}^{-1}(\\mu) \\in \\{v_a^{\\ell-1, \\ell}, v_b^{\\ell-1, \\ell}, v_a^{\\ell, \\ell+1}, v_b^{\\ell, \\ell+1}\\},",
+        "pred": "\\sigma_{\\lambda-1}^{-1}(\\mu) \\in \\{v_{a}^{\\ell-1,\\ell}, v_{b}^{\\ell-1,\\ell}, v_{a}^{\\ell,\\ell+1}, v_{b}^{\\ell,\\ell+1}\\},"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/29.jpg-1405.011_2796.0_3222.7149999999997_2928.0.jpg",
+        "gt": "\\sigma_\\lambda^{-1}(\\mu) \\in (N_{X_L}(v_a^{\\ell, \\ell+1}) \\cup N_{X_L}(v_b^{\\ell, \\ell+1})) \\cap V(X^{\\ell+1}),",
+        "pred": "\\sigma_{\\lambda}^{-1}(\\mu) \\in (N_{X_L}(v_{\\lambda}^{\\ell,\\ell+1}) \\cup N_{X_L}(v_{\\lambda}^{\\ell,\\ell+1})) \\cap V(X^{\\ell+1}),"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/29.jpg-1405.011_3240.0_3222.7149999999997_3377.9999999999995.jpg",
+        "gt": "\\sigma_\\lambda^{-1}(\\mu) \\in (N_{X_L}(v_a^{\\ell-1, \\ell}) \\cup N_{X_L}(v_b^{\\ell-1, \\ell})) \\cap V(X^{\\ell-1}).",
+        "pred": "\\sigma_{\\lambda}^{-1}(\\mu) \\in (N_{X_L}(v_{\\lambda}^{\\ell-1,\\ell}) \\cup N_{X_L}(v_{\\delta}^{\\ell-1,\\ell})) \\cap V(X^{\\ell-1})."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/29.jpg-1567.306_4314.0_3060.42_4446.0.jpg",
+        "gt": "(V(\\mathcal S_a^{\\ell-1}) \\setminus \\{\\kappa_a^{\\ell-1}\\}) \\cup (V(\\mathcal S_b^{\\ell-1}) \\setminus \\{\\kappa_b^{\\ell-1}\\}).",
+        "pred": "(V(\\mathcal{S}_a^{\\ell-1})\\setminus\\{\\kappa_a^{\\ell-1}\\})\\cup (V(\\mathcal{S}_b^{\\ell-1})\\setminus\\{\\kappa_b^{\\ell-1}\\})."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/29.jpg-1850.163_4752.0_2777.563_4884.0.jpg",
+        "gt": "\\sigma_{\\lambda-2}(\\sigma_{\\lambda-1}^{-1}(\\mu)) \\in \\{\\kappa_a^\\ell, \\kappa_b^\\ell\\}",
+        "pred": "\\sigma_{\\lambda-2}(\\sigma_{\\lambda-1}^{-1}(\\mu))\\in\\{\\kappa_{a}^{\\ell},\\kappa_{b}^{\\ell}\\}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/29.jpg-1882.622_5094.0_2749.741_5226.0.jpg",
+        "gt": "\\sigma_{\\lambda-2}(\\sigma_{\\lambda-1}^{-1}(\\mu)) \\in V(\\mathcal K^\\ell)",
+        "pred": "\\sigma_{\\lambda-2}(\\sigma_{\\lambda-1}^{-1}(\\mu)) \\in V(\\mathcal{K}^\\ell)"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/30.jpg-1006.229_2952.0_3630.771_3084.0.jpg",
+        "gt": "|\\sigma_i^{-1}(V(\\mathcal K^\\ell)) \\setminus (V(\\mathcal P_a^\\ell) \\cup V(\\mathcal P_b^\\ell))| - |\\sigma_{i-1}^{-1}(V(\\mathcal K^\\ell)) \\setminus (V(\\mathcal P_a^\\ell) \\cup V(\\mathcal P_b^\\ell))| \\leq 1.",
+        "pred": "|\\sigma_{\\lambda-1}^{-1}(V(\\mathcal{K}^\\ell))\\setminus (V(\\mathcal{P}_a^\\ell)\\cup V(\\mathcal{P}_b^\\ell))| - |\\sigma_{\\lambda-1}^{-1}(V(\\mathcal{K}^\\ell))\n\\setminus (V(\\mathcal{P}_a^\\ell)\\cup V(\\mathscr{P}_b^\\ell))| \\leq 1."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/30.jpg-1826.978_3246.0_2791.4739999999997_3377.9999999999995.jpg",
+        "gt": "\\sigma_{\\lambda-1}^{-1}(\\mu) \\notin V(\\mathcal P_a^\\ell) \\cup V(\\mathcal P_b^\\ell).",
+        "pred": "\\sigma_{\\lambda-1}^{-1}(\\mu) \\notin V(\\mathcal{P}^\\ell_a) \\cup V(\\mathcal{P}^\\ell_b)."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/30.jpg-1873.3480000000002_3834.0_2749.741_3960.0.jpg",
+        "gt": "\\sigma_\\lambda(\\sigma_{\\lambda-1}^{-1}(\\mu')) \\in \\{\\kappa_a^\\ell, \\kappa_b^\\ell\\};",
+        "pred": "\\sigma_{\\lambda}(\\sigma_{\\lambda-1}^{-1}(\\mu')) \\in \\{\\kappa^\\ell_a, \\kappa^\\ell_b\\};"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/30.jpg-1687.868_4212.0_2939.858_4344.0.jpg",
+        "gt": "\\sigma_{\\lambda-1}(v_a^\\ell) = \\mu', \\ \\sigma_\\lambda(\\sigma_{\\lambda-1}^{-1}(\\mu')) = \\kappa_a^\\ell.",
+        "pred": "\\sigma_{\\lambda-1}(v^\\ell_a) = \\mu', \\ \\sigma_{\\lambda}(\\sigma_{\\lambda-1}^{-1}(\\mu')) = \\kappa^\\ell_a."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/30.jpg-1734.238_4608.0_2893.488_4740.0.jpg",
+        "gt": "\\sigma_{\\lambda-1}^{-1}(\\{\\kappa_a^1, \\kappa_b^1\\}) \\subset V(X_a^1) \\setminus \\{v^1\\};",
+        "pred": "\\sigma_{\\lambda-1}^{-1}(\\{\\kappa^1_a,\\kappa^1_b\\})\\subset V(X^1_a)\\setminus\\{v^1\\};"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/30.jpg-1284.449_4896.0_3338.64_5022.0.jpg",
+        "gt": "\\sigma_{\\lambda-1}^{-1}(\\{\\kappa_a^\\ell, \\kappa_b^\\ell\\}) \\subset \\sigma_{\\lambda-1}^{-1}(V(\\mathcal K^{\\ell-1})) \\setminus (V(\\mathcal P_a^{\\ell-1}) \\cup V(\\mathcal P_b^{\\ell-1})).",
+        "pred": "\\sigma_{\\lambda-1}^{-1}(\\{\\kappa^\\ell_a,\\kappa^\\ell_b\\})\\subset \\sigma_{\\lambda-1}^{-1}(V(\\mathcal{K}^{\\ell-1}))\\setminus (V(\\mathcal{P}^{\\ell-1}_a)\\cup V(\\mathcal{P}^{\\ell-1}_b))."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/31.jpg-1432.833_2664.0_3190.256_2784.0.jpg",
+        "gt": "\\sigma(V(\\mathcal P_a^\\ell) \\cup V(\\mathcal P_b^\\ell) \\setminus \\{v_a^\\ell, v_b^\\ell\\}) \\subseteq V(\\mathcal K^\\ell) \\cup \\{\\kappa_a^\\ell, \\kappa_b^\\ell\\}.",
+        "pred": "\\sigma(V(\\mathcal{P}^\\ell_a)\\cup V(\\mathcal{P}^\\ell_b)\\setminus\\{v^\\ell_a,v^\\ell_b\\})\\subseteq V(\\mathcal{K}^\\ell)\\cup\\{\\kappa^\\ell_a,\\kappa^\\ell_b\\}."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/32.jpg-1641.4979999999998_1872.0_2990.8650000000002_1998.0.jpg",
+        "gt": "|\\sigma_i^{-1}(V(\\mathcal K^\\ell)) \\setminus (V(\\mathcal P_a^\\ell) \\cup V(\\mathcal P_b^\\ell))| \\leq 1,",
+        "pred": "|\\sigma_i^{-1}((\\mu_1,\\mu_2))\\setminus (V(\\mathcal{P}_a^\\ell)\\cup V(\\mathcal{P}_b^\\ell))|\\leq 1,"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/32.jpg-1641.4979999999998_1872.0_2990.8650000000002_1998.0.jpg",
+        "gt": "|\\sigma_i^{-1}(\\{\\mu_1, \\mu_2\\}) \\setminus (V(\\mathcal P_a^\\ell) \\cup V(\\mathcal P_b^\\ell))| \\leq 1.",
+        "pred": "|\\sigma_i^{-1}((\\mu_1,\\mu_2))\\setminus (V(\\mathcal{P}_a^\\ell)\\cup V(\\mathcal{P}_b^\\ell))|\\leq 1,"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/32.jpg-1609.039_2184.0_3023.324_2310.0.jpg",
+        "gt": "|\\sigma_i^{-1}(V(\\mathcal K^\\ell)) \\setminus (V(\\mathcal P_a^\\ell) \\cup V(\\mathcal P_b^\\ell))| \\leq 1,",
+        "pred": "|\\sigma_i^{-1}(\\{\\mu_1,\\mu_2\\})\\setminus (V(\\mathcal{P}_a^\\ell)\\cup V(\\mathcal{P}_b^\\ell))| \\leq 1."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/32.jpg-1609.039_2184.0_3023.324_2310.0.jpg",
+        "gt": "|\\sigma_i^{-1}(\\{\\mu_1, \\mu_2\\}) \\setminus (V(\\mathcal P_a^\\ell) \\cup V(\\mathcal P_b^\\ell))| \\leq 1.",
+        "pred": "|\\sigma_i^{-1}(\\{\\mu_1,\\mu_2\\})\\setminus (V(\\mathcal{P}_a^\\ell)\\cup V(\\mathcal{P}_b^\\ell))| \\leq 1."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/32.jpg-1789.882_3546.0_2837.844_3690.0.jpg",
+        "gt": "\\sigma_{i_{j+1}-1}^{-1}(\\mu) \\notin V(\\mathcal P_a^\\ell) \\cup V(\\mathcal P_b^\\ell).",
+        "pred": "\\sigma_{i_{j+1}}^{-1}(\\mu)\\notin V(\\mathcal{P}_{a}^{\\ell})\\cup V(\\mathcal{P}_{b}^{\\ell})."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/32.jpg-1641.4979999999998_5328.0_2986.228_5454.0.jpg",
+        "gt": "|\\sigma^{-1}(V(\\mathcal K^\\ell)) \\setminus (V(\\mathcal P_a^\\ell) \\cup V(\\mathcal P_b^\\ell))| = 1,",
+        "pred": "|\\sigma^{-1}(V(\\mathcal{K}^\\ell))\\setminus (V(\\mathcal{P}^\\ell_a)\\cup V(\\mathcal{P}^\\ell_b))|=1,"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/33.jpg-1794.519_786.0_2833.207_912.0.jpg",
+        "gt": "\\sigma_s^{-1}(\\kappa_a^{\\ell+1}) \\in V(\\mathcal P_a^\\ell) \\cup V(\\mathcal P_b^\\ell).",
+        "pred": "\\sigma_{s}^{-1}(\\kappa_{a}^{\\ell+1})\\in V(\\mathcal{P}_{a}^{\\ell})\\cup V(\\mathcal{P}_{b}^{\\ell})."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/33.jpg-1590.4910000000002_1703.9999999999998_3032.598_1842.0.jpg",
+        "gt": "\\sigma_\\xi^{-1}(V(\\mathcal K_a^\\ell) \\setminus \\{\\kappa_a^{\\ell+1}\\}) \\subset V(\\mathcal P_a^\\ell) \\cup V(\\mathcal P_b^\\ell),",
+        "pred": "\\sigma_{\\xi}^{-1}(V(\\mathcal{K}_a^\\ell)\\setminus\\{\\kappa_a^{\\ell+1}\\})\\subset V(\\mathcal{P}_a^\\ell)\\cup V(\\mathcal{P}_b^\\ell),"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/33.jpg-1622.9499999999998_1998.0_3004.7760000000003_2136.0.jpg",
+        "gt": "\\sigma_\\xi^{-1}(V(\\mathcal K_a^\\ell) \\setminus \\{\\kappa_a^{\\ell+1}\\}) \\subset V(\\mathcal P_a^\\ell) \\cup V(\\mathcal P_b^\\ell),",
+        "pred": "|\\sigma_{\\xi+1}^{-1}(V(\\mathcal{K}_{a}^{\\ell})\\setminus\\{V(\\mathcal{P}_{a}^{\\ell})\\cup V(\\mathcal{P}_{b}^{\\ell})\\})|\\geq2,"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/33.jpg-1622.9499999999998_1998.0_3004.7760000000003_2136.0.jpg",
+        "gt": "|\\sigma_{\\xi+1}^{-1}(V(\\mathcal K_a^\\ell)) \\setminus (V(\\mathcal P_a^\\ell) \\cup V(\\mathcal P_b^\\ell))| \\geq 2,",
+        "pred": "|\\sigma_{\\xi+1}^{-1}(V(\\mathcal{K}_{a}^{\\ell})\\setminus\\{V(\\mathcal{P}_{a}^{\\ell})\\cup V(\\mathcal{P}_{b}^{\\ell})\\})|\\geq2,"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/33.jpg-1613.676_2712.0_3009.413_2838.0.jpg",
+        "gt": "\\sigma_k^{-1}(\\kappa_a^{\\ell+1}) \\notin V(\\mathcal P_a^\\ell) \\cup V(\\mathcal P_b^\\ell) \\text{ for } k > \\xi,",
+        "pred": "\\sigma_{k}^{-1}(\\kappa_{a}^{\\ell+1})\\notin V(\\mathcal{P}_{a}^{\\ell})\\cup V(\\mathcal{P}_{b}^{\\ell})\\text{ for }k>\\xi,"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/33.jpg-1386.463_3000.0_3241.263_3132.0.jpg",
+        "gt": "\\{\\kappa_a^{\\ell+1}\\} = \\sigma_k^{-1}(V(\\mathcal K^\\ell)) \\setminus (V(\\mathcal P_a^\\ell) \\cup V(\\mathcal P_b^\\ell)) \\text{ for } k > \\xi.",
+        "pred": "\\{\\kappa^{ \\ell + 1}_a\\}=\\sigma^{-k}_1(V(\\mathcal{K}^\\ell_a))\\setminus (V(\\mathcal{P}^\\ell_a)\\cup V(\\mathcal{P}^\\ell_b))\\hbox{ for }k>\\xi."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/33.jpg-1766.6970000000001_3318.0000000000005_2861.029_3437.9999999999995.jpg",
+        "gt": "V(\\mathcal K_b^\\ell) \\subset \\sigma_k(V(\\mathcal P_a^\\ell)) \\text{ for } k > \\xi,",
+        "pred": "V(\\mathcal{K}^\\ell_b) \\subset \\sigma_k(V(\\mathcal{P}^\\ell_a)) \\text{ for } k > \\xi,"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/34.jpg-1859.4370000000001_780.0_2768.2889999999998_906.0.jpg",
+        "gt": "|V(\\mathcal K_b^\\ell) \\setminus \\sigma_\\xi(V(\\mathcal P_a^\\ell))| = 1.",
+        "pred": "|V(\\mathcal{K}^\\ell_b) \\setminus \\sigma_\\xi(V(\\mathcal{P}^\\ell_a))| = 1."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/34.jpg-1562.669_1080.0_3055.7830000000004_1224.0.jpg",
+        "gt": "\\sigma_\\xi^{-1}(\\mu) \\in \\sigma_\\xi^{-1}(V(\\mathcal K^\\ell)) \\setminus (V(\\mathcal P_a^\\ell) \\cup V(\\mathcal P_b^\\ell)).",
+        "pred": "\\sigma_{\\xi}^{-1}(\\mu) \\in \\sigma_{\\xi}^{-1}(V(\\mathcal{K}^\\ell_{a})) \\setminus (V(\\mathcal{P}^\\ell_{a}) \\cup V(\\mathcal{P}^\\ell_{b}))."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/36.jpg-1289.086_4914.0_3352.551_5022.0.jpg",
+        "gt": "\\sigma_i(v) = \\sigma_s(v) \\text{ for all } v \\in V(X_{L+1}) \\setminus V(X_L), \\ i = 0, \\dots, \\lambda.",
+        "pred": "\\sigma_i(v) = \\sigma_s(v) \\text{ for all } v \\in V(X_{L+1}) \\setminus V(X_L), \\; i = 0, \\ldots, \\lambda."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/37.jpg-1372.552_4224.0_3255.174_4512.0.jpg",
+        "gt": "& \\sigma'_{\\lambda'}(V(\\mathcal P_b^{L+1})) = \\sigma_s(V(\\mathcal P_a^{L+1}) \\setminus \\{v_a^{L+1}\\}) = V(\\mathcal K_a^{L+1}), \\\\\n    & \\sigma'_{\\lambda'}(V(\\mathcal P_a^{L+1}) \\setminus \\{v_a^{L+1}\\}) = \\sigma_s(V(\\mathcal P_b^{L+1})) = V(\\mathcal K_b^{L+1}).",
+        "pred": "\\sigma_{\\lambda'}^{'}(V(\\mathcal{P}^{L+1}_{a}))&=\\sigma_{s}(V(\\mathcal{P}^{L+1}_{a})\\setminus\\{v^{L+1}_{a}\\})=V(K^{L+1}_{a}),\\\\\n\\sigma_{\\lambda'}^{'}(V(\\mathcal{P}^{L+2}_{a})\\setminus\\{v^{L+1}_{a}\\})=\\sigma_{s}(V(\\mathcal{P}^{L+1}_{a}))=V(K^{L+1}_{a})."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/39.jpg-1669.32_2598.0_2953.7690000000002_2724.0.jpg",
+        "gt": "N_{Y_L}(\\mu_j) = V(\\mathcal K_b^{\\ell+1}) \\cup \\{\\kappa_a^{\\ell+1}, \\kappa_b^{\\ell+1}\\}.",
+        "pred": "N_{Y_L}(\\mu_j) = V(\\mathcal{K}^{el}_{a} ) \\cup \\{\\kappa^{el}_{a+1}, \\kappa^{el+1}_{b} \\}."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/39.jpg-1822.3410000000001_2916.0_2800.748_3048.0.jpg",
+        "gt": "\\sigma_{i_j+1}(v^{\\ell+1}) \\in \\{\\kappa_a^{\\ell+1}, \\kappa_b^{\\ell+1}\\},",
+        "pred": "\\sigma_{i_j+1}(v^{\\ell+1}) \\in \\{\\kappa_a^{\\ell+1}, \\kappa_a^{\\ell+1}\\},"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/39.jpg-945.948_4578.0_3927.5389999999998_4710.0.jpg",
+        "gt": "\\mu_j \\in V(\\mathcal K_a^{\\ell+1}) \\implies \\sigma_{i_j+1}(v^{\\ell+1}) = \\kappa_b^{\\ell+1} \\text{ and } \\mu_j \\in V(\\mathcal K_b^{\\ell+1}) \\implies \\sigma_{i_j+1}(v^{\\ell+1}) = \\kappa_a^{\\ell+1},",
+        "pred": "\\mu_j\\in V(\\mathcal{K}^{el}_{a})\\implies \\sigma_{i_{j+1}}(v^{\\ell+1})=\\kappa_{b}^{\\ell+1}\\text{ and }\\mu_j\\in V(\\mathcal{K}^{\\ell+1}_{a})\\implies \\sigma_{i_{j+1}}(v^{\\ep+1})=\\kappa_{a}^{\\ell+1},"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/40.jpg-1803.7930000000001_3126.0_2823.933_3258.0000000000005.jpg",
+        "gt": "V(\\mathcal K_a^\\ell) \\cup \\{\\eta_1\\} = \\sigma_{i_j}(V(\\mathcal P_a^\\ell)),",
+        "pred": "V(\\mathcal{K}^\\ell_a)\\cup\\{\\eta_1\\}=\\sigma_{ij}(V(\\mathcal{P}^\\ell_a)),"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/40.jpg-1664.683_3528.0_2963.043_3672.0.jpg",
+        "gt": "\\sigma_{i_j}^{-1}(\\{\\kappa_a^\\ell, \\kappa_b^\\ell\\}) \\cap (V(\\mathcal P_a^\\ell) \\setminus \\{v_a^\\ell\\}) \\neq \\emptyset,",
+        "pred": "\\sigma_{ij}^{-1}(\\{\\kappa_{a}^{\\ell},\\kappa_{b}^{\\ell}\\})\\cap (V(\\mathcal{P}_{a}^{\\ell})\\setminus\\{v_{a}^{\\ell}\\})\\neq\\emptyset,"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/41.jpg-1826.978_2988.0_2791.4739999999997_3102.0.jpg",
+        "gt": "\\lambda_{(L, n)}(\\ell+1) \\geq 25\\lambda_{(L, n)}(\\ell).",
+        "pred": "\\lambda_{(L,n)}(\\ell+1)\\geq 25\\lambda_{(L,n)}(\\ell)."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/41.jpg-1836.2520000000002_4146.0_2782.2_4272.0.jpg",
+        "gt": "d(\\sigma_s, \\sigma_f) \\geq 25^{L-1} = e^{\\Omega(n)}.",
+        "pred": "d(\\sigma_s,\\sigma_f) \\geq 25^{L-1} = e^{\\Omega(n)}."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/43.jpg-1766.6970000000001_2274.0_2861.029_2406.0.jpg",
+        "gt": "e^{\\Omega(n)} = \\mathcal D(n) \\leq e^{\\left(1-o(1)\\right)n \\log n}.",
+        "pred": "e^{\\Omega(n)}=\\mathcal{D}(n)\\leq e^{(1-o(1))n\\log n}."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/05.jpg-1901.1699999999998_4632.0_2726.556_4872.0.jpg",
+        "gt": "\\mathcal L([\\alpha]_\\approx) = \\bigsqcup_{\\hat{\\alpha} \\in [\\alpha]_\\approx} \\mathcal L(\\hat{\\alpha}).",
+        "pred": "\\mathcal{L}([\\alpha]_{\\approx}) = \\bigsqcup_{\\hat{\\alpha} \\in [\\alpha]_{\\approx}} \\mathcal{L}(\\hat{\\alpha})."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/11.jpg-1525.573_780.0_3102.1530000000002_882.0.jpg",
+        "gt": "d_1n_1 + \\cdots + d_{r-1}n_{r-1} \\equiv n_r - c \\pmod{n_r}.",
+        "pred": "d_1n_1+\\cdots+d_{r-1}n_{r-1}\\equiv n_r-c\\pmod{n_r}."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/17.jpg-1163.887_780.0_3468.476_900.0.jpg",
+        "gt": "|\\sigma_s(V(\\mathcal C_a^\\ell)) \\setminus (V(\\mathcal S_a^\\ell) \\setminus \\{\\kappa_a^\\ell\\})| = |\\sigma_s(V(\\mathcal C_b^\\ell)) \\setminus (V(\\mathcal S_b^\\ell) \\setminus \\{\\kappa_b^\\ell\\})| = 2.",
+        "pred": "|\\sigma_s(V(\\mathcal{C}_a^\\ell))\\setminus (V(\\mathcal{S}_a^\\ell)\\setminus\\{\\kappa_a^\\ell\\})| = |\\sigma_s(V(\\mathcal{C}_b^\\ell))\\setminus (V(\\mathcal{S}_b^\\ell)\\setminus\\{\\kappa_b^\\ell\\})| = 2."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/18.jpg-1488.477_3372.0000000000005_3129.9750000000004_3498.0.jpg",
+        "gt": "\\sigma_{\\lambda-2}^{-1}(\\kappa_a^\\ell) \\neq \\sigma_{\\lambda-1}^{-1}(\\kappa_a^\\ell) \\text{ and } \\sigma_{\\lambda-2}^{-1}(\\mu) = \\sigma_{\\lambda-1}^{-1}(\\mu),",
+        "pred": "\\sigma_{\\lambda-2}^{-1}(\\kappa_a^{\\ell})\\neq \\sigma_{\\lambda-1}^{-1}(\\kappa_a^{\\ell})\\text{ and }\\sigma_{\\lambda-2}^{-1}(\\mu)=\\sigma_{\\lambda-1}^{-1}(\\mu),"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/20.jpg-1298.3600000000001_2634.0_3324.729_2760.0.jpg",
+        "gt": "|\\sigma_i^{-1}(\\{\\kappa_a^\\ell, \\kappa_b^\\ell\\}) \\cap ((V(\\mathcal P_a^\\ell) \\setminus \\{v_a^\\ell\\}) \\cup (V(\\mathcal P_b^\\ell) \\setminus \\{v_b^\\ell\\}))| = 1.",
+        "pred": "|\\sigma_i^{-1}(\\{\\kappa_a^{\\ell},\\kappa_b^{\\ell}\\})\\cap ((V(\\mathcal{P}_a^{\\ell})\\setminus\\{v_a^{\\ell}\\})\\cup (V(\\mathcal{P}_b^{\\ell})\\setminus\\{v_b^{\\ell}\\}))=1."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/22.jpg-1669.32_768.0_2958.406_894.0.jpg",
+        "gt": "\\sigma_i^{-1}(\\{\\kappa_a^\\ell, \\kappa_b^\\ell\\}) \\cap (V(\\mathcal P_a^\\ell) \\setminus \\{v_a^\\ell\\}) \\neq \\emptyset.",
+        "pred": "\\sigma_i^{-1}(\\{\\kappa_a^\\ell,\\kappa_b^\\ell\\})\\cap (V(\\mathcal{P}_a^\\ell)\\setminus\\{v_a^\\ell\\})\\neq\\emptyset."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/22.jpg-1034.051_3828.0_3584.4010000000003_3960.0.jpg",
+        "gt": "\\sigma_{i+1}^{-1}(V(\\mathcal K^\\ell)) \\not\\subset V(\\mathcal P_a^\\ell) \\cup V(\\mathcal P_b^\\ell) \\text{ and } |\\{\\sigma_{i+1}(v_a^\\ell), \\sigma_{i+1}(v_b^\\ell)\\} \\cap V(\\mathcal K^\\ell)| \\leq 1.",
+        "pred": "\\sigma_{i+1}^{-1}(V(\\mathcal{K}^\\ell))\\not\\in V(\\mathcal{P}_a^\\ell)\\cup V(\\mathcal{P}_b^\\ell)\\text{ and }\\vert\\{\\sigma_{i+1}(v_a^\\ell),\\sigma_{i+1}(v_b^\\ell)\\}\\cap V(\\mathcal{K}^\\ell)\\}\\leq 1."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/24.jpg-1298.3600000000001_996.0_3334.0029999999997_1116.0.jpg",
+        "gt": "\\sigma_\\lambda(v_a^{1,2}) \\in V(\\mathcal S_a^1) \\setminus \\{\\kappa_a^1\\} \\text{  and \n }\\sigma_\\lambda(v_a^{1,2}) \\in V(\\mathcal K^1) \\setminus \\{\\kappa_a^2, \\kappa_b^2\\}",
+        "pred": "\\sigma_{\\lambda}(v^{1,2}_a)\\in V(\\mathcal{S}^{1}_a)\\setminus\\{\\kappa^1_a\\}\\text{ and }\\sigma_{\\lambda}(v^{1,2}_a)\\in V(\\mathcal{K}^1)\\setminus\\{\\kappa^2_a,\\kappa^2_b\\}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/24.jpg-1632.224_3918.0_2995.502_4062.0000000000005.jpg",
+        "gt": "\\sigma_\\xi^{-1}(\\sigma_{\\lambda-1}(v_b^{1,2})) \\in N_{X_L}(v_b^{1,2}) \\cap V(\\mathcal C_b^2).",
+        "pred": "\\sigma_{\\xi}^{-1}(\\sigma_{\\lambda-1}(v_{b}^{1,2}))\\in N_{X_{L}}(v_{b}^{1,2})\\cap V(\\mathcal{C}_{b}^{2})."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/25.jpg-1632.224_3078.0_2995.502_3210.0.jpg",
+        "gt": "|\\sigma_\\zeta^{-1}(V(\\mathcal K^1)) \\setminus (V(\\mathcal P_a^1) \\cup V(\\mathcal P_b^1))| \\geq 2.",
+        "pred": "|\\sigma_\\zeta^{-1}(V(\\mathcal{K}^1))\\setminus (V(\\mathcal{P}_a^1)\\cup V(\\mathcal{P}_b^1))|\\geq 2."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/27.jpg-1567.306_684.0_3055.7830000000004_810.0.jpg",
+        "gt": "(V(\\mathcal S_a^{\\ell-2}) \\setminus \\{\\kappa_a^{\\ell-2}\\}) \\cup (V(\\mathcal S_b^{\\ell-2}) \\setminus \\{\\kappa_b^{\\ell-2}\\}).",
+        "pred": "(V(\\mathcal{S}_a^{\\ell-2})\\setminus\\{\\kappa_a^{\\ell-2}\\})\\cup (V(\\mathcal{S}_b^{\\ell-2})\\setminus\\{\\kappa_b^{\\ell-2}\\})."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/27.jpg-1766.6970000000001_3954.0_2856.392_4080.0000000000005.jpg",
+        "gt": "\\sigma_{\\lambda-1}(\\sigma_\\lambda^{-1}(\\kappa_a^\\ell)) \\in \\{\\kappa_a^{\\ell+1}, \\kappa_b^{\\ell+1}\\},",
+        "pred": "\\sigma_{\\lambda-1}(\\sigma_{\\lambda}^{-1}(\\kappa_a^{\\ell}))\\in\\{\\kappa_a^{\\ell+1},\\kappa_b^{\\ell+1}\\},"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/28.jpg-1038.688_1782.0_3589.038_1914.0.jpg",
+        "gt": "\\sigma_{\\xi+1}(\\sigma_{\\lambda-1}^{-1}(\\kappa_a^\\ell)) \\in (V(\\mathcal S_a^{\\ell+1}) \\setminus \\{\\kappa_a^{\\ell+1}\\}) \\cup (V(\\mathcal S_b^{\\ell+1}) \\setminus \\{\\kappa_b^{\\ell+1}\\}) \\cup V(\\mathcal K^{\\ell+1}).",
+        "pred": "\\sigma_{\\xi+1}(\\sigma_{\\lambda-1}^{-1}(\\kappa_a^\\ell))\\in (V(\\mathcal{S}_a^{\\ell+1})\\setminus\\{\\kappa_a^{\\ell+1}\\})\\cup (V(\\mathcal{S}_a^{\\ell+1})\\setminus\\{ \\kappa_b^{\\ell+1}\\})\\cup V(\\mathcal{K}^{\\ell+1})."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/28.jpg-1238.0790000000002_2058.0_3385.0099999999998_2190.0.jpg",
+        "gt": "\\sigma_{\\xi+1}(\\sigma_{\\lambda-1}^{-1}(\\kappa_a^\\ell)) \\in (V(\\mathcal S_a^{\\ell+1}) \\setminus \\{\\kappa_a^{\\ell+1}\\}) \\cup (V(\\mathcal S_b^{\\ell+1}) \\setminus \\{\\kappa_b^{\\ell+1}\\}),",
+        "pred": "\\sigma_{\\xi+1}(\\sigma_{\\lambda-1}^{-1}(\\kappa_a^{\\ell}))\\in (V(\\mathcal{S}_a^{\\ell+1})\\setminus\\{\\kappa_a^{\\ell+1}\\})\\cup (V(\\mathcal{S}_b^{\\ell+1})\\setminus\\{\\kappa_b^{\\ell+1}\\}),"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/28.jpg-1924.355_2562.0_2708.008_2694.0.jpg",
+        "gt": "\\sigma_{\\xi+1}(\\sigma_{\\lambda-1}^{-1}(\\kappa_a^\\ell)) = \\kappa_a^\\ell,",
+        "pred": "\\sigma_{\\xi+1}(\\sigma_{\\lambda-1}^{-1}(\\kappa_a^\\ell)) = \\kappa_a^\\ell,"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/30.jpg-969.1329999999999_2652.0_3862.6209999999996_2778.0.jpg",
+        "gt": "|\\sigma_{\\lambda-1}^{-1}(V(\\mathcal K^\\ell)) \\setminus (V(\\mathcal P_a^\\ell) \\cup V(\\mathcal P_b^\\ell))| = 1 \\text{ and } |\\sigma_\\lambda^{-1}(V(\\mathcal K^\\ell)) \\setminus (V(\\mathcal P_a^\\ell) \\cup V(\\mathcal P_b^\\ell))| = 2,",
+        "pred": "|\\sigma_{\\lambda-1}^{-1}(V(\\mathcal{K}^\\ell))\\setminus (V(\\mathcal{P}_a^\\ell)\\cup V(\\mathcal{P}_b^\\ell))|=1\\text{ and }|\\sigma_{\\lambda}^{-1}(V(\\mathcal{K}^\\ell))\\setminus (V (\\mathcal{P}_a^\\ell)\\cup V(\\mathcal{P}_b^\\epsilon))=2,"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/33.jpg-1789.882_1074.0_2833.207_1212.0.jpg",
+        "gt": "\\sigma_\\xi^{-1}(\\kappa_a^{\\ell+1}) \\in V(\\mathcal P_a^\\ell) \\cup V(\\mathcal P_b^\\ell),",
+        "pred": "\\sigma_\\xi^{-1}(\\kappa_a^{\\ell+1})\\in V(\\mathcal{P}_a^\\ell)\\cup V(\\mathcal{P}_b^\\ell),"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00665/debug/41.jpg-1794.519_1440.0_2833.207_1572.0.jpg",
+        "gt": "\\Tilde{\\sigma}^{-1}(\\kappa_a^{\\ell+1}) \\notin V(\\mathcal P_a^\\ell) \\cup V(\\mathcal P_b^\\ell),",
+        "pred": "\\tilde{\\sigma}^{-1}(\\kappa_{a}^{\\ell+1})\\notin V(\\mathcal{P}_{a}^{\\ell})\\cup V(\\mathcal{P}_{b}^{\\ell}),"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00215/debug/1.jpg-1840.8890000000001_3150.0_2786.837_3252.0.jpg",
+        "gt": "\\phi_{p\\ell-1}(pn+r) \\equiv 0 \\pmod{2}",
+        "pred": "\\phi_{p\\ell-1}(pn+r)\\equiv 0\\pmod{2}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00215/debug/2.jpg-1771.334_3276.0000000000005_2851.755_3395.9999999999995.jpg",
+        "gt": "c\\phi_p(pn+r) \\equiv 0\\pmod{p^2}.",
+        "pred": "c\\phi_p(m+ r)\\equiv 0\\pmod{p^2}."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00215/debug/2.jpg-1803.7930000000001_4008.0000000000005_2833.207_4122.0.jpg",
+        "gt": "c\\phi_{pN+k}(pn+r) \\equiv 0\\pmod{p}",
+        "pred": "c\\phi_k(p n+r) \\equiv 0 \\pmod{p}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00215/debug/3.jpg-1469.929_3012.0_3143.8860000000004_3126.0.jpg",
+        "gt": "(A;q)_\\infty = (1-A)(1-Aq)\\cdots(1-Aq^{n})\\cdots",
+        "pred": "(A;q)_{\\infty}=(1-A)(1-Aq)\\cdots(1-Aq^{n})\\cdots"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00215/debug/3.jpg-1799.156_3431.9999999999995_2837.844_3720.0.jpg",
+        "gt": "(q;q)_\\infty = \\sum\\limits_{k = -\\infty}^\\infty (-1)^k q^{\\frac{3k^2-k}{2}}",
+        "pred": "(q;q)_{\\infty}=\\sum_{k=-\\infty}^{\\infty}(-1)^k q^{\\frac{3k^2-k}{2}}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00215/debug/3.jpg-1919.7179999999998_5040.0_2712.645_5322.0.jpg",
+        "gt": "\\Phi_k(q) = \\sum_{n=0}^\\infty \\phi_k(n)q^n",
+        "pred": "\\Phi_k(q) = \\sum_{n=0}^\\infty \\phi_k(n) q^n"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00215/debug/4.jpg-1664.683_1134.0_2963.043_1374.0.jpg",
+        "gt": "\\Phi_k(q) \\equiv \\frac{(q;q)_\\infty}{(q^{k+1};q^{k+1})_\\infty} \\pmod{2}.",
+        "pred": "\\Phi_k(q) \\equiv \\frac{(q;q)_{\\infty}}{(q^{k+1};q^{k+1})_{\\infty}} \\pmod{2}."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00215/debug/5.jpg-1966.088_1224.0_2670.912_1446.0.jpg",
+        "gt": "pn+r = \\frac{3k^2-k}{2}",
+        "pred": "pn+r=\\frac{3k^2-k}{2}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00215/debug/5.jpg-1752.786_2370.0_2874.94_2484.0.jpg",
+        "gt": "\\phi_{p\\ell-1}(pn+r) \\equiv 0 \\pmod{p}.",
+        "pred": "\\phi_{p\\ell-1}(pn+r)\\equiv 0\\pmod{p}."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00215/debug/5.jpg-1771.334_3276.0000000000005_2851.755_3395.9999999999995.jpg",
+        "gt": "c\\phi_{2k}(2n+1) \\equiv 0 \\pmod{2}.",
+        "pred": "c\\phi_{2k}(2n+1)\\equiv 0\\pmod{2}."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00215/debug/5.jpg-1279.8120000000001_4500.0_3347.9139999999998_5076.0.jpg",
+        "gt": "CG_{2k}(z) \n    &= \\prod_{n=0}^\\infty(1+zq^{n+1})^{2k}(1+z^{-1}q^n)^{2k}\\\\\n    & \\equiv \\prod_{n=0}^\\infty(1+z^2q^{2n+2})^{k}(1+z^{-2}q^{2n})^{k} \\pmod{2}.",
+        "pred": "CG_{2k}(z) &= \\prod_{n=0}^{\\infty} (1 + zq^{n+1})^{2k} (1 + z^{-1}q^n)^{2k} \\\\\n&\\equiv \\prod_{n=0}^{\\infty} (1 + z^2q^{2n+2})^k (1 + z^{-2}q^{2n})^k \\pmod{2}."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00343/debug/2.jpg-3032.598_4632.0_3598.312_4734.0.jpg",
+        "gt": "u=\\mathcal{C} (M \\otimes I_{\\mathcal{X}}) e",
+        "pred": "u = \\mathcal{C}(M \\otimes I_{\\mathcal{K}}) e"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00343/debug/2.jpg-2847.118_4836.0_3779.1549999999997_5094.0.jpg",
+        "gt": "\\displaystyle\\mathcal{C}\\colon D(\\mathcal{C}) \\subset \\bigoplus_{i=1}^N \\mathcal{X} \\longrightarrow \\bigoplus_{i=1}^N \\mathcal{U}",
+        "pred": "\\mathcal{C} \\colon D(\\mathcal{C}) \\subset \\bigoplus_{i=1}^{N} \\mathcal{X} \\longrightarrow \\bigoplus_{i=1}^{N} \\mathcal{U}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00343/debug/3.jpg-830.0229999999999_1745.9999999999998_1803.7930000000001_1860.0.jpg",
+        "gt": "\\mathcal{S}_l= \\{(z_l, e)\\in \\mathcal{X}^{N+1} \\colon e=0\\}",
+        "pred": "\\mathcal{S}_l = \\{ (z_l, e) \\in \\mathcal{X}^{N+1} : e = 0 \\}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00343/debug/3.jpg-2944.495_900.0_3677.141_1116.0.jpg",
+        "gt": "\\displaystyle u_i=\\int_0^1 k_{i} m_{i} e_i (x)dx.",
+        "pred": "u_i = \\int_0^1 k_i m_i e_i(x) dx."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00343/debug/3.jpg-2615.2679999999996_2556.0_4011.005_2778.0.jpg",
+        "gt": "\\begin{aligned}\n&D(\\mathcal{C})=\\mathbf{L}^2(0,1;\\mathbb{R}^N)\n&\\mathcal{C}h= \\left(K \\otimes \\int_0^1\\right) h\n\\end{aligned}",
+        "pred": "D(\\mathcal{C}) = \\mathbf{L}^2(0,1;\\mathbb{R}^N) \\quad \\mathcal{C}h = \\left(K\\otimes \\int_0^1\\right) h"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00343/debug/4.jpg-426.604_636.0_2216.486_1697.9999999999998.jpg",
+        "gt": "\\begin{aligned}\n&2\\langle\\mathcal{P(A+\\mathcal{L}_\\mathcal{G}})e,e\\rangle=2\\beta\\int_0^1 e^T P\\frac{d^2}{dx^2}e+2\\alpha \\int_0^1 e^T Pe\\\\\n&+2\\int_0^1 e^T PGLe=2\\beta e^T P\\frac{d}{dx}e\\Big\\vert_{0}^{1}-2\\beta\\int_0^1 \\frac{d}{dx}e^T P\\frac{d}{dx}e\\\\\n&+2\\alpha \\int_0^1 e^T Pe +2\\int_0^1 e^T PGL e \\\\\n&=-2 \\beta e^T(0)P\\bar{K}\\int_0^1e -2\\beta \\int_0^1 \\frac{d}{dx}e^T P\\frac{d}{dx}e \\\\\n&+2\\alpha \\int_0^1 e^T Pe + 2\\int_0^1 e^T PGL e \n\\end{aligned}",
+        "pred": "2\\langle \\mathcal{P}(\\mathcal{A}+\\mathcal{L}_{\\mathcal{G}}) e, e\\rangle &= 2\\beta \\int_0^1 e^T P \\frac{d^2}{dx} e + 2\\alpha \\int_0^1 e^T P e \\\\\n    + 2\\int_0^1 e^T PGL e &= 2\\beta e^T P \\frac{d}{dx} \\binom{1}{0} - 2\\beta \\int_0^1 \\frac{d}{dx} e^T P \\frac{d}{dx} e \\\\\n    + 2\\alpha \\int_0^1 e^T P e + 2\\int_0^1 e^T PGL e \\\\\n    &= -2\\beta e^T(0) P \\widehat{K} \\int_0^1 e - 2\\beta \\int_0^1 \\frac{d}{dx} e^{T} P \\frac{d}{dx} e \\\\\n    + 2\\alpha \\int_1^0 e^T P e + 2\\int_1^0 e^T PGL e \\\\"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00343/debug/4.jpg-714.098_1968.0_1928.992_2190.0.jpg",
+        "gt": "&e^T(0)P\\bar{K}\\int_0^1e=\n-\\int_0^1(\\hat{e}^T+e) P\\bar{K}e",
+        "pred": "e^T(0)P\\tilde{K}\\int_0^1 e=-\\int_0^1(\\dot{e}^T+e)P\\tilde{K}e"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00343/debug/4.jpg-686.276_2346.0_1956.8139999999999_2562.0.jpg",
+        "gt": "-\\int_0^1 \\frac{d}{dx}e^T P\\frac{d}{dx}e=-\\int_0^1 \\frac{d}{dx}\\hat{e}^T P\\frac{d}{dx}\\hat{e}",
+        "pred": "-\\int_0^1 \\frac{d}{dx} c^T P \\frac{d}{dx} e = -\\int_0^1 \\frac{d}{dx} \\tilde{e}^T P \\frac{d}{dx} \\tilde{e}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00343/debug/4.jpg-755.831_5064.0_1882.622_5166.0.jpg",
+        "gt": "\\beta=1, P=I_N, G=gI_N, K=kI_s",
+        "pred": "\\beta = 1, P = I_N, G = gI_N, K = kI_s"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00343/debug/4.jpg-2935.221_2784.0_3691.052_3000.0.jpg",
+        "gt": "\\Tilde{\\Omega}=\\begin{bmatrix}\n -\\frac{\\pi^2}{2} & k \\\\\nk  & 2(\\alpha - k)\n\\end{bmatrix}",
+        "pred": "\\tilde{\\Omega} = \\left[ \\begin{array}{cc}\n    -\\frac{\\pi^2}{k} & k \\\\\n    k^2 & 2(\\alpha-k)\n    \\end{array} \\right]"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00343/debug/4.jpg-2499.3430000000003_5220.0_3997.094_5424.0.jpg",
+        "gt": "\\displaystyle D(\\mathfrak{A})=\\left\\{z \\in \\mathbf{H}^2(0,1)\\colon \\frac{dz}{dx}(0)=\\frac{dz}{dx}(1)=0\\right\\}",
+        "pred": "D(\\mathfrak{Q}) = \\left\\{z \\in \\mathbf{H}^2(0,1) \\colon \\frac{dz}{dx}(0) = \\frac{dz}{dx}(1) = 0\\right\\}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00343/debug/5.jpg-746.557_1950.0_1891.896_2274.0.jpg",
+        "gt": "&\\bar{K}= k\\underbrace{\\begin{bmatrix}\n I_s& \\mathbf{0}_{s\\times (N-s)}\\\\\n\\mathbf{0}_{(N-s)\\times s} & \\mathbf{0}_{(N-s)\\times (N-s)}\n\\end{bmatrix}}_{P_s}",
+        "pred": "\\bar{K} = k \\left[ \\begin{array}{cc}\nI_s & \\mathbf{0}_{s \\times (N-s)} \\\\\n\\mathbf{0}_{(N-s) \\times S} & \\mathbf{0}_{(N-s) \\times (N-s)} \\\\\n\\bar{P}_s & \\bar{P}_s'\n\\end{array} \\right]"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00343/debug/5.jpg-491.522_3372.0000000000005_2031.006_3588.0.jpg",
+        "gt": "\\Omega=\\Omega_{s}:=\\begin{bmatrix}\n -\\frac{\\pi^2}{2} I_N& k P_s\\\\\nk P_s & 2\\alpha I_N - 2kP_s +gL\n\\end{bmatrix}\\prec 0",
+        "pred": "\\Omega = \\Omega_s := \\left[-\\frac{\\pi_s^2}{kP_s}\\right]_{2\\alpha I_N - 2kP_s + gL} \\prec 0"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00343/debug/5.jpg-431.241_3810.0_2207.212_4002.0.jpg",
+        "gt": "-\\Omega_s\\succ 0\\iff \\mathcal{D} \\coloneqq 2kP_s-2\\alpha I_N-gL-2\\frac{k^2}{\\pi^2}P_s \\succ 0",
+        "pred": "-\\Omega_s \\succ 0 \\iff \\mathcal{D} \\eqdef 2kS_p - 2\\alpha I_N - gL - 2\\frac{k^2}{\\pi^2}P_s \\succ 0"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00343/debug/5.jpg-746.557_4242.0_1901.1699999999998_4428.0.jpg",
+        "gt": "\\mathds{1}_N^T \\mathcal{D} \\mathds{1}_N= 2ks-2\\alpha N- 2\\frac{k^2}{\\pi^2}s>0",
+        "pred": "\\mathds{1}_N^T \\mathcal{D} \\mathds{1}_N = 2k s - 2\\alpha N - 2\\frac{k^2}{\\pi^2} s > 0"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00343/debug/6.jpg-987.6809999999999_3816.0_1650.772_4074.0000000000005.jpg",
+        "gt": "\\overline{e}(x,t)=\\sum_{i=1}^N e_i(x,t)",
+        "pred": "\\overline{e}(x,t) = \\sum_{i=1}^N e_i(x,t)"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/05.jpg-1577.28_3054.0_2645.76_3168.0.jpg",
+        "gt": "(1+\\eta_r)(1+\\eta_s)=(1+\\eta_{r+s}).",
+        "pred": "(1+\\eta_r)(1+\\eta_s)=(1+\\eta_{r+s})."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/07.jpg-1768.08_4638.0_2463.44_4746.0.jpg",
+        "gt": "a\\otimes b=ab(1+\\eta_3).",
+        "pred": "a\\otimes b=ab(1+\\eta_3)."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/09.jpg-1696.0_906.0_2535.52_1008.0000000000001.jpg",
+        "gt": "\\texttt{a = A + Turing(eps)}",
+        "pred": "\\text{a}\\ =\\ \\text{A}\\ +\\ \\text{Turing}(\\text{eps})"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/09.jpg-903.12_4704.0_3332.6400000000003_4992.0.jpg",
+        "gt": "S_1:=\\sum_{n=1}^N\\frac{1}{n^s}+\\Turing(\\varepsilon/6),\\qquad\nS_2:=\\sum_{k=0}^K \\frac{C_k(q)}{a^k}+RS_K+\\Turing(A_1\\varepsilon/3).",
+        "pred": "S_1:=\\sum_{n=1}^N\\frac{1}{n^s}+\\mathfrak{O}^*(\\varepsilon/6),\\qquad S_2:=\\sum_{k=0}^K\\frac{C_k(q)}{a^k}+RS_K+\\mathfrak{O}^*(A_1\\varepsilon/3)."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/11.jpg-1611.2_894.0_2628.8_1176.0.jpg",
+        "gt": "\\sum_{k=0}^{K} \\frac{C_k(p)}{a^k}+RS_K+\\Turing(\\varepsilon_2).",
+        "pred": "\\sum_{k=0}^K \\frac{C_k(p)}{a^k} + RS_K + \\mathfrak{O}^*(\\varepsilon_2)."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/11.jpg-1840.16_2928.0_2399.8399999999997_3150.0.jpg",
+        "gt": "3c\\frac{\\Gamma(L/2)}{(b a)^L}<\\varepsilon_2",
+        "pred": "3c\\frac{\\Gamma(L/2)}{(ba)^L}<\\varepsilon_2"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/13.jpg-1797.76_810.0_2442.24_1020.0000000000001.jpg",
+        "gt": "3L<\\frac{2a^2}{25}=\\frac{t}{25\\pi}.",
+        "pred": "3L<\\frac{2a^2}{25}=\\frac{t}{25\\pi}."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/13.jpg-907.36_2406.0_3324.1600000000003_2520.0.jpg",
+        "gt": "x_1\\oplus x_2\\oplus \\cdots \\oplus x_n\n=x_1(1+\\eta_n)+x_2(1+\\eta_{n-1})+\\cdots +x_n(1+\\eta_1).",
+        "pred": "x_1 \\oplus x_2 \\oplus \\cdots \\oplus x_n = x_1(1+\\eta_n) + x_2(1+\\eta_{n-1}) + \\cdots + x_n(1+\\eta_1)."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/13.jpg-1738.3999999999999_3012.0_2493.12_3294.0000000000005.jpg",
+        "gt": "S:=\\sum_{n=1}^N a_n +\\Turing(\\varepsilon).",
+        "pred": "S:=\\sum_{n=1}^Na_n+\\mathcal{O}^*(\\varepsilon)."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/14.jpg-771.68_2196.0_3468.3199999999997_2586.0.jpg",
+        "gt": "\\texttt{sum}&=v'_1(1+\\eta_N)+v'_2(1+\\eta_{N-1})+\\cdots +v'_n(1+\\eta_1)\\\\\n&=v_1(1+\\eta_{N+1})+v_2(1+\\eta_{N})+\\cdots +v_N(1+\\eta_2)\\\\\n&=(a_1+\\alpha_1)(1+\\eta_{N+1})+(a_2+\\alpha_2)(1+\\eta_{N})+\\cdots +(a_N+\\alpha_N)(1+\\eta_2)",
+        "pred": "\\begin{aligned}\n\\mathop{\\text{sum}} = & v'_1(1+\\eta_N) + v'_2(1+\\eta_{N-1}) + \\cdots + v'_n(1+\\eta_1) \\\\\n& = v_1(1+\\eta_{N+1}) + v_2(1+\\eta_N) + \\cdots + v_N(1+\\eta_2) \\\\\n& = (a_1+\\alpha_1)(1+\\eta_{N+1}) + (a_2+\\alpha_2)(1+\\eta_N) + \\cdots + (a_N+\\alpha_N)(1+\\eta_2)\n\\end{aligned}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/14.jpg-1110.88_2742.0_3129.12_3467.9999999999995.jpg",
+        "gt": "\\Bigl|\\texttt{sum}-\\sum_{n=1}a_n\\Bigr|&\\le \\sum_{n=1}^N |a_n\\eta_{N-n+2}|+\\delta\\sum_{n=2}^{N+1}|1+\\eta_n|\\le\n\\\\ &\\le (A+\\delta)*1.06\\cdot \\frac{N(3+N)}{2}2^{-d}+N\\delta<\\\\\n&<\\frac{2.2 A(N+3)^2 2^{-d}}{2}+\\frac{\\varepsilon}{2}<\\varepsilon.\\qedhere",
+        "pred": "\\left| \\operatorname*{sum} - \\sum_{n=1} a_n \\right| &\\leq \\sum_{n=1}^N |a_n \\eta_{N-n+2}| + \\delta \\sum_{n=2}^{N+1} |1+\\eta_n| \\leq \\\\\n&\\leq (A+\\delta) * 1.06 \\cdot \\frac{N(3+N)}{2} 2^{-d} + N \\delta < \\\\\n&< \\frac{2.2A(N+3)^2 2^{-d}}{2} + \\frac{\\varepsilon}{2} < \\varepsilon."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/14.jpg-1496.72_4410.0_2734.8_4692.0.jpg",
+        "gt": "\\texttt{rssum} = \\sum_{k=1}^{L}\\frac{C_{L-k}(p)}{a^{L-k}}+\\Turing(\\varepsilon_2/2).",
+        "pred": "\\mathsf{rssum} = \\sum_{k=1}^L \\frac{C_{L-k}(p)}{a^{L-k}} + \\mathcal{O}^*(\\varepsilon_2/2)."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/14.jpg-1734.1599999999999_4956.0_2488.8799999999997_5070.0.jpg",
+        "gt": "\\texttt{rsbound}:=c\\sqrt{\\pi}/b a.",
+        "pred": "\\text{rssound}:=c\\sqrt{\\pi}/ba."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/14.jpg-1255.04_5232.0_2980.72_5442.0.jpg",
+        "gt": "\\texttt{term[k]} := \\frac{C_k(p)}{a^k}+\\Turing(\\varepsilon_3)\\quad\\text{where}\\quad \\varepsilon_3=\\frac{\\varepsilon_2}{4L}.",
+        "pred": "\\text{term}[\\mathbf{k}]\\,:=\\, \\frac{C_k(p)}{a^k}+\\mathbf{\\mathcal{O}}^*(\\varepsilon_3)\\quad\\text{where}\\quad \\varepsilon_3=\\frac{\\varepsilon_2}{4L}."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/15.jpg-1356.8_1266.0_2883.2000000000003_1566.0.jpg",
+        "gt": "\\frac{C_k(p)}{a^k}=\\frac{1}{(\\pi^2 a)^{k}}\\sum_{j=0}^{\\lfloor3k/2\\rfloor}\n\\Bigl(\\frac{\\pi}{2i}\\Bigr)^j d^{(k)}_j\nF^{(3k-2j)}(p)",
+        "pred": "\\frac{C_k(p)}{a^k}=\\frac{1}{(\\pi^2a)^k}\\sum_{j=0}^{\\lfloor 3k/2 \\rfloor}\\left(\\frac{\\pi}{2i}\\right)^j d_j^{(k)}F^{(3k-2j)}(p)"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/15.jpg-958.24_2454.0_3277.52_2694.0.jpg",
+        "gt": "\\frac{t^{(k)}_j}{a^k}+\\Turing(\\varepsilon_4)\\quad\\text{where}\\quad\nt^{(k)}_j :=\n\\Bigl(\\frac{\\pi}{2i}\\Bigr)^j \\frac{d^{(k)}_j}{\\pi^{2k}}\nF^{(3k-2j)}(p), \\quad\\varepsilon_4=\\frac{\\varepsilon_3}\n{3L}.",
+        "pred": "\\frac{t^{(k)}_j}{a^k} + \\mathcal{O}^*(\\varepsilon_4) \\quad \\text{where} \\quad t^{(k)}_j := \\left(\\frac{\\pi}{2^i}\\right)^j \\frac{d^{(k)}_j}{\\pi^{2k}} F^{(3k-2j)}(p), \\quad \\varepsilon_4 = \\frac{\\varepsilon_3}{3L}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/15.jpg-695.36_3774.0_3536.16_4020.0000000000005.jpg",
+        "gt": "2.2\\frac{T_k}{a^k}(3k/2+4)^2\\frac{1}{\\varepsilon_3}<2.2\\frac{9}{4}\n\\frac{(L+2)^2\\,A}{\\varepsilon_3}\\frac{\\Gamma(k+\\frac12)^{1/2}}{(B_1 a\\sqrt{\\pi})^k}\n<68\\frac{(L+2)^2\\, A}{\\varepsilon_3}\\frac{\\Gamma(k+\\frac12)^{1/2}}{(B_1 a\\sqrt{\\pi})^k}",
+        "pred": "2.2\\frac{T_k}{a^k}(3k/2+4)^2\\frac{1}{\\varepsilon_3}<2.2\\frac{9}{4}\\frac{(L+2)^2A\\,\\Gamma(k+\\frac{1}{2})^{1/2}}{\\varepsilon_3}<68\\frac{(L+2)^2A\\,\\Gamma(k+\\frac{1}{2}) ^{1/2}}{(B_1a\\sqrt{\\pi})^k}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/15.jpg-848.0_4212.0_3379.28_4446.0.jpg",
+        "gt": "\\texttt{wpterm[k]} = \\max\\Bigl\\{\\texttt{mag}(40(L+2)),\n\\texttt{mag}\\Bigl(68\\frac{(L+2)^2\\, A}{\\varepsilon_3}\\frac{\\Gamma(k+\\frac12)^{1/2}}{(B_1 a\\sqrt{\\pi})^k}\\Bigr)\\Bigr\\}.",
+        "pred": "\\text{wperm}[\\mathbb{k}] = \\max\\Big\\{\\mathop{\\rm{mag}}(40(L+2)),\\mathop{\\rm{mag}}\\Big(68\\frac{(L+2)^2\\,A\\,\\Gamma(k+\\frac{1}{2})^{1/2}}{(B_1a\\sqrt{\\pi})^k}\\Big)\\Big\\}."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/16.jpg-1594.24_3780.0_2628.8_3924.0.jpg",
+        "gt": "\\texttt{tcoef[k,j]}=t^{(k)}_j+\\Turing(\\delta_k).",
+        "pred": "\\texttt{tcoef}[\\texttt{k},\\texttt{j}] = t_j^{(k)} + \\mathcal{O}^*(\\delta_k)."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/17.jpg-1221.12_4266.0_3014.64_4482.0.jpg",
+        "gt": "\\delta_k= \\frac{\\varepsilon_4 a^k}{4} \\quad\\text{and}\\quad\n\\frac{T_k}{a^k}\\cdot 1.06 \\cdot(2k+3)\\cdot\n2^{-d_k}<\\frac{\\varepsilon_4}{2}.",
+        "pred": "\\delta_k=\\frac{\\varepsilon_4a^k}{4}\\quad\\text{and}\\quad \\frac{T_k}{a^k}\\cdot 1.06\\cdot (2k+3)\\cdot 2^{-d_k}<\\frac{\\varepsilon_4}{2}."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/19.jpg-928.56_1362.0_3311.44_1566.0.jpg",
+        "gt": "2^{d_{k,j}}=\\frac{4}{\\varepsilon_4 a^k} 2^{-j}\\pi^{j-2k}D^{(k)}_jF_{3k-2j}\\le\n\\frac{4 A(\\sigma)}{\\varepsilon_4\n}\\frac{\\Gamma(k+1/2)^{1/2}}{(B_1 a \\sqrt{\\pi})^k},\\qquad\n0\\le j\\le 3k/2.",
+        "pred": "2^{d_{k,j}}=\\frac{4}{\\varepsilon_4a^k}2^{-j}\\pi^{j-2k}D_j^{(k)}F_{3k-2j}\\leq \\frac{4A(\\sigma)\\ \\Gamma(k+1/2)^{1/2}}{(B_1a\\sqrt{\\pi})^k},\\qquad 0\\leq j\\leq 3k/2."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/19.jpg-996.4_2184.0_3252.08_2484.0.jpg",
+        "gt": "\\texttt{Fp[m]}&= F^{(m)}(p)+\\Turing(\\widetilde{\\varepsilon_5}(m)),\n\\qquad 0\\le m\\le 3L-3,\\\\\n\\texttt{d[k,j]}&=d^{(k)}_j+\\Turing(\\gamma_{k,j}), \\qquad 0\\le k\\le\nL-1,\\quad 0\\le j\\le 3k/2,",
+        "pred": "\\begin{split}\n\\mathrm{Fp}\\left[\\mathrm{m}\\right] &= F^{(m)}(p)+\\mathcal{O}^*(\\tilde{\\varepsilon}_5(m)), \\qquad 0\\leq m\\leq 3L-3,\\\\\n\\mathrm{d}\\left[\\mathfrak{k},\\mathrm{j}\\right] &= d_j^{(k)}+\\mathcal{O}^*(\\gamma_{k,j}), \\qquad 0\\leq k\\leq L-1, \\quad 0\\leq j\\leq 3k/2,\n\\end{split}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/21.jpg-1246.56_1056.0_2993.44_1314.0.jpg",
+        "gt": "1>\n\\frac{\\Gamma(x+1)\\Gamma(x/3+2)}{(x+1)^2\\bigl(\\frac{(x+1)^4}{3e^4}\\bigr)^{x/3}}>\n\\frac{2\\pi}{3\\sqrt{3}e^{4/3}}\\approx 0.318741",
+        "pred": "1>\\frac{\\Gamma(x+1)\\Gamma(x/3+2)}{(x+1)^2\\left(\\frac{x+1}{3e^4}\\right)^{x/3}}>\\frac{2\\pi}{3\\sqrt{3}e^{4/3}}\\approx 0.318741"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/21.jpg-737.76_1488.0_3642.16_1727.9999999999998.jpg",
+        "gt": "1.05599\\approx\\frac{3^{7/6}\\sqrt{\\pi\\Gamma(10/3)}}{2^{10/3}}\n\\ge \\Bigl(\\frac{3\\Gamma(x/3+7/3)}{2\\Gamma(x/3+2)}\\Bigr)^{1/2}\n\\frac{\\Gamma(x/2+1)}{\\Gamma(x/2+3/2)}\n\\Bigl(\\frac{x+1}{3}\\Bigr)^{1/3}>1.",
+        "pred": "1.05599\\approx \\frac{3^{7/6}\\sqrt{\\pi}\\Gamma(10/3)}{2^{10/3}}\\geq \\Big(\\frac{3\\Gamma(x/3+7/3)}{2\\Gamma(x/3+2)}\\Big)^{1/2}\\frac{\\Gamma(x/2+1)}{\\Gamma(x/2+3/2)}\\Big(\\frac{x+1}{3}\\Big)^{1/3}>1."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/21.jpg-1424.64_1902.0_2815.36_2142.0.jpg",
+        "gt": "\\frac{5^x }{(2\\pi)^{\\frac{x-1}{2}}\\Gamma(x/2+1/2)}\n\\Bigl(\\frac{\\Gamma(x+1)}{\\Gamma(x/3+2)}\\Bigr)^{1/2}",
+        "pred": "\\frac{5^x}{(2\\pi)^{\\frac{x-1}{2}}\\Gamma(x/2+1/2)}\\Big(\\frac{\\Gamma(x+1)}{\\Gamma(x/3+2)}\\Big)^{1/2}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/21.jpg-1255.04_2826.0_2984.96_3060.0.jpg",
+        "gt": "F_m<\\varepsilon_5(m):=\\frac{(\\pi^2 B_1 a)^{m/3}\n}{316\\,A(\\sigma)}\\Bigl(\\frac{m!}\n{\\Gamma(m/3+2)}\\Bigr)^{1/2}\\,\\varepsilon_4",
+        "pred": "F_m<\\varepsilon_5(m):=\\frac{(\\pi^2B_1a)^{m/3}}{316A(\\sigma)}\\Big(\\frac{m!}{\\Gamma(m/3+2)}\\Big)^{1/2}\\varepsilon_4"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/21.jpg-1488.24_3546.0_2739.04_3648.0.jpg",
+        "gt": "\\texttt{Fp[m]}=0,\\qquad M\\le m\\le 3L-3,",
+        "pred": "\\mathrm{Fp}\\mathbf{\\left[\\mathbf{m}\\right]}=0,\\qquad M\\leq m\\leq 3L-3,"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/22.jpg-1225.36_798.0_3010.3999999999996_1002.0000000000001.jpg",
+        "gt": "\\Bigl|F^{(m)}(p)- P^{(m)}(p)\\Bigr|\\le\n\\frac{\\varepsilon_5(m)}{2},\\qquad (0\\le m< M)",
+        "pred": "\\left|F^{(m)}(p)-P^{(m)}(p)\\right|\\leq \\frac{\\varepsilon_5(m)}{2},\\qquad (0\\leq m<M)"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/22.jpg-1060.0_3096.0_3180.0_3348.0000000000005.jpg",
+        "gt": "\\frac{(2\\pi)^J}{J!} \\le \\frac{(\\pi^2 B_1 a)^{m/3}\\varepsilon_4}{632\nA(\\sigma)} \\frac{1}{\\sqrt{m!\\,\\Gamma(m/3+2)}},\\qquad 0\\le m< M.",
+        "pred": "\\frac{(2\\pi)^J}{J!} \\leq \\frac{(\\pi^2B_1a)^{m/3}\\varepsilon_4}{632A(\\sigma)}\\frac{1}{\\sqrt{m!\\,\\Gamma(m/3+2)}},\\qquad 0\\leq m<M."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/23.jpg-1212.6399999999999_1674.0000000000002_3027.3599999999997_1890.0.jpg",
+        "gt": "2^d>22 J,\\qquad  2^d>6.36 J \\frac{m! H_m}{\\varepsilon_m},\\qquad 0\\le\nm<M",
+        "pred": "2^d>22J,\\qquad 2^d>6.36J\\frac{m!H_m}{\\varepsilon_m},\\qquad 0\\leq m<M"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/24.jpg-966.72_1086.0_3269.04_1614.0.jpg",
+        "gt": "m=1\\qquad &\\texttt{c[k]} = (k+1)\\texttt{c[k+1]}(1+\\eta_2)\\\\\nm=2\\qquad &\\texttt{c[k]} = (k+1)(k+2)\\texttt{c[k+2]}(1+\\eta_3)\\\\\n\\dots\\\\\nm\\qquad & \\texttt{c[k]} = (k+1)(k+2)\\cdots (k+m)\\texttt{c[k+m]}(1+\\eta_{m+1})",
+        "pred": "m&=1\\qquad\\mathrm{c}\\left[\\mathbb{K}\\right]=(k+1)\\mathrm{c}\\left[\\mathbb{K}\\mathbf{+}1\\right](1+\\eta_{2})\\\\\nm&=2\\qquad\\mathrm{c}\\left[\\mathbb{K}\\right]=(k+ 1)(k+2)\\mathrm{c}\\left[\\mathbb{K}\\mathbf{+}2\\right](1+\\eta_{3})\\\\\n&\\qquad\\cdots\\\\\nm&\\qquad\\mathrm{c}\\left[\\mathbb{K}\\right]=(k+2)\\cdots(k+m)\\mathrm{c}\\left[\\mathbb{K}\\mathbf{+}\\mathbf{m}\\right](1+\\eta_{m+1})"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/24.jpg-826.8000000000001_2076.0_3417.44_3042.0.jpg",
+        "gt": "k=J-m-1\\qquad & \\texttt{sumP} = \\texttt{c[J-m-1]}\\\\\nk=J-m-2\\qquad & \\texttt{sumP} = \\texttt{c[J-m-1]p}(1+\\eta_2)+c[J-m-2](1+\\eta_1)\\\\\nk=J-m-3\\qquad & \\texttt{sumP} = \\texttt{c[J-m-1]p}^2(1+\\eta_4)+\\texttt{c[J-m-2]p}(1+\\eta_3)+\\\\\n&+\\texttt{c[J-m-3]}(1+\\eta_1)\\\\\nk=0\\qquad & \\texttt{sumP} = \\texttt{c[J-m-1]p}^{J-m-1}(1+\\eta_{2J-2m-2})+\\\\\n&+\\sum_{k=0}^{J-m-2}\\texttt{c[k]p}^k(1+\\eta_{2k+1}).",
+        "pred": "k&=J-m-1\\quad\\quad\\text{sumP}=\\text{c}\\left[\\mathrm{J-m-1}\\right]\\\\\nk&=J-m-2\\quad\\quad\\text{sumP}=\\text{c}\\left[\\mathrm{JJ-m-1}\\right]\\text{p}(1+\\eta_2)+c[J-m-2](1+\\eta_1)\\\\\nk&=J-m-3\\quad\\quad\\text{sumP}=\\text{c}\\left[\\mathrm{I-j-m-1}\\right]\\text{p}^2(1+\\eta_4)+\\text{c}\\left[\\mathrm{I-j-m-2}\\right]\\text{p}(1+\\eta_3)+\\\\\n&\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\qquad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad+\\text{c}\\left[\\mathrm{J-m-3}\\right](1+\\eta_1)\\\\\nk&=0\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\text{sumP}=\\text{c}\\left[\\mathrm{V-m-1}\\right]\\text{p}^{J-m-1}(1+\\eta_{2J-2m-2})+\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\\\\n&\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad+\\sum_{k=0}^{J-m-2}\\text{c}\\left[\\mathbf{k}\\right]\\text{p}^k(1+\\eta_{2k+1})."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/25.jpg-1026.08_2286.0_3213.92_2502.0.jpg",
+        "gt": "c_{2k}+\\Turing(2^{-2k}\\varepsilon_6),\\qquad (0\\le k\\le J)\\quad\n\\text{where}\\quad\n\\varepsilon_6:=\\frac{1}{3J}\\frac{(2\\pi)^J}{J!}.",
+        "pred": "c_{2k}+\\mathcal{O}^*(2^{-2k}\\varepsilon_6),\\qquad (0\\leq k\\leq J)\\quad\\text{where}\\quad \\varepsilon_6:=\\frac{1}{3J}\\frac{(2\\pi)^J}{J!}."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/25.jpg-949.76_2664.0_3277.52_2892.0.jpg",
+        "gt": "2^d>44 \\,J,\\qquad 2 ^d > 6812\\, J \\frac{m!}{\\varepsilon_5(m)},\\qquad 0\\le m\\le \\min(3L-3,21)",
+        "pred": "2^d>44\\,J,\\qquad 2^d>6812\\frac{m!}{\\varepsilon_5(m)},\\qquad 0\\leq m\\leq \\min(3L-3,21)"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/27.jpg-814.08_792.0_3574.3199999999997_1062.0.jpg",
+        "gt": "c_{2n}=(-1)^{n+1}\\frac{i}{\\sqrt{2}}\\sum_{k=0}^n (-1)^k V(k)W(2n-2k)+\\frac{e^{3\\pi i /8}}{2}\n\\sum_{k=0}^n i^{n-k}V(k)W(n-k)",
+        "pred": "c_{2n}=(-1)^{n+1}\\frac{i}{\\sqrt{2}}\\sum_{k=0}^{n}(-1)^k V(k)W(2n-2k)+\\frac{e^{3\\pi i/8}}{2}\\sum_{k=0}^{n}i^{n-k}V(k)W(n-k)"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/27.jpg-1365.28_1212.0_2874.7200000000003_1434.0.jpg",
+        "gt": "V_n=(-1)^n E_{2n}\\frac{\\pi^{2n}}{(2n)!},\\qquad\nW_n=\\frac{1}{n!}\\Bigl(\\frac{\\pi}{2}\\Bigr)^n.",
+        "pred": "V_n=(-1)^nE_{2n}\\frac{\\pi^{2n}}{(2n)!},\\qquad W_n=\\frac{1}{n!}\\left(\\frac{\\pi}{2}\\right)^n."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/27.jpg-1416.16_1590.0_2815.36_2136.0.jpg",
+        "gt": "P_1(n):&=(-1)^{n+1} i \\sum_{k=0}^n (-1)^k V_kW_{2n-2k}\\\\\nP_2(n):&=\\sum_{k=0}^n i^{n-k}V_kW_{n-k}.",
+        "pred": "P_1(n):= (-1)^{n+1} i \\sum_{k=0}^n (-1)^k V_k W_{2n-2k} \\\\\nP_2(n):= \\sum_{k=0}^n i^{n-k} V_k W_{n-k}."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/29.jpg-1250.8_1164.0_2984.96_1284.0.jpg",
+        "gt": "2^d >10(n+4),\\qquad 2^d >(2.385 M_n+2.5\\,N_n)/\\varepsilon",
+        "pred": "2^d>10(n+4),\\qquad 2^d>(2.385M_n+2.5\\,N_n)/\\varepsilon"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/29.jpg-1204.1599999999999_1458.0_3035.8399999999997_1727.9999999999998.jpg",
+        "gt": "M_n=\\sum_{k=0}^n (n-k+4)A_kB_{n-k},\\quad\nN_n=\\sum_{k=0}^n A_kB_{n-k}",
+        "pred": "M_n=\\sum_{k=0}^n(n-k+4)A_kB_{n-k},\\quad N_n=\\sum_{k=0}^nA_kB_{n-k}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/30.jpg-839.5200000000001_4050.0000000000005_3540.3999999999996_4170.0.jpg",
+        "gt": "2^d>10(n+4)\\quad \\text{and} \\quad2^d\\ge\n128.6\\cdot2^{4n}/\\varepsilon_6 >6(2.385 M_n+2.5\nN_n)/(\\varepsilon_62^{-2n})",
+        "pred": "2^d>10(n+4)\\quad\\text{and}\\quad 2^d\\geq 128.6\\cdot 2^{4n}/\\varepsilon_6>6(2.385M_n+2.5N_n)/(\\varepsilon_62^{-2n})"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/31.jpg-1356.8_798.0_2878.96_918.0.jpg",
+        "gt": "2^d>10(n+4)\\quad \\text{and} \\quad2^d\\ge\n147.3\\cdot2^{4n}/\\varepsilon_6",
+        "pred": "2^d>10(n+4)\\quad\\text{and}\\quad 2^d\\geq 147.3\\cdot 2^{4n}/\\varepsilon_6"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/31.jpg-911.6_1086.0_3319.92_1284.0.jpg",
+        "gt": "\\texttt{v[k]}=V(k)+\\Turing(2^{-d} \\frac{4}{\\pi} 2^{2k} ),\\quad\n\\texttt{w[k]}=W(k) +\\Turing\\Bigl(2^{-d}\\frac{1}{k!}\\left(\\frac{\\pi}{2}\\right)^k\\Bigr),",
+        "pred": "\\mathbf{v}[\\mathbf{k}]=V(k)+\\mathbf{\\mathcal{O}}^*(2^{-d}\\frac{4}{\\pi}2^{2k}),\\quad \\mathbf{w}[\\mathbf{k}]=W(k)+\\mathbf{\\mathcal{O}}^*\\left(2^{-d}\\frac{1}{k!}\\left(\\frac{\\pi}{2}\\right)^k\\right),"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/31.jpg-1106.64_1938.0_3129.12_2058.0.jpg",
+        "gt": "2^d>10(J+3)\\quad \\text{and} \\quad2^d\\ge2^{4J+4}/\\varepsilon_6>\n147.3\\cdot2^{4J-4}/\\varepsilon_6",
+        "pred": "2^d>10(J+3)\\quad\\text{and}\\quad 2^d\\geq 2^{4J+4}/\\varepsilon_6>147.3\\cdot 2^{4J-4}/\\varepsilon_6"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/31.jpg-911.6_2232.0_3319.92_2430.0.jpg",
+        "gt": "\\texttt{v[k]}=V(k)+\\Turing(2^{-d} \\frac{4}{\\pi} 2^{2k} ),\\quad\n\\texttt{w[k]}=W(k) +\\Turing\\Bigl(2^{-d}\\frac{1}{k!}\\left(\\frac{\\pi}{2}\\right)^k\\Bigr),",
+        "pred": "\\mathbf{v}\\left[\\mathbf{k}\\right]=V(k)+\\mathbf{\\sigma}^{*}(2^{-d}\\frac{4}{\\pi}2^{2k}),\\quad\\mathbf{w}\\left[\\mathbf{k}\\right]=W(k)+\\mathbf{\\sigma}^{*}\\left(2^{-d}\\frac{1}{k!}\\left(\\frac{\\pi}{2}\\right)^{k}\\right),"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/31.jpg-835.2800000000001_2766.0_3553.12_3528.0.jpg",
+        "gt": "&d^{(0)}_0=1, \\quad d^{(0)}_k =0 \\quad \\text{for } k\\ne0\\\\\n&d^{(n)}_k=0 \\quad \\text{for }\\quad k<0 \\quad\\text{and for }\\quad k>3n/2\\\\\n&2(3n-2k) d^{(n)}_k=\\tfrac12 \nd^{(n-1)}_k+(1-2\\sigma)d^{(n-1)}_{k-1}-2(3n-2k)(3n-2k+1)\nd^{(n-1)}_{k-2}\\\\\n&d^{(n)}_{3n/2} =-\\sum_{k=0}^{3n/2 -1} (-1)^{3n/2-k} d^{(n)}_k\n\\frac{(3n-2k)!}{(3n/2-k)!},\\qquad  3n \\equiv 0\\pmod\n2.",
+        "pred": "\\begin{array}{cccccccc}\nd_0^{(0)}=1, & d_k^{(0)}=0 & \\text{for } & k\\neq 0\\\\\nd_k^{(n)}=0 & \\text{for } & k<0 & \\text{and for } & k>3n/2\\\\\n2(3n-2k)d_k^{(n)}=\\frac{1}{2}d_k^{(n-1)}+(1-2\\sigma)d_k^{(n-1)}-2(3n-2k)(3n-2k+1)d_{k-2}^{(n-1)}\\\\\nd_{n/2}^{(n)}=-\\sum_{k=0}^{n/2-1}(-1)^{3n/2-k}d_k^{(n)}\\frac{(3n-2k)!}{(3n/2-k)!}, &  & 3n\\equiv 0 & (\\mathrm{mod}\\;2).\n\\end{array}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/31.jpg-1076.96_3660.0_3163.04_4272.0.jpg",
+        "gt": "d^{(1)}_0&=\\frac{1}{12},\\quad d^{(1)}_1=-(\\sigma-\\tfrac12 ),\\\\\nd^{(2)}_0&=\\frac{1}{288},\\quad\nd^{(2)}_1=-\\frac{1}{12}(\\sigma-\\tfrac12 ),\\quad d^{(2)}_2=\\frac12(\\sigma-\\tfrac12 )^2-\\frac14,\\notag\\\\\n&d^{(2)}_3=(\\sigma-\\tfrac12 )^2+(\\sigma-\\tfrac12 )-\\frac{1}{12}.",
+        "pred": "\\begin{split}\n(d_0^1) &= \\frac{1}{12}, \\quad d_1^{(1)} = -(\\sigma-\\tfrac{1}{2}), \\\\\nd_0^2 &= \\frac{1}{288}, \\quad d_1^{(2)} = -\\frac{1}{12}(\\sigma-\\tfrac{1}{2}), \\quad d_2^{(2)} = \\frac{1}{2}(\\sigma-\\tfrac{1}{2})^2-\\tfrac{1}{4}, \\\\\n&\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\qquad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quadd_2^{(3)} = (\\sigma-\\tfrac{1}{2})^2+(\\sigma-\\tfrac{1}{2})-\\tfrac{1}{12}.\n\\end{split}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/33.jpg-979.44_3090.0_3260.56_3294.0000000000005.jpg",
+        "gt": "|R'_k|\\le\n(m+1)D^{(n-1)}_{k-2}|\\eta_5|+\\frac{1}{4m}D^{(n-1)}_{k}|\\eta_5|+\\frac{|1-2\\sigma|}{2m}\nD^{(n-1)}_{k-1}|\\eta_6|",
+        "pred": "|R_k'| \\leq (m+1) D_{k-2}^{(n-1)} |\\eta_5| + \\frac{1}{4m} D_k^{(n-1)} |\\eta_5| + \\frac{|1-2\\sigma|}{2m} D_{k-1}^{(n-1)} |\\eta_6|"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/33.jpg-644.48_3552.0_3646.4_3798.0.jpg",
+        "gt": "|R'_k|\\le\nA\\frac{2^k}{B_1^{n-1}}\\Bigl(\\frac{\\Gamma(n-\\frac12)}{m!}\\Bigr)^{1/2}\n\\Bigl\\{\\frac{\\sqrt{m+1}}{4}|\\eta_5|+\\frac{\\sqrt{(m-1)(m-2)}}{4\\sqrt{m}}|\\eta_5|+\n\\frac{|1-2\\sigma|}{4\\sqrt{m}}|\\eta_6|\\Bigr\\}.",
+        "pred": "|R_k'|\\leq A\\frac{2^k}{B_1^{n-1}}\\Big(\\frac{\\Gamma(n-\\frac{1}{2})}{m!}\\Big)^{1/2}\\Big\\{\\frac{\\sqrt{m+1}}{4}\\vert\\eta_5\\vert+\\frac{\\sqrt{(m-1)(m-2)}}{4\\sqrt{m}}\\vert\\eta_5\\vert+\\frac{\\vert1-2\\sigma\\vert}{4\\sqrt{m}}\\vert\\eta_6\\vert\\Big\\}."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/35.jpg-1471.28_1116.0_2764.48_1356.0.jpg",
+        "gt": "|R''_k|< \\frac{f_{m/2}}{2}\\cdot\\frac{\\sqrt{2\\pi}}{128}\\frac{(\\pi\na^2/8)^{n/2}\\, 2^{2k}\\,\\epsilon_4} {\\Gamma((m+1)/2)}",
+        "pred": "|R_k''|<\\frac{f_{m/2}}{2}\\cdot\\frac{\\sqrt{2\\pi}}{128}\\frac{(\\pi a^2/8)^{n/2}2^{2k}}{\\Gamma((m+1)/2)}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/37.jpg-1004.88_1620.0_3222.4_1848.0.jpg",
+        "gt": "2^d>8.48n^2,\\qquad 2^d > (1+|\\sigma|)\\frac{A\\,2^{13}}{\n\\varepsilon_4}\\Bigl(\\frac{8}{\\pi a^2 B_1^2}\\Bigr)^{n/2}\n\\Gamma(n-\\tfrac12 )^{1/2}.",
+        "pred": "2^d>8.48n^2,\\qquad 2^d>(1+|\\sigma|)\\frac{A\\,2^{13}}{\\varepsilon_4}\\Big(\\frac{8}{\\pi a^2B_1^2}\\Big)^{n/2}\\Gamma(n-\\frac{1}{2})^{1/2}."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/39.jpg-1284.72_4470.0_2951.04_4668.0.jpg",
+        "gt": "d= \\texttt{wpinitial}+1 + \\texttt{mag}\\Bigl\\{3 \\Bigl(\\frac{t}{2\\pi}\\Bigr)^{3/2}\\log\\frac{t}{2\\pi}\\Bigr\\}",
+        "pred": "d = \\wp \\, i \\, n \\, i t i \\, a l + 1 + \\mbox{mag} \\Big\\{ 3 \\Big( \\frac{t}{2\\pi} \\Big)^{3/2} \\log \\frac{t}{2\\pi} \\Big\\}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/40.jpg-648.72_3264.0000000000005_3595.52_3491.9999999999995.jpg",
+        "gt": "|R|\\le3\\cdot 2^{-d}+ 2.12\\,  T 2^{-d}+1.3\\, T 2^{-d'}\n2\\sqrt{\\frac{t}{2\\pi}}<6\\, T 2^{-d}+\\frac{1}{2}\n2^{-\\texttt{wpinitial} }<2^{-\\texttt{wpinitial}}.\\qedhere",
+        "pred": "|R|\\leq 3\\cdot 2^{-d}+2.12\\,T2^{-d}+1.3\\,T2^{-d}2\\sqrt{\\frac{t}{2\\pi}}<6\\,T2^{-d}+\\frac{1}{2}2^{-\\text{supinitial}}<2^{-\\text{supinitial}}\\qedhere"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/40.jpg-932.8_5220.0_3307.2000000000003_5436.0.jpg",
+        "gt": "|\\Rzeta(\\sigma+it)|\\le\n\\frac{4t}{(2\\pi)^{1-\\sigma}}\\{(1-\\sigma)^2+t^2\\}^{-\\frac{\\sigma}{2}+\\frac{1}{4}}\\qquad\n\\sigma<0,\\quad t>16\\pi.",
+        "pred": "|\\mathcal{R}(\\sigma+it)|\\leq \\frac{4t}{(2\\pi)^{1-\\sigma}}\\{(1-\\sigma)^2+t^2\\}^{-\\frac{\\sigma}{2}+\\frac{1}{4}}\\qquad \\sigma<0,\\quad t>16\\pi."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/42.jpg-949.76_2718.0_3481.04_2928.0.jpg",
+        "gt": "Z(t-i(\\sigma-\\frac12))=e^{i\\vartheta(t-i(\\sigma-\\frac12))}\\Rzeta(\\sigma+it)\n+e^{-i\\vartheta(t-i(\\sigma-\\frac12))}\n\\overline{\\Rzeta(1-\\sigma+it)}",
+        "pred": "Z(t-i(\\sigma-\\frac{1}{2}))=e^{i\\vartheta(t-i(\\sigma-\\frac{1}{2}))}\\,\\mathcal{R}(\\sigma+it)+e^{-i\\vartheta(t-i(\\sigma-\\frac{1}{2}))}\\overline{\\mathcal{R}}(1-\\sigma+it)"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/43.jpg-924.32_792.0_3311.44_1344.0.jpg",
+        "gt": "\\texttt{wpbasic}&=\\max\\{6,3+\\texttt{mag}(T), \\notag\\\\\n&\\texttt{mag}(X^{1/2}(M_1+M_2)(26 + 2T))-\\texttt{mag}(\\varepsilon)+3\\}, \\\\\n\\texttt{wptheta}&=\\max\\{4,\\texttt{mag}(2.04\\,X^{1/2}(M_1+M_2))-\\texttt{mag}(\\varepsilon)+3\\},\\\\\n\\texttt{wpR}&=\\texttt{mag}(4 X^{1/2})-\\texttt{mag}(\\varepsilon)+3",
+        "pred": "\\text{wpsmabasic} &= \\max\\{6, 3 + \\mbox{mag}(T), \\\\\n&\\mbox{mag}(X^{1/2}(M_1 + M_2)(26 + 2T)) - \\mbox{mag}(\\varepsilon) + 3\\}, \\\\\n\\text{wpthefta} &= \\max\\{4, \\mbox{mag}(2.04\\,X^{1/2}(M_1 + M_2)) - \\mbox{mag}(\\varepsilon) + 3\\}, \\\\\n&\\text{wprR} = \\mbox{mag}(4X^{1/2}) - \\mbox{mag}(\\varepsilon) + 3"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/03.jpg-1793.52_3114.0_2442.24_3234.0.jpg",
+        "gt": "m< 2^{\\,\\bc(x)}\\le 2m.",
+        "pred": "m<2^{\\mathrm{bc}(x)}\\leq 2m."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/03.jpg-1373.76_5316.0_2883.2000000000003_5436.0.jpg",
+        "gt": "\\circ(x,d)=x(1+\\eta_1)\\qquad \\text{with}\\quad |\\eta_1|\\le 2^{-d}.",
+        "pred": "\\circ\\left(x,d\\right)=x(1+\\eta_1)\\qquad\\text{with}\\quad |\\eta_1|\\leq 2^{-d}."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/12.jpg-1810.48_2910.0_2425.2799999999997_3114.0.jpg",
+        "gt": "\\frac{\\varepsilon a^\\sigma}{6}<\\varepsilon_2\\le\\frac{\\varepsilon a^\\sigma}{3}.",
+        "pred": "\\frac{\\varepsilon a^{\\sigma}}{6}<\\varepsilon_{2}\\leq\\frac{\\varepsilon a^{\\sigma}}{3}."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/15.jpg-979.44_810.0_3256.32_1026.0.jpg",
+        "gt": "\\texttt{wprssum}=\\max\\Bigl\\{\\texttt{mag}(10(L+1)),\\texttt{mag}\\Bigl(\\frac{4.4c\\sqrt{\\pi}}\n{\\varepsilon_2 b a}(L+3)^2\\Bigr)\\Bigr\\}+1.",
+        "pred": "\\text{wprssum} = \\max\\Bigl\\{\\overline{\\mbox{mag}}(10(L+1)), \\overline{\\mbox{mag}}\\Bigl(\\frac{4.4c\\sqrt{\\pi}}{\\varepsilon_2ba}(L+3)^2\\Bigr)\\Bigr\\}+1."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/19.jpg-805.6_1788.0_3561.6_2028.0000000000002.jpg",
+        "gt": "\\texttt{wptcoef[k]}:=\\max\\Bigl\\{\\texttt{mag}\\Bigl(68\\frac{(L +2) A(\\sigma)}{\\varepsilon_4\n}\\frac{\\Gamma(k+1/2)^{1/2}}{(B_1 a \\sqrt{\\pi})^k}\\Bigr), \\texttt{mag}(40(L+2))\\Bigr\\}.",
+        "pred": "\\text{wptocf[k] := max\\Bigl\\{\\mbox{mag}\\Bigl(68\\frac{(L+2)A(\\sigma)\\,\\Gamma(k+1/2)^{1/2}}{(B_1a\\sqrt{\\pi})^k}\\Bigr),\\mbox{mag}(40(L+2))\\Bigr\\}."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/21.jpg-894.64_5202.0_3341.1200000000003_5436.0.jpg",
+        "gt": "\\frac{(2\\pi)^J}{J!}\\le \\frac{\\varepsilon_4}{632\\,A(\\sigma)},\\qquad\n\\frac{(2\\pi)^J}{J!}\\le\n\\frac{\\varepsilon_4}{632\\,A(\\sigma)}\\frac{1}{M}\\Bigl(\\frac{\\pi^2 B_1\na \\sqrt{3} e^2} {M^2}\\Bigr)^{(M-1)/3}.",
+        "pred": "\\frac{(2\\pi)^J}{J!} \\leq \\frac{\\varepsilon_4}{632\\,A(\\sigma)},\\qquad \\frac{(2\\pi)^J}{J!} \\leq \\frac{\\vare\\epsilon_4}{632\\,A(\\sigma)}\\frac{1}{M}\\Big(\\frac{\\pi^2 B_{1}a\\sqrt{3}\\e^2}{M^2}\\Big)^{(M-1)/3}."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/26.jpg-949.76_3528.0_3137.6_3756.0.jpg",
+        "gt": "2^d>44 \\,J,\\qquad 2 ^d > 6812\\, J \\frac{m!}{\\varepsilon_5(m)},\\qquad\n0\\le m\\le \\min(M,21).\\qedhere",
+        "pred": "2^d>44\\,J,\\qquad\n2^d>6812\\,J\\frac{m!}{\\varepsilon_5(m)},\n\\qquad\n0\\leq m\\leq\\min(M,21).\n\\qedhere"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/30.jpg-843.76_4842.0_3531.9199999999996_5418.0.jpg",
+        "gt": "M_n&=\\sum_{j=0}^n (n-j+4) \\frac{4}{\\pi} 2^{2j}\n\\frac{1}{(n-j)!}\\left(\\frac{\\pi}{2}\\right)^{n-j}\n<\\Bigl(\\frac{16}{\\pi}+\\frac12\\Bigr)e^{\\pi/8} 2^{2n}<8.3\n\\cdot 2^{2n},\\\\\nN_n&=\\sum_{j=0}^n  \\frac{4}{\\pi} 2^{2j}\n\\frac{1}{(n-j)!}\\left(\\frac{\\pi}{2}\\right)^{n-j}\n<\\frac{4}{\\pi} e^{\\pi/8}2^{2n}\n<1.9\\cdot 2^{2n}.",
+        "pred": "\\begin{array}{rcl}\nM_n&=&\\sum_{j=0}^n (n-j+4)\\frac{4}{\\pi}2^{2j}\\frac{1}{(n-j)!}\\left(\\frac{\\pi}{2}\\right)^{n-j}<\\left(\\frac{16}{\\pi}+\\frac{1}{2}\\right)e^{\\pi/8}2^{2n}<8.3\\cdot 2^{2n},\\\\\nN_n&=&\\sum_{j=0}^n \\frac{4}{\\pi}2^{2j}\\frac{1}{(n-j) !}\\left(\\frac{\\pi}{2}\\right)^{n-j}<\\frac{4}{\\pi}e^{\\pi/8}2^{2n}<1.9\\cdot 2^{2n}.\n\\end{array}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/32.jpg-1123.6000000000001_3786.0_3112.16_4020.0000000000005.jpg",
+        "gt": "\\texttt{d[n,k]}=d^{(n)}_k+\\Turing\\Bigl(f_{3n/2-k}\\frac{\\sqrt{2\\pi}}{128}\\frac{(\\pi\na^2/8)^{n/2}\\, 2^{2k}\\,\\epsilon_4} {\\Gamma((3n-2k+1)/2)}\\Bigr).",
+        "pred": "\\mathrm{d}\\left[\\eta,\\mathsf{k}\\right]=d_{k}^{(n)}+\\mathcal{O}^{\\ast}\\left(f_{3n/2-k}\\frac{\\sqrt{2\\pi}}{128}\\frac{\\left(\\pi a^{2}/8\\right)^{n/2}\\,2^{2k}\\,\\epsilon_{4}}{\\Gamma((3n-2k+1)/2)}\\right)."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00342/debug/41.jpg-1318.64_810.0_2917.12_924.0.jpg",
+        "gt": "|\\vartheta(t)| \\le 2|t|\\log|t|,\\qquad |t|>4,\\quad |\\Re t|\\ge 1.",
+        "pred": "|\\vartheta(t)|\\leq 2|t|\\log|t|,\\qquad |t|>4,\\quad |\\Re t|\\geq 1."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00904/debug/22.jpg-1205.6200000000001_3372.0000000000005_3426.743_3498.0.jpg",
+        "gt": "B_{1,2}(x)=(1-x)^2; \\quad B_{2,2}(x)=2x(1-x); \\quad B_{3,2}(x)=x^2",
+        "pred": "B_{1,2}(x)=(1-x)^2; \\quad B_{2,2}(x)=2x(1-x); \\quad B_{3,2}(x)=x^2"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00904/debug/22.jpg-1757.423_3762.0_2870.303_3882.0.jpg",
+        "gt": "-u''(x)=f(x) \\quad x \\in (0,0.5)",
+        "pred": "-u''(x)=f(x)\\quad x\\in (0,0.5)"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00904/debug/23.jpg-2031.006_4620.0_2605.994_4740.0.jpg",
+        "gt": "ANN_i(n)=u_i",
+        "pred": "ANN_i(n) = u_i"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00904/debug/24.jpg-1724.964_2934.0_2912.036_3048.0.jpg",
+        "gt": "ANN_i(n)=c_i \\sigma \\left( a_i n +b_i \\right)+d_i",
+        "pred": "ANN_i(n)=c_i\\sigma\\left(a_in+b_i\\right)+d_i"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00904/debug/24.jpg-2012.458_3258.0000000000005_2619.9049999999997_3473.9999999999995.jpg",
+        "gt": "\\sigma(x)=\\frac{1}{1+e^{-x}}",
+        "pred": "\\sigma(x)=\\frac{1}{1+e^{-x}}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00904/debug/28.jpg-1757.423_4416.0_2870.303_4536.0.jpg",
+        "gt": "-u''(x)=f(x) \\quad x \\in (0,0.5)",
+        "pred": "-u''(x)=f(x)\\quad x\\in (0,0.5)"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00904/debug/29.jpg-2003.184_3966.0_2633.816_4080.0000000000005.jpg",
+        "gt": "ANN(n,x)=y",
+        "pred": "ANN(n,x)=y"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00904/debug/34.jpg-1720.327_3702.0_2912.036_3822.0.jpg",
+        "gt": "u''(x)+f(x)=0 \\quad x \\in (0,0.5)",
+        "pred": "u''(x)+f(x)=0\\quad x\\in(0,0.5)"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00208/debug/23.jpg-1748.1490000000001_4446.0_2810.022_4656.0.jpg",
+        "gt": "\\mutation_{\\varepsilon} = \\prod_{i \\in I_{\\varepsilon}} \\mutation_i \\qquad \\text{ for } \\varepsilon \\in \\{ +, -\\},",
+        "pred": "\\mu_\\varepsilon = \\prod_{i\\in I_\\varepsilon} \\mu_i \\qquad \\text{for } \\varepsilon \\in \\{+,-\\},"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00208/debug/31.jpg-1775.971_5250.0_2777.563_5352.0.jpg",
+        "gt": "(J^1\\sphere^1\\times \\R_s \\times \\R_t,dt+e^s(dz-p_\\theta d\\theta))",
+        "pred": "(J^1\\Sigma^1 \\times \\mathbb{R}_s, d(e^s(dz - p_\\theta d\\theta))),"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00208/debug/32.jpg-1363.278_918.0_3194.8929999999996_1014.0000000000001.jpg",
+        "gt": "(\\theta,p_\\theta,z,s,t)\\mapsto(\\vartheta, r, p_\\vartheta, p_r, w)=(\\theta, e^s, e^s p_\\theta, z, t+ e^s z).",
+        "pred": "(\\theta,p_\\theta,z,s,t) \\mapsto (\\vartheta,r,p_\\theta,p_r,w)=(\\theta,e^s,e^s p_\\theta,z,t+e^s z)."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00208/debug/32.jpg-1001.592_1638.0000000000002_3561.216_1842.0.jpg",
+        "gt": "(x_1,x_2,y_1,y_2,w)=\\left(r \\cos\\vartheta,r\\sin\\vartheta, p_r \\cos\\vartheta -\\frac{\\sin\\vartheta}{r}p_\\vartheta, p_r \\sin\\vartheta + \\frac{\\cos\\vartheta}{r}p_\\vartheta,w\\right).",
+        "pred": "(x_1,x_2,y_1,y_2,w)=\\left(r\\cos\\vartheta,r\\sin\\vartheta,p_r\\cos\\vartheta-\\frac{\\sin\\vartheta}{r}p_\\vartheta,p_r\\sin\\vartheta+\\frac{\\cos\\vartheta}{r}p_\\vartheta,w\\right)."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00208/debug/32.jpg-927.4000000000001_2616.0_3640.045_2712.0.jpg",
+        "gt": "(\\theta, p_\\theta, z, s)\\mapsto (x_1, x_2, y_1, y_2)=(e^s\\cos\\theta, e^s\\sin\\theta, z\\cos\\theta-p_\\theta\\sin\\theta, z\\sin\\theta+p_\\theta\\cos\\theta).",
+        "pred": "(\\theta,p_\\theta,z,s)\\mapsto (x_1,x_2,y_1,y_2)=(e^s\\cos\\theta,e^s\\sin\\theta,p_\\theta\\sin\\theta,z\\sin\\theta+p_\\theta\\cos\\theta)."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00208/debug/32.jpg-1173.161_2886.0_3394.284_3138.0.jpg",
+        "gt": "\\varphi \\colon (\\sphere^3\\times \\R_u,d(e^u\\alpha_{\\sphere^3}))&\\to (T^*\\R^2\\setminus\\{({\\bf 0},{\\bf 0})\\},dx_1\\wedge dy_1+dx_2\\wedge dy_2);\\\\\n(z_1,z_2,u)&\\mapsto e^{u/2}(r_1\\cos\\theta_1,r_2\\cos\\theta_2, r_1\\sin\\theta_1,r_2\\sin\\theta_2)",
+        "pred": "\\varphi\\colon (\\mathbb{S}^3\\times \\mathbb{R}_u, d(e^*\\alpha_{\\mathbb{S}^3}))\\to (T^*\\mathbb{R}^2\\setminus \\{\\boldsymbol{0},\\boldsymbol{0}\\}), dx_1\\wedge dy_1+dx_2\\wedge dy_2);\\\\\n(z_1,z_2,u)\\mapsto e^{u/2}(r_1\\cos\\theta_1,r_2\\cos\\theta_2,r_1\\sin\\theta_1,r_2\\sin\\theta_2)"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00208/debug/32.jpg-1636.8609999999999_3330.0000000000005_2925.947_3504.0.jpg",
+        "gt": "\\alpha_{\\sphere^3}=\\frac{1}{2}r_1^2 d\\theta_1 +\\frac{1}{2} r_2^2d\\theta_2,\\quad r_1^2+r_2^2=1.",
+        "pred": "\\alpha_{\\mathbb{S}^3} = \\frac{1}{2} r_1^2 d\\theta_1 + \\frac{1}{2} r_2^2 d\\theta_2, \\quad r_1^2 + r_2^2 = 1."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00208/debug/32.jpg-1697.142_4254.0_2856.392_4818.0.jpg",
+        "gt": "z_1 &= \\frac{e^s\\cos\\theta+ i (z\\cos\\theta-p_\\theta\\sin\\theta)}{\\sqrt{e^{2s}+z^2+p_\\theta^2}},\\\\\nz_2 &= \\frac{e^s\\sin\\theta+ i (z\\sin\\theta+p_\\theta\\cos\\theta)}{\\sqrt{e^{2s}+z^2+p_\\theta^2}},\\\\\ne^u &= e^{2s}+z^2+p_\\theta^2.",
+        "pred": "z_1 &= \\frac{e^s \\cos \\theta + i (z \\cos \\theta - p_\\theta \\sin \\theta)}{\\sqrt{e^{2s} + z^2 + p_\\theta^2}}, \\\\\nz_2 &= \\frac{e^s \\sin \\theta + i (z \\sin \\theta + p_\\theta \\cos \\theta)}{\\sqrt{e^{2s} + z^2 + p_\\theta^{2}}},\n\\\\\ne^u &= e^{2s} + z^2 + p_\\theta^2."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00208/debug/33.jpg-1302.997_924.0_3264.448_1488.0.jpg",
+        "gt": "(\\sphere^3\\setminus \\{(0,-i)\\},\\alpha_{\\sphere^3}) &\\to (\\R^3,dz'+x'dy'-y'dx')\\cong \\bbC\\times \\R;\\\\\n(z_1,z_2)& \\mapsto \\left(\\frac{i z_1}{i+z_2},\\frac{-{\\rm Re}(z_2)}{|i+z_2|^2}\\right);\\\\\n(\\cos\\theta,\\sin\\theta)&\\mapsto \\left(\\frac{\\cos\\theta}{1+\\sin^2\\theta},\\frac{\\cos\\theta\\sin\\theta}{1+\\sin^2\\theta},\\frac{-\\sin\\theta}{1+\\sin^2\\theta}\\right).",
+        "pred": "\\begin{split}\n(\\mathbb{S}^3\\setminus\\{(0,-i)\\},\\alpha_{\\mathbb{S}^3})&\\to (\\mathbb{R}^3,dz'+x'dy'-y'dx')\\cong\\mathbb{C}\\times\\mathbb{R};\\\\\n(z_1,z_2)&\\mapsto \\left(\\frac{iz_1}{i+z_2},\\frac{-\\Re(z_2)}{|i+z_2|^2}\\right);\\\\\n(\\cos\\theta,\\sin\\theta)&\\mapsto \\left(\\frac{\\cos\\theta}{1+\\sin^2\\theta}\\frac{\\cos\\theta\\sin\\theta}{1+\\sin^2\\theta}\\frac{-\\sin\\theta}{1+\\sin^2\\theta}\\right).\n\\end{split}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00208/debug/33.jpg-1354.004_1644.0000000000002_3208.8039999999996_1884.0.jpg",
+        "gt": "(\\R^3,dz'+x'dy'-y'dx') &\\to (J^1\\R,dz-ydx);\\\\\n(x',y',z') &\\mapsto (x,y,z)=(x',2y',z'+x'y'),",
+        "pred": "(\\mathbb{R}^3, dz' + x'dy' - y'dx') \\to (J^1\\mathbb{R}, dz - ydx);\\\\\n(x', y', z') \\mapsto (x,y,z) = (x', 2y', z' + x'y'),"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00208/debug/34.jpg-1302.997_2208.0_3255.174_2304.0.jpg",
+        "gt": "R_{\\theta_0}(z_1, z_2,u)=(z_1\\cos\\theta_0 -z_2\\sin\\theta_0, z_1\\sin\\theta_0+z_2\\cos\\theta_0,u).",
+        "pred": "R_{\\theta_0}(z_1,z_2,u)=(z_1\\cos\\theta_0-z_2\\sin\\theta_0,z_1\\sin\\theta_0+z_2\\cos\\theta_0,u)."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00208/debug/34.jpg-1901.1699999999998_3395.9999999999995_2657.0009999999997_3491.9999999999995.jpg",
+        "gt": "(z_1,z_2,u)\\mapsto (\\bar z_1,\\bar z_2 ,u).",
+        "pred": "(z_1,z_2,u)\\mapsto (\\bar{z}_1,\\bar{z}_2,u)."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00208/debug/34.jpg-1813.067_3822.0_2749.741_3918.0.jpg",
+        "gt": "(\\theta,p_\\theta,z,s)\\mapsto (\\theta,-p_\\theta,-z,s)",
+        "pred": "(\\theta,p_\\theta,z,s)\\mapsto (\\theta,-p_\\theta,-z,s)"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00208/debug/34.jpg-1873.3480000000002_4074.0000000000005_2684.823_4176.0.jpg",
+        "gt": "(\\theta,p_\\theta,z)\\mapsto (\\theta,-p_\\theta,-z).",
+        "pred": "(\\theta,p_\\theta,z)\\mapsto (\\theta,-p_\\theta,-z)."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00208/debug/35.jpg-1405.011_4470.0_3157.797_4578.0.jpg",
+        "gt": "S(\\beta) &=\\Delta_{N+1} S_0(\\beta_0) \\Delta_{N+1}\\mathrel{\\dot{=}} \\beta (\\sigma_N\\dots\\sigma_2\\sigma_1^3\\sigma_2\\dots\\sigma_N)",
+        "pred": "S(\\beta) = \\Delta_{N+1} S_0(\\beta_0) \\Delta_{N+1} \\doteq \\beta (\\sigma_N \\ldots \\sigma_2 \\sigma_1^3 \\sigma_2 \\ldots \\sigma_N)"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00208/debug/44.jpg-1405.011_3467.9999999999995_3134.612_3810.0.jpg",
+        "gt": "i(e,e') \\colonequals\n\\begin{cases}\n0 & \\text{ if }e=e'\\text{ or }e\\cap e'=\\varnothing;\\\\\n1 & \\text{ if }e' \\text{ is lying on the left side of }e;\\\\\n-1 & \\text{ if }e' \\text{ is lying on the right side of }e.\n\\end{cases}",
+        "pred": "i(e,e'):=\\begin{cases}\n0 & \\text{if }e=e' \\text{ or }e\\cap e'= \\varnothing;\\\\\n1 & \\text{if }e' \\text{ is lying on the left side in }e;\\\\\n-1 & \\text{if }e' \\text{ is lying on the right side of }e.\n\\end{cases}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00208/debug/45.jpg-1882.622_4266.0_2675.549_4362.0.jpg",
+        "gt": "v_1\\neq v_2 \\neq v_3 \\neq v_4 \\neq v_1.",
+        "pred": "v_1\\neq v_2\\neq v_3\\neq v_4\\neq v_1."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00208/debug/56.jpg-1562.669_3407.9999999999995_2981.591_3660.0.jpg",
+        "gt": "\\tilde\\beta_0(\\exdynD_n) =\\begin{cases}\n\\sigma_3\\sigma_2^3\\sigma_3 \\sigma_2^{n-4} \\sigma_1 \\sigma_2^3 \\sigma_1 & n\\text{ is odd};\\\\\n\\sigma_3\\sigma_2^3\\sigma_3 \\sigma_2^{n-3} \\sigma_1 \\sigma_2^3 \\sigma_1 & n\\text{ is even}.\n\\end{cases}",
+        "pred": "\\tilde{\\beta}_0(\\tilde{\\D}_n) = \\begin{cases}\n\\sigma_3 \\sigma_3^2 \\sigma_3 \\sigma_2^{n-4} \\sigma_1 \\sigma_2^3 \\sigma_1 & n \\text{ is odd}; \\\\\n\\sigma_3 \\sigma_2^3 \\sigma_3 \\sigma_2^{n-3} \\sigma_1 \\sigma_2^3 \\sigma_1 & n \\text { is even}.\n\\end{cases}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00208/debug/06.jpg-2012.458_4272.0_2545.713_4458.0.jpg",
+        "gt": "\\frac1a+\\frac1b+\\frac1c < 1.",
+        "pred": "\\frac{1}{a}+\\frac{1}{b}+\\frac{1}{c}<1."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00208/debug/07.jpg-1298.3600000000001_851.9999999999999_3255.174_1080.0.jpg",
+        "gt": "R_{\\theta_0}(z_1, z_2,u)&=(z_1\\cos\\theta_0 -z_2\\sin\\theta_0,z_1\\sin\\theta_0+z_2\\cos\\theta_0,u);\\\\\n\\eta(z_1,z_2,u)&= (\\bar z_1,\\bar z_2 ,u).",
+        "pred": "\\begin{split}\nR_{\\theta_0}(z_1,z_2,u) &= (z_1\\cos\\theta_0-z_2\\sin\\theta_0,z_1\\sin\\theta_0+z_2\\cos\\theta_0,u);\\\\\n\\eta(z_1,z_2,u) &= (\\bar{z}_1,\\bar{z}_2,u).\n\\end{split}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00208/debug/07.jpg-1720.327_1440.0_2833.207_1668.0000000000002.jpg",
+        "gt": "R_{\\theta_0}|_{J^1\\sphere^1}(\\theta,p_{\\theta},z)&=(\\theta+\\theta_0,p_{\\theta},z);\\\\\n\\eta|_{J^1\\sphere^1}(\\theta,p_{\\theta},z)&=(\\theta,-p_{\\theta},-z).",
+        "pred": "\\begin{split}\nR_{\\theta_0}|_{J^1S^1}(\\theta,p_\\theta,z) & = (\\theta+\\theta_0,p_\\theta,z);\\\\\n\\eta|_{J^1S^1}(\\theta,p_\\theta,z) & = (\\theta,-p_\\theta,-z).\n\\end{split}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00208/debug/10.jpg-1238.0790000000002_2928.0_3310.8179999999998_3042.0.jpg",
+        "gt": "x_i' = x_{\\sigma(i)}\\quad \\text{ and } \\quad b_{i,j}' = b_{\\sigma(i),\\sigma(j)} \\quad \\text{ for }1\\le i\\le m, 1\\le j\\le n,",
+        "pred": "x'_i=x_{\\sigma(i)}\\quad\\text{ and }\\quad b'_{i,j}=b_{\\sigma(i),\\sigma(j)}\\quad\\text{ for }1\\leq i\\leq m,1\\leq j\\leq n,"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00208/debug/10.jpg-1442.107_3366.0000000000005_3111.427_3473.9999999999995.jpg",
+        "gt": "y_i' = y_{\\sigma(i)}\\quad\\text{and}\\quad\nb_{i,j}' = b_{\\sigma(i),\\sigma(j)}\\quad\\text{for }1\\le i,j \\le n.",
+        "pred": "y_i'=y_{\\sigma(i)}\\quad\\text{and}\\quad b_{i,j}'=b_{\\sigma(i),\\sigma(j)}\\quad\\text{for }1\\leq i,j\\leq n."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00208/debug/10.jpg-1386.463_3918.0_3176.3450000000003_4218.0.jpg",
+        "gt": "b_{i,j}' = \\begin{cases}\n-b_{i,j} & \\text{ if } i = k \\text{ or } j = k, \\\\\n\\displaystyle b_{i,j} + \\frac{|b_{i,k}| b_{k,j} + b_{i,k} | b_{k,j}|} {2} & \\text{ otherwise}.\n\\end{cases}",
+        "pred": "b'_{i,j}=\\begin{cases}\n-b_{i,j}\\\\\nb_{i,j}+\\frac{|b_{i,k}|b_{k,j}+b_{i,k}|b_{k,j}|}{2}\n\\end{cases}\n\\qquad \\text{if } i=k\\text{ or }j=k,"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00208/debug/12.jpg-2003.184_3762.0_2554.987_4008.0000000000005.jpg",
+        "gt": "\\hat{y}_{i;t} = \\prod_{j\\in[m] } x_{j;t}^{b^{(t)}_{i,j}}.",
+        "pred": "\\hat{y}_{i;t}=\\prod_{j\\in[m]}x_{i;t}^{(i)}."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00208/debug/13.jpg-1817.7040000000002_4764.0_2735.83_5016.0.jpg",
+        "gt": "c_{i,j} = \\begin{cases}\n2 & \\text{ if } i = j, \\\\\n-|b_{i,j}| & \\text{ otherwise}.\n\\end{cases}",
+        "pred": "c_{i,j}=\\begin{cases}\n2 & \\text{ if } i=j,\\\\\n-|b_{i,j}| & \\text{ otherwise.}\n\\end{cases}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00208/debug/13.jpg-1724.964_5394.0_2837.844_5496.0.jpg",
+        "gt": "b_{j_1,j_2}, b_{j_2,j_3},\\dots,b_{j_{\\ell-1},j_{\\ell}},b_{j_{\\ell},j_1} > 0.",
+        "pred": "b_{j_1,j_2},b_{j_2,j_3},\\ldots,b_{j_{\\ell-1},j_{\\ell}},b_{j_{\\ell},j_1}>0."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00208/debug/17.jpg-2049.554_3600.0_2513.2540000000004_3792.0.jpg",
+        "gt": "b_{I,J}^G = \\sum_{i \\in I} b_{i,j}",
+        "pred": "b_{I,J}^G = \\sum_{i \\in I} b_{i,j}"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00208/debug/23.jpg-1660.0459999999998_1956.0_2902.762_2064.0.jpg",
+        "gt": "b_{i,j} > 0 \\iff \\varepsilon(i) = + \\text{ and } \\varepsilon(j) = -.",
+        "pred": "b_{i,j}>0\\iff \\varepsilon(i)=+\\text{and }\\varepsilon(j)=-."
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00257/debug/01.jpg-1581.217_4542.0_3055.7830000000004_4794.0.jpg",
+        "gt": "\\lim_{N \\to \\infty} E(tr(Z_N^k)) = \\frac{1}{2\\pi} \\int_{-2}^2 t^k \\sqrt{4-t^2} dt",
+        "pred": "\\lim_{N\\to\\infty}E(tr(Z_N^k))=\\frac{1}{2\\pi}\\int_{-2}^2t^k\\sqrt{4-t^2}dt"
+    },
+    {
+        "img_id": "/mnt/data1/dy/match_labels/papers_det_test/2201.00257/debug/03.jpg-2082.013_2760.0_2541.076_2988.0.jpg",
+        "gt": "\\int x^n d \\mu(x).",
+        "pred": "\\int x^n d\\mu(x)."
+    }
+]

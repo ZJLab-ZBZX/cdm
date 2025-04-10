@@ -1,0 +1,11 @@
+{"bbox": [375, 7, 654, 48], "token": "line:\n\\sigma_{\\lambda-1}(\\sigma_{\\lambda}^{-1}(\\kappa_a^\\ell))"}
+{"bbox": [667, 18, 686, 39], "token": "\\in"}
+{"bbox": [697, 7, 780, 47], "token": "V(\\mathcal{S}_a^\\ell)"}
+{"bbox": [790, 11, 805, 46], "token": "\\setminus"}
+{"bbox": [815, 7, 861, 47], "token": "\\{\\kappa_a^\\ell"}
+{"bbox": [864, 11, 878, 46], "token": "\\}"}
+{"bbox": [], "token": "\\text{"}
+{"bbox": [880, 13, 933, 38], "token": "and"}
+{"bbox": [933, 7, 1128, 48], "token": "\\sigma_{\\lambda-1}(\\sigma_{\\lambda}^{-1}(\\kappa^{\\ell}_a))"}
+{"bbox": [1141, 18, 1160, 39], "token": "\\in"}
+{"bbox": [], "token": "V(\\K^\\ell)\n\nnorm_str:"}
