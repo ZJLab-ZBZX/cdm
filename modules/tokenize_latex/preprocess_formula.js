@@ -51,7 +51,7 @@ rl.on('line', function(line){
             //}
             var tree = katex.__parse(line, {displayMode: true});
             //var tree = katex.__parse("\\int_{\\phantom{a}b}^c f(x) \\, dx \\quad \\text{vs} \\quad \\int_{a}^b f(x) \\, dx", {displayMode: true});
-//            console.log('tree', tree)
+            //console.log('tree', tree)
             //console.log(tree[0]['body'][0][0]['body'][0])
             buildExpression(tree, {});            
             //for (var i = 0; i < 300; ++i) {
@@ -59,8 +59,13 @@ rl.on('line', function(line){
             //    norm_str = norm_str.replace(' S S S S S S', '$');
             //}
 			norm_str = norm_str.replace(/\\mathrel { \\mathrel { \\mathrlap { \\not } } = }/g, '\\neq');
-            norm_str = norm_str.replace(/\\varvdots/g, "\\vdots")
+            norm_str = norm_str.replace(/\\varvdots/g, "\\vdots");
 			norm_str = norm_str.replace(/@/g, '');
+			norm_str = norm_str.replace(/\\mkern -3mu/g, "\\!"); //mkern在文本模式会报错
+			norm_str = norm_str.replace(/\\mkern 3mu/g, "\\,");
+			norm_str = norm_str.replace(/\\mkern 5mu/g, "\\;");
+			norm_str = norm_str.replace(/\\mkern 18mu/g, "\\quad");
+			norm_str = norm_str.replace(/\\mkern 36mu/g, "\\qquad;")
 			//console.log(line);
 			//console.log('\n')
 			console.log(norm_str);
@@ -145,9 +150,18 @@ groupTypes.punct = function(group) {
     norm_str = norm_str + group.value + " ";
 };
 
+groupTypes.raisebox = function(group, options) {
+    //console.log(group);
+    //norm_str = norm_str + '\\raisebox { ' + group.dy.number + group.dy.unit + ' } { ',
+    buildGroup(group.body, options);
+    //norm_str = norm_str + "} ";
+};
+
+
 groupTypes.ordgroup = function(group, options) {
 	//console.log('here', group.body.length == 1 && group.body[0].type=='ordgroup')
 	//console.log(group.body);
+	//console.log(group);
 	if (group.body.length == 1 && group.body[0].type=='ordgroup') {
 		buildGroup(group.body[0], options);
 	} else {
@@ -172,19 +186,19 @@ groupTypes.ordgroup = function(group, options) {
 	}
 };
 
-groupTypes.text = function(group, options) {
-    
+groupTypes.text = function(group, options) {   
+    //console.log(group);
     norm_str = norm_str + group.font + " {"; //括号内不加空格
-
     buildExpression(group.body, options);
     norm_str = norm_str + "} ";
 };
 
 groupTypes.kern = function(group, options) {
+    //console.log(group);
 	if (group.dimension.unit == 'mu') {
-        norm_str = norm_str + "\\mkern " + group.dimension.number + 'mu ';
+        norm_str = norm_str + "\\mkern " + Math.round(group.dimension.number) + 'mu ';
 	} else if (group.dimension.unit == 'em') {
-		norm_str = norm_str + "\\mkern " + group.dimension.number * 18 + 'mu ';
+		norm_str = norm_str + "\\mkern " + Math.round(group.dimension.number * 18) + 'mu ';
 	}
 	else {
 		throw "Got unknown unit '" + group.dimension.unit + "'";
@@ -270,10 +284,10 @@ groupTypes.array = function(group, options) {
         if (row.some(cell => cell.body.length > 0)) { // orginal code: if (row[0].value.length > 0)
             out = row.map(function(cell) {
                 buildGroup(cell, options);
-                if (norm_str.length > 4 
-                    && norm_str.substring(norm_str.length-4, norm_str.length) == "{ } ") {
-                    norm_str = norm_str.substring(0, norm_str.length-4) ;
-                }
+                //if (norm_str.length > 4 
+                //    && norm_str.substring(norm_str.length-4, norm_str.length) == "{ } ") {
+                //    norm_str = norm_str.substring(0, norm_str.length-4) ;
+                //}
                 norm_str = norm_str + "& ";
             });
             norm_str = norm_str.substring(0, norm_str.length-2) + "\\\\ ";
@@ -315,7 +329,7 @@ groupTypes.accent = function(group, options) {
 };
 
 groupTypes.spacing = function(group) {
-//	console.log(group);
+	//console.log(group);
 	if (group.mode == 'text') {
 		norm_str = norm_str + group.text;
 	} else {
@@ -458,16 +472,17 @@ groupTypes.internal = function(group) {
 
 groupTypes.pmb = function(group) {
 	//console.log(group);
-	if (group.mclass == 'mord' | group.mclass == 'mrel') {
+	if ( true ) { //if (group.mclass == 'mord' | group.mclass == 'mrel') {
 		norm_str = norm_str + "\\pmb { ";
 		buildExpression(group.body);
-		norm_str = norm_str + "} "
+		norm_str = norm_str + "} ";
 	} else {
 		throw "pmb unknown mclass."
 	}
 };
 
 groupTypes.enclose = function(group, options) {
+    //console.log(group);
 	var label = group.label;
 	if (label == '\\fbox') {
 		label = '\\boxed'
@@ -475,8 +490,9 @@ groupTypes.enclose = function(group, options) {
 		throw "unknown enclose label"
 	}
 	//console.log(group);
-    norm_str = norm_str + label + " ";
+    norm_str = norm_str + label + " { ";
     buildGroup(group.body, options);
+    norm_str = norm_str + "} ";
 };
 
 groupTypes.middle = function(group, options) {
@@ -517,14 +533,29 @@ groupTypes.delimsizing = function(group) {
 };
 
 groupTypes.styling = function(group, options) {
-	//console.log(group);
+    //console.log(group.body[0].body[0]);
+    //const original = norm_str;
     //norm_str = norm_str + " " + group.value.original + " ";
-    norm_str = norm_str + '\\' + group.style + 'style' + ' ';
-    buildExpression(group.body, options);
-
+    if (group.mode == 'math') {
+        norm_str = norm_str + '\\' + group.style + 'style ';
+        //norm_str = norm_str + ' ss';     	
+        buildExpression(group.body, options); 
+        //const growthPart = norm_str.slice(original.length);
+        //console.log(growthPart);
+        //console.log();
+        //console.log(norm_str);
+        //console.log();
+        //norm_str = norm_str + ' ee '; 
+    } else if (group.mode == 'text') {
+        buildExpression(group.body, options);  
+    }
+    else {
+        throw "unknown styling"
+        }    
 };
 
 groupTypes.sizing = function(group, options) {
+    //console.log(group);
     const font_sizes = [
         'tiny', 'scriptsize', 'scriptsize', 'footnotesize', 'small', 'normalsize', 
         'large', 'Large', 'LARGE', 'huge', 'Huge'
@@ -534,7 +565,7 @@ groupTypes.sizing = function(group, options) {
         buildExpression(group.value.value, options.withFont("mathrm"));
         norm_str = norm_str + "} ";
     } else {
-        norm_str = norm_str + " " + "\\" + font_sizes[group.size-1] + " ";
+        norm_str = norm_str + "\\" + font_sizes[group.size-1] + " ";
         buildExpression(group.body, options);
     }
 };
@@ -557,6 +588,13 @@ groupTypes.underline = function(group, options) {
     //norm_str = norm_str + "} ";
 
 
+};
+
+groupTypes.accentUnder = function(group, options) {
+    //console.log(group);
+    //console.log(group.base);
+	norm_str = norm_str + group.label;
+	buildGroup(group.base, options);
 };
 
 groupTypes.rule = function(group) {
@@ -596,12 +634,23 @@ groupTypes.hphantom = function(group, options, prev) {
 	buildGroup(group.body, options);
 };
 
-
 groupTypes.phantom = function(group, options, prev) {
     norm_str = norm_str + "\\phantom { ";
     buildExpression(group.body, options);
     norm_str = norm_str + "} ";
 
+};
+
+groupTypes.verb = function(group, options, prev) {
+    //console.log(group);
+    norm_str = norm_str + "\\verb!" + group.body + '!';
+};
+
+groupTypes.cr = function(group, options) {
+    //console.log(group);
+    if (group.newLine) {
+        norm_str = norm_str + '\\newline ';
+    };  
 };
 
 /**
